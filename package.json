@@ -1,0 +1,14 @@
+{
+  "name": "13checkprizect",
+  "version": "1.0.0",
+  "description": "Script para buscar cartas assinadas/alteradas da CardTrader",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "fetch": "node scripts/fetch-cards.mjs"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
