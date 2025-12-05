@@ -1,0 +1,44 @@
+name: Generate Cards JSON
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # roda 1x por dia às 03:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write   # 👈 ESSENCIAL PARA PERMITIR git push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v3
+
+      - name: 🟩 Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 📦 Install dependencies
+        run: npm install node-fetch@2
+
+      - name: 🔑 Load Bearer Token
+        env:
+          BEARER_TOKEN: ${{ secrets.BEARER_TOKEN }}
+        run: |
+          echo "TOKEN OK"
+
+      - name: 🔄 Run script
+        env:
+          BEARER_TOKEN: ${{ secrets.BEARER_TOKEN }}
+        run: node scripts/fetch-cards.mjs
+
+      - name: 💾 Commit cards.json
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add docs/cards.json
+          git commit -m "update cards.json" || echo "No changes"
+          git push
