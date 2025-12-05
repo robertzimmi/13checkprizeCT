@@ -1,20 +1,132 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 <head>
-  <meta charset="utf-8" />
-  <title>CardTrader Signed Cards</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+  <meta charset="UTF-8">
+  <title>CardTrader Alerts</title>
+
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Tailwind -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- Ícones -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+
+  <style>
+    body {
+      background: #0f172a;
+      color: #e2e8f0;
+    }
+    .card-bg {
+      background: #1e293b;
+      border: 1px solid #334155;
+    }
+    .price-badge {
+      background: #ef4444;
+      padding: 4px 10px;
+      border-radius: 6px;
+    }
+    .target-ok {
+      background: #22c55e;
+    }
+  </style>
 </head>
+<body class="min-h-screen">
 
-<body class="bg-dark text-white">
-  <div class="container py-4">
-    <h1 class="mb-4">Signed / Altered Cards</h1>
+  <!-- Header -->
+  <div class="container mt-4 d-flex justify-content-between align-items-center">
+    <h1 class="text-3xl font-bold">📉 Cartas Abaixo do Alvo</h1>
 
-    <input id="search" class="form-control mb-3" placeholder="Buscar...">
-
-    <div id="grid" class="row g-3"></div>
+    <!-- Botão ? -->
+    <button
+      class="btn btn-outline-light"
+      data-bs-toggle="modal"
+      data-bs-target="#targetsModal"
+    >
+      <i class="bi bi-question-lg"></i>
+    </button>
   </div>
 
-  <script src="app.js"></script>
+  <!-- Área de cards -->
+  <div class="container mt-4">
+    <div id="cardsContainer" class="row g-4"></div>
+  </div>
+
+  <!-- Modal com lista de preços-alvo -->
+  <div class="modal fade" id="targetsModal" tabindex="-1">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+      <div class="modal-content card-bg text-light p-4">
+        <h3 class="mb-3">Lista de Preços-Alvo</h3>
+        <table class="table table-dark table-striped">
+          <thead>
+            <tr>
+              <th>Carta</th>
+              <th>Preço Alvo (€)</th>
+            </tr>
+          </thead>
+          <tbody id="targetsTable"></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+  <script>
+    async function loadData() {
+      const cardsRes = await fetch("cards.json");
+      const cards = await cardsRes.json();
+
+      const targetsRes = await fetch("price_targets.json");
+      const targets = await targetsRes.json();
+
+      const container = document.getElementById("cardsContainer");
+      const targetsTable = document.getElementById("targetsTable");
+
+      // 🔹 Preencher modal com lista de preços-alvo
+      Object.entries(targets).forEach(([name, price]) => {
+        const row = `
+          <tr>
+            <td>${name}</td>
+            <td>€ ${price}</td>
+          </tr>`;
+        targetsTable.innerHTML += row;
+      });
+
+      // 🔹 Filtrar cartas abaixo do preço-alvo
+      const filtered = cards.filter(card =>
+        targets[card.name] && card.price < targets[card.name]
+      );
+
+      // 🔹 Renderizar cards
+      filtered.forEach(card => {
+        const limit = targets[card.name];
+
+        const html = `
+          <div class="col-12 col-md-6 col-lg-4">
+            <div class="card card-bg p-3 shadow-lg rounded-3">
+              <h4 class="text-lg font-bold mb-2">${card.name}</h4>
+              
+              <p class="mb-1">
+                <span class="price-badge">€ ${card.price}</span>
+                <span class="badge target-ok ms-2">Target: € ${limit}</span>
+              </p>
+
+              <p class="text-sm opacity-75">Vendedor: ${card.seller || "N/A"}</p>
+              <a class="btn btn-warning w-100 mt-2" href="${card.url}" target="_blank">
+                Ver na CardTrader
+              </a>
+            </div>
+          </div>`;
+        
+        container.innerHTML += html;
+      });
+    }
+
+    loadData();
+  </script>
+
 </body>
 </html>
