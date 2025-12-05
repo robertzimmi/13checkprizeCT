@@ -1,69 +1,64 @@
 import fs from "fs";
 import fetch from "node-fetch";
 
+const TOKEN = process.env.BEARER_TOKEN;
+
+const HEADERS = {
+  Authorization: `Bearer ${TOKEN}`,
+  Accept: "application/json",
+};
+
 const expansions = JSON.parse(
   fs.readFileSync("./data/mock_expansions.json", "utf8")
 );
 
-const API = "https://api.cardtrader.com/api/v2/marketplace/products?expansion_id=";
-const TOKEN = process.env.BEARER_TOKEN;
+const API = "https://api.cardtrader.com/api/v2";
 
-if (!TOKEN) {
-  console.error("❌ ERRO: BEARER_TOKEN não encontrado!");
-  process.exit(1);
-}
+async function fetchProducts(expansionId) {
+  const url = `${API}/marketplace/products?expansion_id=${expansionId}&per_page=200`;
 
-let allCards = [];
-
-async function fetchExpansion(id) {
-  try {
-    const res = await fetch(API + id, {
-      headers: {
-        Authorization: `Bearer ${TOKEN}`,
-        "Content-Type": "application/json"
-      }
-    });
-
-    if (!res.ok) {
-      console.log(`❌ Erro ao buscar expansão ${id}: HTTP ${res.status}`);
-      return [];
-    }
-
-    const data = await res.json();
-
-    // Garante que pegamos SOMENTE o array de produtos
-    const products = data.products || [];
-
-    const filtered = products.filter(card =>
-      card?.properties_hash?.signed === true ||
-      card?.properties_hash?.altered === true ||
-      card?.properties_hash?.misprint === true
-    );
-
-    return filtered;
-
-  } catch (err) {
-    console.log("❌ Erro na requisição:", err);
+  const res = await fetch(url, { headers: HEADERS });
+  if (!res.ok) {
+    console.log("Erro ao buscar expansão:", expansionId);
     return [];
   }
+
+  const data = await res.json();
+
+  // API retorna objeto com várias listas → juntar tudo
+  return Object.values(data).flat();
 }
 
-async function main() {
-  console.log("🔄 Buscando cartas na CardTrader...\n");
+async function run() {
+  console.log("🔄 Buscando cartas + preços na CardTrader...");
+
+  let allCards = [];
 
   for (const exp of expansions) {
-    const cards = await fetchExpansion(exp.id);
-    console.log(`✔ ${exp.code} → ${cards.length} cartas (signed/altered/misprint)`);
+    console.log(`📦 ${exp.code}...`);
 
-    allCards.push(...cards);
+    const products = await fetchProducts(exp.id);
 
-    await new Promise(r => setTimeout(r, 500)); // evitar rate limit
+    const cleaned = products.map((p) => ({
+      name: p.name,
+      product_id: p.id,
+      expansion: exp.code,
+      min_price: p?.price_data?.min_price ?? null,
+      currency: p?.price_data?.currency ?? "EUR",
+      image: p.images?.[0] ?? null,
+    }));
+
+    console.log(`✔ ${exp.code} → ${cleaned.length} cartas`);
+
+    allCards.push(...cleaned);
+
+    await new Promise((r) => setTimeout(r, 300)); // anti-rate limit
   }
 
-  console.log(`\n📦 Total final: ${allCards.length} cartas`);
-
+  console.log(`\n📊 Total: ${allCards.length} cartas coletadas.`);
   fs.writeFileSync("./docs/cards.json", JSON.stringify(allCards, null, 2));
-  console.log("💾 cards.json atualizado em /docs/");
+
+  console.log("💾 cards.json atualizado!");
 }
 
-main();
+run();
