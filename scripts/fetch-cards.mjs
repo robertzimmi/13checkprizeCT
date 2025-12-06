@@ -25,16 +25,16 @@ const BEARER_TOKEN = process.env.BEARER_TOKEN;
 const BASE_URL = "https://api.cardtrader.com/api/v2";
 const EXPANSION_URL = `${BASE_URL}/marketplace/products?expansion_id=`;
 
-// Pegar cotação do Euro
+// Pegar cotação do Euro usando Frankfurter
 async function fetchEuroRate() {
   try {
-    const res = await fetch("https://api.exchangerate.host/latest?base=EUR&symbols=BRL");
+    const res = await fetch("https://api.frankfurter.app/latest?from=EUR&to=BRL");
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
-    return parseFloat(data.rates.BRL) || 6.2;
+    return parseFloat(data.rates.BRL) || 6.2; // fallback manual
   } catch (err) {
     console.error("Erro ao buscar cotação do Euro:", err.message);
-    return 5.3; // fallback manual
+    return 6.2; // fallback manual
   }
 }
 
@@ -68,7 +68,7 @@ async function fetchData() {
               // Já está em reais, remove R$ e vírgulas de milhar
               let cleaned = priceOriginalStr.replace(/[R$]/g, "").trim();
               cleaned = cleaned.replace(/,(\d{3})/g, "$1"); // "2,200.03" -> "2200.03"
-              priceBRL = parseFloat(cleaned);
+              priceBRL = parseFloat(cleaned.replace(",", ".")); // vírgula decimal para ponto
             } else {
               // Em $ ou €, multiplica pelo euroRate
               const numericPrice = parseFloat(priceOriginalStr.replace(/[^0-9.]/g, ""));
