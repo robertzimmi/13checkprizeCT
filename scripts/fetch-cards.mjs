@@ -25,7 +25,7 @@ const BEARER_TOKEN = process.env.BEARER_TOKEN;
 const BASE_URL = "https://api.cardtrader.com/api/v2";
 const EXPANSION_URL = `${BASE_URL}/marketplace/products?expansion_id=`;
 
-// Função para pegar cotação do Euro
+// Pegar cotação do Euro
 async function fetchEuroRate() {
   try {
     const res = await fetch("https://api.exchangerate.host/latest?base=EUR&symbols=BRL");
@@ -37,17 +37,14 @@ async function fetchEuroRate() {
   }
 }
 
-// Converte preço em euro para BRL
-function convertEuroToBRL(price, euroRate) {
-  if (!price) return null;
+// Converte preço para BRL: remove vírgula de milhar e multiplica pelo euro
+function convertPriceToBRL(priceStr, euroRate) {
+  if (!priceStr) return null;
 
-  // Remove símbolo de euro e espaços
-  let valueStr = price.replace(/[€\s]/g, "");
+  // Remove vírgula de milhar e espaços
+  let cleaned = priceStr.replace(/,/g, "").replace(/\s/g, "");
 
-  // Remove separador de milhar (vírgula) e mantém decimal com ponto
-  valueStr = valueStr.replace(/,/g, "");
-
-  let value = parseFloat(valueStr);
+  let value = parseFloat(cleaned);
   if (isNaN(value)) return null;
 
   return parseFloat((value * euroRate).toFixed(2));
@@ -81,8 +78,8 @@ async function fetchData() {
             name: c.name_en,
             price_target: targetsObj[targetName],
             expansion: expansion.name,
-            price_original: c.price.formatted,                 // preço original da API
-            price_brl: convertEuroToBRL(c.price.formatted, euroRate), // convertido para BRL
+            price_original: c.price.formatted,                      // original da API
+            price_brl: convertPriceToBRL(c.price.formatted, euroRate), // convertido para BRL
             quantity: c.quantity
           })));
           console.log(`- ${targetName} → FOUND (${matches.length})`);
@@ -91,7 +88,7 @@ async function fetchData() {
         }
       }
 
-      await new Promise(r => setTimeout(r, 500)); // delay para não bater rate limit
+      await new Promise(r => setTimeout(r, 500));
     } catch (err) {
       console.error(`Erro na expansão ${expansion.code}:`, err.message);
     }
