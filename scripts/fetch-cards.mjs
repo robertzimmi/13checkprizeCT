@@ -41,22 +41,28 @@ async function fetchEuroRate() {
 function convertPriceToBRL(priceStr, euroRate) {
   if (!priceStr) return null;
 
+  // Detecta moeda
   let currency = priceStr.startsWith("R$") ? "R$" :
                  priceStr.startsWith("€") ? "€" : "$";
 
-  // Normaliza string
-  let value = parseFloat(
-    priceStr
-      .replace(/[R\$€]/g, "")
-      .replace(/\./g, "") // remove ponto de milhar
-      .replace(",", ".") // vírgula decimal
-  );
+  // Remove símbolos e espaços
+  let valueStr = priceStr.replace(/[R\$€\s]/g, "");
 
+  // Normaliza milhar e decimal
+  if (valueStr.includes(",")) {
+    // exemplo: "1.073,08" -> "1073.08"
+    valueStr = valueStr.replace(/\./g, "").replace(",", ".");
+  } else {
+    // exemplo: "157.15" -> "157.15"
+    valueStr = valueStr.replace(/\./g, "");
+  }
+
+  let value = parseFloat(valueStr);
   if (isNaN(value)) return null;
 
-  if (currency === "$") value *= 5;    // cotação fixa do dólar
-  if (currency === "€") value *= euroRate; // cotação do euro
-  // se R$, mantém o valor
+  // Converte se não for R$
+  if (currency === "$") value *= 5;       // dólar -> real
+  if (currency === "€") value *= euroRate; // euro -> real
 
   return parseFloat(value.toFixed(2));
 }
