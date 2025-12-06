@@ -31,27 +31,11 @@ async function fetchEuroRate() {
     const res = await fetch("https://api.exchangerate.host/latest?base=EUR&symbols=BRL");
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
-
-    if (!data || !data.rates || !data.rates.BRL) {
-      throw new Error("BRL rate não encontrado na resposta da API");
-    }
-
-    return parseFloat(data.rates.BRL);
+    return parseFloat(data.rates.BRL) || 5.3; // fallback manual
   } catch (err) {
     console.error("Erro ao buscar cotação do Euro:", err.message);
     return 5.3; // fallback manual
   }
-}
-
-// Converte preço para BRL: remove vírgula de milhar e multiplica pelo euro
-function convertPriceToBRL(priceStr, euroRate) {
-  if (!priceStr) return null;
-
-  let cleaned = priceStr.replace(/,/g, "").replace(/\s/g, "");
-  let value = parseFloat(cleaned);
-  if (isNaN(value)) return null;
-
-  return parseFloat((value * euroRate).toFixed(2));
 }
 
 // Função principal
@@ -77,9 +61,18 @@ async function fetchData() {
 
         if (matches.length) {
           foundCards.push(...matches.map(c => {
-            const priceOriginal = c.price.formatted.replace(/[^0-9.]/g, "").trim();
-            const numericPrice = parseFloat(priceOriginal);
-            const priceBRL = !isNaN(numericPrice) ? parseFloat((numericPrice * euroRate).toFixed(2)) : 0;
+            let priceOriginalStr = c.price.formatted.replace(/\s/g, "").trim();
+            let numericPrice = parseFloat(priceOriginalStr.replace(/[^0-9.]/g, ""));
+
+            let priceBRL;
+            if (priceOriginalStr.includes("R$")) {
+              // já está em BRL, não multiplica
+              priceBRL = numericPrice;
+            } else {
+              // assume Euro, multiplica pelo euroRate
+              priceBRL = !isNaN(numericPrice) ? parseFloat((numericPrice * euroRate).toFixed(2)) : 0;
+            }
+
             const priceTargetBRL = parseFloat((targetsObj[targetName] * euroRate).toFixed(2));
 
             return {
@@ -87,7 +80,7 @@ async function fetchData() {
               price_target: targetsObj[targetName],
               price_target_brl: priceTargetBRL,
               expansion: expansion.name,
-              price_original: priceOriginal,
+              price_original: priceOriginalStr,
               price_brl: priceBRL,
               quantity: c.quantity
             };
