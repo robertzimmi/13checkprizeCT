@@ -29,13 +29,21 @@ const EXPANSION_URL = `${BASE_URL}/marketplace/products?expansion_id=`;
 async function fetchEuroRate() {
   try {
     const res = await fetch("https://api.exchangerate.host/latest?base=EUR&symbols=BRL");
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
-    return data.rates.BRL || 0;
+
+    // Confirma se existe
+    if (!data || !data.rates || !data.rates.BRL) {
+      throw new Error("BRL rate não encontrado na resposta da API");
+    }
+
+    return parseFloat(data.rates.BRL);
   } catch (err) {
     console.error("Erro ao buscar cotação do Euro:", err.message);
-    return 0;
+    return 5.3; // fallback manual caso dê erro (você pode ajustar para o valor atual)
   }
 }
+
 
 // Converte preço para BRL: remove vírgula de milhar e multiplica pelo euro
 function convertPriceToBRL(priceStr, euroRate) {
