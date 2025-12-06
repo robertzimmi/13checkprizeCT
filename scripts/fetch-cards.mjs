@@ -7,7 +7,7 @@ const PRICE_FILE = path.join("data", "price_targets.json");
 const OUTPUT_FILE = path.join("docs", "cards.json");
 const MOCK_EXPANSIONS_FILE = path.join("data", "mock_expansions.json");
 
-// Corrigir texto para comparação
+// Normaliza texto para comparação
 function normalize(str) {
   return str
     .toLowerCase()
@@ -25,9 +25,6 @@ const BEARER_TOKEN = process.env.BEARER_TOKEN;
 const BASE_URL = "https://api.cardtrader.com/api/v2";
 const EXPANSION_URL = `${BASE_URL}/marketplace/products?expansion_id=`;
 
-// Resultado
-let foundCards = [];
-
 // Função para pegar cotação do Euro
 async function fetchEuroRate() {
   try {
@@ -44,6 +41,8 @@ async function fetchEuroRate() {
 async function fetchData() {
   const euroRate = await fetchEuroRate();
   console.log("💶 Euro atual:", euroRate);
+
+  const foundCards = [];
 
   for (const expansion of MOCK_EXPANSIONS) {
     console.log(`\n📦 Expansion: ${expansion.code}`);
@@ -75,7 +74,7 @@ async function fetchData() {
         }
       }
 
-      await new Promise(r => setTimeout(r, 500));
+      await new Promise(r => setTimeout(r, 500)); // delay para não bater rate limit
     } catch (err) {
       console.error(`Erro na expansão ${expansion.code}:`, err.message);
     }
@@ -98,9 +97,10 @@ async function fetchData() {
     });
   }
 
+  // JSON final
   const finalJSON = {
     cards: Object.values(groupedCards),
-    datetime_utc_minus3: new Date(new Date().getTime() - 3*60*60*1000).toISOString(),
+    datetime_utc_minus3: new Date(Date.now() - 3*60*60*1000).toISOString(),
     euro_rate: euroRate
   };
 
