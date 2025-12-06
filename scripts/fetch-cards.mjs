@@ -37,6 +37,30 @@ async function fetchEuroRate() {
   }
 }
 
+// Converte preço para número em R$
+function convertPriceToBRL(priceStr, euroRate) {
+  if (!priceStr) return null;
+
+  let currency = priceStr.startsWith("R$") ? "R$" :
+                 priceStr.startsWith("€") ? "€" : "$";
+
+  // Normaliza string
+  let value = parseFloat(
+    priceStr
+      .replace(/[R\$€]/g, "")
+      .replace(/\./g, "") // remove ponto de milhar
+      .replace(",", ".") // vírgula decimal
+  );
+
+  if (isNaN(value)) return null;
+
+  if (currency === "$") value *= 5;    // cotação fixa do dólar
+  if (currency === "€") value *= euroRate; // cotação do euro
+  // se R$, mantém o valor
+
+  return parseFloat(value.toFixed(2));
+}
+
 // Função principal
 async function fetchData() {
   const euroRate = await fetchEuroRate();
@@ -65,7 +89,7 @@ async function fetchData() {
             name: c.name_en,
             price_target: targetsObj[targetName],
             expansion: expansion.name,
-            price: c.price.formatted,
+            price: convertPriceToBRL(c.price.formatted, euroRate),
             quantity: c.quantity
           })));
           console.log(`- ${targetName} → FOUND (${matches.length})`);
