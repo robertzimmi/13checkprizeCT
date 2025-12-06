@@ -1,17 +1,18 @@
 import fs from "fs";
 import fetch from "node-fetch";
 
-// 🔹 Carrega expansões
+// 🔹 Expansões
 const expansions = JSON.parse(
   fs.readFileSync("./data/mock_expansions.json", "utf8")
 );
 
-// 🔹 Carrega lista de cartas alvo
+// 🔹 Lista de limites de preço desejados
 const priceTargets = JSON.parse(
   fs.readFileSync("./data/price_targets.json", "utf8")
 );
 
-const targetNames = Object.keys(priceTargets).map(name => name.toLowerCase());
+// Nomes das cartas a buscar
+const targetNames = Object.keys(priceTargets);
 
 // 🔹 API CardTrader
 const API = "https://api.cardtrader.com/api/v2/marketplace/products?expansion_id=";
@@ -24,9 +25,9 @@ if (!TOKEN) {
 
 let allCards = [];
 
-async function fetchExpansion(id) {
+async function fetchExpansion(exp) {
   try {
-    const res = await fetch(API + id, {
+    const res = await fetch(API + exp.id, {
       headers: {
         Authorization: `Bearer ${TOKEN}`,
         "Content-Type": "application/json"
@@ -34,17 +35,36 @@ async function fetchExpansion(id) {
     });
 
     if (!res.ok) {
-      console.log(`❌ Erro ao buscar expansão ${id}: HTTP ${res.status}`);
+      console.log(`❌ Erro ao buscar expansão ${exp.code}: HTTP ${res.status}`);
       return [];
     }
 
     const data = await res.json();
+
+    // 🔹 A API atual devolve SOMENTE products
     const products = data.products || [];
 
-    // 🔥 FILTRA SOMENTE AS CARTAS NO price_targets.json
-    const filtered = products.filter(card => {
-      const name = card?.name?.toLowerCase();
+    // 🔥 Aqui está o segredo: igual ao seu sistema antigo
+    const filtered = products.filter(c => {
+
+      // A API atual usa "name", mas seu sistema antigo usava "name_en"
+      const name = c.name_en || c.name || "";
+
       return targetNames.includes(name);
+    })
+    .map(c => {
+      const name = c.name_en || c.name || "";
+      const limit = priceTargets[name];
+
+      return {
+        expansion: exp.code,
+        name: name,
+        priceEuro: c.price?.cents ? c.price.cents / 100 : null,
+        condition: c.properties_hash?.condition || "N/A",
+        language: c.properties_hash?.fab_language || "N/A",
+        signed: c.properties_hash?.signed === true ? "Sim" : "Não",
+        limit: limit,
+      };
     });
 
     return filtered;
@@ -59,16 +79,15 @@ async function main() {
   console.log("🔄 Buscando cartas filtradas pelo price_targets.json...\n");
 
   for (const exp of expansions) {
-    const filteredCards = await fetchExpansion(exp.id);
+    const cards = await fetchExpansion(exp);
 
-    if (filteredCards.length > 0) {
-      console.log(`✔ ${exp.code} → ${filteredCards.length} cartas encontradas`);
+    if (cards.length > 0) {
+      console.log(`✔ ${exp.code} → ${cards.length} cartas encontradas`);
     }
 
-    allCards.push(...filteredCards);
+    allCards.push(...cards);
 
-    // Pausa para evitar rate limit
-    await new Promise(r => setTimeout(r, 400));
+    await new Promise(r => setTimeout(r, 400)); // evitar rate limit
   }
 
   console.log(`\n📦 Total final filtrado: ${allCards.length} cartas`);
