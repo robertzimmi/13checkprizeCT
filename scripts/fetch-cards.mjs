@@ -6,15 +6,14 @@ const expansions = JSON.parse(
   fs.readFileSync("./data/mock_expansions.json", "utf8")
 );
 
-// 🔹 Lista de limites de preço desejados
+// 🔹 Lista de cartas que realmente queremos
 const priceTargets = JSON.parse(
   fs.readFileSync("./data/price_targets.json", "utf8")
 );
 
-// Nomes das cartas a buscar
-const targetNames = Object.keys(priceTargets);
+const targetNames = Object.keys(priceTargets); // sem lowercase!!!
 
-// 🔹 API CardTrader
+// 🔹 API
 const API = "https://api.cardtrader.com/api/v2/marketplace/products?expansion_id=";
 const TOKEN = process.env.BEARER_TOKEN;
 
@@ -23,11 +22,24 @@ if (!TOKEN) {
   process.exit(1);
 }
 
-let allCards = [];
+let finalCards = [];
 
-async function fetchExpansion(exp) {
+// 🔍 Função para mostrar log de debug por expansão
+function logExpansionResults(expansionName, foundNames) {
+  console.log(`\n📦 Expansion: ${expansionName}`);
+
+  for (const cardName of targetNames) {
+    if (foundNames.includes(cardName)) {
+      console.log(` - ${cardName} → FOUND`);
+    } else {
+      console.log(` - ${cardName} → NOT FOUND`);
+    }
+  }
+}
+
+async function fetchExpansion(id, expansionName) {
   try {
-    const res = await fetch(API + exp.id, {
+    const res = await fetch(API + id, {
       headers: {
         Authorization: `Bearer ${TOKEN}`,
         "Content-Type": "application/json"
@@ -35,37 +47,23 @@ async function fetchExpansion(exp) {
     });
 
     if (!res.ok) {
-      console.log(`❌ Erro ao buscar expansão ${exp.code}: HTTP ${res.status}`);
+      console.log(`❌ Erro ao buscar expansão ${id}: HTTP ${res.status}`);
       return [];
     }
 
     const data = await res.json();
-
-    // 🔹 A API atual devolve SOMENTE products
     const products = data.products || [];
 
-    // 🔥 Aqui está o segredo: igual ao seu sistema antigo
-    const filtered = products.filter(c => {
+    // Extrai somente os nomes EN
+    const foundNames = products.map(p => p.name_en ?? p.name);
 
-      // A API atual usa "name", mas seu sistema antigo usava "name_en"
-      const name = c.name_en || c.name || "";
+    // ⬇️ LOG de debug por expansão
+    logExpansionResults(expansionName, foundNames);
 
-      return targetNames.includes(name);
-    })
-    .map(c => {
-      const name = c.name_en || c.name || "";
-      const limit = priceTargets[name];
-
-      return {
-        expansion: exp.code,
-        name: name,
-        priceEuro: c.price?.cents ? c.price.cents / 100 : null,
-        condition: c.properties_hash?.condition || "N/A",
-        language: c.properties_hash?.fab_language || "N/A",
-        signed: c.properties_hash?.signed === true ? "Sim" : "Não",
-        limit: limit,
-      };
-    });
+    // Filtra APENAS cartas que estão no price_targets
+    const filtered = products.filter(p =>
+      targetNames.includes(p.name_en ?? p.name)
+    );
 
     return filtered;
 
@@ -79,20 +77,15 @@ async function main() {
   console.log("🔄 Buscando cartas filtradas pelo price_targets.json...\n");
 
   for (const exp of expansions) {
-    const cards = await fetchExpansion(exp);
+    const cards = await fetchExpansion(exp.id, exp.code);
+    finalCards.push(...cards);
 
-    if (cards.length > 0) {
-      console.log(`✔ ${exp.code} → ${cards.length} cartas encontradas`);
-    }
-
-    allCards.push(...cards);
-
-    await new Promise(r => setTimeout(r, 400)); // evitar rate limit
+    await new Promise(r => setTimeout(r, 300));
   }
 
-  console.log(`\n📦 Total final filtrado: ${allCards.length} cartas`);
+  console.log(`\n📦 Total final filtrado: ${finalCards.length} cartas`);
 
-  fs.writeFileSync("./docs/cards.json", JSON.stringify(allCards, null, 2));
+  fs.writeFileSync("./docs/cards.json", JSON.stringify(finalCards, null, 2));
   console.log("💾 Criado cards.json em /docs/");
 }
 
