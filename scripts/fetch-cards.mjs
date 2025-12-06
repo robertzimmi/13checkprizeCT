@@ -38,34 +38,35 @@ async function fetchEuroRate() {
 }
 
 // Converte preço para número em R$
-function convertPriceToBRL(priceStr, euroRate) {
-  if (!priceStr) return null;
+function convertPriceToBRL(price, euroRate) {
+  if (price == null) return null;
 
-  // Detecta moeda
-  let currency = priceStr.startsWith("R$") ? "R$" :
-                 priceStr.startsWith("€") ? "€" : "$";
+  // Caso seja número (centavos)
+  if (typeof price === "number") {
+    return parseFloat((price / 100).toFixed(2));
+  }
 
-  // Remove símbolos e espaços
-  let valueStr = priceStr.replace(/[R\$€\s]/g, "");
+  // Caso seja string
+  let currency = price.startsWith("R$") ? "R$" :
+                 price.startsWith("€") ? "€" : "$";
 
-  // Normaliza milhar e decimal
+  let valueStr = price.replace(/[R\$€\s]/g, "");
+
   if (valueStr.includes(",")) {
-    // exemplo: "1.073,08" -> "1073.08"
     valueStr = valueStr.replace(/\./g, "").replace(",", ".");
   } else {
-    // exemplo: "157.15" -> "157.15"
     valueStr = valueStr.replace(/\./g, "");
   }
 
   let value = parseFloat(valueStr);
   if (isNaN(value)) return null;
 
-  // Converte se não for R$
-  if (currency === "$") value *= 5;       // dólar -> real
-  if (currency === "€") value *= euroRate; // euro -> real
+  if (currency === "$") value *= 5;
+  if (currency === "€") value *= euroRate;
 
   return parseFloat(value.toFixed(2));
 }
+
 
 // Função principal
 async function fetchData() {
