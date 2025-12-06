@@ -32,7 +32,6 @@ async function fetchEuroRate() {
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
 
-    // Confirma se existe
     if (!data || !data.rates || !data.rates.BRL) {
       throw new Error("BRL rate não encontrado na resposta da API");
     }
@@ -40,10 +39,9 @@ async function fetchEuroRate() {
     return parseFloat(data.rates.BRL);
   } catch (err) {
     console.error("Erro ao buscar cotação do Euro:", err.message);
-    return 5.3; // fallback manual caso dê erro (você pode ajustar para o valor atual)
+    return 5.3; // fallback manual
   }
 }
-
 
 // Converte preço para BRL: remove vírgula de milhar e multiplica pelo euro
 function convertPriceToBRL(priceStr, euroRate) {
@@ -64,8 +62,6 @@ async function fetchData() {
   const foundCards = [];
 
   for (const expansion of MOCK_EXPANSIONS) {
-    console.log(`\n📦 Expansion: ${expansion.code}`);
-
     try {
       const response = await fetch(`${EXPANSION_URL}${expansion.id}`, {
         headers: { Authorization: `Bearer ${BEARER_TOKEN}` },
@@ -81,23 +77,21 @@ async function fetchData() {
 
         if (matches.length) {
           foundCards.push(...matches.map(c => {
-            // Limpa o valor original e garante número
             const priceOriginal = c.price.formatted.replace(/[^0-9.]/g, "").trim();
             const numericPrice = parseFloat(priceOriginal);
             const priceBRL = !isNaN(numericPrice) ? parseFloat((numericPrice * euroRate).toFixed(2)) : 0;
+            const priceTargetBRL = parseFloat((targetsObj[targetName] * euroRate).toFixed(2));
 
             return {
               name: c.name_en,
               price_target: targetsObj[targetName],
+              price_target_brl: priceTargetBRL,
               expansion: expansion.name,
               price_original: priceOriginal,
               price_brl: priceBRL,
               quantity: c.quantity
             };
           }));
-          console.log(`- ${targetName} → FOUND (${matches.length})`);
-        } else {
-          console.log(`- ${targetName} → NOT FOUND`);
         }
       }
 
@@ -114,6 +108,7 @@ async function fetchData() {
       groupedCards[card.name] = {
         name: card.name,
         price_target: card.price_target,
+        price_target_brl: card.price_target_brl,
         records: []
       };
     }
@@ -133,7 +128,7 @@ async function fetchData() {
   };
 
   fs.writeFileSync(OUTPUT_FILE, JSON.stringify(finalJSON, null, 2));
-  console.log(`\n💾 Criado ${OUTPUT_FILE}, total encontrado: ${foundCards.length}\n`);
+  console.log(`💾 Criado ${OUTPUT_FILE}, total encontrado: ${foundCards.length}`);
 }
 
 // Rodar
