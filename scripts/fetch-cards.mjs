@@ -1,92 +1,69 @@
 import fs from "fs";
-import fetch from "node-fetch";
+import path from "path";
 
-const TOKEN = process.env.BEARER_TOKEN;
-const API = "https://api.cardtrader.com/api/v2/marketplace/products?expansion_id=";
+const PRICE_FILE = path.resolve("price_targets.json");
+const OUT_FILE = path.resolve("docs/cards.json");
 
-if (!TOKEN) {
-  console.error("❌ BEARER_TOKEN não encontrado!");
-  process.exit(1);
+// Carrega o price_targets.json como OBJETO
+const priceTargets = JSON.parse(fs.readFileSync(PRICE_FILE, "utf8"));
+
+// Como é OBJETO → pega só os nomes
+const TARGET_NAMES = Object.keys(priceTargets).map(name => name.toLowerCase());
+
+console.log("🔍 Nomes carregados do price_targets.json:");
+console.log(TARGET_NAMES);
+
+// URL base da API
+const API_URL = "https://api.cardtrader.com/api/v2/public/cards";
+
+// Função auxiliar para fetch (sem node-fetch usando built-in fetch no Node 20+)
+async function fetchJSON(url) {
+  const r = await fetch(url);
+  return r.json();
 }
 
-const expansions = JSON.parse(
-  fs.readFileSync("./data/mock_expansions.json", "utf8")
-);
+console.log("🔄 Buscando cartas na API...");
 
-const priceTargets = JSON.parse(
-  fs.readFileSync("./data/price_targets.json", "utf8")
-);
+// Busca todas as cartas da API (paginando automaticamente)
+async function fetchAllCards() {
+  let page = 1;
+  let done = false;
+  let all = [];
 
-// Lista de nomes a procurar
-const TARGET_NAMES = priceTargets.map(c => c.name.toLowerCase());
+  while (!done) {
+    const url = `${API_URL}?page=${page}`;
+    const data = await fetchJSON(url);
 
-let foundCards = [];
-
-async function fetchExpansion(exp) {
-  try {
-    const res = await fetch(API + exp.id, {
-      headers: {
-        Authorization: `Bearer ${TOKEN}`
-      }
-    });
-
-    if (!res.ok) {
-      console.log(`❌ Erro ao buscar ${exp.code}: HTTP ${res.status}`);
-      return [];
+    if (!data.cards || data.cards.length === 0) {
+      done = true;
+      break;
     }
 
-    const data = await res.json();
-
-    // Valores do objeto → arrays → flat
-    const cards = Object.values(data).flat();
-
-    return cards;
-
-  } catch (err) {
-    console.log("❌ Erro:", err);
-    return [];
-  }
-}
-
-function getCardName(card) {
-  return (
-    card?.blueprint?.name_en ||
-    card?.name_en ||
-    ""
-  );
-}
-
-async function main() {
-  console.log("🔄 Buscando cartas filtradas pelo price_targets.json...\n");
-
-  for (const exp of expansions) {
-    const cards = await fetchExpansion(exp);
-
-    console.log(`📦 Expansion: ${exp.code}`);
-
-    // Filtra apenas cartas que estão nos targets
-    for (const targetName of TARGET_NAMES) {
-      const matched = cards.filter(card => {
-        const nm = getCardName(card).toLowerCase();
-        return nm === targetName;
-      });
-
-      if (matched.length > 0) {
-        console.log(` - ${targetName} → FOUND (${matched.length})`);
-        foundCards.push(...matched);
-      } else {
-        console.log(` - ${targetName} → NOT FOUND`);
-      }
-    }
-
-    console.log();
-    await new Promise(r => setTimeout(r, 500));
+    all.push(...data.cards);
+    page++;
   }
 
-  console.log(`\n📦 Total final filtrado: ${foundCards.length} cartas`);
-
-  fs.writeFileSync("./docs/cards.json", JSON.stringify(foundCards, null, 2));
-  console.log("💾 Criado cards.json em /docs/");
+  return all;
 }
 
-main();
+const allCards = await fetchAllCards();
+
+console.log(`📦 Total bruto encontrado: ${allCards.length}`);
+
+// Filtra apenas o nome EXATO (sem filtrar por qualidade/status)
+const finalCards = allCards.filter(card =>
+  TARGET_NAMES.includes(card.name.toLowerCase())
+);
+
+console.log(`📦 Total final filtrado: ${finalCards.length} cartas\n`);
+
+console.log("📘 Relatório:");
+for (const name of TARGET_NAMES) {
+  const found = finalCards.some(c => c.name.toLowerCase() === name);
+  console.log(`- ${name}: ${found ? "FOUND ✔" : "NOT FOUND ❌"}`);
+}
+
+// Salva no docs/cards.json
+fs.writeFileSync(OUT_FILE, JSON.stringify(finalCards, null, 2), "utf8");
+
+console.log(`\n💾 Criado cards.json em /docs/`);
