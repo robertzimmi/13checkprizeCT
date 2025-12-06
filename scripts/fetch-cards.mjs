@@ -41,9 +41,7 @@ async function fetchEuroRate() {
 function convertPriceToBRL(priceStr, euroRate) {
   if (!priceStr) return null;
 
-  // Remove vírgula de milhar e espaços
   let cleaned = priceStr.replace(/,/g, "").replace(/\s/g, "");
-
   let value = parseFloat(cleaned);
   if (isNaN(value)) return null;
 
@@ -75,9 +73,10 @@ async function fetchData() {
 
         if (matches.length) {
           foundCards.push(...matches.map(c => {
-            // Limpa o valor original para euro sem máscara
-            const priceOriginal = c.price.formatted.replace(/[^0-9.]/g, ""); // remove qualquer símbolo ou espaço
-            const priceBRL = convertPriceToBRL(priceOriginal, euroRate);
+            // Limpa o valor original e garante número
+            const priceOriginal = c.price.formatted.replace(/[^0-9.]/g, "").trim();
+            const numericPrice = parseFloat(priceOriginal);
+            const priceBRL = !isNaN(numericPrice) ? parseFloat((numericPrice * euroRate).toFixed(2)) : 0;
 
             return {
               name: c.name_en,
