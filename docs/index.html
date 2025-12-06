@@ -10,9 +10,6 @@
   <!-- Tailwind -->
   <script src="https://cdn.tailwindcss.com"></script>
 
-  <!-- Ícones -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
-
   <style>
     body {
       background: #0f172a;
@@ -38,6 +35,7 @@
       padding: 4px 10px;
       border-radius: 6px;
       font-weight: bold;
+      margin-right: 6px;
     }
     .card-row {
       display: flex;
@@ -48,71 +46,12 @@
 </head>
 <body class="min-h-screen">
 
-  <!-- Header -->
-  <div class="container mt-4 d-flex justify-content-between align-items-center">
-    <h1 class="text-3xl font-bold">📦 Cartas Abaixo do Target</h1>
-  </div>
-
-  <!-- Área de cards -->
   <div class="container mt-4">
+    <h1 class="text-3xl font-bold mb-4">📦 Cartas Abaixo do Target</h1>
     <div id="cardsContainer" class="row g-4"></div>
   </div>
 
-  <!-- Bootstrap JS -->
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-
   <script>
-    const priceTargets = {
-      "Command and Conquer": 73,
-      "Enlightened Strike": 32,
-      "Mask of Momentum": 73,
-      "The Weakest Link": 32,
-      "Erase Face": 16,
-      "Censor": 9,
-      "Shelter from the Storm": 73,
-      "This round's on me": 5,
-      "Warmonger's Diplomacy": 25,
-      "Codex of Frailty": 30,
-      "Blood Splattered Vest": 49,
-      "Dragonscaler Flight Path": 49,
-      "Amnesia": 4.9,
-      "Fyendal's Spring Tunic": 129,
-      "Quickdodge Flexors": 129,
-      "Pain in the Backside": 16,
-      "Concealed Blade": 13,
-      "Throw Dagger": 8.4,
-      "Wax Off": 2.5,
-      "That All You Got?": 9,
-      "Snag": 8.4,
-      "Arcane Compliance": 6.5,
-      "Poison the Well": 5,
-      "Overcrowded": 6.5,
-      "Crown of Providence": 115,
-      "Dual Threat": 3.25,
-      "Cutting Retort": 1.7,
-      "Nasty Surprise": 1.7,
-      "Fearless Confrontation": 17,
-      "Knives Out": 1.7,
-      "Crown of Dominion": 114,
-      "Crown of Seeds": 16.23,
-      "Blood of the Dracai": 20,
-      "Arknight Shard": 160,
-      "Authority of Ataya": 170,
-      "Eye of Ophidia": 240,
-      "Deathmatch Arena": 110,
-      "Grandeur of Valahai": 110,
-      "Great Library of Solana": 160,
-      "Heart of Fyendal": 160,
-      "Korshem, Crossroad of Elements": 23,
-      "Light of Sol": 80,
-      "Master Cog": 45,
-      "Mistcloak Gully": 15,
-      "Plague Hive": 39,
-      "Riches of Trōpal-Dhani": 1,
-      "Schism of Chaos": 32,
-      "Will of Arcana": 47
-    };
-
     async function loadData() {
       try {
         const res = await fetch("cards.json");
@@ -120,10 +59,10 @@
 
         const container = document.getElementById("cardsContainer");
 
+        // Filtra apenas cartas cujo preço atual < price_target
         const filteredCards = cards.filter(card => {
           const priceNumber = parseFloat(card.price.replace("$",""));
-          const target = priceTargets[card.name];
-          return target && priceNumber < target;
+          return priceNumber < card.price_target;
         });
 
         if (!filteredCards.length) {
@@ -136,12 +75,11 @@
             <div class="col-12 col-md-6 col-lg-4">
               <div class="card-bg shadow-lg">
                 <div class="card-row">
-                  <span class="font-bold text-lg">${card.name}</span>
+                  <span class="font-bold text-lg">${card.name} (${card.quantity})</span>
                   <span class="text-sm opacity-75">${card.expansion}</span>
                   <span>
-                    <span class="price-current">${card.price}</span>
-                    /
-                    <span class="price-badge">$${priceTargets[card.name]}</span>
+                    <span class="price-current">${card.price}</span> /
+                    <span class="price-badge">$${card.price_target}</span>
                   </span>
                 </div>
               </div>
