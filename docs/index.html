@@ -27,25 +27,13 @@
       padding: 4px 10px;
       border-radius: 6px;
     }
-    .target-ok {
-      background: #22c55e;
-    }
   </style>
 </head>
 <body class="min-h-screen">
 
   <!-- Header -->
   <div class="container mt-4 d-flex justify-content-between align-items-center">
-    <h1 class="text-3xl font-bold">📉 Cartas Abaixo do Alvo</h1>
-
-    <!-- Botão ? -->
-    <button
-      class="btn btn-outline-light"
-      data-bs-toggle="modal"
-      data-bs-target="#targetsModal"
-    >
-      <i class="bi bi-question-lg"></i>
-    </button>
+    <h1 class="text-3xl font-bold">📦 Cartas Listadas</h1>
   </div>
 
   <!-- Área de cards -->
@@ -53,76 +41,41 @@
     <div id="cardsContainer" class="row g-4"></div>
   </div>
 
-  <!-- Modal com lista de preços-alvo -->
-  <div class="modal fade" id="targetsModal" tabindex="-1">
-    <div class="modal-dialog modal-lg modal-dialog-centered">
-      <div class="modal-content card-bg text-light p-4">
-        <h3 class="mb-3">Lista de Preços-Alvo</h3>
-        <table class="table table-dark table-striped">
-          <thead>
-            <tr>
-              <th>Carta</th>
-              <th>Preço Alvo (€)</th>
-            </tr>
-          </thead>
-          <tbody id="targetsTable"></tbody>
-        </table>
-      </div>
-    </div>
-  </div>
-
   <!-- Bootstrap JS -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 
   <script>
     async function loadData() {
-      const cardsRes = await fetch("cards.json");
-      const cards = await cardsRes.json();
+      try {
+        const cardsRes = await fetch("cards.json");
+        const cards = await cardsRes.json();
 
-      const targetsRes = await fetch("price_targets.json");
-      const targets = await targetsRes.json();
+        const container = document.getElementById("cardsContainer");
 
-      const container = document.getElementById("cardsContainer");
-      const targetsTable = document.getElementById("targetsTable");
+        if (!cards.length) {
+          container.innerHTML = `<p class="text-center w-100">Nenhum card encontrado.</p>`;
+          return;
+        }
 
-      // 🔹 Preencher modal com lista de preços-alvo
-      Object.entries(targets).forEach(([name, price]) => {
-        const row = `
-          <tr>
-            <td>${name}</td>
-            <td>€ ${price}</td>
-          </tr>`;
-        targetsTable.innerHTML += row;
-      });
-
-      // 🔹 Filtrar cartas abaixo do preço-alvo
-      const filtered = cards.filter(card =>
-        targets[card.name] && card.price < targets[card.name]
-      );
-
-      // 🔹 Renderizar cards
-      filtered.forEach(card => {
-        const limit = targets[card.name];
-
-        const html = `
-          <div class="col-12 col-md-6 col-lg-4">
-            <div class="card card-bg p-3 shadow-lg rounded-3">
-              <h4 class="text-lg font-bold mb-2">${card.name}</h4>
-              
-              <p class="mb-1">
-                <span class="price-badge">€ ${card.price}</span>
-                <span class="badge target-ok ms-2">Target: € ${limit}</span>
-              </p>
-
-              <p class="text-sm opacity-75">Vendedor: ${card.seller || "N/A"}</p>
-              <a class="btn btn-warning w-100 mt-2" href="${card.url}" target="_blank">
-                Ver na CardTrader
-              </a>
-            </div>
-          </div>`;
-        
-        container.innerHTML += html;
-      });
+        // Renderizar cards
+        cards.forEach(card => {
+          const html = `
+            <div class="col-12 col-md-6 col-lg-4">
+              <div class="card card-bg p-3 shadow-lg rounded-3">
+                <h4 class="text-lg font-bold mb-2">${card.name}</h4>
+                <p class="mb-1">
+                  <span class="price-badge">Target: € ${card.price_target}</span>
+                </p>
+                <p class="text-sm opacity-75">Set: ${card.set}</p>
+              </div>
+            </div>`;
+          
+          container.innerHTML += html;
+        });
+      } catch (err) {
+        console.error("Erro ao carregar cards:", err);
+        document.getElementById("cardsContainer").innerHTML = `<p class="text-center w-100">Erro ao carregar os cards.</p>`;
+      }
     }
 
     loadData();
