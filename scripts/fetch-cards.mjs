@@ -69,7 +69,7 @@ async function fetchData() {
 
         if (matches.length) {
           foundCards.push(...matches.map(c => {
-            // remove qualquer símbolo ou vírgula de milhar
+            // Limpa o valor original para euro sem máscara, só número puro
             const priceOriginal = c.price.formatted.replace(/,/g, "").replace(/\s/g, "");
             const priceBRL = convertEuroToBRL(priceOriginal, euroRate);
 
@@ -77,7 +77,7 @@ async function fetchData() {
               name: c.name_en,
               price_target: targetsObj[targetName],
               expansion: expansion.name,
-              price_original: priceOriginal, // em euro, número puro
+              price_original: priceOriginal, // número puro em euro
               price_brl: priceBRL,           // convertido para BRL
               quantity: c.quantity
             };
@@ -88,7 +88,7 @@ async function fetchData() {
         }
       }
 
-      await new Promise(r => setTimeout(r, 500));
+      await new Promise(r => setTimeout(r, 500)); // delay
     } catch (err) {
       console.error(`Erro na expansão ${expansion.code}:`, err.message);
     }
