@@ -1,10 +1,20 @@
-import fs from "fs";
+import fs from "fs"; 
 import fetch from "node-fetch";
 
+// 🔹 Expansões
 const expansions = JSON.parse(
   fs.readFileSync("./data/mock_expansions.json", "utf8")
 );
 
+// 🔹 Lista de cartas que você REALMENTE quer
+const priceTargets = JSON.parse(
+  fs.readFileSync("./data/price_targets.json", "utf8")
+);
+
+// Lista de nomes para filtro
+const targetNames = Object.keys(priceTargets).map(n => n.toLowerCase());
+
+// 🔹 API CardTrader
 const API = "https://api.cardtrader.com/api/v2/marketplace/products?expansion_id=";
 const TOKEN = process.env.BEARER_TOKEN;
 
@@ -30,15 +40,13 @@ async function fetchExpansion(id) {
     }
 
     const data = await res.json();
-
-    // Garante que pegamos SOMENTE o array de produtos
     const products = data.products || [];
 
-    const filtered = products.filter(card =>
-      card?.properties_hash?.signed === true ||
-      card?.properties_hash?.altered === true ||
-      card?.properties_hash?.misprint === true
-    );
+    // 🔥 FILTRA APENAS cartas presentes no price_targets.json
+    const filtered = products.filter(card => {
+      const cardName = card?.name?.toLowerCase();
+      return targetNames.includes(cardName);
+    });
 
     return filtered;
 
@@ -49,21 +57,24 @@ async function fetchExpansion(id) {
 }
 
 async function main() {
-  console.log("🔄 Buscando cartas na CardTrader...\n");
+  console.log("🔄 Buscando cartas filtradas pelo price_targets.json...\n");
 
   for (const exp of expansions) {
     const cards = await fetchExpansion(exp.id);
-    console.log(`✔ ${exp.code} → ${cards.length} cartas (signed/altered/misprint)`);
+
+    if (cards.length > 0) {
+      console.log(`✔ ${exp.code} → ${cards.length} cartas encontradas`);
+    }
 
     allCards.push(...cards);
 
     await new Promise(r => setTimeout(r, 500)); // evitar rate limit
   }
 
-  console.log(`\n📦 Total final: ${allCards.length} cartas`);
+  console.log(`\n📦 Total final filtrado: ${allCards.length} cartas`);
 
   fs.writeFileSync("./docs/cards.json", JSON.stringify(allCards, null, 2));
-  console.log("💾 cards.json atualizado em /docs/");
+  console.log("💾 Criado cards.json em /docs/");
 }
 
 main();
