@@ -25,16 +25,16 @@ const BEARER_TOKEN = process.env.BEARER_TOKEN;
 const BASE_URL = "https://api.cardtrader.com/api/v2";
 const EXPANSION_URL = `${BASE_URL}/marketplace/products?expansion_id=`;
 
-// Pegar cotação do Euro
+// Pegar cotação do Euro (ainda pode ser útil para price_target_brl)
 async function fetchEuroRate() {
   try {
     const res = await fetch("https://api.exchangerate.host/latest?base=EUR&symbols=BRL");
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
-    return parseFloat(data.rates.BRL) || 5.3; // fallback manual
+    return parseFloat(data.rates.BRL) || 5.3;
   } catch (err) {
     console.error("Erro ao buscar cotação do Euro:", err.message);
-    return 5.3; // fallback manual
+    return 5.3;
   }
 }
 
@@ -61,17 +61,8 @@ async function fetchData() {
 
         if (matches.length) {
           foundCards.push(...matches.map(c => {
-            let priceOriginalStr = c.price.formatted.replace(/\s/g, "").trim();
-            let numericPrice = parseFloat(priceOriginalStr.replace(/[^0-9.]/g, ""));
-
-            let priceBRL;
-            if (priceOriginalStr.includes("R$")) {
-              // já está em BRL, não multiplica
-              priceBRL = numericPrice;
-            } else {
-              // assume Euro, multiplica pelo euroRate
-              priceBRL = !isNaN(numericPrice) ? parseFloat((numericPrice * euroRate).toFixed(2)) : 0;
-            }
+            // ⚡ Mantém exatamente como vem da API
+            const priceOriginalStr = c.price.formatted.trim();
 
             const priceTargetBRL = parseFloat((targetsObj[targetName] * euroRate).toFixed(2));
 
@@ -80,8 +71,8 @@ async function fetchData() {
               price_target: targetsObj[targetName],
               price_target_brl: priceTargetBRL,
               expansion: expansion.name,
-              price_original: priceOriginalStr,
-              price_brl: priceBRL,
+              price_original: priceOriginalStr, // exatamente como veio
+              price_brl: null, // opcional, você pode calcular depois se quiser
               quantity: c.quantity
             };
           }));
