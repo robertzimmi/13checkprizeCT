@@ -38,36 +38,21 @@ async function fetchEuroRate() {
 }
 
 // Converte preço para número em R$
-function convertPriceToBRL(price, euroRate) {
-  if (price == null) return null;
+function convertEuroToBRL(price, euroRate) {
+  if (!price) return null;
 
-  // Se já for número (centavos), transforma em reais
-  if (typeof price === "number") return parseFloat((price / 100).toFixed(2));
+  // Remove símbolo de euro e espaços
+  let valueStr = price.replace(/[€\s]/g, "");
 
-  // Se for string, remove máscara de moeda
-  let valueStr = price.replace(/[R\$€\s]/g, ""); // tira R$, €, espaços
-
-  // Tratar separadores de milhar e decimal
-  if (valueStr.includes(",")) {
-    // Ex: "1,073.08" ou "1.073,08"
-    if (valueStr.indexOf(".") > valueStr.indexOf(",")) {
-      // caso europeu "1.073,08" -> 1073.08
-      valueStr = valueStr.replace(/\./g, "").replace(",", ".");
-    } else {
-      // caso americano "1,073.08" -> 1073.08
-      valueStr = valueStr.replace(/,/g, "");
-    }
-  }
+  // Remove separador de milhar (vírgula) e garante decimal com ponto
+  valueStr = valueStr.replace(/,/g, "");
 
   let value = parseFloat(valueStr);
   if (isNaN(value)) return null;
 
-  // Multiplica pela cotação se dólar ou euro
-  if (price.startsWith("$")) value *= 5;
-  if (price.startsWith("€")) value *= euroRate;
-
-  return parseFloat(value.toFixed(2));
+  return parseFloat((value * euroRate).toFixed(2));
 }
+
 
 // Função principal
 async function fetchData() {
