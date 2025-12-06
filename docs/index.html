@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>CardTrader Alerts</title>
+  <title>(13)CheckPrize-CT</title>
 
   <!-- Bootstrap -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -21,6 +21,7 @@
       border: 1px solid #334155;
       padding: 16px;
       border-radius: 12px;
+      cursor: pointer;
     }
 
     .price-badge {
@@ -47,7 +48,27 @@
       gap: 4px;
     }
 
-    /* Texto visível em fundo escuro */
+    .records-container {
+      margin-top: 8px;
+      padding-left: 12px;
+      display: none;
+    }
+
+    .header-flex {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+    }
+
+    .datetime-box {
+      background: #1e293b;
+      padding: 6px 12px;
+      border-radius: 8px;
+      border: 1px solid #334155;
+      font-size: 0.9rem;
+    }
+
     .text-sm.opacity-75 {
       color: #cbd5e1 !important;
     }
@@ -55,9 +76,15 @@
 </head>
 <body class="min-h-screen">
 
-  <!-- Header -->
   <div class="container mt-4">
-    <h1 class="text-3xl font-bold mb-4">📦 Cartas Abaixo do Target</h1>
+
+    <!-- Header -->
+    <div class="header-flex">
+      <h1 class="text-3xl font-bold">(13)CheckPrize-CT</h1>
+      <div id="datetimeBox" class="datetime-box">Carregando...</div>
+    </div>
+
+    <!-- Lista de cartas -->
     <div id="cardsContainer" class="row g-4"></div>
   </div>
 
@@ -65,36 +92,44 @@
     async function loadData() {
       try {
         const res = await fetch("cards.json");
-        const cards = await res.json();
+        const data = await res.json();
+
+        // Atualiza datetime no topo
+        document.getElementById("datetimeBox").innerText = data.datetime_utc_minus3;
+
+        const cards = data.cards;
 
         const container = document.getElementById("cardsContainer");
+        container.innerHTML = "";
 
-        // Filtra apenas cartas cujo preço atual < price_target
-        const filteredCards = cards.filter(card => {
-          const priceNumber = parseFloat(card.price.replace("$",""));
-          return priceNumber < card.price_target;
-        });
-
-        if (!filteredCards.length) {
-          container.innerHTML = `<p class="text-center w-100">Nenhum card abaixo do target.</p>`;
+        if (!cards.length) {
+          container.innerHTML = `<p class="text-center w-100">Nenhum card encontrado.</p>`;
           return;
         }
 
-        filteredCards.forEach(card => {
+        cards.forEach((card, index) => {
+          const cardId = `records-${index}`;
+          const minPrice = Math.min(...card.records.map(r => parseFloat(r.price.replace("$","")))).toFixed(2);
+
           const html = `
             <div class="col-12 col-md-6 col-lg-4">
-              <div class="card-bg shadow-lg">
+              <div class="card-bg" onclick="toggleRecords('${cardId}')">
                 <div class="card-row">
-                  <span class="font-bold text-lg">${card.name} (${card.quantity})</span>
-                  <span class="text-sm opacity-75">${card.expansion}</span>
-                  <span>
-                    <span class="price-current">${card.price}</span> /
-                    <span class="price-badge">$${card.price_target}</span>
-                  </span>
+                  <span class="font-bold text-lg">${card.name} - $${minPrice}</span>
+                  <div id="${cardId}" class="records-container">
+                    ${card.records.map(r => `
+                      <div>
+                        <span class="text-sm opacity-75">${r.expansion}</span>:
+                        <span class="price-current">${r.price}</span> /
+                        <span class="price-badge">${r.quantity}</span>
+                      </div>
+                    `).join("")}
+                  </div>
                 </div>
               </div>
-            </div>`;
-          
+            </div>
+          `;
+
           container.innerHTML += html;
         });
 
@@ -102,6 +137,11 @@
         console.error(err);
         document.getElementById("cardsContainer").innerHTML = `<p class="text-center w-100">Erro ao carregar os cards.</p>`;
       }
+    }
+
+    function toggleRecords(id) {
+      const el = document.getElementById(id);
+      el.style.display = el.style.display === "none" ? "block" : "none";
     }
 
     loadData();

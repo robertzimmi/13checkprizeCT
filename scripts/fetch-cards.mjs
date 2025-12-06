@@ -16,18 +16,16 @@ function normalize(str) {
     .replace(/[\u0300-\u036f]/g, "");
 }
 
-// Carregar targets
+// Carregar targets e expansões
 const targetsObj = JSON.parse(fs.readFileSync(PRICE_FILE, "utf8"));
 const TARGET_NAMES = Object.keys(targetsObj);
-
-// Carregar expansões
 const MOCK_EXPANSIONS = JSON.parse(fs.readFileSync(MOCK_EXPANSIONS_FILE, "utf8"));
 
-const BEARER_TOKEN = process.env.BEARER_TOKEN; // ou coloque direto aqui
+const BEARER_TOKEN = process.env.BEARER_TOKEN;
 const BASE_URL = "https://api.cardtrader.com/api/v2";
 const EXPANSION_URL = `${BASE_URL}/marketplace/products?expansion_id=`;
 
-// Resultado final
+// Resultado
 let foundCards = [];
 
 // Função para pegar cotação do Euro
@@ -42,6 +40,7 @@ async function fetchEuroRate() {
   }
 }
 
+// Função principal
 async function fetchData() {
   const euroRate = await fetchEuroRate();
   console.log("💶 Euro atual:", euroRate);
@@ -57,7 +56,7 @@ async function fetchData() {
 
       const data = await response.json();
       const cardsArrays = Object.values(data).flat();
-      
+
       for (const targetName of TARGET_NAMES) {
         const normalizedTarget = normalize(targetName);
         const matches = cardsArrays.filter(c => normalize(c.name_en) === normalizedTarget);
@@ -65,12 +64,10 @@ async function fetchData() {
         if (matches.length) {
           foundCards.push(...matches.map(c => ({
             name: c.name_en,
-            expansion: expansion.name,
             price_target: targetsObj[targetName],
-            quantity: c.quantity,
+            expansion: expansion.name,
             price: c.price.formatted,
-            euro_rate: euroRate,
-            datetime_utc_minus3: new Date(new Date().getTime() - 3*60*60*1000).toISOString()
+            quantity: c.quantity
           })));
           console.log(`- ${targetName} → FOUND (${matches.length})`);
         } else {
@@ -84,9 +81,32 @@ async function fetchData() {
     }
   }
 
-  fs.writeFileSync(OUTPUT_FILE, JSON.stringify(foundCards, null, 2));
+  // Agrupar por carta
+  const groupedCards = {};
+  for (const card of foundCards) {
+    if (!groupedCards[card.name]) {
+      groupedCards[card.name] = {
+        name: card.name,
+        price_target: card.price_target,
+        records: []
+      };
+    }
+    groupedCards[card.name].records.push({
+      expansion: card.expansion,
+      price: card.price,
+      quantity: card.quantity
+    });
+  }
+
+  const finalJSON = {
+    cards: Object.values(groupedCards),
+    datetime_utc_minus3: new Date(new Date().getTime() - 3*60*60*1000).toISOString(),
+    euro_rate: euroRate
+  };
+
+  fs.writeFileSync(OUTPUT_FILE, JSON.stringify(finalJSON, null, 2));
   console.log(`\n💾 Criado ${OUTPUT_FILE}, total encontrado: ${foundCards.length}\n`);
 }
 
-// Rodar script
+// Rodar
 fetchData();
