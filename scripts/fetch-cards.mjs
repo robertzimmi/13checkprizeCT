@@ -25,7 +25,7 @@ const BEARER_TOKEN = process.env.BEARER_TOKEN;
 const BASE_URL = "https://api.cardtrader.com/api/v2";
 const EXPANSION_URL = `${BASE_URL}/marketplace/products?expansion_id=`;
 
-// Pegar cotação do Euro (ainda pode ser útil para price_target_brl)
+// Pegar cotação do Euro
 async function fetchEuroRate() {
   try {
     const res = await fetch("https://api.exchangerate.host/latest?base=EUR&symbols=BRL");
@@ -34,7 +34,7 @@ async function fetchEuroRate() {
     return parseFloat(data.rates.BRL) || 5.3;
   } catch (err) {
     console.error("Erro ao buscar cotação do Euro:", err.message);
-    return 5.3;
+    return 5.3; // fallback manual
   }
 }
 
@@ -61,8 +61,17 @@ async function fetchData() {
 
         if (matches.length) {
           foundCards.push(...matches.map(c => {
-            // ⚡ Mantém exatamente como vem da API
             const priceOriginalStr = c.price.formatted.trim();
+
+            let priceBRL;
+            if (priceOriginalStr.startsWith("R$")) {
+              // Já está em real, copia
+              priceBRL = parseFloat(priceOriginalStr.replace(/[R$]/g, "").replace(",", "."));
+            } else {
+              // Em $ ou €, multiplica pelo euroRate
+              const numericPrice = parseFloat(priceOriginalStr.replace(/[^0-9.]/g, ""));
+              priceBRL = !isNaN(numericPrice) ? parseFloat((numericPrice * euroRate).toFixed(2)) : 0;
+            }
 
             const priceTargetBRL = parseFloat((targetsObj[targetName] * euroRate).toFixed(2));
 
@@ -71,8 +80,8 @@ async function fetchData() {
               price_target: targetsObj[targetName],
               price_target_brl: priceTargetBRL,
               expansion: expansion.name,
-              price_original: priceOriginalStr, // exatamente como veio
-              price_brl: null, // opcional, você pode calcular depois se quiser
+              price_original: priceOriginalStr,
+              price_brl: priceBRL,
               quantity: c.quantity
             };
           }));
