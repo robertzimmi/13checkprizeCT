@@ -1,69 +1,91 @@
 import fs from "fs";
 import path from "path";
+import fetch from "node-fetch";
 
-const PRICE_FILE = path.resolve("price_targets.json");
-const OUT_FILE = path.resolve("docs/cards.json");
+const ROOT = process.cwd();
+const OUTPUT_DIR = path.join(ROOT, "docs");
+const PRICE_FILE = path.join(ROOT, "data", "price_targets.json");
 
-// Carrega o price_targets.json como OBJETO
-const priceTargets = JSON.parse(fs.readFileSync(PRICE_FILE, "utf8"));
+// --------------------------
+// 1) Ler o price_targets.json (OBJETO → ARRAY)
+// --------------------------
+const rawPriceTargets = JSON.parse(fs.readFileSync(PRICE_FILE, "utf-8"));
 
-// Como é OBJETO → pega só os nomes
-const TARGET_NAMES = Object.keys(priceTargets).map(name => name.toLowerCase());
+// Converte objeto em array:
+const priceTargets = Object.entries(rawPriceTargets).map(([name, target]) => ({
+  name,
+  target
+}));
 
-console.log("🔍 Nomes carregados do price_targets.json:");
-console.log(TARGET_NAMES);
+const TARGET_NAMES = priceTargets.map(c => c.name.toLowerCase());
 
-// URL base da API
-const API_URL = "https://api.cardtrader.com/api/v2/public/cards";
+// --------------------------
+// 2) Função para buscar carta
+// --------------------------
+async function searchCard(name) {
+  const encoded = encodeURIComponent(name);
+  const url = `https://api.cardtrader.com/api/v2/cards?search=${encoded}`;
 
-// Função auxiliar para fetch (sem node-fetch usando built-in fetch no Node 20+)
-async function fetchJSON(url) {
-  const r = await fetch(url);
-  return r.json();
-}
+  try {
+    const res = await fetch(url);
+    if (!res.ok) return null;
 
-console.log("🔄 Buscando cartas na API...");
+    const json = await res.json();
 
-// Busca todas as cartas da API (paginando automaticamente)
-async function fetchAllCards() {
-  let page = 1;
-  let done = false;
-  let all = [];
-
-  while (!done) {
-    const url = `${API_URL}?page=${page}`;
-    const data = await fetchJSON(url);
-
-    if (!data.cards || data.cards.length === 0) {
-      done = true;
-      break;
+    if (!json || !json.data || json.data.length === 0) {
+      return null;
     }
 
-    all.push(...data.cards);
-    page++;
+    // retornar todas versões que achar
+    return json.data;
+  } catch (err) {
+    console.error("Erro ao buscar:", name, err);
+    return null;
+  }
+}
+
+// ---------------------------------------------------
+// 3) Buscar todas as cartas do JSON
+// ---------------------------------------------------
+async function main() {
+  console.log("🔄 Buscando cartas listadas em price_targets.json...\n");
+
+  let results = [];
+
+  for (const item of priceTargets) {
+    const name = item.name;
+
+    const found = await searchCard(name);
+
+    if (found && found.length > 0) {
+      console.log(`✔️  ${name}  (found ${found.length})`);
+
+      results.push({
+        name,
+        target_price: item.target,
+        versions: found
+      });
+    } else {
+      console.log(`❌  ${name}  (not found)`);
+    }
   }
 
-  return all;
+  console.log("\n📦 Total final encontrado:", results.length);
+
+  // --------------------------
+  // Criar pasta /docs se não existir
+  // --------------------------
+  if (!fs.existsSync(OUTPUT_DIR)) {
+    fs.mkdirSync(OUTPUT_DIR);
+  }
+
+  // --------------------------
+  // Salvar cards.json
+  // --------------------------
+  const outputPath = path.join(OUTPUT_DIR, "cards.json");
+  fs.writeFileSync(outputPath, JSON.stringify(results, null, 2));
+
+  console.log(`💾 Criado cards.json em ${outputPath}`);
 }
 
-const allCards = await fetchAllCards();
-
-console.log(`📦 Total bruto encontrado: ${allCards.length}`);
-
-// Filtra apenas o nome EXATO (sem filtrar por qualidade/status)
-const finalCards = allCards.filter(card =>
-  TARGET_NAMES.includes(card.name.toLowerCase())
-);
-
-console.log(`📦 Total final filtrado: ${finalCards.length} cartas\n`);
-
-console.log("📘 Relatório:");
-for (const name of TARGET_NAMES) {
-  const found = finalCards.some(c => c.name.toLowerCase() === name);
-  console.log(`- ${name}: ${found ? "FOUND ✔" : "NOT FOUND ❌"}`);
-}
-
-// Salva no docs/cards.json
-fs.writeFileSync(OUT_FILE, JSON.stringify(finalCards, null, 2), "utf8");
-
-console.log(`\n💾 Criado cards.json em /docs/`);
+main();
