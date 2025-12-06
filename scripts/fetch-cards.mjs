@@ -41,17 +41,13 @@ async function fetchEuroRate() {
 function convertPriceToBRL(price, euroRate) {
   if (price == null) return null;
 
-  // Caso seja número (centavos)
+  // Se for número (centavos)
   if (typeof price === "number") {
     return parseFloat((price / 100).toFixed(2));
   }
 
-  // Caso seja string
-  let currency = price.startsWith("R$") ? "R$" :
-                 price.startsWith("€") ? "€" : "$";
-
+  // Se for string, apenas converte dolar ou euro
   let valueStr = price.replace(/[R\$€\s]/g, "");
-
   if (valueStr.includes(",")) {
     valueStr = valueStr.replace(/\./g, "").replace(",", ".");
   } else {
@@ -61,12 +57,11 @@ function convertPriceToBRL(price, euroRate) {
   let value = parseFloat(valueStr);
   if (isNaN(value)) return null;
 
-  if (currency === "$") value *= 5;
-  if (currency === "€") value *= euroRate;
+  if (price.startsWith("$")) value *= 5;
+  if (price.startsWith("€")) value *= euroRate;
 
   return parseFloat(value.toFixed(2));
 }
-
 
 // Função principal
 async function fetchData() {
@@ -96,7 +91,8 @@ async function fetchData() {
             name: c.name_en,
             price_target: targetsObj[targetName],
             expansion: expansion.name,
-            price: convertPriceToBRL(c.price.formatted, euroRate),
+            price_original: c.price.formatted,                 // original da API
+            price_brl: convertPriceToBRL(c.price.formatted, euroRate), // convertido
             quantity: c.quantity
           })));
           console.log(`- ${targetName} → FOUND (${matches.length})`);
@@ -105,7 +101,7 @@ async function fetchData() {
         }
       }
 
-      await new Promise(r => setTimeout(r, 500)); // delay para não bater rate limit
+      await new Promise(r => setTimeout(r, 500));
     } catch (err) {
       console.error(`Erro na expansão ${expansion.code}:`, err.message);
     }
@@ -123,7 +119,8 @@ async function fetchData() {
     }
     groupedCards[card.name].records.push({
       expansion: card.expansion,
-      price: card.price,
+      price_original: card.price_original,
+      price_brl: card.price_brl,
       quantity: card.quantity
     });
   }
