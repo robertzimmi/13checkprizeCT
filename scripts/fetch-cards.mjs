@@ -1,18 +1,17 @@
-import fs from "fs"; 
+import fs from "fs";
 import fetch from "node-fetch";
 
-// 🔹 Expansões
+// 🔹 Carrega expansões
 const expansions = JSON.parse(
   fs.readFileSync("./data/mock_expansions.json", "utf8")
 );
 
-// 🔹 Lista de cartas que você REALMENTE quer
+// 🔹 Carrega lista de cartas alvo
 const priceTargets = JSON.parse(
   fs.readFileSync("./data/price_targets.json", "utf8")
 );
 
-// Lista de nomes para filtro
-const targetNames = Object.keys(priceTargets).map(n => n.toLowerCase());
+const targetNames = Object.keys(priceTargets).map(name => name.toLowerCase());
 
 // 🔹 API CardTrader
 const API = "https://api.cardtrader.com/api/v2/marketplace/products?expansion_id=";
@@ -42,10 +41,10 @@ async function fetchExpansion(id) {
     const data = await res.json();
     const products = data.products || [];
 
-    // 🔥 FILTRA APENAS cartas presentes no price_targets.json
+    // 🔥 FILTRA SOMENTE AS CARTAS NO price_targets.json
     const filtered = products.filter(card => {
-      const cardName = card?.name?.toLowerCase();
-      return targetNames.includes(cardName);
+      const name = card?.name?.toLowerCase();
+      return targetNames.includes(name);
     });
 
     return filtered;
@@ -60,15 +59,16 @@ async function main() {
   console.log("🔄 Buscando cartas filtradas pelo price_targets.json...\n");
 
   for (const exp of expansions) {
-    const cards = await fetchExpansion(exp.id);
+    const filteredCards = await fetchExpansion(exp.id);
 
-    if (cards.length > 0) {
-      console.log(`✔ ${exp.code} → ${cards.length} cartas encontradas`);
+    if (filteredCards.length > 0) {
+      console.log(`✔ ${exp.code} → ${filteredCards.length} cartas encontradas`);
     }
 
-    allCards.push(...cards);
+    allCards.push(...filteredCards);
 
-    await new Promise(r => setTimeout(r, 500)); // evitar rate limit
+    // Pausa para evitar rate limit
+    await new Promise(r => setTimeout(r, 400));
   }
 
   console.log(`\n📦 Total final filtrado: ${allCards.length} cartas`);
