@@ -89,63 +89,79 @@
   </div>
 
   <script>
-    async function loadData() {
-      try {
-        const res = await fetch("cards.json");
-        const data = await res.json();
+  async function loadData() {
+    const container = document.getElementById("cardsContainer");
+    container.innerHTML = ""; // limpa antes
 
-        // Atualiza datetime no topo
-        document.getElementById("datetimeBox").innerText = data.datetime_utc_minus3;
+    try {
+      const res = await fetch("cards.json");
 
-        const cards = data.cards;
+      if (!res.ok) {
+        throw new Error(`Erro ao carregar o arquivo: ${res.status}`);
+      }
 
-        const container = document.getElementById("cardsContainer");
-        container.innerHTML = "";
+      const data = await res.json();
 
-        if (!cards.length) {
-          container.innerHTML = `<p class="text-center w-100">Nenhum card encontrado.</p>`;
-          return;
-        }
+      // Verifica se data.cards existe
+      if (!data || !data.cards || !Array.isArray(data.cards)) {
+        container.innerHTML = `<p class="text-center w-100">Arquivo cards.json inválido ou vazio.</p>`;
+        return;
+      }
 
-        cards.forEach((card, index) => {
-          const cardId = `records-${index}`;
-          const minPrice = Math.min(...card.records.map(r => parseFloat(r.price.replace("$","")))).toFixed(2);
+      // Atualiza datetime no topo
+      document.getElementById("datetimeBox").innerText = data.datetime_utc_minus3 || "N/A";
 
-          const html = `
-            <div class="col-12 col-md-6 col-lg-4">
-              <div class="card-bg" onclick="toggleRecords('${cardId}')">
-                <div class="card-row">
-                  <span class="font-bold text-lg">${card.name} - $${minPrice}</span>
-                  <div id="${cardId}" class="records-container">
-                    ${card.records.map(r => `
+      const cards = data.cards;
+
+      if (!cards.length) {
+        container.innerHTML = `<p class="text-center w-100">Nenhum card encontrado.</p>`;
+        return;
+      }
+
+      cards.forEach((card, index) => {
+        const cardId = `records-${index}`;
+        const minPrice = card.records && card.records.length
+          ? Math.min(...card.records.map(r => parseFloat(r.price.replace("$","")))).toFixed(2)
+          : "0.00";
+
+        const html = `
+          <div class="col-12 col-md-6 col-lg-4">
+            <div class="card-bg" onclick="toggleRecords('${cardId}')">
+              <div class="card-row">
+                <span class="font-bold text-lg">${card.name} - $${minPrice}</span>
+                <div id="${cardId}" class="records-container">
+                  ${card.records && card.records.length
+                    ? card.records.map(r => `
                       <div>
                         <span class="text-sm opacity-75">${r.expansion}</span>:
                         <span class="price-current">${r.price}</span> /
                         <span class="price-badge">${r.quantity}</span>
                       </div>
-                    `).join("")}
-                  </div>
+                    `).join("")
+                    : `<div class="text-sm opacity-75">Nenhum registro</div>`
+                  }
                 </div>
               </div>
             </div>
-          `;
+          </div>
+        `;
+        container.innerHTML += html;
+      });
 
-          container.innerHTML += html;
-        });
-
-      } catch (err) {
-        console.error(err);
-        document.getElementById("cardsContainer").innerHTML = `<p class="text-center w-100">Erro ao carregar os cards.</p>`;
-      }
+    } catch (err) {
+      console.error(err);
+      container.innerHTML = `<p class="text-center w-100">Erro ao carregar os cards: ${err.message}</p>`;
     }
+  }
 
-    function toggleRecords(id) {
-      const el = document.getElementById(id);
-      el.style.display = el.style.display === "none" ? "block" : "none";
-    }
+  function toggleRecords(id) {
+    const el = document.getElementById(id);
+    if (el) el.style.display = el.style.display === "none" ? "block" : "none";
+  }
 
-    loadData();
-  </script>
+  loadData();
+</script>
+
 
 </body>
 </html>
