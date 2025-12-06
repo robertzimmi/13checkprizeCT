@@ -37,10 +37,16 @@ async function fetchEuroRate() {
   }
 }
 
-// Converte preço original (em euro) para BRL
-function convertEuroToBRL(priceOriginal, euroRate) {
-  const value = parseFloat(priceOriginal);
+// Converte preço para BRL: remove vírgula de milhar e multiplica pelo euro
+function convertPriceToBRL(priceStr, euroRate) {
+  if (!priceStr) return null;
+
+  // Remove vírgula de milhar e espaços
+  let cleaned = priceStr.replace(/,/g, "").replace(/\s/g, "");
+
+  let value = parseFloat(cleaned);
   if (isNaN(value)) return null;
+
   return parseFloat((value * euroRate).toFixed(2));
 }
 
@@ -69,16 +75,16 @@ async function fetchData() {
 
         if (matches.length) {
           foundCards.push(...matches.map(c => {
-            // Limpa o valor original para euro sem máscara, só número puro
-            const priceOriginal = c.price.formatted.replace(/,/g, "").replace(/\s/g, "");
-            const priceBRL = convertEuroToBRL(priceOriginal, euroRate);
+            // Limpa o valor original para euro sem máscara
+            const priceOriginal = c.price.formatted.replace(/[^0-9.]/g, ""); // remove qualquer símbolo ou espaço
+            const priceBRL = convertPriceToBRL(priceOriginal, euroRate);
 
             return {
               name: c.name_en,
               price_target: targetsObj[targetName],
               expansion: expansion.name,
-              price_original: priceOriginal, // número puro em euro
-              price_brl: priceBRL,           // convertido para BRL
+              price_original: priceOriginal,
+              price_brl: priceBRL,
               quantity: c.quantity
             };
           }));
@@ -88,7 +94,7 @@ async function fetchData() {
         }
       }
 
-      await new Promise(r => setTimeout(r, 500)); // delay
+      await new Promise(r => setTimeout(r, 500)); // delay para não bater rate limit
     } catch (err) {
       console.error(`Erro na expansão ${expansion.code}:`, err.message);
     }
