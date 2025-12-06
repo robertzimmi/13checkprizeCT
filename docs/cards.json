@@ -1,1 +1,6582 @@
-[]
+[
+  {
+    "name": "Enlightened Strike",
+    "expansion": "Welcome to Rathe",
+    "price_target": 32,
+    "quantity": 3,
+    "price": "$31.13"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "Welcome to Rathe",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$40.35"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "Welcome to Rathe",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$41.14"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "Welcome to Rathe",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$41.17"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "Welcome to Rathe",
+    "price_target": 32,
+    "quantity": 3,
+    "price": "$52.08"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "Welcome to Rathe",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$66.76"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "Welcome to Rathe",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$76.39"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "Welcome to Rathe",
+    "price_target": 32,
+    "quantity": 3,
+    "price": "$76.66"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "Welcome to Rathe",
+    "price_target": 32,
+    "quantity": 3,
+    "price": "$79.75"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "Welcome to Rathe",
+    "price_target": 32,
+    "quantity": 2,
+    "price": "$83.03"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "Welcome to Rathe",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$99.94"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "Welcome to Rathe",
+    "price_target": 32,
+    "quantity": 3,
+    "price": "$103.52"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "Welcome to Rathe",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$108.53"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "Welcome to Rathe",
+    "price_target": 32,
+    "quantity": 3,
+    "price": "$117.43"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "Welcome to Rathe",
+    "price_target": 32,
+    "quantity": 4,
+    "price": "$128.89"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "Welcome to Rathe",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$139.61"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "Welcome to Rathe",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$166.04"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "Welcome to Rathe",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$198.59"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "Welcome to Rathe",
+    "price_target": 32,
+    "quantity": 3,
+    "price": "$249.99"
+  },
+  {
+    "name": "Mask of Momentum",
+    "expansion": "Welcome to Rathe",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$70.63"
+  },
+  {
+    "name": "Mask of Momentum",
+    "expansion": "Welcome to Rathe",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$79.94"
+  },
+  {
+    "name": "Mask of Momentum",
+    "expansion": "Welcome to Rathe",
+    "price_target": 73,
+    "quantity": 2,
+    "price": "$91.26"
+  },
+  {
+    "name": "Mask of Momentum",
+    "expansion": "Welcome to Rathe",
+    "price_target": 73,
+    "quantity": 2,
+    "price": "$100.14"
+  },
+  {
+    "name": "Mask of Momentum",
+    "expansion": "Welcome to Rathe",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$139.19"
+  },
+  {
+    "name": "Mask of Momentum",
+    "expansion": "Welcome to Rathe",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$146.52"
+  },
+  {
+    "name": "Mask of Momentum",
+    "expansion": "Welcome to Rathe",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$172.20"
+  },
+  {
+    "name": "Mask of Momentum",
+    "expansion": "Welcome to Rathe",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$172.21"
+  },
+  {
+    "name": "Mask of Momentum",
+    "expansion": "Welcome to Rathe",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$173.05"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "Welcome to Rathe",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "$145.63"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "Welcome to Rathe",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "$162.36"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "Welcome to Rathe",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "$167.16"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "Welcome to Rathe",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "$193.05"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "Welcome to Rathe",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "$264.50"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "Welcome to Rathe",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "$330.41"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "Welcome to Rathe",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "$340.93"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "Welcome to Rathe",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "$369.95"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "Welcome to Rathe",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "$396.30"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "Welcome to Rathe",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "$429.96"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "Welcome to Rathe",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "$437.11"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "Welcome to Rathe",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "$791.78"
+  },
+  {
+    "name": "Heart of Fyendal",
+    "expansion": "Welcome to Rathe",
+    "price_target": 160,
+    "quantity": 2,
+    "price": "$274.21"
+  },
+  {
+    "name": "Heart of Fyendal",
+    "expansion": "Welcome to Rathe",
+    "price_target": 160,
+    "quantity": 1,
+    "price": "$337.69"
+  },
+  {
+    "name": "Heart of Fyendal",
+    "expansion": "Welcome to Rathe",
+    "price_target": 160,
+    "quantity": 2,
+    "price": "$346.13"
+  },
+  {
+    "name": "Heart of Fyendal",
+    "expansion": "Welcome to Rathe",
+    "price_target": 160,
+    "quantity": 1,
+    "price": "$396.32"
+  },
+  {
+    "name": "Heart of Fyendal",
+    "expansion": "Welcome to Rathe",
+    "price_target": 160,
+    "quantity": 1,
+    "price": "$435.86"
+  },
+  {
+    "name": "Heart of Fyendal",
+    "expansion": "Welcome to Rathe",
+    "price_target": 160,
+    "quantity": 1,
+    "price": "$454.26"
+  },
+  {
+    "name": "Heart of Fyendal",
+    "expansion": "Welcome to Rathe",
+    "price_target": 160,
+    "quantity": 1,
+    "price": "$491.14"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "Arcane Rising",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "R$366.41"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "Arcane Rising",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "R$449.65"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "Arcane Rising",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "R$486.97"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "Arcane Rising",
+    "price_target": 73,
+    "quantity": 2,
+    "price": "R$540.58"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "Arcane Rising",
+    "price_target": 73,
+    "quantity": 2,
+    "price": "R$551.30"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "Arcane Rising",
+    "price_target": 73,
+    "quantity": 7,
+    "price": "R$561.89"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "Arcane Rising",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "R$577.30"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "Arcane Rising",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "R$606.97"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "Arcane Rising",
+    "price_target": 73,
+    "quantity": 3,
+    "price": "R$608.82"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "Arcane Rising",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "R$610.57"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "Arcane Rising",
+    "price_target": 73,
+    "quantity": 2,
+    "price": "R$625.50"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "Arcane Rising",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "R$640.64"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "Arcane Rising",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "R$747.46"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "Arcane Rising",
+    "price_target": 73,
+    "quantity": 2,
+    "price": "R$822.53"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "Arcane Rising",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "R$988.69"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "Arcane Rising",
+    "price_target": 73,
+    "quantity": 3,
+    "price": "R$1,003.32"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "Arcane Rising",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "R$1,081.68"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "Arcane Rising",
+    "price_target": 73,
+    "quantity": 3,
+    "price": "R$1,232.59"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "Arcane Rising",
+    "price_target": 73,
+    "quantity": 3,
+    "price": "R$1,860.77"
+  },
+  {
+    "name": "Eye of Ophidia",
+    "expansion": "Arcane Rising",
+    "price_target": 240,
+    "quantity": 1,
+    "price": "R$2,455.44"
+  },
+  {
+    "name": "Eye of Ophidia",
+    "expansion": "Arcane Rising",
+    "price_target": 240,
+    "quantity": 1,
+    "price": "R$2,744.63"
+  },
+  {
+    "name": "Eye of Ophidia",
+    "expansion": "Arcane Rising",
+    "price_target": 240,
+    "quantity": 1,
+    "price": "R$2,930.44"
+  },
+  {
+    "name": "Eye of Ophidia",
+    "expansion": "Arcane Rising",
+    "price_target": 240,
+    "quantity": 1,
+    "price": "R$3,346.18"
+  },
+  {
+    "name": "Eye of Ophidia",
+    "expansion": "Arcane Rising",
+    "price_target": 240,
+    "quantity": 1,
+    "price": "R$3,710.84"
+  },
+  {
+    "name": "Eye of Ophidia",
+    "expansion": "Arcane Rising",
+    "price_target": 240,
+    "quantity": 1,
+    "price": "R$3,718.27"
+  },
+  {
+    "name": "Eye of Ophidia",
+    "expansion": "Arcane Rising",
+    "price_target": 240,
+    "quantity": 1,
+    "price": "R$4,001.77"
+  },
+  {
+    "name": "Eye of Ophidia",
+    "expansion": "Arcane Rising",
+    "price_target": 240,
+    "quantity": 1,
+    "price": "R$5,946.31"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "Crucible of War",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "R$908.90"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "Crucible of War",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "R$911.20"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "Crucible of War",
+    "price_target": 129,
+    "quantity": 2,
+    "price": "R$954.35"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "Crucible of War",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "R$992.54"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "Crucible of War",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "R$998.71"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "Crucible of War",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "R$1,049.44"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "Crucible of War",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "R$1,183.72"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "Crucible of War",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "R$2,232.79"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Crucible of War",
+    "price_target": 8.4,
+    "quantity": 2,
+    "price": "R$98.23"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Crucible of War",
+    "price_target": 8.4,
+    "quantity": 3,
+    "price": "R$108.36"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Crucible of War",
+    "price_target": 8.4,
+    "quantity": 3,
+    "price": "R$112.97"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Crucible of War",
+    "price_target": 8.4,
+    "quantity": 3,
+    "price": "R$114.35"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Crucible of War",
+    "price_target": 8.4,
+    "quantity": 2,
+    "price": "R$116.12"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Crucible of War",
+    "price_target": 8.4,
+    "quantity": 3,
+    "price": "R$138.96"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Crucible of War",
+    "price_target": 8.4,
+    "quantity": 1,
+    "price": "R$149.22"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Crucible of War",
+    "price_target": 8.4,
+    "quantity": 10,
+    "price": "R$179.56"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Crucible of War",
+    "price_target": 8.4,
+    "quantity": 2,
+    "price": "R$181.48"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Crucible of War",
+    "price_target": 8.4,
+    "quantity": 5,
+    "price": "R$187.30"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Crucible of War",
+    "price_target": 8.4,
+    "quantity": 4,
+    "price": "R$202.15"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Crucible of War",
+    "price_target": 8.4,
+    "quantity": 1,
+    "price": "R$218.21"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Crucible of War",
+    "price_target": 8.4,
+    "quantity": 1,
+    "price": "R$226.58"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Crucible of War",
+    "price_target": 8.4,
+    "quantity": 1,
+    "price": "R$248.92"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Crucible of War",
+    "price_target": 8.4,
+    "quantity": 1,
+    "price": "R$269.24"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Crucible of War",
+    "price_target": 8.4,
+    "quantity": 1,
+    "price": "R$338.98"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Crucible of War",
+    "price_target": 8.4,
+    "quantity": 1,
+    "price": "R$363.62"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Crucible of War",
+    "price_target": 8.4,
+    "quantity": 3,
+    "price": "R$561.78"
+  },
+  {
+    "name": "Arknight Shard",
+    "expansion": "Crucible of War",
+    "price_target": 160,
+    "quantity": 1,
+    "price": "R$1,310.76"
+  },
+  {
+    "name": "Arknight Shard",
+    "expansion": "Crucible of War",
+    "price_target": 160,
+    "quantity": 3,
+    "price": "R$1,310.94"
+  },
+  {
+    "name": "Arknight Shard",
+    "expansion": "Crucible of War",
+    "price_target": 160,
+    "quantity": 1,
+    "price": "R$1,333.78"
+  },
+  {
+    "name": "Arknight Shard",
+    "expansion": "Crucible of War",
+    "price_target": 160,
+    "quantity": 2,
+    "price": "R$1,441.66"
+  },
+  {
+    "name": "Arknight Shard",
+    "expansion": "Crucible of War",
+    "price_target": 160,
+    "quantity": 1,
+    "price": "R$2,529.95"
+  },
+  {
+    "name": "Arknight Shard",
+    "expansion": "Crucible of War",
+    "price_target": 160,
+    "quantity": 1,
+    "price": "R$2,827.03"
+  },
+  {
+    "name": "Arknight Shard",
+    "expansion": "Crucible of War",
+    "price_target": 160,
+    "quantity": 1,
+    "price": "R$3,114.37"
+  },
+  {
+    "name": "Arknight Shard",
+    "expansion": "Crucible of War",
+    "price_target": 160,
+    "quantity": 1,
+    "price": "R$3,652.94"
+  },
+  {
+    "name": "Arknight Shard",
+    "expansion": "Crucible of War",
+    "price_target": 160,
+    "quantity": 1,
+    "price": "R$3,718.27"
+  },
+  {
+    "name": "Arknight Shard",
+    "expansion": "Crucible of War",
+    "price_target": 160,
+    "quantity": 2,
+    "price": "R$6,681.66"
+  },
+  {
+    "name": "Arknight Shard",
+    "expansion": "Crucible of War",
+    "price_target": 160,
+    "quantity": 1,
+    "price": "R$7,060.44"
+  },
+  {
+    "name": "Great Library of Solana",
+    "expansion": "Monarch - Unlimited",
+    "price_target": 160,
+    "quantity": 3,
+    "price": "R$1,012.74"
+  },
+  {
+    "name": "Great Library of Solana",
+    "expansion": "Monarch - Unlimited",
+    "price_target": 160,
+    "quantity": 1,
+    "price": "R$1,105.31"
+  },
+  {
+    "name": "Great Library of Solana",
+    "expansion": "Monarch - Unlimited",
+    "price_target": 160,
+    "quantity": 1,
+    "price": "R$1,490.16"
+  },
+  {
+    "name": "Great Library of Solana",
+    "expansion": "Monarch - Unlimited",
+    "price_target": 160,
+    "quantity": 3,
+    "price": "R$2,158.52"
+  },
+  {
+    "name": "Great Library of Solana",
+    "expansion": "Monarch - Unlimited",
+    "price_target": 160,
+    "quantity": 1,
+    "price": "R$2,158.60"
+  },
+  {
+    "name": "Great Library of Solana",
+    "expansion": "Monarch - Unlimited",
+    "price_target": 160,
+    "quantity": 1,
+    "price": "R$2,232.79"
+  },
+  {
+    "name": "Great Library of Solana",
+    "expansion": "Monarch - Unlimited",
+    "price_target": 160,
+    "quantity": 1,
+    "price": "R$2,604.22"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Armory Events",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "R$487.51"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Armory Events",
+    "price_target": 6.5,
+    "quantity": 2,
+    "price": "R$487.51"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Armory Events",
+    "price_target": 6.5,
+    "quantity": 4,
+    "price": "R$747.38"
+  },
+  {
+    "name": "Crown of Seeds",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 16.23,
+    "quantity": 1,
+    "price": "R$102.68"
+  },
+  {
+    "name": "Crown of Seeds",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 16.23,
+    "quantity": 2,
+    "price": "R$102.68"
+  },
+  {
+    "name": "Crown of Seeds",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 16.23,
+    "quantity": 2,
+    "price": "R$143.98"
+  },
+  {
+    "name": "Crown of Seeds",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 16.23,
+    "quantity": 1,
+    "price": "R$145.21"
+  },
+  {
+    "name": "Crown of Seeds",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 16.23,
+    "quantity": 1,
+    "price": "R$159.47"
+  },
+  {
+    "name": "Crown of Seeds",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 16.23,
+    "quantity": 1,
+    "price": "R$162.08"
+  },
+  {
+    "name": "Crown of Seeds",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 16.23,
+    "quantity": 1,
+    "price": "R$256.16"
+  },
+  {
+    "name": "Crown of Seeds",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 16.23,
+    "quantity": 1,
+    "price": "R$285.72"
+  },
+  {
+    "name": "Crown of Seeds",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 16.23,
+    "quantity": 1,
+    "price": "R$338.98"
+  },
+  {
+    "name": "Crown of Seeds",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 16.23,
+    "quantity": 1,
+    "price": "R$524.57"
+  },
+  {
+    "name": "Crown of Seeds",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 16.23,
+    "quantity": 1,
+    "price": "R$621.05"
+  },
+  {
+    "name": "Crown of Seeds",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 16.23,
+    "quantity": 1,
+    "price": "R$747.46"
+  },
+  {
+    "name": "Crown of Seeds",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 16.23,
+    "quantity": 1,
+    "price": "R$1,452.66"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 23,
+    "quantity": 1,
+    "price": "R$206.02"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 23,
+    "quantity": 1,
+    "price": "R$206.02"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 23,
+    "quantity": 2,
+    "price": "R$208.42"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 23,
+    "quantity": 1,
+    "price": "R$242.48"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 23,
+    "quantity": 2,
+    "price": "R$265.99"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 23,
+    "quantity": 1,
+    "price": "R$271.21"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 23,
+    "quantity": 1,
+    "price": "R$278.52"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 23,
+    "quantity": 1,
+    "price": "R$292.36"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 23,
+    "quantity": 1,
+    "price": "R$298.49"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 23,
+    "quantity": 1,
+    "price": "R$338.98"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 23,
+    "quantity": 1,
+    "price": "R$338.98"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 23,
+    "quantity": 2,
+    "price": "R$338.98"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 23,
+    "quantity": 1,
+    "price": "R$376.03"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 23,
+    "quantity": 1,
+    "price": "R$894.98"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - Unlimited",
+    "price_target": 23,
+    "quantity": 2,
+    "price": "R$1,371.32"
+  },
+  {
+    "name": "Erase Face",
+    "expansion": "Judge Promos",
+    "price_target": 16,
+    "quantity": 1,
+    "price": "R$747.38"
+  },
+  {
+    "name": "Erase Face",
+    "expansion": "Judge Promos",
+    "price_target": 16,
+    "quantity": 1,
+    "price": "R$1,044.54"
+  },
+  {
+    "name": "Poison the Well",
+    "expansion": "Judge Promos",
+    "price_target": 5,
+    "quantity": 1,
+    "price": "R$524.20"
+  },
+  {
+    "name": "Poison the Well",
+    "expansion": "Judge Promos",
+    "price_target": 5,
+    "quantity": 1,
+    "price": "R$524.57"
+  },
+  {
+    "name": "Poison the Well",
+    "expansion": "Judge Promos",
+    "price_target": 5,
+    "quantity": 1,
+    "price": "R$637.52"
+  },
+  {
+    "name": "Poison the Well",
+    "expansion": "Judge Promos",
+    "price_target": 5,
+    "quantity": 1,
+    "price": "R$970.27"
+  },
+  {
+    "name": "This Round's on Me",
+    "expansion": "Everfest - First",
+    "price_target": 5,
+    "quantity": 1,
+    "price": "R$25.48"
+  },
+  {
+    "name": "This Round's on Me",
+    "expansion": "Everfest - First",
+    "price_target": 5,
+    "quantity": 3,
+    "price": "R$28.22"
+  },
+  {
+    "name": "This Round's on Me",
+    "expansion": "Everfest - First",
+    "price_target": 5,
+    "quantity": 3,
+    "price": "R$30.74"
+  },
+  {
+    "name": "This Round's on Me",
+    "expansion": "Everfest - First",
+    "price_target": 5,
+    "quantity": 3,
+    "price": "R$32.78"
+  },
+  {
+    "name": "This Round's on Me",
+    "expansion": "Everfest - First",
+    "price_target": 5,
+    "quantity": 3,
+    "price": "R$40.43"
+  },
+  {
+    "name": "This Round's on Me",
+    "expansion": "Everfest - First",
+    "price_target": 5,
+    "quantity": 1,
+    "price": "R$50.04"
+  },
+  {
+    "name": "This Round's on Me",
+    "expansion": "Everfest - First",
+    "price_target": 5,
+    "quantity": 1,
+    "price": "R$58.32"
+  },
+  {
+    "name": "This Round's on Me",
+    "expansion": "Everfest - First",
+    "price_target": 5,
+    "quantity": 6,
+    "price": "R$63.58"
+  },
+  {
+    "name": "This Round's on Me",
+    "expansion": "Everfest - First",
+    "price_target": 5,
+    "quantity": 1,
+    "price": "R$65.24"
+  },
+  {
+    "name": "This Round's on Me",
+    "expansion": "Everfest - First",
+    "price_target": 5,
+    "quantity": 1,
+    "price": "R$74.42"
+  },
+  {
+    "name": "This Round's on Me",
+    "expansion": "Everfest - First",
+    "price_target": 5,
+    "quantity": 2,
+    "price": "R$75.38"
+  },
+  {
+    "name": "This Round's on Me",
+    "expansion": "Everfest - First",
+    "price_target": 5,
+    "quantity": 1,
+    "price": "R$86.15"
+  },
+  {
+    "name": "This Round's on Me",
+    "expansion": "Everfest - First",
+    "price_target": 5,
+    "quantity": 1,
+    "price": "R$98.11"
+  },
+  {
+    "name": "This Round's on Me",
+    "expansion": "Everfest - First",
+    "price_target": 5,
+    "quantity": 1,
+    "price": "R$112.97"
+  },
+  {
+    "name": "This Round's on Me",
+    "expansion": "Everfest - First",
+    "price_target": 5,
+    "quantity": 2,
+    "price": "R$124.07"
+  },
+  {
+    "name": "This Round's on Me",
+    "expansion": "Everfest - First",
+    "price_target": 5,
+    "quantity": 1,
+    "price": "R$132.72"
+  },
+  {
+    "name": "Grandeur of Valahai",
+    "expansion": "Everfest - First",
+    "price_target": 110,
+    "quantity": 3,
+    "price": "R$872.33"
+  },
+  {
+    "name": "Grandeur of Valahai",
+    "expansion": "Everfest - First",
+    "price_target": 110,
+    "quantity": 4,
+    "price": "R$1,103.89"
+  },
+  {
+    "name": "Grandeur of Valahai",
+    "expansion": "Everfest - First",
+    "price_target": 110,
+    "quantity": 4,
+    "price": "R$1,136.71"
+  },
+  {
+    "name": "Grandeur of Valahai",
+    "expansion": "Everfest - First",
+    "price_target": 110,
+    "quantity": 2,
+    "price": "R$1,213.91"
+  },
+  {
+    "name": "Grandeur of Valahai",
+    "expansion": "Everfest - First",
+    "price_target": 110,
+    "quantity": 1,
+    "price": "R$1,304.48"
+  },
+  {
+    "name": "Grandeur of Valahai",
+    "expansion": "Everfest - First",
+    "price_target": 110,
+    "quantity": 1,
+    "price": "R$1,312.49"
+  },
+  {
+    "name": "Grandeur of Valahai",
+    "expansion": "Everfest - First",
+    "price_target": 110,
+    "quantity": 1,
+    "price": "R$1,670.34"
+  },
+  {
+    "name": "Grandeur of Valahai",
+    "expansion": "Everfest - First",
+    "price_target": 110,
+    "quantity": 1,
+    "price": "R$3,124.12"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "History Pack 1",
+    "price_target": 73,
+    "quantity": 3,
+    "price": "$62.36"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "History Pack 1",
+    "price_target": 73,
+    "quantity": 2,
+    "price": "$68.23"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "History Pack 1",
+    "price_target": 73,
+    "quantity": 2,
+    "price": "$81.81"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "History Pack 1",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$82.72"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "History Pack 1",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$85.09"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "History Pack 1",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$85.54"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "History Pack 1",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$86.51"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "History Pack 1",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$86.54"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "History Pack 1",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$118.05"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "History Pack 1",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$118.06"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "History Pack 1",
+    "price_target": 32,
+    "quantity": 5,
+    "price": "$31.13"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "History Pack 1",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$36.96"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "History Pack 1",
+    "price_target": 32,
+    "quantity": 2,
+    "price": "$52.01"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "History Pack 1",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$60.10"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "History Pack 1",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$66.49"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "History Pack 1",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$66.52"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "History Pack 1",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$66.55"
+  },
+  {
+    "name": "Enlightened Strike",
+    "expansion": "History Pack 1",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$66.74"
+  },
+  {
+    "name": "Mask of Momentum",
+    "expansion": "History Pack 1",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$67.63"
+  },
+  {
+    "name": "Mask of Momentum",
+    "expansion": "History Pack 1",
+    "price_target": 73,
+    "quantity": 2,
+    "price": "$100.00"
+  },
+  {
+    "name": "Mask of Momentum",
+    "expansion": "History Pack 1",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$107.08"
+  },
+  {
+    "name": "Mask of Momentum",
+    "expansion": "History Pack 1",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$117.43"
+  },
+  {
+    "name": "Mask of Momentum",
+    "expansion": "History Pack 1",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$118.63"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "History Pack 1",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "$140.63"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "History Pack 1",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "$154.69"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "History Pack 1",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "$161.97"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "History Pack 1",
+    "price_target": 129,
+    "quantity": 2,
+    "price": "$162.78"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "History Pack 1",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "$171.21"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "History Pack 1",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "$188.95"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "History Pack 1",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "$198.59"
+  },
+  {
+    "name": "Erase Face",
+    "expansion": "Uprising",
+    "price_target": 16,
+    "quantity": 1,
+    "price": "R$97.02"
+  },
+  {
+    "name": "Erase Face",
+    "expansion": "Uprising",
+    "price_target": 16,
+    "quantity": 1,
+    "price": "R$99.00"
+  },
+  {
+    "name": "Erase Face",
+    "expansion": "Uprising",
+    "price_target": 16,
+    "quantity": 13,
+    "price": "R$115.06"
+  },
+  {
+    "name": "Erase Face",
+    "expansion": "Uprising",
+    "price_target": 16,
+    "quantity": 1,
+    "price": "R$118.45"
+  },
+  {
+    "name": "Erase Face",
+    "expansion": "Uprising",
+    "price_target": 16,
+    "quantity": 1,
+    "price": "R$129.88"
+  },
+  {
+    "name": "Erase Face",
+    "expansion": "Uprising",
+    "price_target": 16,
+    "quantity": 1,
+    "price": "R$147.77"
+  },
+  {
+    "name": "Erase Face",
+    "expansion": "Uprising",
+    "price_target": 16,
+    "quantity": 3,
+    "price": "R$163.68"
+  },
+  {
+    "name": "Erase Face",
+    "expansion": "Uprising",
+    "price_target": 16,
+    "quantity": 1,
+    "price": "R$167.90"
+  },
+  {
+    "name": "Erase Face",
+    "expansion": "Uprising",
+    "price_target": 16,
+    "quantity": 1,
+    "price": "R$176.50"
+  },
+  {
+    "name": "Erase Face",
+    "expansion": "Uprising",
+    "price_target": 16,
+    "quantity": 3,
+    "price": "R$177.66"
+  },
+  {
+    "name": "Erase Face",
+    "expansion": "Uprising",
+    "price_target": 16,
+    "quantity": 1,
+    "price": "R$180.62"
+  },
+  {
+    "name": "Erase Face",
+    "expansion": "Uprising",
+    "price_target": 16,
+    "quantity": 1,
+    "price": "R$225.78"
+  },
+  {
+    "name": "Erase Face",
+    "expansion": "Uprising",
+    "price_target": 16,
+    "quantity": 1,
+    "price": "R$225.78"
+  },
+  {
+    "name": "Erase Face",
+    "expansion": "Uprising",
+    "price_target": 16,
+    "quantity": 2,
+    "price": "R$300.95"
+  },
+  {
+    "name": "Erase Face",
+    "expansion": "Uprising",
+    "price_target": 16,
+    "quantity": 1,
+    "price": "R$331.55"
+  },
+  {
+    "name": "That All You Got?",
+    "expansion": "Uprising",
+    "price_target": 9,
+    "quantity": 2,
+    "price": "R$48.13"
+  },
+  {
+    "name": "That All You Got?",
+    "expansion": "Uprising",
+    "price_target": 9,
+    "quantity": 1,
+    "price": "R$54.24"
+  },
+  {
+    "name": "That All You Got?",
+    "expansion": "Uprising",
+    "price_target": 9,
+    "quantity": 1,
+    "price": "R$54.79"
+  },
+  {
+    "name": "That All You Got?",
+    "expansion": "Uprising",
+    "price_target": 9,
+    "quantity": 2,
+    "price": "R$60.46"
+  },
+  {
+    "name": "That All You Got?",
+    "expansion": "Uprising",
+    "price_target": 9,
+    "quantity": 2,
+    "price": "R$64.30"
+  },
+  {
+    "name": "That All You Got?",
+    "expansion": "Uprising",
+    "price_target": 9,
+    "quantity": 1,
+    "price": "R$66.40"
+  },
+  {
+    "name": "That All You Got?",
+    "expansion": "Uprising",
+    "price_target": 9,
+    "quantity": 2,
+    "price": "R$70.42"
+  },
+  {
+    "name": "That All You Got?",
+    "expansion": "Uprising",
+    "price_target": 9,
+    "quantity": 1,
+    "price": "R$70.42"
+  },
+  {
+    "name": "That All You Got?",
+    "expansion": "Uprising",
+    "price_target": 9,
+    "quantity": 2,
+    "price": "R$70.73"
+  },
+  {
+    "name": "That All You Got?",
+    "expansion": "Uprising",
+    "price_target": 9,
+    "quantity": 2,
+    "price": "R$92.83"
+  },
+  {
+    "name": "That All You Got?",
+    "expansion": "Uprising",
+    "price_target": 9,
+    "quantity": 2,
+    "price": "R$98.04"
+  },
+  {
+    "name": "That All You Got?",
+    "expansion": "Uprising",
+    "price_target": 9,
+    "quantity": 1,
+    "price": "R$104.76"
+  },
+  {
+    "name": "That All You Got?",
+    "expansion": "Uprising",
+    "price_target": 9,
+    "quantity": 1,
+    "price": "R$113.32"
+  },
+  {
+    "name": "That All You Got?",
+    "expansion": "Uprising",
+    "price_target": 9,
+    "quantity": 3,
+    "price": "R$121.80"
+  },
+  {
+    "name": "That All You Got?",
+    "expansion": "Uprising",
+    "price_target": 9,
+    "quantity": 2,
+    "price": "R$131.60"
+  },
+  {
+    "name": "That All You Got?",
+    "expansion": "Uprising",
+    "price_target": 9,
+    "quantity": 2,
+    "price": "R$185.58"
+  },
+  {
+    "name": "That All You Got?",
+    "expansion": "Uprising",
+    "price_target": 9,
+    "quantity": 2,
+    "price": "R$196.60"
+  },
+  {
+    "name": "That All You Got?",
+    "expansion": "Uprising",
+    "price_target": 9,
+    "quantity": 1,
+    "price": "R$221.47"
+  },
+  {
+    "name": "Crown of Providence",
+    "expansion": "Uprising",
+    "price_target": 115,
+    "quantity": 1,
+    "price": "R$830.41"
+  },
+  {
+    "name": "Crown of Providence",
+    "expansion": "Uprising",
+    "price_target": 115,
+    "quantity": 1,
+    "price": "R$944.08"
+  },
+  {
+    "name": "Crown of Providence",
+    "expansion": "Uprising",
+    "price_target": 115,
+    "quantity": 3,
+    "price": "R$1,070.52"
+  },
+  {
+    "name": "Crown of Providence",
+    "expansion": "Uprising",
+    "price_target": 115,
+    "quantity": 1,
+    "price": "R$1,510.03"
+  },
+  {
+    "name": "Crown of Providence",
+    "expansion": "Uprising",
+    "price_target": 115,
+    "quantity": 3,
+    "price": "R$1,783.69"
+  },
+  {
+    "name": "Crown of Providence",
+    "expansion": "Uprising",
+    "price_target": 115,
+    "quantity": 1,
+    "price": "R$2,084.17"
+  },
+  {
+    "name": "Crown of Providence",
+    "expansion": "Uprising",
+    "price_target": 115,
+    "quantity": 1,
+    "price": "R$2,232.86"
+  },
+  {
+    "name": "Blood of the Dracai",
+    "expansion": "Uprising",
+    "price_target": 20,
+    "quantity": 1,
+    "price": "R$143.63"
+  },
+  {
+    "name": "Blood of the Dracai",
+    "expansion": "Uprising",
+    "price_target": 20,
+    "quantity": 1,
+    "price": "R$153.74"
+  },
+  {
+    "name": "Blood of the Dracai",
+    "expansion": "Uprising",
+    "price_target": 20,
+    "quantity": 2,
+    "price": "R$154.98"
+  },
+  {
+    "name": "Blood of the Dracai",
+    "expansion": "Uprising",
+    "price_target": 20,
+    "quantity": 2,
+    "price": "R$162.74"
+  },
+  {
+    "name": "Blood of the Dracai",
+    "expansion": "Uprising",
+    "price_target": 20,
+    "quantity": 12,
+    "price": "R$170.42"
+  },
+  {
+    "name": "Blood of the Dracai",
+    "expansion": "Uprising",
+    "price_target": 20,
+    "quantity": 1,
+    "price": "R$184.56"
+  },
+  {
+    "name": "Blood of the Dracai",
+    "expansion": "Uprising",
+    "price_target": 20,
+    "quantity": 1,
+    "price": "R$259.42"
+  },
+  {
+    "name": "Blood of the Dracai",
+    "expansion": "Uprising",
+    "price_target": 20,
+    "quantity": 1,
+    "price": "R$263.74"
+  },
+  {
+    "name": "Blood of the Dracai",
+    "expansion": "Uprising",
+    "price_target": 20,
+    "quantity": 1,
+    "price": "R$263.81"
+  },
+  {
+    "name": "Blood of the Dracai",
+    "expansion": "Uprising",
+    "price_target": 20,
+    "quantity": 1,
+    "price": "R$283.12"
+  },
+  {
+    "name": "Blood of the Dracai",
+    "expansion": "Uprising",
+    "price_target": 20,
+    "quantity": 1,
+    "price": "R$411.76"
+  },
+  {
+    "name": "Blood of the Dracai",
+    "expansion": "Uprising",
+    "price_target": 20,
+    "quantity": 2,
+    "price": "R$461.35"
+  },
+  {
+    "name": "Blood of the Dracai",
+    "expansion": "Uprising",
+    "price_target": 20,
+    "quantity": 1,
+    "price": "R$467.60"
+  },
+  {
+    "name": "Blood of the Dracai",
+    "expansion": "Uprising",
+    "price_target": 20,
+    "quantity": 2,
+    "price": "R$552.22"
+  },
+  {
+    "name": "Blood of the Dracai",
+    "expansion": "Uprising",
+    "price_target": 20,
+    "quantity": 1,
+    "price": "R$556.73"
+  },
+  {
+    "name": "Blood of the Dracai",
+    "expansion": "Uprising",
+    "price_target": 20,
+    "quantity": 1,
+    "price": "R$579.02"
+  },
+  {
+    "name": "Blood of the Dracai",
+    "expansion": "Uprising",
+    "price_target": 20,
+    "quantity": 2,
+    "price": "R$598.85"
+  },
+  {
+    "name": "Blood of the Dracai",
+    "expansion": "Uprising",
+    "price_target": 20,
+    "quantity": 4,
+    "price": "R$636.54"
+  },
+  {
+    "name": "Blood of the Dracai",
+    "expansion": "Uprising",
+    "price_target": 20,
+    "quantity": 4,
+    "price": "R$638.04"
+  },
+  {
+    "name": "Blood of the Dracai",
+    "expansion": "Uprising",
+    "price_target": 20,
+    "quantity": 2,
+    "price": "R$747.46"
+  },
+  {
+    "name": "Blood of the Dracai",
+    "expansion": "Uprising",
+    "price_target": 20,
+    "quantity": 1,
+    "price": "R$747.46"
+  },
+  {
+    "name": "Blood of the Dracai",
+    "expansion": "Uprising",
+    "price_target": 20,
+    "quantity": 3,
+    "price": "R$925.63"
+  },
+  {
+    "name": "Blood of the Dracai",
+    "expansion": "Uprising",
+    "price_target": 20,
+    "quantity": 3,
+    "price": "R$933.13"
+  },
+  {
+    "name": "Blood of the Dracai",
+    "expansion": "Uprising",
+    "price_target": 20,
+    "quantity": 1,
+    "price": "R$1,369.70"
+  },
+  {
+    "name": "Blood of the Dracai",
+    "expansion": "Uprising",
+    "price_target": 20,
+    "quantity": 1,
+    "price": "R$2,975.20"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "Crucible of War - First",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "R$1,267.36"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "Crucible of War - First",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "R$1,638.71"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "Crucible of War - First",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "R$1,860.77"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Crucible of War - First",
+    "price_target": 8.4,
+    "quantity": 1,
+    "price": "R$249.47"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Crucible of War - First",
+    "price_target": 8.4,
+    "quantity": 3,
+    "price": "R$450.37"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Crucible of War - First",
+    "price_target": 8.4,
+    "quantity": 3,
+    "price": "R$500.96"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Crucible of War - First",
+    "price_target": 8.4,
+    "quantity": 1,
+    "price": "R$71,216.77"
+  },
+  {
+    "name": "Arknight Shard",
+    "expansion": "Crucible of War - First",
+    "price_target": 160,
+    "quantity": 1,
+    "price": "R$29,712.91"
+  },
+  {
+    "name": "Arknight Shard",
+    "expansion": "Crucible of War - First",
+    "price_target": 160,
+    "quantity": 1,
+    "price": "R$46,787.68"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "Arcane Rising - First",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "R$1,415.89"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "Arcane Rising - First",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "R$4,832.33"
+  },
+  {
+    "name": "Great Library of Solana",
+    "expansion": "Monarch - First",
+    "price_target": 160,
+    "quantity": 1,
+    "price": "R$2,283.32"
+  },
+  {
+    "name": "Great Library of Solana",
+    "expansion": "Monarch - First",
+    "price_target": 160,
+    "quantity": 1,
+    "price": "R$8,917.20"
+  },
+  {
+    "name": "Great Library of Solana",
+    "expansion": "Monarch - First",
+    "price_target": 160,
+    "quantity": 1,
+    "price": "R$22,211.60"
+  },
+  {
+    "name": "Crown of Seeds",
+    "expansion": "Tales of Aria - First",
+    "price_target": 16.23,
+    "quantity": 1,
+    "price": "R$162.08"
+  },
+  {
+    "name": "Crown of Seeds",
+    "expansion": "Tales of Aria - First",
+    "price_target": 16.23,
+    "quantity": 1,
+    "price": "R$338.60"
+  },
+  {
+    "name": "Crown of Seeds",
+    "expansion": "Tales of Aria - First",
+    "price_target": 16.23,
+    "quantity": 1,
+    "price": "R$338.98"
+  },
+  {
+    "name": "Crown of Seeds",
+    "expansion": "Tales of Aria - First",
+    "price_target": 16.23,
+    "quantity": 1,
+    "price": "R$734.98"
+  },
+  {
+    "name": "Crown of Seeds",
+    "expansion": "Tales of Aria - First",
+    "price_target": 16.23,
+    "quantity": 1,
+    "price": "R$747.46"
+  },
+  {
+    "name": "Crown of Seeds",
+    "expansion": "Tales of Aria - First",
+    "price_target": 16.23,
+    "quantity": 1,
+    "price": "R$1,490.16"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - First",
+    "price_target": 23,
+    "quantity": 9,
+    "price": "R$300.66"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - First",
+    "price_target": 23,
+    "quantity": 1,
+    "price": "R$323.94"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - First",
+    "price_target": 23,
+    "quantity": 1,
+    "price": "R$354.86"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - First",
+    "price_target": 23,
+    "quantity": 1,
+    "price": "R$363.13"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - First",
+    "price_target": 23,
+    "quantity": 1,
+    "price": "R$413.24"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - First",
+    "price_target": 23,
+    "quantity": 2,
+    "price": "R$428.62"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - First",
+    "price_target": 23,
+    "quantity": 1,
+    "price": "R$1,073.51"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - First",
+    "price_target": 23,
+    "quantity": 1,
+    "price": "R$1,808.78"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - First",
+    "price_target": 23,
+    "quantity": 1,
+    "price": "R$1,972.18"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - First",
+    "price_target": 23,
+    "quantity": 3,
+    "price": "R$2,232.79"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - First",
+    "price_target": 23,
+    "quantity": 1,
+    "price": "R$3,342.98"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - First",
+    "price_target": 23,
+    "quantity": 1,
+    "price": "R$5,938.96"
+  },
+  {
+    "name": "Korshem, Crossroad of Elements",
+    "expansion": "Tales of Aria - First",
+    "price_target": 23,
+    "quantity": 1,
+    "price": "R$7,424.36"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "Dynasty",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "R$6,395.08"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "Dynasty",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "R$10,361.03"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "Dynasty",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "R$11,145.31"
+  },
+  {
+    "name": "Crown of Dominion",
+    "expansion": "Dynasty",
+    "price_target": 114,
+    "quantity": 1,
+    "price": "R$733.51"
+  },
+  {
+    "name": "Crown of Dominion",
+    "expansion": "Dynasty",
+    "price_target": 114,
+    "quantity": 1,
+    "price": "R$802.80"
+  },
+  {
+    "name": "Crown of Dominion",
+    "expansion": "Dynasty",
+    "price_target": 114,
+    "quantity": 1,
+    "price": "R$862.10"
+  },
+  {
+    "name": "Crown of Dominion",
+    "expansion": "Dynasty",
+    "price_target": 114,
+    "quantity": 1,
+    "price": "R$872.38"
+  },
+  {
+    "name": "Crown of Dominion",
+    "expansion": "Dynasty",
+    "price_target": 114,
+    "quantity": 1,
+    "price": "R$886.42"
+  },
+  {
+    "name": "Crown of Dominion",
+    "expansion": "Dynasty",
+    "price_target": 114,
+    "quantity": 1,
+    "price": "R$912.42"
+  },
+  {
+    "name": "Crown of Dominion",
+    "expansion": "Dynasty",
+    "price_target": 114,
+    "quantity": 1,
+    "price": "R$952.15"
+  },
+  {
+    "name": "Crown of Dominion",
+    "expansion": "Dynasty",
+    "price_target": 114,
+    "quantity": 1,
+    "price": "R$1,022.63"
+  },
+  {
+    "name": "Crown of Dominion",
+    "expansion": "Dynasty",
+    "price_target": 114,
+    "quantity": 1,
+    "price": "R$1,024.80"
+  },
+  {
+    "name": "Crown of Dominion",
+    "expansion": "Dynasty",
+    "price_target": 114,
+    "quantity": 1,
+    "price": "R$1,190.66"
+  },
+  {
+    "name": "Crown of Dominion",
+    "expansion": "Dynasty",
+    "price_target": 114,
+    "quantity": 1,
+    "price": "R$1,826.76"
+  },
+  {
+    "name": "Crown of Dominion",
+    "expansion": "Dynasty",
+    "price_target": 114,
+    "quantity": 1,
+    "price": "R$1,861.51"
+  },
+  {
+    "name": "Crown of Dominion",
+    "expansion": "Dynasty",
+    "price_target": 114,
+    "quantity": 1,
+    "price": "R$3,201.08"
+  },
+  {
+    "name": "Crown of Dominion",
+    "expansion": "Dynasty",
+    "price_target": 114,
+    "quantity": 1,
+    "price": "R$5,575.03"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "R$3,429.55"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "R$181.14"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "R$183.44"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "R$184.86"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 3,
+    "price": "R$188.76"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "R$188.76"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 3,
+    "price": "R$198.05"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "R$210.11"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 2,
+    "price": "R$210.37"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 2,
+    "price": "R$215.76"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "R$218.09"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "R$231.72"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 4,
+    "price": "R$243.77"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "R$263.81"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 3,
+    "price": "R$263.81"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 3,
+    "price": "R$268.64"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "R$268.86"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 2,
+    "price": "R$305.52"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 3,
+    "price": "R$346.32"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 3,
+    "price": "R$376.10"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 2,
+    "price": "R$382.56"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 3,
+    "price": "R$403.86"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "R$455.82"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 5,
+    "price": "R$461.35"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 6,
+    "price": "R$501.16"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "R$541.87"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "R$697.85"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "Outsiders",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "R$1,118.81"
+  },
+  {
+    "name": "Amnesia",
+    "expansion": "Outsiders",
+    "price_target": 4.9,
+    "quantity": 5,
+    "price": "R$41.00"
+  },
+  {
+    "name": "Amnesia",
+    "expansion": "Outsiders",
+    "price_target": 4.9,
+    "quantity": 1,
+    "price": "R$43.61"
+  },
+  {
+    "name": "Amnesia",
+    "expansion": "Outsiders",
+    "price_target": 4.9,
+    "quantity": 1,
+    "price": "R$43.61"
+  },
+  {
+    "name": "Amnesia",
+    "expansion": "Outsiders",
+    "price_target": 4.9,
+    "quantity": 3,
+    "price": "R$44.78"
+  },
+  {
+    "name": "Amnesia",
+    "expansion": "Outsiders",
+    "price_target": 4.9,
+    "quantity": 2,
+    "price": "R$45.65"
+  },
+  {
+    "name": "Amnesia",
+    "expansion": "Outsiders",
+    "price_target": 4.9,
+    "quantity": 4,
+    "price": "R$48.04"
+  },
+  {
+    "name": "Amnesia",
+    "expansion": "Outsiders",
+    "price_target": 4.9,
+    "quantity": 1,
+    "price": "R$48.05"
+  },
+  {
+    "name": "Amnesia",
+    "expansion": "Outsiders",
+    "price_target": 4.9,
+    "quantity": 1,
+    "price": "R$52.93"
+  },
+  {
+    "name": "Amnesia",
+    "expansion": "Outsiders",
+    "price_target": 4.9,
+    "quantity": 1,
+    "price": "R$76.08"
+  },
+  {
+    "name": "Amnesia",
+    "expansion": "Outsiders",
+    "price_target": 4.9,
+    "quantity": 1,
+    "price": "R$83.59"
+  },
+  {
+    "name": "Amnesia",
+    "expansion": "Outsiders",
+    "price_target": 4.9,
+    "quantity": 1,
+    "price": "R$89.18"
+  },
+  {
+    "name": "Amnesia",
+    "expansion": "Outsiders",
+    "price_target": 4.9,
+    "quantity": 1,
+    "price": "R$89.23"
+  },
+  {
+    "name": "Amnesia",
+    "expansion": "Outsiders",
+    "price_target": 4.9,
+    "quantity": 1,
+    "price": "R$90.68"
+  },
+  {
+    "name": "Amnesia",
+    "expansion": "Outsiders",
+    "price_target": 4.9,
+    "quantity": 1,
+    "price": "R$92.17"
+  },
+  {
+    "name": "Amnesia",
+    "expansion": "Outsiders",
+    "price_target": 4.9,
+    "quantity": 1,
+    "price": "R$98.14"
+  },
+  {
+    "name": "Amnesia",
+    "expansion": "Outsiders",
+    "price_target": 4.9,
+    "quantity": 1,
+    "price": "R$106.03"
+  },
+  {
+    "name": "Amnesia",
+    "expansion": "Outsiders",
+    "price_target": 4.9,
+    "quantity": 1,
+    "price": "R$106.80"
+  },
+  {
+    "name": "Amnesia",
+    "expansion": "Outsiders",
+    "price_target": 4.9,
+    "quantity": 1,
+    "price": "R$111.29"
+  },
+  {
+    "name": "Amnesia",
+    "expansion": "Outsiders",
+    "price_target": 4.9,
+    "quantity": 3,
+    "price": "R$115.56"
+  },
+  {
+    "name": "Amnesia",
+    "expansion": "Outsiders",
+    "price_target": 4.9,
+    "quantity": 1,
+    "price": "R$128.20"
+  },
+  {
+    "name": "Amnesia",
+    "expansion": "Outsiders",
+    "price_target": 4.9,
+    "quantity": 1,
+    "price": "R$146.24"
+  },
+  {
+    "name": "Amnesia",
+    "expansion": "Outsiders",
+    "price_target": 4.9,
+    "quantity": 1,
+    "price": "R$173.80"
+  },
+  {
+    "name": "Amnesia",
+    "expansion": "Outsiders",
+    "price_target": 4.9,
+    "quantity": 2,
+    "price": "R$188.65"
+  },
+  {
+    "name": "Amnesia",
+    "expansion": "Outsiders",
+    "price_target": 4.9,
+    "quantity": 2,
+    "price": "R$376.10"
+  },
+  {
+    "name": "Concealed Blade",
+    "expansion": "Outsiders",
+    "price_target": 13,
+    "quantity": 1,
+    "price": "R$90.00"
+  },
+  {
+    "name": "Concealed Blade",
+    "expansion": "Outsiders",
+    "price_target": 13,
+    "quantity": 4,
+    "price": "R$90.68"
+  },
+  {
+    "name": "Concealed Blade",
+    "expansion": "Outsiders",
+    "price_target": 13,
+    "quantity": 3,
+    "price": "R$93.14"
+  },
+  {
+    "name": "Concealed Blade",
+    "expansion": "Outsiders",
+    "price_target": 13,
+    "quantity": 1,
+    "price": "R$93.14"
+  },
+  {
+    "name": "Concealed Blade",
+    "expansion": "Outsiders",
+    "price_target": 13,
+    "quantity": 3,
+    "price": "R$95.88"
+  },
+  {
+    "name": "Concealed Blade",
+    "expansion": "Outsiders",
+    "price_target": 13,
+    "quantity": 1,
+    "price": "R$100.01"
+  },
+  {
+    "name": "Concealed Blade",
+    "expansion": "Outsiders",
+    "price_target": 13,
+    "quantity": 1,
+    "price": "R$102.01"
+  },
+  {
+    "name": "Concealed Blade",
+    "expansion": "Outsiders",
+    "price_target": 13,
+    "quantity": 7,
+    "price": "R$105.62"
+  },
+  {
+    "name": "Concealed Blade",
+    "expansion": "Outsiders",
+    "price_target": 13,
+    "quantity": 1,
+    "price": "R$114.60"
+  },
+  {
+    "name": "Concealed Blade",
+    "expansion": "Outsiders",
+    "price_target": 13,
+    "quantity": 12,
+    "price": "R$116.74"
+  },
+  {
+    "name": "Concealed Blade",
+    "expansion": "Outsiders",
+    "price_target": 13,
+    "quantity": 3,
+    "price": "R$119.59"
+  },
+  {
+    "name": "Concealed Blade",
+    "expansion": "Outsiders",
+    "price_target": 13,
+    "quantity": 3,
+    "price": "R$121.66"
+  },
+  {
+    "name": "Concealed Blade",
+    "expansion": "Outsiders",
+    "price_target": 13,
+    "quantity": 2,
+    "price": "R$124.55"
+  },
+  {
+    "name": "Concealed Blade",
+    "expansion": "Outsiders",
+    "price_target": 13,
+    "quantity": 1,
+    "price": "R$125.86"
+  },
+  {
+    "name": "Concealed Blade",
+    "expansion": "Outsiders",
+    "price_target": 13,
+    "quantity": 2,
+    "price": "R$129.82"
+  },
+  {
+    "name": "Concealed Blade",
+    "expansion": "Outsiders",
+    "price_target": 13,
+    "quantity": 1,
+    "price": "R$162.80"
+  },
+  {
+    "name": "Concealed Blade",
+    "expansion": "Outsiders",
+    "price_target": 13,
+    "quantity": 1,
+    "price": "R$188.65"
+  },
+  {
+    "name": "Concealed Blade",
+    "expansion": "Outsiders",
+    "price_target": 13,
+    "quantity": 1,
+    "price": "R$188.65"
+  },
+  {
+    "name": "Concealed Blade",
+    "expansion": "Outsiders",
+    "price_target": 13,
+    "quantity": 4,
+    "price": "R$193.22"
+  },
+  {
+    "name": "Knives Out",
+    "expansion": "Outsiders",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "R$15.41"
+  },
+  {
+    "name": "Knives Out",
+    "expansion": "Outsiders",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "R$17.32"
+  },
+  {
+    "name": "Knives Out",
+    "expansion": "Outsiders",
+    "price_target": 1.7,
+    "quantity": 3,
+    "price": "R$19.31"
+  },
+  {
+    "name": "Knives Out",
+    "expansion": "Outsiders",
+    "price_target": 1.7,
+    "quantity": 2,
+    "price": "R$21.28"
+  },
+  {
+    "name": "Knives Out",
+    "expansion": "Outsiders",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "R$22.69"
+  },
+  {
+    "name": "Knives Out",
+    "expansion": "Outsiders",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "R$23.03"
+  },
+  {
+    "name": "Knives Out",
+    "expansion": "Outsiders",
+    "price_target": 1.7,
+    "quantity": 2,
+    "price": "R$26.54"
+  },
+  {
+    "name": "Knives Out",
+    "expansion": "Outsiders",
+    "price_target": 1.7,
+    "quantity": 3,
+    "price": "R$26.66"
+  },
+  {
+    "name": "Knives Out",
+    "expansion": "Outsiders",
+    "price_target": 1.7,
+    "quantity": 6,
+    "price": "R$27.48"
+  },
+  {
+    "name": "Knives Out",
+    "expansion": "Outsiders",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "R$28.67"
+  },
+  {
+    "name": "Knives Out",
+    "expansion": "Outsiders",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "R$33.79"
+  },
+  {
+    "name": "Knives Out",
+    "expansion": "Outsiders",
+    "price_target": 1.7,
+    "quantity": 3,
+    "price": "R$59.34"
+  },
+  {
+    "name": "Knives Out",
+    "expansion": "Outsiders",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "R$59.34"
+  },
+  {
+    "name": "Knives Out",
+    "expansion": "Outsiders",
+    "price_target": 1.7,
+    "quantity": 3,
+    "price": "R$73.45"
+  },
+  {
+    "name": "Knives Out",
+    "expansion": "Outsiders",
+    "price_target": 1.7,
+    "quantity": 3,
+    "price": "R$75.38"
+  },
+  {
+    "name": "Knives Out",
+    "expansion": "Outsiders",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "R$98.11"
+  },
+  {
+    "name": "Plague Hive",
+    "expansion": "Outsiders",
+    "price_target": 39,
+    "quantity": 1,
+    "price": "R$293.21"
+  },
+  {
+    "name": "Plague Hive",
+    "expansion": "Outsiders",
+    "price_target": 39,
+    "quantity": 1,
+    "price": "R$293.40"
+  },
+  {
+    "name": "Plague Hive",
+    "expansion": "Outsiders",
+    "price_target": 39,
+    "quantity": 11,
+    "price": "R$323.18"
+  },
+  {
+    "name": "Plague Hive",
+    "expansion": "Outsiders",
+    "price_target": 39,
+    "quantity": 1,
+    "price": "R$348.97"
+  },
+  {
+    "name": "Plague Hive",
+    "expansion": "Outsiders",
+    "price_target": 39,
+    "quantity": 1,
+    "price": "R$353.75"
+  },
+  {
+    "name": "Plague Hive",
+    "expansion": "Outsiders",
+    "price_target": 39,
+    "quantity": 1,
+    "price": "R$373.26"
+  },
+  {
+    "name": "Plague Hive",
+    "expansion": "Outsiders",
+    "price_target": 39,
+    "quantity": 1,
+    "price": "R$375.61"
+  },
+  {
+    "name": "Plague Hive",
+    "expansion": "Outsiders",
+    "price_target": 39,
+    "quantity": 1,
+    "price": "R$376.10"
+  },
+  {
+    "name": "Plague Hive",
+    "expansion": "Outsiders",
+    "price_target": 39,
+    "quantity": 1,
+    "price": "R$476.38"
+  },
+  {
+    "name": "Plague Hive",
+    "expansion": "Outsiders",
+    "price_target": 39,
+    "quantity": 1,
+    "price": "R$549.30"
+  },
+  {
+    "name": "Plague Hive",
+    "expansion": "Outsiders",
+    "price_target": 39,
+    "quantity": 1,
+    "price": "R$598.92"
+  },
+  {
+    "name": "Plague Hive",
+    "expansion": "Outsiders",
+    "price_target": 39,
+    "quantity": 1,
+    "price": "R$673.19"
+  },
+  {
+    "name": "Plague Hive",
+    "expansion": "Outsiders",
+    "price_target": 39,
+    "quantity": 1,
+    "price": "R$740.03"
+  },
+  {
+    "name": "Plague Hive",
+    "expansion": "Outsiders",
+    "price_target": 39,
+    "quantity": 1,
+    "price": "R$742.63"
+  },
+  {
+    "name": "Plague Hive",
+    "expansion": "Outsiders",
+    "price_target": 39,
+    "quantity": 1,
+    "price": "R$745.22"
+  },
+  {
+    "name": "Plague Hive",
+    "expansion": "Outsiders",
+    "price_target": 39,
+    "quantity": 1,
+    "price": "R$747.46"
+  },
+  {
+    "name": "Plague Hive",
+    "expansion": "Outsiders",
+    "price_target": 39,
+    "quantity": 1,
+    "price": "R$1,007.40"
+  },
+  {
+    "name": "Plague Hive",
+    "expansion": "Outsiders",
+    "price_target": 39,
+    "quantity": 1,
+    "price": "R$1,106.33"
+  },
+  {
+    "name": "Plague Hive",
+    "expansion": "Outsiders",
+    "price_target": 39,
+    "quantity": 1,
+    "price": "R$1,126.61"
+  },
+  {
+    "name": "Plague Hive",
+    "expansion": "Outsiders",
+    "price_target": 39,
+    "quantity": 1,
+    "price": "R$1,480.14"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 6,
+    "price": "$15.42"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 1,
+    "price": "$19.70"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 1,
+    "price": "$21.27"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 5,
+    "price": "$21.44"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 6,
+    "price": "$21.44"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 1,
+    "price": "$23.00"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 5,
+    "price": "$23.00"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 1,
+    "price": "$24.02"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 1,
+    "price": "$24.65"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 1,
+    "price": "$26.26"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 1,
+    "price": "$26.67"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 4,
+    "price": "$27.05"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 1,
+    "price": "$29.16"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 1,
+    "price": "$30.46"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 3,
+    "price": "$31.15"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 1,
+    "price": "$31.15"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 1,
+    "price": "$31.73"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 1,
+    "price": "$34.80"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 6,
+    "price": "$35.30"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 2,
+    "price": "$35.39"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 1,
+    "price": "$36.47"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 2,
+    "price": "$38.76"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 2,
+    "price": "$39.31"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 1,
+    "price": "$41.17"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 3,
+    "price": "$50.01"
+  },
+  {
+    "name": "Censor",
+    "expansion": "Dusk till dawn",
+    "price_target": 9,
+    "quantity": 1,
+    "price": "$66.76"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Dusk till dawn",
+    "price_target": 25,
+    "quantity": 6,
+    "price": "$33.47"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Dusk till dawn",
+    "price_target": 25,
+    "quantity": 1,
+    "price": "$33.52"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Dusk till dawn",
+    "price_target": 25,
+    "quantity": 6,
+    "price": "$38.08"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Dusk till dawn",
+    "price_target": 25,
+    "quantity": 8,
+    "price": "$41.17"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Dusk till dawn",
+    "price_target": 25,
+    "quantity": 6,
+    "price": "$42.86"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Dusk till dawn",
+    "price_target": 25,
+    "quantity": 2,
+    "price": "$43.39"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Dusk till dawn",
+    "price_target": 25,
+    "quantity": 3,
+    "price": "$45.27"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Dusk till dawn",
+    "price_target": 25,
+    "quantity": 11,
+    "price": "$45.47"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Dusk till dawn",
+    "price_target": 25,
+    "quantity": 1,
+    "price": "$49.52"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Dusk till dawn",
+    "price_target": 25,
+    "quantity": 6,
+    "price": "$49.58"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Dusk till dawn",
+    "price_target": 25,
+    "quantity": 4,
+    "price": "$52.63"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Dusk till dawn",
+    "price_target": 25,
+    "quantity": 1,
+    "price": "$53.42"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Dusk till dawn",
+    "price_target": 25,
+    "quantity": 4,
+    "price": "$53.88"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Dusk till dawn",
+    "price_target": 25,
+    "quantity": 7,
+    "price": "$57.52"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Dusk till dawn",
+    "price_target": 25,
+    "quantity": 3,
+    "price": "$57.53"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Dusk till dawn",
+    "price_target": 25,
+    "quantity": 7,
+    "price": "$64.81"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Dusk till dawn",
+    "price_target": 25,
+    "quantity": 1,
+    "price": "$65.30"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Dusk till dawn",
+    "price_target": 25,
+    "quantity": 3,
+    "price": "$65.83"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Dusk till dawn",
+    "price_target": 25,
+    "quantity": 7,
+    "price": "$71.10"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Dusk till dawn",
+    "price_target": 25,
+    "quantity": 1,
+    "price": "$86.54"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Dusk till dawn",
+    "price_target": 25,
+    "quantity": 1,
+    "price": "$106.30"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Dusk till dawn",
+    "price_target": 25,
+    "quantity": 3,
+    "price": "$119.49"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Dusk till dawn",
+    "price_target": 25,
+    "quantity": 1,
+    "price": "$145.85"
+  },
+  {
+    "name": "Poison the Well",
+    "expansion": "Dusk till dawn",
+    "price_target": 5,
+    "quantity": 1,
+    "price": "$11.30"
+  },
+  {
+    "name": "Poison the Well",
+    "expansion": "Dusk till dawn",
+    "price_target": 5,
+    "quantity": 2,
+    "price": "$13.89"
+  },
+  {
+    "name": "Poison the Well",
+    "expansion": "Dusk till dawn",
+    "price_target": 5,
+    "quantity": 6,
+    "price": "$14.13"
+  },
+  {
+    "name": "Poison the Well",
+    "expansion": "Dusk till dawn",
+    "price_target": 5,
+    "quantity": 3,
+    "price": "$14.51"
+  },
+  {
+    "name": "Poison the Well",
+    "expansion": "Dusk till dawn",
+    "price_target": 5,
+    "quantity": 1,
+    "price": "$15.13"
+  },
+  {
+    "name": "Poison the Well",
+    "expansion": "Dusk till dawn",
+    "price_target": 5,
+    "quantity": 1,
+    "price": "$15.24"
+  },
+  {
+    "name": "Poison the Well",
+    "expansion": "Dusk till dawn",
+    "price_target": 5,
+    "quantity": 1,
+    "price": "$16.15"
+  },
+  {
+    "name": "Poison the Well",
+    "expansion": "Dusk till dawn",
+    "price_target": 5,
+    "quantity": 2,
+    "price": "$16.46"
+  },
+  {
+    "name": "Poison the Well",
+    "expansion": "Dusk till dawn",
+    "price_target": 5,
+    "quantity": 2,
+    "price": "$16.46"
+  },
+  {
+    "name": "Poison the Well",
+    "expansion": "Dusk till dawn",
+    "price_target": 5,
+    "quantity": 1,
+    "price": "$17.28"
+  },
+  {
+    "name": "Poison the Well",
+    "expansion": "Dusk till dawn",
+    "price_target": 5,
+    "quantity": 2,
+    "price": "$17.28"
+  },
+  {
+    "name": "Poison the Well",
+    "expansion": "Dusk till dawn",
+    "price_target": 5,
+    "quantity": 1,
+    "price": "$17.94"
+  },
+  {
+    "name": "Poison the Well",
+    "expansion": "Dusk till dawn",
+    "price_target": 5,
+    "quantity": 2,
+    "price": "$21.45"
+  },
+  {
+    "name": "Poison the Well",
+    "expansion": "Dusk till dawn",
+    "price_target": 5,
+    "quantity": 3,
+    "price": "$22.00"
+  },
+  {
+    "name": "Poison the Well",
+    "expansion": "Dusk till dawn",
+    "price_target": 5,
+    "quantity": 4,
+    "price": "$23.48"
+  },
+  {
+    "name": "Poison the Well",
+    "expansion": "Dusk till dawn",
+    "price_target": 5,
+    "quantity": 1,
+    "price": "$23.49"
+  },
+  {
+    "name": "Poison the Well",
+    "expansion": "Dusk till dawn",
+    "price_target": 5,
+    "quantity": 1,
+    "price": "$24.60"
+  },
+  {
+    "name": "Poison the Well",
+    "expansion": "Dusk till dawn",
+    "price_target": 5,
+    "quantity": 3,
+    "price": "$26.72"
+  },
+  {
+    "name": "Poison the Well",
+    "expansion": "Dusk till dawn",
+    "price_target": 5,
+    "quantity": 3,
+    "price": "$38.13"
+  },
+  {
+    "name": "Crown of Providence",
+    "expansion": "Dusk till dawn",
+    "price_target": 115,
+    "quantity": 1,
+    "price": "$184.55"
+  },
+  {
+    "name": "Crown of Providence",
+    "expansion": "Dusk till dawn",
+    "price_target": 115,
+    "quantity": 1,
+    "price": "$198.59"
+  },
+  {
+    "name": "Light of Sol",
+    "expansion": "Dusk till dawn",
+    "price_target": 80,
+    "quantity": 2,
+    "price": "$99.70"
+  },
+  {
+    "name": "Light of Sol",
+    "expansion": "Dusk till dawn",
+    "price_target": 80,
+    "quantity": 1,
+    "price": "$115.52"
+  },
+  {
+    "name": "Light of Sol",
+    "expansion": "Dusk till dawn",
+    "price_target": 80,
+    "quantity": 1,
+    "price": "$115.53"
+  },
+  {
+    "name": "Light of Sol",
+    "expansion": "Dusk till dawn",
+    "price_target": 80,
+    "quantity": 2,
+    "price": "$145.11"
+  },
+  {
+    "name": "Light of Sol",
+    "expansion": "Dusk till dawn",
+    "price_target": 80,
+    "quantity": 1,
+    "price": "$159.04"
+  },
+  {
+    "name": "Light of Sol",
+    "expansion": "Dusk till dawn",
+    "price_target": 80,
+    "quantity": 1,
+    "price": "$159.27"
+  },
+  {
+    "name": "Light of Sol",
+    "expansion": "Dusk till dawn",
+    "price_target": 80,
+    "quantity": 1,
+    "price": "$172.21"
+  },
+  {
+    "name": "Light of Sol",
+    "expansion": "Dusk till dawn",
+    "price_target": 80,
+    "quantity": 1,
+    "price": "$191.85"
+  },
+  {
+    "name": "Light of Sol",
+    "expansion": "Dusk till dawn",
+    "price_target": 80,
+    "quantity": 1,
+    "price": "$195.16"
+  },
+  {
+    "name": "Light of Sol",
+    "expansion": "Dusk till dawn",
+    "price_target": 80,
+    "quantity": 1,
+    "price": "$199.14"
+  },
+  {
+    "name": "Light of Sol",
+    "expansion": "Dusk till dawn",
+    "price_target": 80,
+    "quantity": 2,
+    "price": "$207.57"
+  },
+  {
+    "name": "Light of Sol",
+    "expansion": "Dusk till dawn",
+    "price_target": 80,
+    "quantity": 1,
+    "price": "$396.32"
+  },
+  {
+    "name": "Light of Sol",
+    "expansion": "Dusk till dawn",
+    "price_target": 80,
+    "quantity": 1,
+    "price": "$405.69"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "Bright Lights",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "$120.84"
+  },
+  {
+    "name": "Fyendal's Spring Tunic",
+    "expansion": "Bright Lights",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "$289.54"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 1,
+    "price": "$3.02"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 2,
+    "price": "$3.73"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 3,
+    "price": "$3.78"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 1,
+    "price": "$3.84"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 2,
+    "price": "$3.85"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 1,
+    "price": "$4.07"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 1,
+    "price": "$4.18"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 6,
+    "price": "$4.18"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 3,
+    "price": "$4.18"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 3,
+    "price": "$4.23"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 1,
+    "price": "$4.62"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 1,
+    "price": "$4.77"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 13,
+    "price": "$4.92"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 1,
+    "price": "$5.33"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 1,
+    "price": "$5.63"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 1,
+    "price": "$6.15"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 1,
+    "price": "$6.54"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 8,
+    "price": "$7.19"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 2,
+    "price": "$7.42"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 1,
+    "price": "$7.70"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 5,
+    "price": "$7.88"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 1,
+    "price": "$8.59"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 2,
+    "price": "$13.93"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 1,
+    "price": "$16.09"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 3,
+    "price": "$19.23"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 3,
+    "price": "$20.05"
+  },
+  {
+    "name": "Wax Off",
+    "expansion": "Bright Lights",
+    "price_target": 2.5,
+    "quantity": 1,
+    "price": "$27.84"
+  },
+  {
+    "name": "Master Cog",
+    "expansion": "Bright Lights",
+    "price_target": 45,
+    "quantity": 1,
+    "price": "$59.40"
+  },
+  {
+    "name": "Master Cog",
+    "expansion": "Bright Lights",
+    "price_target": 45,
+    "quantity": 1,
+    "price": "$65.95"
+  },
+  {
+    "name": "Master Cog",
+    "expansion": "Bright Lights",
+    "price_target": 45,
+    "quantity": 1,
+    "price": "$81.02"
+  },
+  {
+    "name": "Master Cog",
+    "expansion": "Bright Lights",
+    "price_target": 45,
+    "quantity": 1,
+    "price": "$81.09"
+  },
+  {
+    "name": "Master Cog",
+    "expansion": "Bright Lights",
+    "price_target": 45,
+    "quantity": 2,
+    "price": "$81.10"
+  },
+  {
+    "name": "Master Cog",
+    "expansion": "Bright Lights",
+    "price_target": 45,
+    "quantity": 1,
+    "price": "$82.23"
+  },
+  {
+    "name": "Master Cog",
+    "expansion": "Bright Lights",
+    "price_target": 45,
+    "quantity": 3,
+    "price": "$87.68"
+  },
+  {
+    "name": "Master Cog",
+    "expansion": "Bright Lights",
+    "price_target": 45,
+    "quantity": 1,
+    "price": "$88.32"
+  },
+  {
+    "name": "Master Cog",
+    "expansion": "Bright Lights",
+    "price_target": 45,
+    "quantity": 1,
+    "price": "$94.86"
+  },
+  {
+    "name": "Master Cog",
+    "expansion": "Bright Lights",
+    "price_target": 45,
+    "quantity": 1,
+    "price": "$98.82"
+  },
+  {
+    "name": "Master Cog",
+    "expansion": "Bright Lights",
+    "price_target": 45,
+    "quantity": 1,
+    "price": "$104.99"
+  },
+  {
+    "name": "Master Cog",
+    "expansion": "Bright Lights",
+    "price_target": 45,
+    "quantity": 1,
+    "price": "$108.94"
+  },
+  {
+    "name": "Master Cog",
+    "expansion": "Bright Lights",
+    "price_target": 45,
+    "quantity": 1,
+    "price": "$112.90"
+  },
+  {
+    "name": "Master Cog",
+    "expansion": "Bright Lights",
+    "price_target": 45,
+    "quantity": 1,
+    "price": "$118.59"
+  },
+  {
+    "name": "Master Cog",
+    "expansion": "Bright Lights",
+    "price_target": 45,
+    "quantity": 1,
+    "price": "$153.21"
+  },
+  {
+    "name": "Master Cog",
+    "expansion": "Bright Lights",
+    "price_target": 45,
+    "quantity": 1,
+    "price": "$155.63"
+  },
+  {
+    "name": "Master Cog",
+    "expansion": "Bright Lights",
+    "price_target": 45,
+    "quantity": 1,
+    "price": "$155.63"
+  },
+  {
+    "name": "Master Cog",
+    "expansion": "Bright Lights",
+    "price_target": 45,
+    "quantity": 1,
+    "price": "$162.78"
+  },
+  {
+    "name": "Master Cog",
+    "expansion": "Bright Lights",
+    "price_target": 45,
+    "quantity": 1,
+    "price": "$183.91"
+  },
+  {
+    "name": "Master Cog",
+    "expansion": "Bright Lights",
+    "price_target": 45,
+    "quantity": 1,
+    "price": "$201.90"
+  },
+  {
+    "name": "Master Cog",
+    "expansion": "Bright Lights",
+    "price_target": 45,
+    "quantity": 1,
+    "price": "$203.11"
+  },
+  {
+    "name": "Master Cog",
+    "expansion": "Bright Lights",
+    "price_target": 45,
+    "quantity": 1,
+    "price": "$316.33"
+  },
+  {
+    "name": "Nasty Surprise",
+    "expansion": "Heavy Hitters",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "R$14.39"
+  },
+  {
+    "name": "Nasty Surprise",
+    "expansion": "Heavy Hitters",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "R$15.67"
+  },
+  {
+    "name": "Nasty Surprise",
+    "expansion": "Heavy Hitters",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "R$16.04"
+  },
+  {
+    "name": "Nasty Surprise",
+    "expansion": "Heavy Hitters",
+    "price_target": 1.7,
+    "quantity": 2,
+    "price": "R$16.24"
+  },
+  {
+    "name": "Nasty Surprise",
+    "expansion": "Heavy Hitters",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "R$16.32"
+  },
+  {
+    "name": "Nasty Surprise",
+    "expansion": "Heavy Hitters",
+    "price_target": 1.7,
+    "quantity": 2,
+    "price": "R$16.99"
+  },
+  {
+    "name": "Nasty Surprise",
+    "expansion": "Heavy Hitters",
+    "price_target": 1.7,
+    "quantity": 2,
+    "price": "R$17.03"
+  },
+  {
+    "name": "Nasty Surprise",
+    "expansion": "Heavy Hitters",
+    "price_target": 1.7,
+    "quantity": 8,
+    "price": "R$18.90"
+  },
+  {
+    "name": "Nasty Surprise",
+    "expansion": "Heavy Hitters",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "R$20.23"
+  },
+  {
+    "name": "Nasty Surprise",
+    "expansion": "Heavy Hitters",
+    "price_target": 1.7,
+    "quantity": 5,
+    "price": "R$20.65"
+  },
+  {
+    "name": "Nasty Surprise",
+    "expansion": "Heavy Hitters",
+    "price_target": 1.7,
+    "quantity": 4,
+    "price": "R$22.98"
+  },
+  {
+    "name": "Nasty Surprise",
+    "expansion": "Heavy Hitters",
+    "price_target": 1.7,
+    "quantity": 5,
+    "price": "R$22.98"
+  },
+  {
+    "name": "Nasty Surprise",
+    "expansion": "Heavy Hitters",
+    "price_target": 1.7,
+    "quantity": 6,
+    "price": "R$25.25"
+  },
+  {
+    "name": "Nasty Surprise",
+    "expansion": "Heavy Hitters",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "R$29.80"
+  },
+  {
+    "name": "Nasty Surprise",
+    "expansion": "Heavy Hitters",
+    "price_target": 1.7,
+    "quantity": 2,
+    "price": "R$30.53"
+  },
+  {
+    "name": "Nasty Surprise",
+    "expansion": "Heavy Hitters",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "R$31.74"
+  },
+  {
+    "name": "Nasty Surprise",
+    "expansion": "Heavy Hitters",
+    "price_target": 1.7,
+    "quantity": 4,
+    "price": "R$35.00"
+  },
+  {
+    "name": "Nasty Surprise",
+    "expansion": "Heavy Hitters",
+    "price_target": 1.7,
+    "quantity": 2,
+    "price": "R$36.48"
+  },
+  {
+    "name": "Nasty Surprise",
+    "expansion": "Heavy Hitters",
+    "price_target": 1.7,
+    "quantity": 3,
+    "price": "R$39.14"
+  },
+  {
+    "name": "Nasty Surprise",
+    "expansion": "Heavy Hitters",
+    "price_target": 1.7,
+    "quantity": 2,
+    "price": "R$48.07"
+  },
+  {
+    "name": "Nasty Surprise",
+    "expansion": "Heavy Hitters",
+    "price_target": 1.7,
+    "quantity": 3,
+    "price": "R$59.04"
+  },
+  {
+    "name": "Nasty Surprise",
+    "expansion": "Heavy Hitters",
+    "price_target": 1.7,
+    "quantity": 3,
+    "price": "R$66.77"
+  },
+  {
+    "name": "Nasty Surprise",
+    "expansion": "Heavy Hitters",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "R$75.38"
+  },
+  {
+    "name": "Nasty Surprise",
+    "expansion": "Heavy Hitters",
+    "price_target": 1.7,
+    "quantity": 3,
+    "price": "R$110.74"
+  },
+  {
+    "name": "Nasty Surprise",
+    "expansion": "Heavy Hitters",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "R$150.55"
+  },
+  {
+    "name": "Deathmatch Arena",
+    "expansion": "Heavy Hitters",
+    "price_target": 110,
+    "quantity": 4,
+    "price": "R$918.00"
+  },
+  {
+    "name": "Deathmatch Arena",
+    "expansion": "Heavy Hitters",
+    "price_target": 110,
+    "quantity": 1,
+    "price": "R$936.68"
+  },
+  {
+    "name": "Deathmatch Arena",
+    "expansion": "Heavy Hitters",
+    "price_target": 110,
+    "quantity": 2,
+    "price": "R$988.55"
+  },
+  {
+    "name": "Deathmatch Arena",
+    "expansion": "Heavy Hitters",
+    "price_target": 110,
+    "quantity": 1,
+    "price": "R$1,086.97"
+  },
+  {
+    "name": "Deathmatch Arena",
+    "expansion": "Heavy Hitters",
+    "price_target": 110,
+    "quantity": 1,
+    "price": "R$1,380.98"
+  },
+  {
+    "name": "Will of Arcana",
+    "expansion": "Rosetta",
+    "price_target": 47,
+    "quantity": 1,
+    "price": "$68.18"
+  },
+  {
+    "name": "Will of Arcana",
+    "expansion": "Rosetta",
+    "price_target": 47,
+    "quantity": 1,
+    "price": "$74.83"
+  },
+  {
+    "name": "Will of Arcana",
+    "expansion": "Rosetta",
+    "price_target": 47,
+    "quantity": 1,
+    "price": "$75.73"
+  },
+  {
+    "name": "Will of Arcana",
+    "expansion": "Rosetta",
+    "price_target": 47,
+    "quantity": 1,
+    "price": "$124.43"
+  },
+  {
+    "name": "Will of Arcana",
+    "expansion": "Rosetta",
+    "price_target": 47,
+    "quantity": 2,
+    "price": "$139.02"
+  },
+  {
+    "name": "Will of Arcana",
+    "expansion": "Rosetta",
+    "price_target": 47,
+    "quantity": 1,
+    "price": "$462.17"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Rosetta - Archive Pack",
+    "price_target": 25,
+    "quantity": 3,
+    "price": "R$338.98"
+  },
+  {
+    "name": "Erase Face",
+    "expansion": "Part the Mistveil - Archive Pack",
+    "price_target": 16,
+    "quantity": 1,
+    "price": "$26.72"
+  },
+  {
+    "name": "This Round's on Me",
+    "expansion": "Part the Mistveil - Archive Pack",
+    "price_target": 5,
+    "quantity": 1,
+    "price": "$20.05"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$82.14"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$87.12"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 2,
+    "price": "$91.19"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$106.30"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 7,
+    "price": "$121.34"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$131.41"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$132.57"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 3,
+    "price": "$132.67"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 2,
+    "price": "$448.16"
+  },
+  {
+    "name": "Command and Conquer",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$13,183.43"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 2,
+    "price": "$66.76"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 2,
+    "price": "$68.40"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$69.69"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$80.14"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 8,
+    "price": "$81.76"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$81.80"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$83.77"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 2,
+    "price": "$83.88"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 2,
+    "price": "$87.09"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 2,
+    "price": "$89.69"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$91.94"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$92.31"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$93.97"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 2,
+    "price": "$97.10"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$102.40"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$103.77"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$111.58"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$114.20"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$117.25"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$120.63"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$124.48"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$125.88"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 3,
+    "price": "$132.67"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 3,
+    "price": "$136.20"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$284.24"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 2,
+    "price": "$308.52"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "expansion": "The Hunted",
+    "price_target": 73,
+    "quantity": 1,
+    "price": "$462.24"
+  },
+  {
+    "name": "Blood Splattered Vest",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$107.14"
+  },
+  {
+    "name": "Blood Splattered Vest",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$112.90"
+  },
+  {
+    "name": "Blood Splattered Vest",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$114.66"
+  },
+  {
+    "name": "Blood Splattered Vest",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$114.67"
+  },
+  {
+    "name": "Blood Splattered Vest",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$118.14"
+  },
+  {
+    "name": "Blood Splattered Vest",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 4,
+    "price": "$118.24"
+  },
+  {
+    "name": "Blood Splattered Vest",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$118.83"
+  },
+  {
+    "name": "Blood Splattered Vest",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 2,
+    "price": "$119.49"
+  },
+  {
+    "name": "Blood Splattered Vest",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$126.04"
+  },
+  {
+    "name": "Blood Splattered Vest",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$136.06"
+  },
+  {
+    "name": "Blood Splattered Vest",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 2,
+    "price": "$62.03"
+  },
+  {
+    "name": "Blood Splattered Vest",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$64.12"
+  },
+  {
+    "name": "Blood Splattered Vest",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 5,
+    "price": "$65.61"
+  },
+  {
+    "name": "Blood Splattered Vest",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 2,
+    "price": "$65.61"
+  },
+  {
+    "name": "Blood Splattered Vest",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$66.76"
+  },
+  {
+    "name": "Blood Splattered Vest",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$69.39"
+  },
+  {
+    "name": "Blood Splattered Vest",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 2,
+    "price": "$73.35"
+  },
+  {
+    "name": "Blood Splattered Vest",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$73.72"
+  },
+  {
+    "name": "Blood Splattered Vest",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 6,
+    "price": "$78.64"
+  },
+  {
+    "name": "Blood Splattered Vest",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$102.03"
+  },
+  {
+    "name": "Blood Splattered Vest",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$118.44"
+  },
+  {
+    "name": "Blood Splattered Vest",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$172.20"
+  },
+  {
+    "name": "Dragonscaler Flight Path",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$59.63"
+  },
+  {
+    "name": "Dragonscaler Flight Path",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$62.73"
+  },
+  {
+    "name": "Dragonscaler Flight Path",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$62.79"
+  },
+  {
+    "name": "Dragonscaler Flight Path",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$63.61"
+  },
+  {
+    "name": "Dragonscaler Flight Path",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$64.12"
+  },
+  {
+    "name": "Dragonscaler Flight Path",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 2,
+    "price": "$65.61"
+  },
+  {
+    "name": "Dragonscaler Flight Path",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$66.46"
+  },
+  {
+    "name": "Dragonscaler Flight Path",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$71.11"
+  },
+  {
+    "name": "Dragonscaler Flight Path",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$74.32"
+  },
+  {
+    "name": "Dragonscaler Flight Path",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$75.66"
+  },
+  {
+    "name": "Dragonscaler Flight Path",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$91.53"
+  },
+  {
+    "name": "Dragonscaler Flight Path",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$93.12"
+  },
+  {
+    "name": "Dragonscaler Flight Path",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$93.15"
+  },
+  {
+    "name": "Dragonscaler Flight Path",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$94.82"
+  },
+  {
+    "name": "Dragonscaler Flight Path",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$102.62"
+  },
+  {
+    "name": "Dragonscaler Flight Path",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$110.73"
+  },
+  {
+    "name": "Dragonscaler Flight Path",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$118.59"
+  },
+  {
+    "name": "Dragonscaler Flight Path",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$124.76"
+  },
+  {
+    "name": "Dragonscaler Flight Path",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$132.65"
+  },
+  {
+    "name": "Dragonscaler Flight Path",
+    "expansion": "The Hunted",
+    "price_target": 49,
+    "quantity": 1,
+    "price": "$330.41"
+  },
+  {
+    "name": "Quickdodge Flexors",
+    "expansion": "The Hunted",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "$145.74"
+  },
+  {
+    "name": "Quickdodge Flexors",
+    "expansion": "The Hunted",
+    "price_target": 129,
+    "quantity": 3,
+    "price": "$154.69"
+  },
+  {
+    "name": "Quickdodge Flexors",
+    "expansion": "The Hunted",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "$166.82"
+  },
+  {
+    "name": "Quickdodge Flexors",
+    "expansion": "The Hunted",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "$219.57"
+  },
+  {
+    "name": "Quickdodge Flexors",
+    "expansion": "The Hunted",
+    "price_target": 129,
+    "quantity": 2,
+    "price": "$251.63"
+  },
+  {
+    "name": "Quickdodge Flexors",
+    "expansion": "The Hunted",
+    "price_target": 129,
+    "quantity": 1,
+    "price": "$659.98"
+  },
+  {
+    "name": "Pain in the Backside",
+    "expansion": "The Hunted",
+    "price_target": 16,
+    "quantity": 1,
+    "price": "$22.62"
+  },
+  {
+    "name": "Pain in the Backside",
+    "expansion": "The Hunted",
+    "price_target": 16,
+    "quantity": 2,
+    "price": "$24.92"
+  },
+  {
+    "name": "Pain in the Backside",
+    "expansion": "The Hunted",
+    "price_target": 16,
+    "quantity": 2,
+    "price": "$25.22"
+  },
+  {
+    "name": "Pain in the Backside",
+    "expansion": "The Hunted",
+    "price_target": 16,
+    "quantity": 1,
+    "price": "$26.72"
+  },
+  {
+    "name": "Pain in the Backside",
+    "expansion": "The Hunted",
+    "price_target": 16,
+    "quantity": 5,
+    "price": "$27.32"
+  },
+  {
+    "name": "Pain in the Backside",
+    "expansion": "The Hunted",
+    "price_target": 16,
+    "quantity": 2,
+    "price": "$27.35"
+  },
+  {
+    "name": "Pain in the Backside",
+    "expansion": "The Hunted",
+    "price_target": 16,
+    "quantity": 1,
+    "price": "$27.35"
+  },
+  {
+    "name": "Pain in the Backside",
+    "expansion": "The Hunted",
+    "price_target": 16,
+    "quantity": 1,
+    "price": "$28.67"
+  },
+  {
+    "name": "Pain in the Backside",
+    "expansion": "The Hunted",
+    "price_target": 16,
+    "quantity": 1,
+    "price": "$29.64"
+  },
+  {
+    "name": "Pain in the Backside",
+    "expansion": "The Hunted",
+    "price_target": 16,
+    "quantity": 2,
+    "price": "$30.05"
+  },
+  {
+    "name": "Pain in the Backside",
+    "expansion": "The Hunted",
+    "price_target": 16,
+    "quantity": 3,
+    "price": "$30.46"
+  },
+  {
+    "name": "Pain in the Backside",
+    "expansion": "The Hunted",
+    "price_target": 16,
+    "quantity": 1,
+    "price": "$33.09"
+  },
+  {
+    "name": "Pain in the Backside",
+    "expansion": "The Hunted",
+    "price_target": 16,
+    "quantity": 1,
+    "price": "$33.48"
+  },
+  {
+    "name": "Pain in the Backside",
+    "expansion": "The Hunted",
+    "price_target": 16,
+    "quantity": 2,
+    "price": "$47.35"
+  },
+  {
+    "name": "Throw Dagger",
+    "expansion": "The Hunted",
+    "price_target": 8.4,
+    "quantity": 1,
+    "price": "$10.87"
+  },
+  {
+    "name": "Throw Dagger",
+    "expansion": "The Hunted",
+    "price_target": 8.4,
+    "quantity": 1,
+    "price": "$12.29"
+  },
+  {
+    "name": "Throw Dagger",
+    "expansion": "The Hunted",
+    "price_target": 8.4,
+    "quantity": 1,
+    "price": "$13.06"
+  },
+  {
+    "name": "Throw Dagger",
+    "expansion": "The Hunted",
+    "price_target": 8.4,
+    "quantity": 1,
+    "price": "$13.65"
+  },
+  {
+    "name": "Throw Dagger",
+    "expansion": "The Hunted",
+    "price_target": 8.4,
+    "quantity": 1,
+    "price": "$14.02"
+  },
+  {
+    "name": "Throw Dagger",
+    "expansion": "The Hunted",
+    "price_target": 8.4,
+    "quantity": 6,
+    "price": "$16.45"
+  },
+  {
+    "name": "Throw Dagger",
+    "expansion": "The Hunted",
+    "price_target": 8.4,
+    "quantity": 2,
+    "price": "$16.46"
+  },
+  {
+    "name": "Throw Dagger",
+    "expansion": "The Hunted",
+    "price_target": 8.4,
+    "quantity": 2,
+    "price": "$16.55"
+  },
+  {
+    "name": "Throw Dagger",
+    "expansion": "The Hunted",
+    "price_target": 8.4,
+    "quantity": 4,
+    "price": "$16.57"
+  },
+  {
+    "name": "Throw Dagger",
+    "expansion": "The Hunted",
+    "price_target": 8.4,
+    "quantity": 1,
+    "price": "$16.73"
+  },
+  {
+    "name": "Throw Dagger",
+    "expansion": "The Hunted",
+    "price_target": 8.4,
+    "quantity": 3,
+    "price": "$17.01"
+  },
+  {
+    "name": "Throw Dagger",
+    "expansion": "The Hunted",
+    "price_target": 8.4,
+    "quantity": 1,
+    "price": "$17.59"
+  },
+  {
+    "name": "Throw Dagger",
+    "expansion": "The Hunted",
+    "price_target": 8.4,
+    "quantity": 1,
+    "price": "$17.89"
+  },
+  {
+    "name": "Throw Dagger",
+    "expansion": "The Hunted",
+    "price_target": 8.4,
+    "quantity": 1,
+    "price": "$18.13"
+  },
+  {
+    "name": "Throw Dagger",
+    "expansion": "The Hunted",
+    "price_target": 8.4,
+    "quantity": 1,
+    "price": "$18.72"
+  },
+  {
+    "name": "Throw Dagger",
+    "expansion": "The Hunted",
+    "price_target": 8.4,
+    "quantity": 1,
+    "price": "$20.40"
+  },
+  {
+    "name": "Throw Dagger",
+    "expansion": "The Hunted",
+    "price_target": 8.4,
+    "quantity": 3,
+    "price": "$23.68"
+  },
+  {
+    "name": "Throw Dagger",
+    "expansion": "The Hunted",
+    "price_target": 8.4,
+    "quantity": 3,
+    "price": "$27.58"
+  },
+  {
+    "name": "Throw Dagger",
+    "expansion": "The Hunted",
+    "price_target": 8.4,
+    "quantity": 1,
+    "price": "$8,904.14"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 4,
+    "price": "$4.93"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 1,
+    "price": "$4.94"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 17,
+    "price": "$4.99"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 4,
+    "price": "$5.02"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 12,
+    "price": "$5.02"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 1,
+    "price": "$5.04"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 6,
+    "price": "$5.05"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 1,
+    "price": "$5.48"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 18,
+    "price": "$5.79"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 3,
+    "price": "$5.89"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 5,
+    "price": "$6.05"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 1,
+    "price": "$6.12"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 2,
+    "price": "$6.34"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 1,
+    "price": "$6.87"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 3,
+    "price": "$7.07"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 1,
+    "price": "$7.70"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 1,
+    "price": "$7.94"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 5,
+    "price": "$8.27"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 10,
+    "price": "$8.69"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 1,
+    "price": "$9.19"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 2,
+    "price": "$9.24"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 1,
+    "price": "$9.32"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 1,
+    "price": "$9.54"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 6,
+    "price": "$11.85"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 1,
+    "price": "$14.16"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 1,
+    "price": "$16.09"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 3,
+    "price": "$16.09"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 3,
+    "price": "$19.65"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 1,
+    "price": "$20.05"
+  },
+  {
+    "name": "Dual Threat",
+    "expansion": "The Hunted",
+    "price_target": 3.25,
+    "quantity": 3,
+    "price": "$23.72"
+  },
+  {
+    "name": "Schism of Chaos",
+    "expansion": "The Hunted",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$39.10"
+  },
+  {
+    "name": "Schism of Chaos",
+    "expansion": "The Hunted",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$43.95"
+  },
+  {
+    "name": "Schism of Chaos",
+    "expansion": "The Hunted",
+    "price_target": 32,
+    "quantity": 3,
+    "price": "$45.49"
+  },
+  {
+    "name": "Schism of Chaos",
+    "expansion": "The Hunted",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$48.89"
+  },
+  {
+    "name": "Schism of Chaos",
+    "expansion": "The Hunted",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$49.32"
+  },
+  {
+    "name": "Schism of Chaos",
+    "expansion": "The Hunted",
+    "price_target": 32,
+    "quantity": 2,
+    "price": "$52.77"
+  },
+  {
+    "name": "Schism of Chaos",
+    "expansion": "The Hunted",
+    "price_target": 32,
+    "quantity": 2,
+    "price": "$52.78"
+  },
+  {
+    "name": "Schism of Chaos",
+    "expansion": "The Hunted",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$55.02"
+  },
+  {
+    "name": "Schism of Chaos",
+    "expansion": "The Hunted",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$61.98"
+  },
+  {
+    "name": "Schism of Chaos",
+    "expansion": "The Hunted",
+    "price_target": 32,
+    "quantity": 4,
+    "price": "$64.98"
+  },
+  {
+    "name": "Schism of Chaos",
+    "expansion": "The Hunted",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$66.76"
+  },
+  {
+    "name": "Schism of Chaos",
+    "expansion": "The Hunted",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$70.38"
+  },
+  {
+    "name": "Schism of Chaos",
+    "expansion": "The Hunted",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$77.73"
+  },
+  {
+    "name": "Schism of Chaos",
+    "expansion": "The Hunted",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$86.24"
+  },
+  {
+    "name": "Schism of Chaos",
+    "expansion": "The Hunted",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$86.26"
+  },
+  {
+    "name": "Schism of Chaos",
+    "expansion": "The Hunted",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$105.41"
+  },
+  {
+    "name": "Schism of Chaos",
+    "expansion": "The Hunted",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$108.91"
+  },
+  {
+    "name": "Schism of Chaos",
+    "expansion": "The Hunted",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$119.49"
+  },
+  {
+    "name": "Schism of Chaos",
+    "expansion": "The Hunted",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$148.97"
+  },
+  {
+    "name": "Schism of Chaos",
+    "expansion": "The Hunted",
+    "price_target": 32,
+    "quantity": 1,
+    "price": "$152.11"
+  },
+  {
+    "name": "Grandeur of Valahai",
+    "expansion": "Archive Mastery Pack - Guardian",
+    "price_target": 110,
+    "quantity": 1,
+    "price": "$165.62"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 7,
+    "price": "$30.35"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "$30.85"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "$30.85"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "$31.43"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "$32.89"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 4,
+    "price": "$32.91"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "$33.40"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "$33.48"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "$33.85"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "$35.35"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "$35.75"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "$35.98"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "$36.16"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "$37.30"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 2,
+    "price": "$37.48"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 12,
+    "price": "$38.53"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "$39.95"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "$40.07"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 2,
+    "price": "$44.79"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "$45.46"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 2,
+    "price": "$46.83"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 2,
+    "price": "$46.83"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "$46.83"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 3,
+    "price": "$49.46"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 3,
+    "price": "$52.08"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "$53.42"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 3,
+    "price": "$65.43"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "$66.76"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "$66.76"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "$73.70"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 1,
+    "price": "$75.08"
+  },
+  {
+    "name": "Codex of Frailty",
+    "expansion": "High Seas",
+    "price_target": 30,
+    "quantity": 2,
+    "price": "$105.41"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$4.97"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$4.98"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 6,
+    "price": "$4.99"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 6,
+    "price": "$5.02"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 5,
+    "price": "$5.02"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 2,
+    "price": "$5.24"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$5.33"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 2,
+    "price": "$5.88"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$6.15"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 7,
+    "price": "$7.16"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$7.16"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$7.18"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 5,
+    "price": "$7.88"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$8.09"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$8.36"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$8.76"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$9.02"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$9.09"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$9.41"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$9.80"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 2,
+    "price": "$10.40"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$10.69"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$10.75"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$12.85"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 3,
+    "price": "$13.38"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$13.43"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$13.43"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$16.41"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 2,
+    "price": "$17.10"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 7,
+    "price": "$18.78"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$19.64"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$19.93"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 2,
+    "price": "$20.05"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 4,
+    "price": "$20.52"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$23.42"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$25.40"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 2,
+    "price": "$39.44"
+  },
+  {
+    "name": "Arcane Compliance",
+    "expansion": "High Seas",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$46.83"
+  },
+  {
+    "name": "Fearless Confrontation",
+    "expansion": "Mastery Pack: Guardian",
+    "price_target": 17,
+    "quantity": 1,
+    "price": "$45.51"
+  },
+  {
+    "name": "Fearless Confrontation",
+    "expansion": "Mastery Pack: Guardian",
+    "price_target": 17,
+    "quantity": 3,
+    "price": "$50.78"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Super Slam",
+    "price_target": 25,
+    "quantity": 1,
+    "price": "$39.72"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Super Slam",
+    "price_target": 25,
+    "quantity": 1,
+    "price": "$39.73"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Super Slam",
+    "price_target": 25,
+    "quantity": 1,
+    "price": "$60.29"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Super Slam",
+    "price_target": 25,
+    "quantity": 3,
+    "price": "$65.33"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Super Slam",
+    "price_target": 25,
+    "quantity": 1,
+    "price": "$65.34"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Super Slam",
+    "price_target": 25,
+    "quantity": 1,
+    "price": "$70.58"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Super Slam",
+    "price_target": 25,
+    "quantity": 1,
+    "price": "$70.78"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Super Slam",
+    "price_target": 25,
+    "quantity": 1,
+    "price": "$77.15"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Super Slam",
+    "price_target": 25,
+    "quantity": 1,
+    "price": "$77.17"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Super Slam",
+    "price_target": 25,
+    "quantity": 1,
+    "price": "$77.77"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Super Slam",
+    "price_target": 25,
+    "quantity": 1,
+    "price": "$79.39"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Super Slam",
+    "price_target": 25,
+    "quantity": 2,
+    "price": "$79.94"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Super Slam",
+    "price_target": 25,
+    "quantity": 1,
+    "price": "$81.80"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Super Slam",
+    "price_target": 25,
+    "quantity": 1,
+    "price": "$81.81"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Super Slam",
+    "price_target": 25,
+    "quantity": 1,
+    "price": "$82.64"
+  },
+  {
+    "name": "Warmonger's Diplomacy",
+    "expansion": "Super Slam",
+    "price_target": 25,
+    "quantity": 2,
+    "price": "$102.06"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Super Slam",
+    "price_target": 8.4,
+    "quantity": 1,
+    "price": "$11.33"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Super Slam",
+    "price_target": 8.4,
+    "quantity": 2,
+    "price": "$11.35"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Super Slam",
+    "price_target": 8.4,
+    "quantity": 1,
+    "price": "$13.38"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Super Slam",
+    "price_target": 8.4,
+    "quantity": 5,
+    "price": "$14.63"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Super Slam",
+    "price_target": 8.4,
+    "quantity": 2,
+    "price": "$16.09"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Super Slam",
+    "price_target": 8.4,
+    "quantity": 2,
+    "price": "$16.09"
+  },
+  {
+    "name": "Snag",
+    "expansion": "Super Slam",
+    "price_target": 8.4,
+    "quantity": 1,
+    "price": "$17.80"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 39,
+    "price": "$5.99"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$6.09"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 11,
+    "price": "$6.35"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$6.72"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 6,
+    "price": "$8.77"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$10.37"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$12.98"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 3,
+    "price": "$13.36"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 2,
+    "price": "$15.23"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 2,
+    "price": "$15.26"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 6,
+    "price": "$15.42"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$15.93"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 2,
+    "price": "$15.93"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$16.07"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$16.08"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$16.38"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 3,
+    "price": "$16.74"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 2,
+    "price": "$17.62"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 3,
+    "price": "$18.59"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 2,
+    "price": "$18.69"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$19.70"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 4,
+    "price": "$20.62"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$21.41"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 2,
+    "price": "$21.44"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 3,
+    "price": "$22.57"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 5,
+    "price": "$24.08"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$25.09"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 3,
+    "price": "$26.58"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 2,
+    "price": "$26.71"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 3,
+    "price": "$26.72"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$28.18"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 2,
+    "price": "$29.53"
+  },
+  {
+    "name": "Overcrowded",
+    "expansion": "Super Slam",
+    "price_target": 6.5,
+    "quantity": 1,
+    "price": "$40.06"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 5,
+    "price": "$3.01"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "$3.66"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "$3.81"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "$5.22"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "$5.88"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "$6.15"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 4,
+    "price": "$6.20"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "$6.24"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 4,
+    "price": "$6.34"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 3,
+    "price": "$6.59"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "$6.64"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 4,
+    "price": "$6.66"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 2,
+    "price": "$6.70"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 2,
+    "price": "$6.70"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "$6.73"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 3,
+    "price": "$6.73"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "$7.62"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 2,
+    "price": "$7.67"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 3,
+    "price": "$8.09"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "$8.69"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 4,
+    "price": "$8.95"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 3,
+    "price": "$9.41"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "$10.07"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 2,
+    "price": "$10.35"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 6,
+    "price": "$10.75"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "$10.75"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 2,
+    "price": "$12.72"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 3,
+    "price": "$13.37"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "$16.09"
+  },
+  {
+    "name": "Cutting Retort",
+    "expansion": "Super Slam",
+    "price_target": 1.7,
+    "quantity": 1,
+    "price": "$20.05"
+  },
+  {
+    "name": "Authority of Ataya",
+    "expansion": "Super Slam",
+    "price_target": 170,
+    "quantity": 1,
+    "price": "$262.75"
+  },
+  {
+    "name": "Authority of Ataya",
+    "expansion": "Super Slam",
+    "price_target": 170,
+    "quantity": 1,
+    "price": "$267.21"
+  },
+  {
+    "name": "Authority of Ataya",
+    "expansion": "Super Slam",
+    "price_target": 170,
+    "quantity": 1,
+    "price": "$300.27"
+  },
+  {
+    "name": "Authority of Ataya",
+    "expansion": "Super Slam",
+    "price_target": 170,
+    "quantity": 1,
+    "price": "$324.72"
+  },
+  {
+    "name": "Authority of Ataya",
+    "expansion": "Super Slam",
+    "price_target": 170,
+    "quantity": 1,
+    "price": "$350.16"
+  },
+  {
+    "name": "Authority of Ataya",
+    "expansion": "Super Slam",
+    "price_target": 170,
+    "quantity": 1,
+    "price": "$377.36"
+  },
+  {
+    "name": "Authority of Ataya",
+    "expansion": "Super Slam",
+    "price_target": 170,
+    "quantity": 3,
+    "price": "$405.69"
+  },
+  {
+    "name": "Authority of Ataya",
+    "expansion": "Super Slam",
+    "price_target": 170,
+    "quantity": 1,
+    "price": "$429.28"
+  },
+  {
+    "name": "Authority of Ataya",
+    "expansion": "Super Slam",
+    "price_target": 170,
+    "quantity": 1,
+    "price": "$528.13"
+  }
+]
