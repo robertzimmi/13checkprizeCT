@@ -17,29 +17,23 @@
     }
 
     .card-bg {
-      background: #1e293b;
       border: 1px solid #334155;
       padding: 16px;
       border-radius: 12px;
       cursor: pointer;
+      transition: background 0.3s;
     }
 
     .price-badge {
-      background: #ef4444;
+      background: #1e293b;
       color: #fff;
       padding: 4px 10px;
-      border-radius: 6px;
+      border-radius: 50%;
       font-weight: bold;
       margin-left: 6px;
-    }
-
-    .price-current {
-      background: #10b981;
-      color: #fff;
-      padding: 4px 10px;
-      border-radius: 6px;
-      font-weight: bold;
-      margin-right: 6px;
+      display: inline-block;
+      min-width: 24px;
+      text-align: center;
     }
 
     .card-row {
@@ -89,28 +83,31 @@
   </div>
 
   <script>
+function formatBRDate(isoStr) {
+  const d = new Date(isoStr);
+  const day = String(d.getDate()).padStart(2,'0');
+  const month = String(d.getMonth()+1).padStart(2,'0');
+  const year = d.getFullYear();
+  const hours = String(d.getHours()).padStart(2,'0');
+  const minutes = String(d.getMinutes()).padStart(2,'0');
+  return `${day}/${month}/${year} ${hours}:${minutes}`;
+}
+
 async function loadData() {
   const container = document.getElementById("cardsContainer");
-  container.innerHTML = ""; // limpa antes
+  container.innerHTML = "";
 
   try {
     const res = await fetch("cards.json");
-
-    if (!res.ok) {
-      throw new Error(`Erro ao carregar o arquivo: ${res.status}`);
-    }
-
+    if (!res.ok) throw new Error(`Erro ao carregar o arquivo: ${res.status}`);
     const data = await res.json();
 
-    if (!data || !data.cards || !Array.isArray(data.cards)) {
-      container.innerHTML = `<p class="text-center w-100">Arquivo cards.json inválido ou vazio.</p>`;
-      return;
-    }
+    // Data formatada
+    document.getElementById("datetimeBox").innerText = data.datetime_utc_minus3
+      ? formatBRDate(data.datetime_utc_minus3)
+      : "N/A";
 
-    document.getElementById("datetimeBox").innerText = data.datetime_utc_minus3 || "N/A";
-
-    const cards = data.cards;
-
+    const cards = data.cards || [];
     if (!cards.length) {
       container.innerHTML = `<p class="text-center w-100">Nenhum card encontrado.</p>`;
       return;
@@ -119,42 +116,29 @@ async function loadData() {
     cards.forEach((card, index) => {
       const cardId = `records-${index}`;
 
-      // Converte preços para número em R$
-      const recordPrices = (card.records || []).map(r => {
-        let priceStr = r.price || "";
-        let currency = priceStr.startsWith("R$") ? "R$" : priceStr.startsWith("€") ? "€" : "$";
-        let value = parseFloat(priceStr.replace(/[R\$€]/g, "").replace(",", "."));
-        if (isNaN(value)) return null;
+      // Calcular minPrice
+      const recordPrices = (card.records || []).map(r => parseFloat(r.price_brl)).filter(v=>!isNaN(v));
+      const minPrice = recordPrices.length ? Math.min(...recordPrices) : 0;
 
-        // Conversão para R$
-        if (currency === "$") value *= 5; // dólar -> real (exemplo)
-        if (currency === "€") value *= 5.5; // euro -> real (exemplo)
-        return value;
-      }).filter(v => v !== null);
-
-      const minPrice = recordPrices.length
-        ? Math.min(...recordPrices).toFixed(2)
-        : "0.00";
+      // Fundo do card baseado no preço mínimo
+      const cardBgColor = minPrice < card.price_target_brl ? "#d1fae5" : "#fee2e2"; // verde claro ou vermelho claro
+      const cardTextColor = minPrice < card.price_target_brl ? "#065f46" : "#991b1b";
 
       const html = `
         <div class="col-12 col-md-6 col-lg-4">
-          <div class="card-bg" onclick="toggleRecords('${cardId}')">
+          <div class="card-bg" onclick="toggleRecords('${cardId}')" style="background:${cardBgColor}; color:${cardTextColor}">
             <div class="card-row">
-              <span class="font-bold text-lg">${card.name} - R$${minPrice}</span>
+              <span class="font-bold text-lg">${card.name} - R$${minPrice.toFixed(2)}</span>
               <div id="${cardId}" class="records-container">
                 ${(card.records || []).length
                   ? card.records.map(r => {
-                      // converte para R$ e mostra QTD
-                      let priceStr = r.price || "";
-                      let currency = priceStr.startsWith("R$") ? "R$" : priceStr.startsWith("€") ? "€" : "$";
-                      let value = parseFloat(priceStr.replace(/[R\$€]/g, "").replace(",", "."));
-                      if (isNaN(value)) return `<div class="text-sm opacity-75">Preço inválido</div>`;
-                      if (currency === "$") value *= 5;
-                      if (currency === "€") value *= 5.5;
+                      const price = parseFloat(r.price_brl);
+                      const color = price < card.price_target_brl ? "#d1fae5" : "#fee2e2";
+                      const textColor = price < card.price_target_brl ? "#065f46" : "#991b1b";
                       return `
-                        <div>
-                          <span class="text-sm opacity-75">${r.expansion}</span>:
-                          <span class="price-current">R$${value.toFixed(2)}</span> QTD: <span class="price-badge">${r.quantity}</span>
+                        <div style="display:flex; justify-content:space-between; align-items:center; background:${color}; color:${textColor}; padding:4px 8px; border-radius:6px; margin-bottom:2px">
+                          <span>${r.expansion} - R$${price.toFixed(2)}</span>
+                          <span class="price-badge">${r.quantity}</span>
                         </div>
                       `;
                     }).join("")
@@ -180,9 +164,7 @@ function toggleRecords(id) {
 }
 
 loadData();
-</script>
-
-
+  </script>
 
 </body>
 </html>
