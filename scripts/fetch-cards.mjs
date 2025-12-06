@@ -31,7 +31,7 @@ async function fetchEuroRate() {
     const res = await fetch("https://api.exchangerate.host/latest?base=EUR&symbols=BRL");
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
-    return parseFloat(data.rates.BRL) || 5.3;
+    return parseFloat(data.rates.BRL) || 6.2;
   } catch (err) {
     console.error("Erro ao buscar cotação do Euro:", err.message);
     return 5.3; // fallback manual
@@ -65,8 +65,10 @@ async function fetchData() {
 
             let priceBRL;
             if (priceOriginalStr.startsWith("R$")) {
-              // Já está em real, copia
-              priceBRL = parseFloat(priceOriginalStr.replace(/[R$]/g, "").replace(",", "."));
+              // Já está em reais, remove R$ e vírgulas de milhar
+              let cleaned = priceOriginalStr.replace(/[R$]/g, "").trim();
+              cleaned = cleaned.replace(/,(\d{3})/g, "$1"); // "2,200.03" -> "2200.03"
+              priceBRL = parseFloat(cleaned);
             } else {
               // Em $ ou €, multiplica pelo euroRate
               const numericPrice = parseFloat(priceOriginalStr.replace(/[^0-9.]/g, ""));
