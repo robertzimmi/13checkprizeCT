@@ -1,75 +1,76 @@
 import fs from "fs";
 import path from "path";
-import CardTrader from "cardtrader-client";
+import { fileURLToPath } from "url";
 
-/* ---------------------- CONFIG ------------------------- */
+// Corrigir __dirname no ES module
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
-const PRICE_FILE = path.resolve("data/price_targets.json");
-const OUTPUT_FILE = path.resolve("docs/cards.json");
+// Caminhos
+const SETS_DIR = path.join(__dirname, "../data/sets");
+const PRICE_FILE = path.join(__dirname, "../data/price_targets.json");
+const OUTPUT_FILE = path.join(__dirname, "../docs/cards.json");
 
-/* -------------------------------------------------------- */
-
-// Função que normaliza e remove acentos/símbolos
+// Função para normalizar texto para comparação
 function normalize(str) {
   return str
-    .normalize("NFKD")
-    .replace(/[\u0300-\u036f]/g, "")   // remove acentos
-    .replace(/[^a-zA-Z0-9 ]/g, " ")   // remove símbolos bizarros
-    .replace(/\s+/g, " ")
-    .trim()
-    .toLowerCase();
+    .toLowerCase()
+    .normalize("NFKD")        // remover acentos
+    .replace(/[’']/g, "'")    // normalizar apóstrofos
+    .replace(/[\u0300-\u036f]/g, ""); // remover marcas
 }
 
-async function main() {
-  console.log("🔄 Buscando cartas listadas em price_targets.json...\n");
+// Carregar o objeto de price targets
+const targetsObj = JSON.parse(fs.readFileSync(PRICE_FILE, "utf8"));
 
-  // Carrega o arquivo JSON como objeto
-  const rawJSON = JSON.parse(fs.readFileSync(PRICE_FILE, "utf8"));
+// Transformar objeto em array de nomes
+const TARGET_NAMES = Object.keys(targetsObj);
 
-  // Converte para array padrão
-  const TARGET_LIST = Object.keys(rawJSON).map(name => ({
-    name,
-    target: rawJSON[name]
-  }));
+// Começar
+console.log("\n🔄 Buscando cartas listadas em price_targets.json...\n");
 
-  // Lista completa de cartas
-  const api = new CardTrader();
-  const ALL_SETS = await api.getCards(); // já retorna TUDO
+let foundCards = [];
 
-  // Normaliza nomes do banco
-  const NORMALIZED_DB = ALL_SETS.map(c => ({
-    ...c,
-    norm: normalize(c.name)
-  }));
+// Carregar todos os JSONs dos sets
+const setFiles = fs.readdirSync(SETS_DIR).filter(f => f.endsWith(".json"));
 
-  let results = [];
+for (const file of setFiles) {
+  const filePath = path.join(SETS_DIR, file);
+  const setJson = JSON.parse(fs.readFileSync(filePath, "utf8"));
 
-  for (const entry of TARGET_LIST) {
-    const original = entry.name;
-    const targetNorm = normalize(original);
+  // Garantir que o set tenha cards
+  if (!setJson.cards) continue;
 
-    // busca fuzzy: nome contém parte do alvo
-    const found = NORMALIZED_DB.find(c => c.norm.includes(targetNorm));
+  for (const targetName of TARGET_NAMES) {
+    const normalizedTarget = normalize(targetName);
 
-    if (found) {
-      console.log(`✔️  ${original} → FOUND as "${found.name}"`);
-      results.push({
-        name: original,
-        matched_name: found.name,
-        link: found.url,
-        target_price: entry.target
+    // Procurar carta no set
+    const match = setJson.cards.find(c =>
+      normalize(c.name).includes(normalizedTarget)
+    );
+
+    if (match) {
+      foundCards.push({
+        name: match.name,
+        set: setJson.name || file.replace(".json", ""),
+        price_target: targetsObj[targetName],
       });
-    } else {
-      console.log(`❌  ${original}  (not found)`);
     }
   }
-
-  console.log(`\n📦 Total final encontrado: ${results.length}`);
-
-  fs.mkdirSync(path.dirname(OUTPUT_FILE), { recursive: true });
-  fs.writeFileSync(OUTPUT_FILE, JSON.stringify(results, null, 2));
-
-  console.log(`💾 Criado cards.json em ${OUTPUT_FILE}`);
 }
 
-main();
+// Mostrar status de found/not found
+for (const name of TARGET_NAMES) {
+  const ok = foundCards.find(c => normalize(c.name) === normalize(name));
+  if (ok) {
+    console.log(`✅  ${name}  (found)`);
+  } else {
+    console.log(`❌  ${name}  (not found)`);
+  }
+}
+
+console.log(`\n📦 Total final encontrado: ${foundCards.length}`);
+
+// Salvar cards.json
+fs.writeFileSync(OUTPUT_FILE, JSON.stringify(foundCards, null, 2));
+console.log(`💾 Criado cards.json em ${OUTPUT_FILE}\n`);
