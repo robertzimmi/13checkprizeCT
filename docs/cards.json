@@ -3,6 +3,7 @@
     {
       "name": "Enlightened Strike",
       "price_target": 32,
+      "price_target_brl": 169.6,
       "records": [
         {
           "expansion": "Welcome to Rathe",
@@ -177,6 +178,7 @@
     {
       "name": "Mask of Momentum",
       "price_target": 73,
+      "price_target_brl": 386.9,
       "records": [
         {
           "expansion": "Welcome to Rathe",
@@ -267,6 +269,7 @@
     {
       "name": "Fyendal's Spring Tunic",
       "price_target": 129,
+      "price_target_brl": 683.7,
       "records": [
         {
           "expansion": "Welcome to Rathe",
@@ -471,6 +474,7 @@
     {
       "name": "Heart of Fyendal",
       "price_target": 160,
+      "price_target_brl": 848,
       "records": [
         {
           "expansion": "Welcome to Rathe",
@@ -519,6 +523,7 @@
     {
       "name": "Command and Conquer",
       "price_target": 73,
+      "price_target_brl": 386.9,
       "records": [
         {
           "expansion": "Arcane Rising",
@@ -777,6 +782,7 @@
     {
       "name": "Eye of Ophidia",
       "price_target": 240,
+      "price_target_brl": 1272,
       "records": [
         {
           "expansion": "Arcane Rising",
@@ -831,6 +837,7 @@
     {
       "name": "Snag",
       "price_target": 8.4,
+      "price_target_brl": 44.52,
       "records": [
         {
           "expansion": "Crucible of War",
@@ -1017,6 +1024,7 @@
     {
       "name": "Arknight Shard",
       "price_target": 160,
+      "price_target_brl": 848,
       "records": [
         {
           "expansion": "Crucible of War",
@@ -1101,6 +1109,7 @@
     {
       "name": "Great Library of Solana",
       "price_target": 160,
+      "price_target_brl": 848,
       "records": [
         {
           "expansion": "Monarch - Unlimited",
@@ -1167,6 +1176,7 @@
     {
       "name": "Overcrowded",
       "price_target": 6.5,
+      "price_target_brl": 34.45,
       "records": [
         {
           "expansion": "Armory Events",
@@ -1389,6 +1399,7 @@
     {
       "name": "Crown of Seeds",
       "price_target": 16.23,
+      "price_target_brl": 86.02,
       "records": [
         {
           "expansion": "Tales of Aria - Unlimited",
@@ -1509,6 +1520,7 @@
     {
       "name": "Korshem, Crossroad of Elements",
       "price_target": 23,
+      "price_target_brl": 121.9,
       "records": [
         {
           "expansion": "Tales of Aria - Unlimited",
@@ -1683,6 +1695,7 @@
     {
       "name": "Erase Face",
       "price_target": 16,
+      "price_target_brl": 84.8,
       "records": [
         {
           "expansion": "Judge Promos",
@@ -1803,6 +1816,7 @@
     {
       "name": "Poison the Well",
       "price_target": 5,
+      "price_target_brl": 26.5,
       "records": [
         {
           "expansion": "Judge Promos",
@@ -1959,6 +1973,7 @@
     {
       "name": "This Round's on Me",
       "price_target": 5,
+      "price_target_brl": 26.5,
       "records": [
         {
           "expansion": "Everfest - First",
@@ -2067,6 +2082,7 @@
     {
       "name": "Grandeur of Valahai",
       "price_target": 110,
+      "price_target_brl": 583,
       "records": [
         {
           "expansion": "Everfest - First",
@@ -2127,6 +2143,7 @@
     {
       "name": "That All You Got?",
       "price_target": 9,
+      "price_target_brl": 47.7,
       "records": [
         {
           "expansion": "Uprising",
@@ -2241,6 +2258,7 @@
     {
       "name": "Crown of Providence",
       "price_target": 115,
+      "price_target_brl": 609.5,
       "records": [
         {
           "expansion": "Uprising",
@@ -2307,6 +2325,7 @@
     {
       "name": "Blood of the Dracai",
       "price_target": 20,
+      "price_target_brl": 106,
       "records": [
         {
           "expansion": "Uprising",
@@ -2475,6 +2494,7 @@
     {
       "name": "Crown of Dominion",
       "price_target": 114,
+      "price_target_brl": 604.2,
       "records": [
         {
           "expansion": "Dynasty",
@@ -2571,6 +2591,7 @@
     {
       "name": "Codex of Frailty",
       "price_target": 30,
+      "price_target_brl": 159,
       "records": [
         {
           "expansion": "Outsiders",
@@ -2943,6 +2964,7 @@
     {
       "name": "Amnesia",
       "price_target": 4.9,
+      "price_target_brl": 25.97,
       "records": [
         {
           "expansion": "Outsiders",
@@ -3099,6 +3121,7 @@
     {
       "name": "Concealed Blade",
       "price_target": 13,
+      "price_target_brl": 68.9,
       "records": [
         {
           "expansion": "Outsiders",
@@ -3219,6 +3242,7 @@
     {
       "name": "Knives Out",
       "price_target": 1.7,
+      "price_target_brl": 9.01,
       "records": [
         {
           "expansion": "Outsiders",
@@ -3333,6 +3357,7 @@
     {
       "name": "Plague Hive",
       "price_target": 39,
+      "price_target_brl": 206.7,
       "records": [
         {
           "expansion": "Outsiders",
@@ -3459,6 +3484,7 @@
     {
       "name": "Censor",
       "price_target": 9,
+      "price_target_brl": 47.7,
       "records": [
         {
           "expansion": "Dusk till dawn",
@@ -3633,6 +3659,7 @@
     {
       "name": "Warmonger's Diplomacy",
       "price_target": 25,
+      "price_target_brl": 132.5,
       "records": [
         {
           "expansion": "Dusk till dawn",
@@ -3885,6 +3912,7 @@
     {
       "name": "Light of Sol",
       "price_target": 80,
+      "price_target_brl": 424,
       "records": [
         {
           "expansion": "Dusk till dawn",
@@ -3969,6 +3997,7 @@
     {
       "name": "Wax Off",
       "price_target": 2.5,
+      "price_target_brl": 13.25,
       "records": [
         {
           "expansion": "Bright Lights",
@@ -4137,6 +4166,7 @@
     {
       "name": "Master Cog",
       "price_target": 45,
+      "price_target_brl": 238.5,
       "records": [
         {
           "expansion": "Bright Lights",
@@ -4275,6 +4305,7 @@
     {
       "name": "Nasty Surprise",
       "price_target": 1.7,
+      "price_target_brl": 9.01,
       "records": [
         {
           "expansion": "Heavy Hitters",
@@ -4431,6 +4462,7 @@
     {
       "name": "Deathmatch Arena",
       "price_target": 110,
+      "price_target_brl": 583,
       "records": [
         {
           "expansion": "Heavy Hitters",
@@ -4467,6 +4499,7 @@
     {
       "name": "Will of Arcana",
       "price_target": 47,
+      "price_target_brl": 249.1,
       "records": [
         {
           "expansion": "Rosetta",
@@ -4521,6 +4554,7 @@
     {
       "name": "Shelter from the Storm",
       "price_target": 73,
+      "price_target_brl": 386.9,
       "records": [
         {
           "expansion": "The Hunted",
@@ -4701,6 +4735,7 @@
     {
       "name": "Blood Splattered Vest",
       "price_target": 49,
+      "price_target_brl": 259.7,
       "records": [
         {
           "expansion": "The Hunted",
@@ -4845,6 +4880,7 @@
     {
       "name": "Dragonscaler Flight Path",
       "price_target": 49,
+      "price_target_brl": 259.7,
       "records": [
         {
           "expansion": "The Hunted",
@@ -4977,6 +5013,7 @@
     {
       "name": "Quickdodge Flexors",
       "price_target": 129,
+      "price_target_brl": 683.7,
       "records": [
         {
           "expansion": "The Hunted",
@@ -5025,6 +5062,7 @@
     {
       "name": "Pain in the Backside",
       "price_target": 16,
+      "price_target_brl": 84.8,
       "records": [
         {
           "expansion": "The Hunted",
@@ -5115,6 +5153,7 @@
     {
       "name": "Throw Dagger",
       "price_target": 8.4,
+      "price_target_brl": 44.52,
       "records": [
         {
           "expansion": "The Hunted",
@@ -5235,6 +5274,7 @@
     {
       "name": "Dual Threat",
       "price_target": 3.25,
+      "price_target_brl": 17.22,
       "records": [
         {
           "expansion": "The Hunted",
@@ -5409,6 +5449,7 @@
     {
       "name": "Schism of Chaos",
       "price_target": 32,
+      "price_target_brl": 169.6,
       "records": [
         {
           "expansion": "The Hunted",
@@ -5535,6 +5576,7 @@
     {
       "name": "Arcane Compliance",
       "price_target": 6.5,
+      "price_target_brl": 34.45,
       "records": [
         {
           "expansion": "High Seas",
@@ -5769,6 +5811,7 @@
     {
       "name": "Fearless Confrontation",
       "price_target": 17,
+      "price_target_brl": 90.1,
       "records": [
         {
           "expansion": "Mastery Pack: Guardian",
@@ -5787,6 +5830,7 @@
     {
       "name": "Cutting Retort",
       "price_target": 1.7,
+      "price_target_brl": 9.01,
       "records": [
         {
           "expansion": "Super Slam",
@@ -5973,6 +6017,7 @@
     {
       "name": "Authority of Ataya",
       "price_target": 170,
+      "price_target_brl": 901,
       "records": [
         {
           "expansion": "Super Slam",
@@ -6025,6 +6070,6 @@
       ]
     }
   ],
-  "datetime_utc_minus3": "2025-12-06T15:42:28.310Z",
+  "datetime_utc_minus3": "2025-12-06T15:51:47.077Z",
   "euro_rate": 5.3
 }
