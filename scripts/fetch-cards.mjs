@@ -37,14 +37,14 @@ async function fetchEuroRate() {
   }
 }
 
-// Converte preço para número em R$
+// Converte preço em euro para BRL
 function convertEuroToBRL(price, euroRate) {
   if (!price) return null;
 
   // Remove símbolo de euro e espaços
   let valueStr = price.replace(/[€\s]/g, "");
 
-  // Remove separador de milhar (vírgula) e garante decimal com ponto
+  // Remove separador de milhar (vírgula) e mantém decimal com ponto
   valueStr = valueStr.replace(/,/g, "");
 
   let value = parseFloat(valueStr);
@@ -52,7 +52,6 @@ function convertEuroToBRL(price, euroRate) {
 
   return parseFloat((value * euroRate).toFixed(2));
 }
-
 
 // Função principal
 async function fetchData() {
@@ -82,8 +81,8 @@ async function fetchData() {
             name: c.name_en,
             price_target: targetsObj[targetName],
             expansion: expansion.name,
-            price_original: c.price.formatted,                 // original da API
-            price_brl: convertPriceToBRL(c.price.formatted, euroRate), // convertido
+            price_original: c.price.formatted,                 // preço original da API
+            price_brl: convertEuroToBRL(c.price.formatted, euroRate), // convertido para BRL
             quantity: c.quantity
           })));
           console.log(`- ${targetName} → FOUND (${matches.length})`);
@@ -92,7 +91,7 @@ async function fetchData() {
         }
       }
 
-      await new Promise(r => setTimeout(r, 500));
+      await new Promise(r => setTimeout(r, 500)); // delay para não bater rate limit
     } catch (err) {
       console.error(`Erro na expansão ${expansion.code}:`, err.message);
     }
