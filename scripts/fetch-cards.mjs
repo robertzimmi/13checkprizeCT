@@ -2,75 +2,93 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 
-// Corrigir __dirname no ES module
+// Corrigir dirname
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Caminhos
-const SETS_DIR = path.join(__dirname, "../data/sets");
 const PRICE_FILE = path.join(__dirname, "../data/price_targets.json");
+const EXP_FILE = path.join(__dirname, "../data/mock_expansions.json");
 const OUTPUT_FILE = path.join(__dirname, "../docs/cards.json");
 
-// Função para normalizar texto para comparação
+// Normalização para comparação
 function normalize(str) {
   return str
-    .toLowerCase()
-    .normalize("NFKD")        // remover acentos
-    .replace(/[’']/g, "'")    // normalizar apóstrofos
-    .replace(/[\u0300-\u036f]/g, ""); // remover marcas
+    ?.toLowerCase()
+    .normalize("NFKD")
+    .replace(/[’']/g, "'")
+    .replace(/[\u0300-\u036f]/g, "");
 }
 
-// Carregar o objeto de price targets
+// Carregar price targets (OBJETO)
 const targetsObj = JSON.parse(fs.readFileSync(PRICE_FILE, "utf8"));
-
-// Transformar objeto em array de nomes
 const TARGET_NAMES = Object.keys(targetsObj);
 
-// Começar
-console.log("\n🔄 Buscando cartas listadas em price_targets.json...\n");
+// Carregar expansões mock
+const expansions = JSON.parse(fs.readFileSync(EXP_FILE, "utf8"));
 
-let foundCards = [];
+console.log(`\n🔄 Buscando cartas listadas em price_targets.json...\n`);
 
-// Carregar todos os JSONs dos sets
-const setFiles = fs.readdirSync(SETS_DIR).filter(f => f.endsWith(".json"));
+let finalCards = [];
 
-for (const file of setFiles) {
-  const filePath = path.join(SETS_DIR, file);
-  const setJson = JSON.parse(fs.readFileSync(filePath, "utf8"));
+//
+// *** FUNÇÃO QUE BUSCA NA API DO CARDTRADER ***
+//
+async function searchCardOnCT(name) {
+  const url =
+    "https://api.cardtrader.com/api/v2/products?per=50&name=" +
+    encodeURIComponent(name);
 
-  // Garantir que o set tenha cards
-  if (!setJson.cards) continue;
+  const res = await fetch(url, {
+    headers: {
+      Accept: "application/json",
+      Authorization: `Bearer ${process.env.BEARER_TOKEN}`,
+    },
+  });
 
-  for (const targetName of TARGET_NAMES) {
-    const normalizedTarget = normalize(targetName);
+  if (!res.ok) return null;
 
-    // Procurar carta no set
-    const match = setJson.cards.find(c =>
-      normalize(c.name).includes(normalizedTarget)
-    );
+  const json = await res.json();
+  return json.products || [];
+}
 
-    if (match) {
-      foundCards.push({
-        name: match.name,
-        set: setJson.name || file.replace(".json", ""),
-        price_target: targetsObj[targetName],
-      });
+//
+// *** LOOP PRINCIPAL ***
+//
+for (const cardName of TARGET_NAMES) {
+  const normalizedTarget = normalize(cardName);
+
+  let found = null;
+
+  try {
+    const results = await searchCardOnCT(cardName);
+
+    if (results && results.length > 0) {
+      found = results.find(
+        (p) => normalize(p.name) === normalizedTarget
+      ) || results[0]; // fallback: primeiro resultado
     }
+  } catch (err) {
+    console.log(`⚠️ Erro ao buscar ${cardName}:`, err.message);
   }
-}
 
-// Mostrar status de found/not found
-for (const name of TARGET_NAMES) {
-  const ok = foundCards.find(c => normalize(c.name) === normalize(name));
-  if (ok) {
-    console.log(`✅  ${name}  (found)`);
+  if (found) {
+    console.log(`✅  ${cardName} (found)`);
+
+    finalCards.push({
+      name: found.name,
+      ct_product_id: found.id,
+      expansion_id: found.expansion_id,
+      expansion: expansions.find(e => e.id === found.expansion_id)?.name || "Unknown",
+      price_target: targetsObj[cardName],
+    });
   } else {
-    console.log(`❌  ${name}  (not found)`);
+    console.log(`❌  ${cardName} (not found)`);
   }
 }
 
-console.log(`\n📦 Total final encontrado: ${foundCards.length}`);
+console.log(`\n📦 Total final encontrado: ${finalCards.length}\n`);
 
 // Salvar cards.json
-fs.writeFileSync(OUTPUT_FILE, JSON.stringify(foundCards, null, 2));
+fs.writeFileSync(OUTPUT_FILE, JSON.stringify(finalCards, null, 2));
 console.log(`💾 Criado cards.json em ${OUTPUT_FILE}\n`);
