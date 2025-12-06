@@ -15,12 +15,14 @@
       background: #0f172a;
       color: #e2e8f0;
     }
+
     .card-bg {
       background: #1e293b;
       border: 1px solid #334155;
       padding: 16px;
       border-radius: 12px;
     }
+
     .price-badge {
       background: #ef4444;
       color: #fff;
@@ -29,6 +31,7 @@
       font-weight: bold;
       margin-left: 6px;
     }
+
     .price-current {
       background: #10b981;
       color: #fff;
@@ -37,15 +40,22 @@
       font-weight: bold;
       margin-right: 6px;
     }
+
     .card-row {
       display: flex;
       flex-direction: column;
       gap: 4px;
     }
+
+    /* Texto visível em fundo escuro */
+    .text-sm.opacity-75 {
+      color: #cbd5e1 !important;
+    }
   </style>
 </head>
 <body class="min-h-screen">
 
+  <!-- Header -->
   <div class="container mt-4">
     <h1 class="text-3xl font-bold mb-4">📦 Cartas Abaixo do Target</h1>
     <div id="cardsContainer" class="row g-4"></div>
