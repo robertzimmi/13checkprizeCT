@@ -89,78 +89,99 @@
   </div>
 
   <script>
-  async function loadData() {
-    const container = document.getElementById("cardsContainer");
-    container.innerHTML = ""; // limpa antes
+async function loadData() {
+  const container = document.getElementById("cardsContainer");
+  container.innerHTML = ""; // limpa antes
 
-    try {
-      const res = await fetch("cards.json");
+  try {
+    const res = await fetch("cards.json");
 
-      if (!res.ok) {
-        throw new Error(`Erro ao carregar o arquivo: ${res.status}`);
-      }
+    if (!res.ok) {
+      throw new Error(`Erro ao carregar o arquivo: ${res.status}`);
+    }
 
-      const data = await res.json();
+    const data = await res.json();
 
-      // Verifica se data.cards existe
-      if (!data || !data.cards || !Array.isArray(data.cards)) {
-        container.innerHTML = `<p class="text-center w-100">Arquivo cards.json inválido ou vazio.</p>`;
-        return;
-      }
+    if (!data || !data.cards || !Array.isArray(data.cards)) {
+      container.innerHTML = `<p class="text-center w-100">Arquivo cards.json inválido ou vazio.</p>`;
+      return;
+    }
 
-      // Atualiza datetime no topo
-      document.getElementById("datetimeBox").innerText = data.datetime_utc_minus3 || "N/A";
+    document.getElementById("datetimeBox").innerText = data.datetime_utc_minus3 || "N/A";
 
-      const cards = data.cards;
+    const cards = data.cards;
 
-      if (!cards.length) {
-        container.innerHTML = `<p class="text-center w-100">Nenhum card encontrado.</p>`;
-        return;
-      }
+    if (!cards.length) {
+      container.innerHTML = `<p class="text-center w-100">Nenhum card encontrado.</p>`;
+      return;
+    }
 
-      cards.forEach((card, index) => {
-        const cardId = `records-${index}`;
-        const minPrice = card.records && card.records.length
-          ? Math.min(...card.records.map(r => parseFloat(r.price.replace("$","")))).toFixed(2)
-          : "0.00";
+    cards.forEach((card, index) => {
+      const cardId = `records-${index}`;
 
-        const html = `
-          <div class="col-12 col-md-6 col-lg-4">
-            <div class="card-bg" onclick="toggleRecords('${cardId}')">
-              <div class="card-row">
-                <span class="font-bold text-lg">${card.name} - $${minPrice}</span>
-                <div id="${cardId}" class="records-container">
-                  ${card.records && card.records.length
-                    ? card.records.map(r => `
-                      <div>
-                        <span class="text-sm opacity-75">${r.expansion}</span>:
-                        <span class="price-current">${r.price}</span> /
-                        <span class="price-badge">${r.quantity}</span>
-                      </div>
-                    `).join("")
-                    : `<div class="text-sm opacity-75">Nenhum registro</div>`
-                  }
-                </div>
+      // Converte preços para número em R$
+      const recordPrices = (card.records || []).map(r => {
+        let priceStr = r.price || "";
+        let currency = priceStr.startsWith("R$") ? "R$" : priceStr.startsWith("€") ? "€" : "$";
+        let value = parseFloat(priceStr.replace(/[R\$€]/g, "").replace(",", "."));
+        if (isNaN(value)) return null;
+
+        // Conversão para R$
+        if (currency === "$") value *= 5; // dólar -> real (exemplo)
+        if (currency === "€") value *= 5.5; // euro -> real (exemplo)
+        return value;
+      }).filter(v => v !== null);
+
+      const minPrice = recordPrices.length
+        ? Math.min(...recordPrices).toFixed(2)
+        : "0.00";
+
+      const html = `
+        <div class="col-12 col-md-6 col-lg-4">
+          <div class="card-bg" onclick="toggleRecords('${cardId}')">
+            <div class="card-row">
+              <span class="font-bold text-lg">${card.name} - R$${minPrice}</span>
+              <div id="${cardId}" class="records-container">
+                ${(card.records || []).length
+                  ? card.records.map(r => {
+                      // converte para R$ e mostra QTD
+                      let priceStr = r.price || "";
+                      let currency = priceStr.startsWith("R$") ? "R$" : priceStr.startsWith("€") ? "€" : "$";
+                      let value = parseFloat(priceStr.replace(/[R\$€]/g, "").replace(",", "."));
+                      if (isNaN(value)) return `<div class="text-sm opacity-75">Preço inválido</div>`;
+                      if (currency === "$") value *= 5;
+                      if (currency === "€") value *= 5.5;
+                      return `
+                        <div>
+                          <span class="text-sm opacity-75">${r.expansion}</span>:
+                          <span class="price-current">R$${value.toFixed(2)}</span> QTD: <span class="price-badge">${r.quantity}</span>
+                        </div>
+                      `;
+                    }).join("")
+                  : `<div class="text-sm opacity-75">Nenhum registro</div>`
+                }
               </div>
             </div>
           </div>
-        `;
-        container.innerHTML += html;
-      });
+        </div>
+      `;
+      container.innerHTML += html;
+    });
 
-    } catch (err) {
-      console.error(err);
-      container.innerHTML = `<p class="text-center w-100">Erro ao carregar os cards: ${err.message}</p>`;
-    }
+  } catch (err) {
+    console.error(err);
+    container.innerHTML = `<p class="text-center w-100">Erro ao carregar os cards: ${err.message}</p>`;
   }
+}
 
-  function toggleRecords(id) {
-    const el = document.getElementById(id);
-    if (el) el.style.display = el.style.display === "none" ? "block" : "none";
-  }
+function toggleRecords(id) {
+  const el = document.getElementById(id);
+  if (el) el.style.display = el.style.display === "none" ? "block" : "none";
+}
 
-  loadData();
+loadData();
 </script>
+
 
 
 </body>
