@@ -955,8 +955,8 @@
         },
         {
           "expansion": "Crucible of War - First",
-          "price_original": "$78.42",
-          "price_brl": 485.03,
+          "price_original": "$78.14",
+          "price_brl": 483.3,
           "quantity": 3
         },
         {
@@ -967,8 +967,8 @@
         },
         {
           "expansion": "Crucible of War - First",
-          "price_original": "$12,605.21",
-          "price_brl": 77963.22,
+          "price_original": "$12,592.60",
+          "price_brl": 77885.23,
           "quantity": 1
         },
         {
@@ -1155,8 +1155,8 @@
         },
         {
           "expansion": "Monarch - First",
-          "price_original": "$408.62",
-          "price_brl": 2527.31,
+          "price_original": "$408.65",
+          "price_brl": 2527.5,
           "quantity": 1
         },
         {
@@ -1487,8 +1487,20 @@
         },
         {
           "expansion": "Tales of Aria - First",
+          "price_original": "$52.00",
+          "price_brl": 321.62,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
           "price_original": "$59.99",
           "price_brl": 371.04,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$60.05",
+          "price_brl": 371.41,
           "quantity": 1
         },
         {
@@ -1499,8 +1511,26 @@
         },
         {
           "expansion": "Tales of Aria - First",
+          "price_original": "$73.48",
+          "price_brl": 454.47,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$99.53",
+          "price_brl": 615.59,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
           "price_original": "$130.22",
           "price_brl": 805.41,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$132.44",
+          "price_brl": 819.14,
           "quantity": 1
         },
         {
@@ -1614,8 +1644,8 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$53.81",
-          "price_brl": 332.81,
+          "price_original": "$53.97",
+          "price_brl": 333.8,
           "quantity": 9
         },
         {
@@ -1644,8 +1674,8 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$75.77",
-          "price_brl": 468.64,
+          "price_original": "$75.69",
+          "price_brl": 468.14,
           "quantity": 2
         },
         {
@@ -6070,6 +6100,6 @@
       ]
     }
   ],
-  "datetime_utc_minus3": "2025-12-07T02:41:46",
+  "datetime_utc_minus3": "2025-12-07T03:32:07",
   "euro_rate": 6.185
 }
