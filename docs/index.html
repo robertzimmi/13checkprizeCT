@@ -82,15 +82,14 @@
     <div id="cardsContainer" class="row g-4"></div>
   </div>
 
-  <script>
-function formatBRDate(isoStr) {
-  const d = new Date(isoStr);
-  const day = String(d.getDate()).padStart(2,'0');
-  const month = String(d.getMonth()+1).padStart(2,'0');
-  const year = d.getFullYear();
-  const hours = String(d.getHours()).padStart(2,'0');
-  const minutes = String(d.getMinutes()).padStart(2,'0');
-  return `${day}/${month}/${year} ${hours}:${minutes}`;
+<script>
+function formatBRDate(str) {
+  // str no formato: YYYY-MM-DDTHH:mm:ss
+  const [datePart, timePart] = str.split("T");
+  const [year, month, day] = datePart.split("-");
+  const [hour, minute] = timePart.split(":");
+
+  return `${day}/${month}/${year} ${hour}:${minute}`;
 }
 
 async function loadData() {
@@ -102,7 +101,7 @@ async function loadData() {
     if (!res.ok) throw new Error(`Erro ao carregar o arquivo: ${res.status}`);
     const data = await res.json();
 
-    // Data formatada
+    // Data formatada (SEM converter fuso, SEM new Date)
     document.getElementById("datetimeBox").innerText = data.datetime_utc_minus3
       ? formatBRDate(data.datetime_utc_minus3)
       : "N/A";
@@ -116,12 +115,13 @@ async function loadData() {
     cards.forEach((card, index) => {
       const cardId = `records-${index}`;
 
-      // Calcular minPrice
-      const recordPrices = (card.records || []).map(r => parseFloat(r.price_brl)).filter(v=>!isNaN(v));
+      const recordPrices = (card.records || [])
+        .map(r => parseFloat(r.price_brl))
+        .filter(v => !isNaN(v));
+
       const minPrice = recordPrices.length ? Math.min(...recordPrices) : 0;
 
-      // Fundo do card baseado no preço mínimo
-      const cardBgColor = minPrice < card.price_target_brl ? "#d1fae5" : "#fee2e2"; // verde claro ou vermelho claro
+      const cardBgColor = minPrice < card.price_target_brl ? "#d1fae5" : "#fee2e2";
       const cardTextColor = minPrice < card.price_target_brl ? "#065f46" : "#991b1b";
 
       const html = `
@@ -133,10 +133,10 @@ async function loadData() {
                 ${(card.records || []).length
                   ? card.records.map(r => {
                       const price = parseFloat(r.price_brl);
-                      const color = price < card.price_target_brl ? "#d1fae5" : "#fee2e2";
-                      const textColor = price < card.price_target_brl ? "#065f46" : "#991b1b";
+                      const bg = price < card.price_target_brl ? "#d1fae5" : "#fee2e2";
+                      const fg = price < card.price_target_brl ? "#065f46" : "#991b1b";
                       return `
-                        <div style="display:flex; justify-content:space-between; align-items:center; background:${color}; color:${textColor}; padding:4px 8px; border-radius:6px; margin-bottom:2px">
+                        <div style="display:flex; justify-content:space-between; align-items:center; background:${bg}; color:${fg}; padding:4px 8px; border-radius:6px; margin-bottom:2px">
                           <span>${r.expansion} - R$${price.toFixed(2)}</span>
                           <span class="price-badge">${r.quantity}</span>
                         </div>
@@ -164,7 +164,8 @@ function toggleRecords(id) {
 }
 
 loadData();
-  </script>
+</script>
+
 
 </body>
 </html>

@@ -25,6 +25,18 @@ const BEARER_TOKEN = process.env.BEARER_TOKEN;
 const BASE_URL = "https://api.cardtrader.com/api/v2";
 const EXPANSION_URL = `${BASE_URL}/marketplace/products?expansion_id=`;
 
+// Gera data no fuso UTC-3 sem "Z"
+function makeBrazilDateString() {
+  const now = new Date(Date.now() - 3 * 60 * 60 * 1000);
+  const year = now.getFullYear();
+  const month = String(now.getMonth() + 1).padStart(2, "0");
+  const day = String(now.getDate()).padStart(2, "0");
+  const hour = String(now.getHours()).padStart(2, "0");
+  const minute = String(now.getMinutes()).padStart(2, "0");
+  const second = String(now.getSeconds()).padStart(2, "0");
+  return `${year}-${month}-${day}T${hour}:${minute}:${second}`;
+}
+
 // Pegar cotação do Euro usando Frankfurter
 async function fetchEuroRate() {
   try {
@@ -60,37 +72,41 @@ async function fetchData() {
         const matches = cardsArrays.filter(c => normalize(c.name_en) === normalizedTarget);
 
         if (matches.length) {
-          foundCards.push(...matches.map(c => {
-            const priceOriginalStr = c.price.formatted.trim();
+          foundCards.push(
+            ...matches.map(c => {
+              const priceOriginalStr = c.price.formatted.trim();
 
-            let priceBRL;
-            if (priceOriginalStr.startsWith("R$")) {
-              // Já está em reais, remove R$ e vírgulas de milhar
-              let cleaned = priceOriginalStr.replace(/[R$]/g, "").trim();
-              cleaned = cleaned.replace(/,(\d{3})/g, "$1"); // "2,200.03" -> "2200.03"
-              priceBRL = parseFloat(cleaned.replace(",", ".")); // vírgula decimal para ponto
-            } else {
-              // Em $ ou €, multiplica pelo euroRate
-              const numericPrice = parseFloat(priceOriginalStr.replace(/[^0-9.]/g, ""));
-              priceBRL = !isNaN(numericPrice) ? parseFloat((numericPrice * euroRate).toFixed(2)) : 0;
-            }
+              let priceBRL;
+              if (priceOriginalStr.startsWith("R$")) {
+                // Já está em reais, remove R$ e vírgulas de milhar
+                let cleaned = priceOriginalStr.replace(/[R$]/g, "").trim();
+                cleaned = cleaned.replace(/,(\d{3})/g, "$1"); // "2,200.03" → "2200.03"
+                priceBRL = parseFloat(cleaned.replace(",", ".")); // vírgula decimal → ponto
+              } else {
+                // Em $ ou €, multiplica pelo euroRate
+                const numericPrice = parseFloat(priceOriginalStr.replace(/[^0-9.]/g, ""));
+                priceBRL = !isNaN(numericPrice)
+                  ? parseFloat((numericPrice * euroRate).toFixed(2))
+                  : 0;
+              }
 
-            const priceTargetBRL = parseFloat((targetsObj[targetName] * euroRate).toFixed(2));
+              const priceTargetBRL = parseFloat((targetsObj[targetName] * euroRate).toFixed(2));
 
-            return {
-              name: c.name_en,
-              price_target: targetsObj[targetName],
-              price_target_brl: priceTargetBRL,
-              expansion: expansion.name,
-              price_original: priceOriginalStr,
-              price_brl: priceBRL,
-              quantity: c.quantity
-            };
-          }));
+              return {
+                name: c.name_en,
+                price_target: targetsObj[targetName],
+                price_target_brl: priceTargetBRL,
+                expansion: expansion.name,
+                price_original: priceOriginalStr,
+                price_brl: priceBRL,
+                quantity: c.quantity
+              };
+            })
+          );
         }
       }
 
-      await new Promise(r => setTimeout(r, 500)); // delay para não bater rate limit
+      await new Promise(r => setTimeout(r, 500)); // evitar rate limit
     } catch (err) {
       console.error(`Erro na expansão ${expansion.code}:`, err.message);
     }
@@ -118,7 +134,7 @@ async function fetchData() {
   // JSON final
   const finalJSON = {
     cards: Object.values(groupedCards),
-    datetime_utc_minus3: new Date(Date.now() - 3*60*60*1000).toISOString(),
+    datetime_utc_minus3: makeBrazilDateString(), // ⬅ CORRIGIDO
     euro_rate: euroRate
   };
 
