@@ -7,6 +7,18 @@
       "records": [
         {
           "expansion": "Welcome to Rathe",
+          "price_original": "$29.63",
+          "price_brl": 183.26,
+          "quantity": 1
+        },
+        {
+          "expansion": "Welcome to Rathe",
+          "price_original": "$30.80",
+          "price_brl": 190.5,
+          "quantity": 1
+        },
+        {
+          "expansion": "Welcome to Rathe",
           "price_original": "$31.43",
           "price_brl": 194.39,
           "quantity": 3
@@ -16,12 +28,6 @@
           "price_original": "$33.43",
           "price_brl": 206.76,
           "quantity": 3
-        },
-        {
-          "expansion": "Welcome to Rathe",
-          "price_original": "$40.73",
-          "price_brl": 251.92,
-          "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe",
@@ -75,7 +81,7 @@
           "expansion": "Welcome to Rathe",
           "price_original": "$99.24",
           "price_brl": 613.8,
-          "quantity": 3
+          "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe",
@@ -85,20 +91,20 @@
         },
         {
           "expansion": "Welcome to Rathe",
-          "price_original": "$109.53",
-          "price_brl": 677.44,
-          "quantity": 1
-        },
-        {
-          "expansion": "Welcome to Rathe",
-          "price_original": "$118.51",
-          "price_brl": 732.98,
+          "price_original": "$101.45",
+          "price_brl": 627.47,
           "quantity": 3
         },
         {
           "expansion": "Welcome to Rathe",
-          "price_original": "$128.80",
-          "price_brl": 796.63,
+          "price_original": "$118.53",
+          "price_brl": 733.11,
+          "quantity": 3
+        },
+        {
+          "expansion": "Welcome to Rathe",
+          "price_original": "$128.64",
+          "price_brl": 795.64,
           "quantity": 4
         },
         {
@@ -194,15 +200,21 @@
         },
         {
           "expansion": "Welcome to Rathe",
-          "price_original": "$92.10",
-          "price_brl": 569.64,
+          "price_original": "$92.11",
+          "price_brl": 569.7,
+          "quantity": 3
+        },
+        {
+          "expansion": "Welcome to Rathe",
+          "price_original": "$97.81",
+          "price_brl": 604.95,
           "quantity": 2
         },
         {
           "expansion": "Welcome to Rathe",
-          "price_original": "$97.89",
-          "price_brl": 605.45,
-          "quantity": 2
+          "price_original": "$103.50",
+          "price_brl": 640.15,
+          "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe",
@@ -212,8 +224,8 @@
         },
         {
           "expansion": "Welcome to Rathe",
-          "price_original": "$147.87",
-          "price_brl": 914.58,
+          "price_original": "$147.88",
+          "price_brl": 914.64,
           "quantity": 1
         },
         {
@@ -279,20 +291,20 @@
         },
         {
           "expansion": "Welcome to Rathe",
-          "price_original": "$163.86",
-          "price_brl": 1013.47,
+          "price_original": "$163.87",
+          "price_brl": 1013.54,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe",
-          "price_original": "$167.56",
-          "price_brl": 1036.36,
+          "price_original": "$169.70",
+          "price_brl": 1049.59,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe",
-          "price_original": "$194.63",
-          "price_brl": 1203.79,
+          "price_original": "$194.54",
+          "price_brl": 1203.23,
           "quantity": 1
         },
         {
@@ -309,8 +321,8 @@
         },
         {
           "expansion": "Welcome to Rathe",
-          "price_original": "$344.08",
-          "price_brl": 2128.13,
+          "price_original": "$344.11",
+          "price_brl": 2128.32,
           "quantity": 1
         },
         {
@@ -327,8 +339,8 @@
         },
         {
           "expansion": "Welcome to Rathe",
-          "price_original": "$433.94",
-          "price_brl": 2683.92,
+          "price_original": "$433.98",
+          "price_brl": 2684.17,
           "quantity": 1
         },
         {
@@ -478,20 +490,20 @@
       "records": [
         {
           "expansion": "Welcome to Rathe",
-          "price_original": "$276.50",
-          "price_brl": 1710.15,
+          "price_original": "$276.35",
+          "price_brl": 1709.22,
           "quantity": 2
         },
         {
           "expansion": "Welcome to Rathe",
-          "price_original": "$340.50",
-          "price_brl": 2105.99,
+          "price_original": "$340.42",
+          "price_brl": 2105.5,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe",
-          "price_original": "$345.51",
-          "price_brl": 2136.98,
+          "price_original": "$341.12",
+          "price_brl": 2109.83,
           "quantity": 2
         },
         {
@@ -508,8 +520,8 @@
         },
         {
           "expansion": "Welcome to Rathe",
-          "price_original": "$458.46",
-          "price_brl": 2835.58,
+          "price_original": "$458.50",
+          "price_brl": 2835.82,
           "quantity": 1
         },
         {
@@ -4393,20 +4405,20 @@
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$16.25",
-          "price_brl": 16.25,
+          "price_original": "R$15.74",
+          "price_brl": 15.74,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$16.75",
-          "price_brl": 16.75,
+          "price_original": "R$16.44",
+          "price_brl": 16.44,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$17.56",
-          "price_brl": 17.56,
+          "price_original": "R$17.57",
+          "price_brl": 17.57,
           "quantity": 2
         },
         {
@@ -4437,13 +4449,13 @@
           "expansion": "Heavy Hitters",
           "price_original": "R$23.00",
           "price_brl": 23,
-          "quantity": 4
+          "quantity": 5
         },
         {
           "expansion": "Heavy Hitters",
           "price_original": "R$23.00",
           "price_brl": 23,
-          "quantity": 5
+          "quantity": 4
         },
         {
           "expansion": "Heavy Hitters",
@@ -4471,8 +4483,8 @@
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$36.00",
-          "price_brl": 36,
+          "price_original": "R$35.52",
+          "price_brl": 35.52,
           "quantity": 4
         },
         {
@@ -4538,20 +4550,20 @@
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$949.00",
-          "price_brl": 949,
+          "price_original": "R$949.07",
+          "price_brl": 949.07,
           "quantity": 4
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$1,021.93",
-          "price_brl": 1021.93,
+          "price_original": "R$1,022.00",
+          "price_brl": 1022,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$1,111.68",
-          "price_brl": 1111.68,
+          "price_original": "R$1,110.94",
+          "price_brl": 1110.94,
           "quantity": 1
         },
         {
@@ -6136,6 +6148,6 @@
       ]
     }
   ],
-  "datetime_utc_minus3": "2025-12-07T04:39:05",
+  "datetime_utc_minus3": "2025-12-07T05:27:59",
   "euro_rate": 6.185
 }
