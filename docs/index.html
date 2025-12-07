@@ -97,7 +97,8 @@ async function loadData() {
   container.innerHTML = "";
 
   try {
-    const res = await fetch("cards.json");
+    const res = await fetch("cards.json?v=" + Date.now());
+
     if (!res.ok) throw new Error(`Erro ao carregar o arquivo: ${res.status}`);
     const data = await res.json();
 

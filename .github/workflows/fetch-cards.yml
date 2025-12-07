@@ -2,8 +2,11 @@ name: Fetch Cards
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # a cada 30 minutos
-  workflow_dispatch:        # permite rodar manualmente também
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write   # 👈 OBRIGATÓRIO
 
 jobs:
   fetch:
