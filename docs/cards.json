@@ -973,14 +973,14 @@
         },
         {
           "expansion": "Crucible of War - First",
-          "price_original": "$44.65",
-          "price_brl": 276.16,
+          "price_original": "$44.66",
+          "price_brl": 276.22,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - First",
-          "price_original": "$78.14",
-          "price_brl": 483.3,
+          "price_original": "$77.86",
+          "price_brl": 481.56,
           "quantity": 3
         },
         {
@@ -991,8 +991,8 @@
         },
         {
           "expansion": "Crucible of War - First",
-          "price_original": "$12,592.60",
-          "price_brl": 77885.23,
+          "price_original": "$12,580.01",
+          "price_brl": 77807.36,
           "quantity": 1
         },
         {
@@ -1179,8 +1179,8 @@
         },
         {
           "expansion": "Monarch - First",
-          "price_original": "$408.65",
-          "price_brl": 2527.5,
+          "price_original": "$408.73",
+          "price_brl": 2528,
           "quantity": 1
         },
         {
@@ -1662,8 +1662,8 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$53.97",
-          "price_brl": 333.8,
+          "price_original": "$53.98",
+          "price_brl": 333.87,
           "quantity": 9
         },
         {
@@ -1680,20 +1680,20 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$57.89",
-          "price_brl": 358.05,
+          "price_original": "$57.42",
+          "price_brl": 355.14,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$73.21",
-          "price_brl": 452.8,
+          "price_original": "$62.95",
+          "price_brl": 389.35,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$75.69",
-          "price_brl": 468.14,
+          "price_original": "$75.46",
+          "price_brl": 466.72,
           "quantity": 2
         },
         {
@@ -6136,6 +6136,6 @@
       ]
     }
   ],
-  "datetime_utc_minus3": "2025-12-08T02:47:22",
+  "datetime_utc_minus3": "2025-12-08T03:38:54",
   "euro_rate": 6.185
 }
