@@ -4,6 +4,7 @@
       "name": "Enlightened Strike",
       "price_target": 32,
       "price_target_brl": 197.92,
+      "tag": "staples",
       "records": [
         {
           "expansion": "Welcome to Rathe",
@@ -203,6 +204,7 @@
       "name": "Mask of Momentum",
       "price_target": 73,
       "price_target_brl": 451.5,
+      "tag": "ninja",
       "records": [
         {
           "expansion": "Welcome to Rathe",
@@ -300,6 +302,7 @@
       "name": "Fyendal's Spring Tunic",
       "price_target": 129,
       "price_target_brl": 797.86,
+      "tag": "staples",
       "records": [
         {
           "expansion": "Welcome to Rathe",
@@ -505,6 +508,7 @@
       "name": "Heart of Fyendal",
       "price_target": 160,
       "price_target_brl": 989.6,
+      "tag": "gem",
       "records": [
         {
           "expansion": "Welcome to Rathe",
@@ -554,6 +558,7 @@
       "name": "Command and Conquer",
       "price_target": 73,
       "price_target_brl": 451.5,
+      "tag": "staples",
       "records": [
         {
           "expansion": "Arcane Rising",
@@ -825,6 +830,7 @@
       "name": "Eye of Ophidia",
       "price_target": 240,
       "price_target_brl": 1484.4,
+      "tag": "gem",
       "records": [
         {
           "expansion": "Arcane Rising",
@@ -880,6 +886,7 @@
       "name": "Snag",
       "price_target": 8.4,
       "price_target_brl": 51.95,
+      "tag": "staples",
       "records": [
         {
           "expansion": "Crucible of War",
@@ -1067,6 +1074,7 @@
       "name": "Arknight Shard",
       "price_target": 160,
       "price_target_brl": 989.6,
+      "tag": "gem",
       "records": [
         {
           "expansion": "Crucible of War",
@@ -1152,6 +1160,7 @@
       "name": "Great Library of Solana",
       "price_target": 160,
       "price_target_brl": 989.6,
+      "tag": "landmark",
       "records": [
         {
           "expansion": "Monarch - Unlimited",
@@ -1219,6 +1228,7 @@
       "name": "Overcrowded",
       "price_target": 6.5,
       "price_target_brl": 40.2,
+      "tag": "other",
       "records": [
         {
           "expansion": "Armory Events",
@@ -1454,6 +1464,7 @@
       "name": "Crown of Seeds",
       "price_target": 16.23,
       "price_target_brl": 100.38,
+      "tag": "ll",
       "records": [
         {
           "expansion": "Tales of Aria - Unlimited",
@@ -1593,6 +1604,7 @@
       "name": "Korshem, Crossroad of Elements",
       "price_target": 23,
       "price_target_brl": 142.25,
+      "tag": "landmark",
       "records": [
         {
           "expansion": "Tales of Aria - Unlimited",
@@ -1765,9 +1777,60 @@
       ]
     },
     {
+      "name": "Shock Charmers",
+      "price_target": 48,
+      "price_target_brl": 296.88,
+      "tag": "ll",
+      "records": [
+        {
+          "expansion": "Tales of Aria - Unlimited",
+          "price_original": "$62.39",
+          "price_brl": 385.88,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - Unlimited",
+          "price_original": "$132.44",
+          "price_brl": 819.14,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - Unlimited",
+          "price_original": "$147.96",
+          "price_brl": 915.13,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$156.12",
+          "price_brl": 965.6,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$157.42",
+          "price_brl": 973.64,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$157.43",
+          "price_brl": 973.7,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$188.87",
+          "price_brl": 1168.16,
+          "quantity": 1
+        }
+      ]
+    },
+    {
       "name": "Erase Face",
       "price_target": 16,
       "price_target_brl": 98.96,
+      "tag": "staples",
       "records": [
         {
           "expansion": "Judge Promos",
@@ -1889,6 +1952,7 @@
       "name": "Poison the Well",
       "price_target": 5,
       "price_target_brl": 30.92,
+      "tag": "staples",
       "records": [
         {
           "expansion": "Judge Promos",
@@ -2046,6 +2110,7 @@
       "name": "This Round's on Me",
       "price_target": 5,
       "price_target_brl": 30.92,
+      "tag": "other",
       "records": [
         {
           "expansion": "Everfest - First",
@@ -2155,6 +2220,7 @@
       "name": "Grandeur of Valahai",
       "price_target": 110,
       "price_target_brl": 680.35,
+      "tag": "gem",
       "records": [
         {
           "expansion": "Everfest - First",
@@ -2222,6 +2288,7 @@
       "name": "That All You Got?",
       "price_target": 9,
       "price_target_brl": 55.66,
+      "tag": "other",
       "records": [
         {
           "expansion": "Uprising",
@@ -2337,6 +2404,7 @@
       "name": "Crown of Providence",
       "price_target": 115,
       "price_target_brl": 711.27,
+      "tag": "staples",
       "records": [
         {
           "expansion": "Uprising",
@@ -2410,6 +2478,7 @@
       "name": "Blood of the Dracai",
       "price_target": 20,
       "price_target_brl": 123.7,
+      "tag": "gem",
       "records": [
         {
           "expansion": "Uprising",
@@ -2579,6 +2648,7 @@
       "name": "Crown of Dominion",
       "price_target": 114,
       "price_target_brl": 705.09,
+      "tag": "staples",
       "records": [
         {
           "expansion": "Dynasty",
@@ -2676,6 +2746,7 @@
       "name": "Codex of Frailty",
       "price_target": 30,
       "price_target_brl": 185.55,
+      "tag": "staples",
       "records": [
         {
           "expansion": "Outsiders",
@@ -3031,6 +3102,7 @@
       "name": "Amnesia",
       "price_target": 4.9,
       "price_target_brl": 30.31,
+      "tag": "staples",
       "records": [
         {
           "expansion": "Outsiders",
@@ -3176,6 +3248,7 @@
       "name": "Concealed Blade",
       "price_target": 13,
       "price_target_brl": 80.41,
+      "tag": "ninja",
       "records": [
         {
           "expansion": "Outsiders",
@@ -3297,6 +3370,7 @@
       "name": "Knives Out",
       "price_target": 1.7,
       "price_target_brl": 10.51,
+      "tag": "ninja",
       "records": [
         {
           "expansion": "Outsiders",
@@ -3412,6 +3486,7 @@
       "name": "Plague Hive",
       "price_target": 39,
       "price_target_brl": 241.21,
+      "tag": "gem",
       "records": [
         {
           "expansion": "Outsiders",
@@ -3539,6 +3614,7 @@
       "name": "Censor",
       "price_target": 9,
       "price_target_brl": 55.66,
+      "tag": "staples",
       "records": [
         {
           "expansion": "Dusk till dawn",
@@ -3714,6 +3790,7 @@
       "name": "Warmonger's Diplomacy",
       "price_target": 25,
       "price_target_brl": 154.63,
+      "tag": "staples",
       "records": [
         {
           "expansion": "Dusk till dawn",
@@ -3967,6 +4044,7 @@
       "name": "Light of Sol",
       "price_target": 80,
       "price_target_brl": 494.8,
+      "tag": "gem",
       "records": [
         {
           "expansion": "Dusk till dawn",
@@ -4052,6 +4130,7 @@
       "name": "Wax Off",
       "price_target": 2.5,
       "price_target_brl": 15.46,
+      "tag": "ninja",
       "records": [
         {
           "expansion": "Bright Lights",
@@ -4221,6 +4300,7 @@
       "name": "Master Cog",
       "price_target": 45,
       "price_target_brl": 278.32,
+      "tag": "gem",
       "records": [
         {
           "expansion": "Bright Lights",
@@ -4360,6 +4440,7 @@
       "name": "Nasty Surprise",
       "price_target": 1.7,
       "price_target_brl": 10.51,
+      "tag": "other",
       "records": [
         {
           "expansion": "Heavy Hitters",
@@ -4517,6 +4598,7 @@
       "name": "Deathmatch Arena",
       "price_target": 110,
       "price_target_brl": 680.35,
+      "tag": "landmark",
       "records": [
         {
           "expansion": "Heavy Hitters",
@@ -4554,6 +4636,7 @@
       "name": "Will of Arcana",
       "price_target": 47,
       "price_target_brl": 290.69,
+      "tag": "gem",
       "records": [
         {
           "expansion": "Rosetta",
@@ -4609,6 +4692,7 @@
       "name": "Shelter from the Storm",
       "price_target": 73,
       "price_target_brl": 451.5,
+      "tag": "staples",
       "records": [
         {
           "expansion": "The Hunted",
@@ -4796,6 +4880,7 @@
       "name": "Blood Splattered Vest",
       "price_target": 49,
       "price_target_brl": 303.06,
+      "tag": "draconic",
       "records": [
         {
           "expansion": "The Hunted",
@@ -4941,6 +5026,7 @@
       "name": "Dragonscaler Flight Path",
       "price_target": 49,
       "price_target_brl": 303.06,
+      "tag": "draconic",
       "records": [
         {
           "expansion": "The Hunted",
@@ -5074,6 +5160,7 @@
       "name": "Quickdodge Flexors",
       "price_target": 129,
       "price_target_brl": 797.86,
+      "tag": "staples",
       "records": [
         {
           "expansion": "The Hunted",
@@ -5123,6 +5210,7 @@
       "name": "Pain in the Backside",
       "price_target": 16,
       "price_target_brl": 98.96,
+      "tag": "ninja",
       "records": [
         {
           "expansion": "The Hunted",
@@ -5214,6 +5302,7 @@
       "name": "Throw Dagger",
       "price_target": 8.4,
       "price_target_brl": 51.95,
+      "tag": "ninja",
       "records": [
         {
           "expansion": "The Hunted",
@@ -5329,6 +5418,7 @@
       "name": "Dual Threat",
       "price_target": 3.25,
       "price_target_brl": 20.1,
+      "tag": "ninja",
       "records": [
         {
           "expansion": "The Hunted",
@@ -5504,6 +5594,7 @@
       "name": "Schism of Chaos",
       "price_target": 32,
       "price_target_brl": 197.92,
+      "tag": "gem",
       "records": [
         {
           "expansion": "The Hunted",
@@ -5631,6 +5722,7 @@
       "name": "Arcane Compliance",
       "price_target": 6.5,
       "price_target_brl": 40.2,
+      "tag": "staples",
       "records": [
         {
           "expansion": "High Seas",
@@ -5872,6 +5964,7 @@
       "name": "Fearless Confrontation",
       "price_target": 17,
       "price_target_brl": 105.14,
+      "tag": "other",
       "records": [
         {
           "expansion": "Mastery Pack: Guardian",
@@ -5897,6 +5990,7 @@
       "name": "Cutting Retort",
       "price_target": 1.7,
       "price_target_brl": 10.51,
+      "tag": "other",
       "records": [
         {
           "expansion": "Super Slam",
@@ -6084,6 +6178,7 @@
       "name": "Authority of Ataya",
       "price_target": 170,
       "price_target_brl": 1051.45,
+      "tag": "gem",
       "records": [
         {
           "expansion": "Super Slam",
@@ -6130,6 +6225,6 @@
       ]
     }
   ],
-  "datetime_utc_minus3": "2025-12-08T10:37:11",
+  "datetime_utc_minus3": "2025-12-08T11:24:33",
   "euro_rate": 6.185
 }
