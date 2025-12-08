@@ -4911,6 +4911,146 @@
       ]
     },
     {
+      "name": "Mistcloak Gully // Inner Chi",
+      "price_target": 15,
+      "price_target_brl": 94.7,
+      "tag": "landmark",
+      "records": [
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$18.50",
+          "price_brl": 116.8,
+          "quantity": 2
+        },
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$19.32",
+          "price_brl": 121.98,
+          "quantity": 1
+        },
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$22.31",
+          "price_brl": 140.86,
+          "quantity": 1
+        },
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$22.67",
+          "price_brl": 143.13,
+          "quantity": 2
+        },
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$26.13",
+          "price_brl": 164.97,
+          "quantity": 1
+        },
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$26.48",
+          "price_brl": 167.18,
+          "quantity": 1
+        },
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$26.67",
+          "price_brl": 168.38,
+          "quantity": 1
+        },
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$26.67",
+          "price_brl": 168.38,
+          "quantity": 1
+        },
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$27.89",
+          "price_brl": 176.09,
+          "quantity": 5
+        },
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$29.46",
+          "price_brl": 186,
+          "quantity": 2
+        },
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$29.66",
+          "price_brl": 187.26,
+          "quantity": 1
+        },
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$30.31",
+          "price_brl": 191.37,
+          "quantity": 5
+        },
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$32.10",
+          "price_brl": 202.67,
+          "quantity": 3
+        },
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$33.12",
+          "price_brl": 209.11,
+          "quantity": 1
+        },
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$40.00",
+          "price_brl": 252.54,
+          "quantity": 2
+        },
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$66.62",
+          "price_brl": 420.61,
+          "quantity": 1
+        },
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$158.75",
+          "price_brl": 1002.28,
+          "quantity": 1
+        },
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$50.83",
+          "price_brl": 320.92,
+          "quantity": 1
+        },
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$92.95",
+          "price_brl": 586.85,
+          "quantity": 1
+        },
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$131.54",
+          "price_brl": 830.49,
+          "quantity": 1
+        },
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$198.22",
+          "price_brl": 1251.48,
+          "quantity": 1
+        },
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$368.53",
+          "price_brl": 2326.75,
+          "quantity": 1
+        }
+      ]
+    },
+    {
       "name": "Levels of Enlightenment",
       "price_target": 5.6,
       "price_target_brl": 35.36,
@@ -7009,6 +7149,6 @@
       ]
     }
   ],
-  "datetime_utc_minus3": "2025-12-08T13:18:44",
+  "datetime_utc_minus3": "2025-12-08T13:23:58",
   "euro_rate": 6.3136
 }
