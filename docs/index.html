@@ -121,10 +121,11 @@ async function loadData() {
 
     // --- ORDEM PERSONALIZADA ---
     const sortedTags = Object.keys(groups).sort((a, b) => {
-      if (a === "Staples") return -1;   // Staples sempre primeiro
-      if (b === "Staples") return 1;
-      return a.localeCompare(b);       // resto em ordem alfabética
+      if (a.toLowerCase() === "staples") return -1;
+      if (b.toLowerCase() === "staples") return 1;
+      return a.localeCompare(b);
     });
+
 
     // Criar blocos para cada TAG
     for (const tag of sortedTags) {
