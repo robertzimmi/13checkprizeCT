@@ -63,24 +63,19 @@
       font-size: 0.9rem;
     }
 
-    .text-sm.opacity-75 {
-      color: #cbd5e1 !important;
-    }
-
-    /* título das TAGs */
     .tag-title {
-      margin-top: 40px;
-      margin-bottom: 12px;
-      font-size: 2rem;
+      font-size: 1.8rem;
       font-weight: bold;
-      color: #f1f5f9;
+      margin-top: 32px;
+      margin-bottom: 20px;
+      text-transform: uppercase;
       border-bottom: 2px solid #334155;
       padding-bottom: 6px;
     }
   </style>
 </head>
-<body class="min-h-screen">
 
+<body class="min-h-screen">
   <div class="container mt-4">
 
     <!-- Header -->
@@ -89,8 +84,8 @@
       <div id="datetimeBox" class="datetime-box">Carregando...</div>
     </div>
 
-    <!-- Área onde ficarão os grupos por TAG -->
-    <div id="tagsContainer"></div>
+    <!-- Conteúdo -->
+    <div id="contentContainer"></div>
   </div>
 
 <script>
@@ -102,45 +97,39 @@ function formatBRDate(str) {
 }
 
 async function loadData() {
-  const tagsContainer = document.getElementById("tagsContainer");
-  tagsContainer.innerHTML = "";
+  const content = document.getElementById("contentContainer");
+  content.innerHTML = "";
 
   try {
     const res = await fetch("cards.json?v=" + Date.now());
-    if (!res.ok) throw new Error(`Erro ao carregar o arquivo: ${res.status}`);
+    if (!res.ok) throw new Error("Falha ao carregar cards.json");
 
     const data = await res.json();
 
-    document.getElementById("datetimeBox").innerText = data.datetime_utc_minus3
-      ? formatBRDate(data.datetime_utc_minus3)
-      : "N/A";
+    // Atualiza data
+    document.getElementById("datetimeBox").innerText = formatBRDate(data.datetime_utc_minus3);
 
     const cards = data.cards || [];
-    if (!cards.length) {
-      tagsContainer.innerHTML = `<p class="text-center w-100 mt-4">Nenhum card encontrado.</p>`;
-      return;
-    }
 
-    // 🔥 AGRUPAR POR TAG
+    // Agrupar por TAG
     const groups = {};
-    cards.forEach(card => {
+    for (const card of cards) {
       const tag = card.tag || "other";
       if (!groups[tag]) groups[tag] = [];
       groups[tag].push(card);
-    });
+    }
 
-    // 🔠 Ordenar tags alfabeticamente (se quiser alterar, me avise)
-    const sortedTags = Object.keys(groups).sort();
+    // Criar blocos para cada TAG
+    for (const tag of Object.keys(groups)) {
+      const groupCards = groups[tag];
 
-    // 🔥 Renderizar cada TAG com seus cards
-    sortedTags.forEach(tag => {
-      let html = `
-        <div class="tag-title">${tag.toUpperCase()}</div>
-        <div class="row g-4">
-      `;
+      content.innerHTML += `<div class="tag-title">${tag}</div>`;
+      content.innerHTML += `<div class="row g-4" id="group-${tag}"></div>`;
 
-      groups[tag].forEach((card, index) => {
-        const cardId = `${tag}-card-${index}`;
+      const container = document.getElementById(`group-${tag}`);
+
+      groupCards.forEach((card, index) => {
+        const cardId = `${tag}-records-${index}`;
 
         const recordPrices = (card.records || [])
           .map(r => parseFloat(r.price_brl))
@@ -148,43 +137,41 @@ async function loadData() {
 
         const minPrice = recordPrices.length ? Math.min(...recordPrices) : 0;
 
-        const cardBgColor = minPrice < card.price_target_brl ? "#d1fae5" : "#fee2e2";
-        const cardTextColor = minPrice < card.price_target_brl ? "#065f46" : "#991b1b";
+        const cheaper = minPrice < card.price_target_brl;
+        const cardBgColor = cheaper ? "#d1fae5" : "#fee2e2";
+        const cardTextColor = cheaper ? "#065f46" : "#991b1b";
 
-        html += `
+        const html = `
           <div class="col-12 col-md-6 col-lg-4">
             <div class="card-bg" onclick="toggleRecords('${cardId}')" style="background:${cardBgColor}; color:${cardTextColor}">
               <div class="card-row">
                 <span class="font-bold text-lg">${card.name} - R$${minPrice.toFixed(2)}</span>
                 <div id="${cardId}" class="records-container">
-                  ${
-                    (card.records || []).length
-                      ? card.records.map(r => {
-                          const price = parseFloat(r.price_brl);
-                          const bg = price < card.price_target_brl ? "#d1fae5" : "#fee2e2";
-                          const fg = price < card.price_target_brl ? "#065f46" : "#991b1b";
-                          return `
-                            <div style="display:flex; justify-content:space-between; align-items:center; background:${bg}; color:${fg}; padding:4px 8px; border-radius:6px; margin-bottom:2px">
-                              <span>${r.expansion} - R$${price.toFixed(2)}</span>
-                              <span class="price-badge">${r.quantity}</span>
-                            </div>
-                          `;
-                        }).join("")
-                      : `<div class="text-sm opacity-75">Nenhum registro</div>`
-                  }
+                  ${card.records.map(r => {
+                    const price = parseFloat(r.price_brl);
+                    const bg = price < card.price_target_brl ? "#d1fae5" : "#fee2e2";
+                    const fg = price < card.price_target_brl ? "#065f46" : "#991b1b";
+
+                    return `
+                      <div style="display:flex; justify-content:space-between; align-items:center; background:${bg}; color:${fg}; padding:4px 8px; border-radius:6px; margin-bottom:2px">
+                        <span>${r.expansion} - R$${price.toFixed(2)}</span>
+                        <span class="price-badge">${r.quantity}</span>
+                      </div>
+                    `;
+                  }).join("")}
                 </div>
               </div>
             </div>
           </div>
         `;
-      });
 
-      html += `</div>`;
-      tagsContainer.innerHTML += html;
-    });
+        container.innerHTML += html;
+      });
+    }
 
   } catch (err) {
-    tagsContainer.innerHTML = `<p class="text-center w-100 mt-4">Erro ao carregar os cards: ${err.message}</p>`;
+    console.error(err);
+    content.innerHTML = `<p class="text-center w-100">Erro ao carregar dados.</p>`;
   }
 }
 
