@@ -72,6 +72,48 @@
       border-bottom: 2px solid #334155;
       padding-bottom: 6px;
     }
+
+    /* Menu lateral */
+    #hiddenMenu {
+      position: fixed;
+      top: 25%;
+      right: 0;
+      z-index: 50;
+      display: flex;
+      align-items: flex-start;
+      transition: all 0.3s ease;
+    }
+
+    #menuContent {
+      background: #1B4D3E;
+      color: white;
+      padding: 16px;
+      width: 280px;
+      max-height: 70vh;
+      overflow-y: auto;
+      border-radius: 12px 0 0 12px;
+      margin-left: 4px;
+      box-shadow: -4px 0 10px rgba(0,0,0,0.3);
+    }
+
+    #menuToggle {
+      background: #E07A5F;
+      color: white;
+      padding: 10px;
+      border-radius: 12px 0 0 12px;
+      cursor: pointer;
+      font-size: 1.2rem;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+      transition: background 0.2s;
+    }
+
+    #menuToggle:hover {
+      background: #d66a53;
+    }
+
+    #missingCardsList li {
+      margin-bottom: 6px;
+    }
   </style>
 </head>
 
@@ -89,11 +131,9 @@
   </div>
 
   <!-- Hidden Side Menu -->
-  <div id="hiddenMenu" class="fixed top-1/4 right-0 z-50 flex items-center transition-all duration-300">
-    <button id="menuToggle" class="bg-red-600 text-white p-3 rounded-l-lg shadow-lg hover:bg-red-700">
-      🔥
-    </button>
-    <div id="menuContent" class="hidden bg-gray-800 text-white p-4 w-64 max-h-[70vh] overflow-y-auto rounded-l-lg shadow-lg ml-2">
+  <div id="hiddenMenu">
+    <button id="menuToggle">🔥</button>
+    <div id="menuContent" class="hidden">
       <h3 class="font-bold text-lg mb-2">Cartas não localizadas</h3>
       <ul id="missingCardsList" class="list-disc pl-5"></ul>
     </div>
@@ -125,7 +165,11 @@ async function loadData() {
 
     // Preencher o hidden menu
     const listEl = document.getElementById("missingCardsList");
-    listEl.innerHTML = missingCards.map(c => `<li>${c}</li>`).join("");
+    if (missingCards.length) {
+      listEl.innerHTML = missingCards.map(c => `<li>${c}</li>`).join("");
+    } else {
+      listEl.innerHTML = "<li>Todos os cards encontrados!</li>";
+    }
 
     // Agrupar por TAG
     const groups = {};
@@ -135,7 +179,7 @@ async function loadData() {
       groups[tag].push(card);
     }
 
-    // --- ORDEM PERSONALIZADA ---
+    // Ordem personalizada
     const sortedTags = Object.keys(groups).sort((a, b) => {
       if (a.toLowerCase() === "staples") return -1;
       if (b.toLowerCase() === "staples") return 1;
@@ -159,7 +203,6 @@ async function loadData() {
           .filter(v => !isNaN(v));
 
         const minPrice = recordPrices.length ? Math.min(...recordPrices) : 0;
-
         const cheaper = minPrice < card.price_target_brl;
         const cardBgColor = cheaper ? "#d1fae5" : "#fee2e2";
         const cardTextColor = cheaper ? "#065f46" : "#991b1b";
@@ -187,7 +230,6 @@ async function loadData() {
             </div>
           </div>
         `;
-
         container.innerHTML += html;
       });
     }

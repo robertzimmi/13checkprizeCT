@@ -2,7 +2,7 @@ name: Generate Cards JSON
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 3 * * *"  # Todos os dias às 3h UTC
   workflow_dispatch:
 
 permissions:
@@ -20,11 +20,12 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
+          cache: "npm"
 
       - name: 📦 Install dependencies
-        run: npm install
+        run: npm ci
 
-      - name: 🔄 Run script
+      - name: 🔄 Run fetch-cards script
         env:
           BEARER_TOKEN: ${{ secrets.BEARER_TOKEN }}
         run: node scripts/fetch-cards.mjs
@@ -36,5 +37,9 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add docs/cards.json
-          git commit -m "update cards.json" || echo "No changes"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "update cards.json"
+            git push
+          else
+            echo "No changes to commit"
+          fi
