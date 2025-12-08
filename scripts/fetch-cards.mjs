@@ -37,7 +37,7 @@ function makeBrazilDateString() {
   return `${year}-${month}-${day}T${hour}:${minute}:${second}`;
 }
 
-// Pegar cotação do Euro usando Frankfurter
+// Cotação Euro
 async function fetchEuroRate() {
   try {
     const res = await fetch("https://api.frankfurter.app/latest?from=EUR&to=BRL");
@@ -56,6 +56,7 @@ async function fetchData() {
   console.log("💶 Euro atual:", euroRate);
 
   const foundCards = [];
+  const foundNames = new Set();
 
   for (const expansion of MOCK_EXPANSIONS) {
     try {
@@ -69,7 +70,7 @@ async function fetchData() {
       const cardsArrays = Object.values(data).flat();
 
       for (const targetName of TARGET_NAMES) {
-        const targetData = targetsObj[targetName]; // agora é um objeto
+        const targetData = targetsObj[targetName];
         const targetPrice = targetData.price_target;
         const targetTag = targetData.tag || "other";
 
@@ -79,6 +80,8 @@ async function fetchData() {
         );
 
         if (matches.length) {
+          foundNames.add(targetName);
+
           foundCards.push(
             ...matches.map(c => {
               const priceOriginalStr = c.price.formatted.trim();
@@ -86,12 +89,10 @@ async function fetchData() {
               let priceBRL;
 
               if (priceOriginalStr.startsWith("R$")) {
-                // Já está em reais
                 let cleaned = priceOriginalStr.replace(/[R$]/g, "").trim();
                 cleaned = cleaned.replace(/,(\d{3})/g, "$1");
                 priceBRL = parseFloat(cleaned.replace(",", "."));
               } else {
-                // Valor em $ ou €
                 const numericPrice = parseFloat(
                   priceOriginalStr.replace(/[^0-9.]/g, "")
                 );
@@ -109,7 +110,7 @@ async function fetchData() {
                 expansion: expansion.name,
                 price_original: priceOriginalStr,
                 price_brl: priceBRL,
-                tag: targetTag,     // <-- ADICIONADO
+                tag: targetTag,
                 quantity: c.quantity
               };
             })
@@ -117,13 +118,24 @@ async function fetchData() {
         }
       }
 
-      await new Promise(r => setTimeout(r, 500)); // evitar rate limit
+      await new Promise(r => setTimeout(r, 500));
+
     } catch (err) {
       console.error(`Erro na expansão ${expansion.code}:`, err.message);
     }
   }
 
-  // Agrupar por carta
+  // Encontrar cartas NÃO ACHADAS
+  const notFound = TARGET_NAMES.filter(name => !foundNames.has(name));
+
+  if (notFound.length) {
+    console.log("\n⚠️ Cartas NÃO ENCONTRADAS:");
+    notFound.forEach(c => console.log(" - " + c));
+  } else {
+    console.log("\n✅ Todas as cartas foram encontradas!");
+  }
+
+  // Agrupamento
   const groupedCards = {};
   for (const card of foundCards) {
     if (!groupedCards[card.name]) {
@@ -131,7 +143,7 @@ async function fetchData() {
         name: card.name,
         price_target: card.price_target,
         price_target_brl: card.price_target_brl,
-        tag: card.tag,     // <-- INCLUÍDO NO AGRUPAMENTO
+        tag: card.tag,
         records: []
       };
     }
@@ -143,7 +155,6 @@ async function fetchData() {
     });
   }
 
-  // JSON final
   const finalJSON = {
     cards: Object.values(groupedCards),
     datetime_utc_minus3: makeBrazilDateString(),
@@ -151,7 +162,10 @@ async function fetchData() {
   };
 
   fs.writeFileSync(OUTPUT_FILE, JSON.stringify(finalJSON, null, 2));
-  console.log(`💾 Criado ${OUTPUT_FILE}, total encontrado: ${foundCards.length}`);
+
+  console.log(`\n💾 Criado ${OUTPUT_FILE}`);
+  console.log(`📦 Total de registros encontrados: ${foundCards.length}`);
+  console.log(`📄 Total de cartas distintas: ${Object.keys(groupedCards).length}`);
 }
 
 // Rodar
