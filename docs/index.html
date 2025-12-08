@@ -106,7 +106,7 @@ async function loadData() {
 
     const data = await res.json();
 
-    // Atualizar data/hora
+    // Atualiza data
     document.getElementById("datetimeBox").innerText = formatBRDate(data.datetime_utc_minus3);
 
     const cards = data.cards || [];
@@ -119,14 +119,16 @@ async function loadData() {
       groups[tag].push(card);
     }
 
-    // ORDEM ESPECIAL: "Staples" sempre primeiro
-    const allTags = Object.keys(groups);
-    const sortedTags = ["Staples", ...allTags.filter(t => t !== "Staples").sort()];
+    // --- ORDEM PERSONALIZADA ---
+    const sortedTags = Object.keys(groups).sort((a, b) => {
+      if (a === "Staples") return -1;   // Staples sempre primeiro
+      if (b === "Staples") return 1;
+      return a.localeCompare(b);       // resto em ordem alfabética
+    });
 
-    // Renderizar blocos
+    // Criar blocos para cada TAG
     for (const tag of sortedTags) {
       const groupCards = groups[tag];
-      if (!groupCards) continue;
 
       content.innerHTML += `<div class="tag-title">${tag}</div>`;
       content.innerHTML += `<div class="row g-4" id="group-${tag}"></div>`;
