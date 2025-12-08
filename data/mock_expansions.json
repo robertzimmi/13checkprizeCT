@@ -1,4 +1,4 @@
-export const MOCK_EXPANSIONS = [
+[
   { "id": 2170, "code": "wtr", "name": "Welcome to Rathe - Unlimited" },
   { "id": 2171, "code": "arc", "name": "Arcane Rising - Unlimited" },
   { "id": 2172, "code": "cru", "name": "Crucible of War - Unlimited" },
@@ -110,3 +110,4 @@ export const MOCK_EXPANSIONS = [
   { "id": 4394, "code": "svi", "name": "Silver Age Chapter 1 | Viserai" },
   { "id": 4402, "code": "aac", "name": "Armory Deck: Arakni" }
 ];
+
