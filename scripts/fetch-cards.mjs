@@ -157,6 +157,7 @@ async function fetchData() {
 
   const finalJSON = {
     cards: Object.values(groupedCards),
+    missing: notFound, // <- aqui incluímos as cartas não localizadas
     datetime_utc_minus3: makeBrazilDateString(),
     euro_rate: euroRate
   };
@@ -166,6 +167,7 @@ async function fetchData() {
   console.log(`\n💾 Criado ${OUTPUT_FILE}`);
   console.log(`📦 Total de registros encontrados: ${foundCards.length}`);
   console.log(`📄 Total de cartas distintas: ${Object.keys(groupedCards).length}`);
+  console.log(`⚠️ Cartas não localizadas: ${notFound.length}`);
 }
 
 // Rodar

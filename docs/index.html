@@ -88,6 +88,17 @@
     <div id="contentContainer"></div>
   </div>
 
+  <!-- Hidden Side Menu -->
+  <div id="hiddenMenu" class="fixed top-1/4 right-0 z-50 flex items-center transition-all duration-300">
+    <button id="menuToggle" class="bg-red-600 text-white p-3 rounded-l-lg shadow-lg hover:bg-red-700">
+      🔥
+    </button>
+    <div id="menuContent" class="hidden bg-gray-800 text-white p-4 w-64 max-h-[70vh] overflow-y-auto rounded-l-lg shadow-lg ml-2">
+      <h3 class="font-bold text-lg mb-2">Cartas não localizadas</h3>
+      <ul id="missingCardsList" class="list-disc pl-5"></ul>
+    </div>
+  </div>
+
 <script>
 function formatBRDate(str) {
   const [datePart, timePart] = str.split("T");
@@ -110,6 +121,11 @@ async function loadData() {
     document.getElementById("datetimeBox").innerText = formatBRDate(data.datetime_utc_minus3);
 
     const cards = data.cards || [];
+    const missingCards = data.missing || [];
+
+    // Preencher o hidden menu
+    const listEl = document.getElementById("missingCardsList");
+    listEl.innerHTML = missingCards.map(c => `<li>${c}</li>`).join("");
 
     // Agrupar por TAG
     const groups = {};
@@ -125,7 +141,6 @@ async function loadData() {
       if (b.toLowerCase() === "staples") return 1;
       return a.localeCompare(b);
     });
-
 
     // Criar blocos para cada TAG
     for (const tag of sortedTags) {
@@ -187,6 +202,11 @@ function toggleRecords(id) {
   const el = document.getElementById(id);
   if (el) el.style.display = el.style.display === "none" ? "block" : "none";
 }
+
+// Toggle menu
+document.getElementById("menuToggle").addEventListener("click", () => {
+  document.getElementById("menuContent").classList.toggle("hidden");
+});
 
 loadData();
 </script>
