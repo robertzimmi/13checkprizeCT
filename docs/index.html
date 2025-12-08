@@ -106,7 +106,7 @@ async function loadData() {
 
     const data = await res.json();
 
-    // Atualiza data
+    // Atualizar data/hora
     document.getElementById("datetimeBox").innerText = formatBRDate(data.datetime_utc_minus3);
 
     const cards = data.cards || [];
@@ -119,9 +119,14 @@ async function loadData() {
       groups[tag].push(card);
     }
 
-    // Criar blocos para cada TAG
-    for (const tag of Object.keys(groups)) {
+    // ORDEM ESPECIAL: "Staples" sempre primeiro
+    const allTags = Object.keys(groups);
+    const sortedTags = ["Staples", ...allTags.filter(t => t !== "Staples").sort()];
+
+    // Renderizar blocos
+    for (const tag of sortedTags) {
       const groupCards = groups[tag];
+      if (!groupCards) continue;
 
       content.innerHTML += `<div class="tag-title">${tag}</div>`;
       content.innerHTML += `<div class="row g-4" id="group-${tag}"></div>`;
