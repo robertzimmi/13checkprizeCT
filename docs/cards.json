@@ -1879,8 +1879,8 @@
         },
         {
           "expansion": "Part the Mistveil - Archive Pack",
-          "price_original": "$26.67",
-          "price_brl": 164.95,
+          "price_original": "R$150.44",
+          "price_brl": 150.44,
           "quantity": 1
         }
       ]
@@ -2145,8 +2145,8 @@
         },
         {
           "expansion": "Part the Mistveil - Archive Pack",
-          "price_original": "$20.01",
-          "price_brl": 123.76,
+          "price_original": "R$112.88",
+          "price_brl": 112.88,
           "quantity": 1
         }
       ]
@@ -2865,38 +2865,44 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$191.82",
-          "price_brl": 191.82,
+          "price_original": "R$191.99",
+          "price_brl": 191.99,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$191.87",
-          "price_brl": 191.87,
+          "price_original": "R$192.04",
+          "price_brl": 192.04,
           "quantity": 4
         },
         {
           "expansion": "High Seas",
           "price_original": "R$193.50",
           "price_brl": 193.5,
-          "quantity": 6
+          "quantity": 3
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$206.08",
-          "price_brl": 206.08,
+          "price_original": "R$206.26",
+          "price_brl": 206.26,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$209.62",
-          "price_brl": 209.62,
+          "price_original": "R$207.43",
+          "price_brl": 207.43,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$209.81",
-          "price_brl": 209.81,
+          "price_original": "R$209.75",
+          "price_brl": 209.75,
+          "quantity": 1
+        },
+        {
+          "expansion": "High Seas",
+          "price_original": "R$209.99",
+          "price_brl": 209.99,
           "quantity": 1
         },
         {
@@ -2907,26 +2913,20 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$211.08",
-          "price_brl": 211.08,
-          "quantity": 1
-        },
-        {
-          "expansion": "High Seas",
           "price_original": "R$215.75",
           "price_brl": 215.75,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$217.31",
-          "price_brl": 217.31,
+          "price_original": "R$216.98",
+          "price_brl": 216.98,
           "quantity": 2
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$224.68",
-          "price_brl": 224.68,
+          "price_original": "R$224.87",
+          "price_brl": 224.87,
           "quantity": 12
         },
         {
@@ -2943,8 +2943,8 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$261.17",
-          "price_brl": 261.17,
+          "price_original": "R$261.40",
+          "price_brl": 261.4,
           "quantity": 2
         },
         {
@@ -2967,8 +2967,8 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$265.04",
-          "price_brl": 265.04,
+          "price_original": "R$265.27",
+          "price_brl": 265.27,
           "quantity": 1
         },
         {
@@ -3015,8 +3015,8 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$429.71",
-          "price_brl": 429.71,
+          "price_original": "R$430.09",
+          "price_brl": 430.09,
           "quantity": 1
         },
         {
@@ -5634,27 +5634,27 @@
       "records": [
         {
           "expansion": "High Seas",
-          "price_original": "R$28.94",
-          "price_brl": 28.94,
-          "quantity": 1
-        },
-        {
-          "expansion": "High Seas",
-          "price_original": "R$28.99",
-          "price_brl": 28.99,
-          "quantity": 1
-        },
-        {
-          "expansion": "High Seas",
-          "price_original": "R$29.12",
-          "price_brl": 29.12,
-          "quantity": 6
-        },
-        {
-          "expansion": "High Seas",
-          "price_original": "R$29.65",
-          "price_brl": 29.65,
+          "price_original": "R$27.78",
+          "price_brl": 27.78,
           "quantity": 2
+        },
+        {
+          "expansion": "High Seas",
+          "price_original": "R$28.68",
+          "price_brl": 28.68,
+          "quantity": 1
+        },
+        {
+          "expansion": "High Seas",
+          "price_original": "R$28.97",
+          "price_brl": 28.97,
+          "quantity": 1
+        },
+        {
+          "expansion": "High Seas",
+          "price_original": "R$29.16",
+          "price_brl": 29.16,
+          "quantity": 6
         },
         {
           "expansion": "High Seas",
@@ -5672,13 +5672,13 @@
           "expansion": "High Seas",
           "price_original": "R$31.99",
           "price_brl": 31.99,
-          "quantity": 5
+          "quantity": 6
         },
         {
           "expansion": "High Seas",
           "price_original": "R$31.99",
           "price_brl": 31.99,
-          "quantity": 6
+          "quantity": 5
         },
         {
           "expansion": "High Seas",
@@ -5694,14 +5694,14 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$41.42",
-          "price_brl": 41.42,
+          "price_original": "R$41.00",
+          "price_brl": 41,
           "quantity": 5
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$41.83",
-          "price_brl": 41.83,
+          "price_original": "R$41.87",
+          "price_brl": 41.87,
           "quantity": 1
         },
         {
@@ -5714,13 +5714,13 @@
           "expansion": "High Seas",
           "price_original": "R$45.64",
           "price_brl": 45.64,
-          "quantity": 7
+          "quantity": 1
         },
         {
           "expansion": "High Seas",
           "price_original": "R$45.64",
           "price_brl": 45.64,
-          "quantity": 1
+          "quantity": 7
         },
         {
           "expansion": "High Seas",
@@ -5802,20 +5802,20 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$94.43",
-          "price_brl": 94.43,
+          "price_original": "R$94.48",
+          "price_brl": 94.48,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$99.90",
-          "price_brl": 99.9,
+          "price_original": "R$99.71",
+          "price_brl": 99.71,
           "quantity": 2
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$109.52",
-          "price_brl": 109.52,
+          "price_original": "R$109.62",
+          "price_brl": 109.62,
           "quantity": 7
         },
         {
@@ -5826,20 +5826,20 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$114.53",
-          "price_brl": 114.53,
+          "price_original": "R$113.64",
+          "price_brl": 113.64,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$118.33",
-          "price_brl": 118.33,
+          "price_original": "R$117.91",
+          "price_brl": 117.91,
           "quantity": 4
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$126.71",
-          "price_brl": 126.71,
+          "price_original": "R$126.58",
+          "price_brl": 126.58,
           "quantity": 1
         },
         {
@@ -5877,6 +5877,12 @@
           "expansion": "Mastery Pack: Guardian",
           "price_original": "R$256.21",
           "price_brl": 256.21,
+          "quantity": 1
+        },
+        {
+          "expansion": "Mastery Pack: Guardian",
+          "price_original": "R$260.06",
+          "price_brl": 260.06,
           "quantity": 1
         },
         {
@@ -6124,6 +6130,6 @@
       ]
     }
   ],
-  "datetime_utc_minus3": "2025-12-08T06:32:00",
+  "datetime_utc_minus3": "2025-12-08T07:27:41",
   "euro_rate": 6.185
 }
