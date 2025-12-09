@@ -9,7 +9,7 @@
   "This round's on me": { "price_target": 5, "tag": "other" },
   "Warmonger's Diplomacy": { "price_target": 25, "tag": "staples" },
   "Codex of Frailty": { "price_target": 30, "tag": "staples" },
-  "Blood Splattered Vest": { "price_target": 49, "tag": "draconic" },
+  "Blood Splattered Vest": { "price_target": 49, "tag": "assassin/ninja" },
   "Dragonscaler Flight Path": { "price_target": 49, "tag": "draconic" },
   "Amnesia": { "price_target": 4.9, "tag": "staples" },
   "Fyendal's Spring Tunic": { "price_target": 129, "tag": "staples" },
@@ -51,5 +51,55 @@
   "Levels of Enlightenment": { "price_target": 5.6, "tag": "ll" },
   "Traverse the Universe": { "price_target": 16, "tag": "ll" },
   "Mask of Recurring Nightmares": { "price_target": 6.4, "tag": "ll" },
-  "Twelve Petal Kasaya": { "price_target": 6.4, "tag": "ll" }
+  "Twelve Petal Kasaya": { "price_target": 6.4, "tag": "ll" },
+  "Flamescale Furnace": { "price_target": 1, "tag": "draconic" },
+
+  "Persuasive Prognosis": { "price_target": 1, "tag": "assassin" },
+  "Bonds of Agony": { "price_target": 1, "tag": "assassin" },
+  "Take Up the Mantle": { "price_target": 1, "tag": "assassin" },
+
+  "Flick Knives": { "price_target": 1, "tag": "assassin/ninja" },
+
+  "Oath of Loyalty": { "price_target": 1, "tag": "draconic" },
+
+  "Tenacity": { "price_target": 1, "tag": "staples" },
+  "Balance of Justice": { "price_target": 1, "tag": "staples" },
+  "Stonewall Gauntlet": { "price_target": 1, "tag": "staples" },
+  "Arcanite Skullcap": { "price_target": 1, "tag": "staples" },
+  "Vambrace of Determination": { "price_target": 1, "tag": "staples" },
+
+  "Rampart of the Ram's Head": { "price_target": 1, "tag": "guardian" },
+  "Imposing Visage": { "price_target": 1, "tag": "guardian" },
+
+  "Braveforge Bracers": { "price_target": 1, "tag": "warrior" },
+  "Grains of Bloodspill": { "price_target": 1, "tag": "warrior" },
+  "Valiant Dynamo": { "price_target": 1, "tag": "warrior" },
+  "Kabuto of Imperial Authority": { "price_target": 1, "tag": "warrior" },
+  "Unsheathed": { "price_target": 1, "tag": "warrior" },
+  "Glistening Steelblade": { "price_target": 1, "tag": "warrior" },
+  "Blade Flurry": { "price_target": 1, "tag": "warrior" },
+
+  "Savor Bloodshed": { "price_target": 1, "tag": "assassin/warrior" },
+
+  "Metacarpus Node": { "price_target": 1, "tag": "wizzard" },
+  "Storm Striders": { "price_target": 1, "tag": "wizzard" },
+  "Alluvion Constellas": { "price_target": 1, "tag": "wizzard" },
+
+  "Grasp of the Arknight": { "price_target": 1, "tag": "runeblade" },
+  "Dyadic Carapace": { "price_target": 1, "tag": "runeblade" },
+  "Face Purgatory": { "price_target": 1, "tag": "runeblade" },
+  "Spellbound Creepers": { "price_target": 1, "tag": "runeblade" },
+  "Swarming Gloomveil": { "price_target": 1, "tag": "runeblade" },
+
+  "Lightning Greaves": { "price_target": 1, "tag": "lightning" },
+
+  "Carrion Husk": { "price_target": 1, "tag": "ll" },
+
+  "Call for Backup": { "price_target": 1, "tag": "other" },
+  "Hold the Line": { "price_target": 1, "tag": "other" },
+  "Base of the Mountain": { "price_target": 1, "tag": "other" },
+
+  "Skullbone Crosswrap": { "price_target": 1, "tag": "ranger" },
+  "Premeditate": { "price_target": 1, "tag": "ranger" },
+  "Codex of Bloodrot": { "price_target": 1, "tag": "ranger" }
 }
