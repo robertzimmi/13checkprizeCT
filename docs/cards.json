@@ -1013,6 +1013,12 @@
           "price_original": "R$6,222.05",
           "price_brl": 6222.05,
           "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$3,175.33",
+          "price_brl": 3175.33,
+          "quantity": 1
         }
       ]
     },
@@ -1392,8 +1398,8 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$968.77",
-          "price_brl": 968.77,
+          "price_original": "R$970.09",
+          "price_brl": 970.09,
           "quantity": 1
         }
       ]
@@ -2346,12 +2352,6 @@
           "expansion": "History Pack 2 - Black Label",
           "price_original": "R$660.11",
           "price_brl": 660.11,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 2 - Black Label",
-          "price_original": "R$665.47",
-          "price_brl": 665.47,
           "quantity": 1
         }
       ]
@@ -3510,12 +3510,6 @@
           "expansion": "History Pack 2 - Black Label",
           "price_original": "R$39.64",
           "price_brl": 39.64,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 2 - Black Label",
-          "price_original": "R$93.56",
-          "price_brl": 93.56,
           "quantity": 1
         },
         {
@@ -10959,6 +10953,6 @@
     "riches of tropal-dhani",
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2025-12-22T14:45:09",
+  "datetime_utc_minus3": "2025-12-22T15:36:36",
   "euro_rate": 6.4943
 }
