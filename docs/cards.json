@@ -2584,14 +2584,14 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$15.48",
-          "price_brl": 100.74,
+          "price_original": "$15.64",
+          "price_brl": 101.78,
           "quantity": 2
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$20.35",
-          "price_brl": 132.43,
+          "price_original": "$20.52",
+          "price_brl": 133.54,
           "quantity": 1
         },
         {
@@ -2632,6 +2632,12 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
+          "price_original": "$53.97",
+          "price_brl": 351.22,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - Unlimited",
           "price_original": "$60.79",
           "price_brl": 395.6,
           "quantity": 1
@@ -2640,6 +2646,12 @@
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$94.07",
           "price_brl": 612.17,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - Unlimited",
+          "price_original": "$134.04",
+          "price_brl": 872.28,
           "quantity": 1
         },
         {
@@ -2938,8 +2950,8 @@
       "records": [
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$51.08",
-          "price_brl": 332.41,
+          "price_original": "$51.00",
+          "price_brl": 331.89,
           "quantity": 2
         },
         {
@@ -10510,6 +10522,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2025-12-27T14:43:02",
+  "datetime_utc_minus3": "2025-12-27T15:33:28",
   "euro_rate": 6.5076
 }
