@@ -923,18 +923,6 @@
           "quantity": 1
         },
         {
-          "expansion": "Dynasty",
-          "price_original": "R$6,519.55",
-          "price_brl": 6519.55,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dynasty",
-          "price_original": "R$10,313.63",
-          "price_brl": 10313.63,
-          "quantity": 1
-        },
-        {
           "expansion": "The Hunted",
           "price_original": "R$542.60",
           "price_brl": 542.6,
@@ -4284,92 +4272,6 @@
           "expansion": "Uprising",
           "price_original": "R$452.62",
           "price_brl": 452.62,
-          "quantity": 1
-        }
-      ]
-    },
-    {
-      "name": "Crown of Dominion",
-      "price_target": 114,
-      "price_target_brl": 741.87,
-      "tag": "staples",
-      "records": [
-        {
-          "expansion": "Dynasty",
-          "price_original": "R$637.20",
-          "price_brl": 637.2,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dynasty",
-          "price_original": "R$666.76",
-          "price_brl": 666.76,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dynasty",
-          "price_original": "R$697.58",
-          "price_brl": 697.58,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dynasty",
-          "price_original": "R$700.72",
-          "price_brl": 700.72,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dynasty",
-          "price_original": "R$727.45",
-          "price_brl": 727.45,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dynasty",
-          "price_original": "R$828.52",
-          "price_brl": 828.52,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dynasty",
-          "price_original": "R$898.64",
-          "price_brl": 898.64,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dynasty",
-          "price_original": "R$930.19",
-          "price_brl": 930.19,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dynasty",
-          "price_original": "R$1,013.99",
-          "price_brl": 1013.99,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dynasty",
-          "price_original": "R$1,160.21",
-          "price_brl": 1160.21,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dynasty",
-          "price_original": "R$1,267.98",
-          "price_brl": 1267.98,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dynasty",
-          "price_original": "R$1,764.55",
-          "price_brl": 1764.55,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dynasty",
-          "price_original": "R$5,861.83",
-          "price_brl": 5861.83,
           "quantity": 1
         }
       ]
@@ -10508,8 +10410,9 @@
     }
   ],
   "missing": [
+    "Crown of Dominion",
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2025-12-27T12:42:47",
+  "datetime_utc_minus3": "2025-12-27T13:29:03",
   "euro_rate": 6.5076
 }
