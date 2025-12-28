@@ -1812,14 +1812,14 @@
         },
         {
           "expansion": "Crucible of War - First",
-          "price_original": "$65.83",
-          "price_brl": 428.4,
+          "price_original": "$65.60",
+          "price_brl": 426.9,
           "quantity": 3
         },
         {
           "expansion": "Crucible of War - First",
-          "price_original": "$12,506.04",
-          "price_brl": 81384.31,
+          "price_original": "$12,493.53",
+          "price_brl": 81302.9,
           "quantity": 1
         },
         {
@@ -2838,8 +2838,8 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$58.92",
-          "price_brl": 383.43,
+          "price_original": "$57.35",
+          "price_brl": 373.21,
           "quantity": 1
         },
         {
@@ -3022,8 +3022,8 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$79.81",
-          "price_brl": 519.37,
+          "price_original": "$79.98",
+          "price_brl": 520.48,
           "quantity": 1
         },
         {
@@ -3082,8 +3082,8 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$3,842.14",
-          "price_brl": 25003.11,
+          "price_original": "$3,822.93",
+          "price_brl": 24878.1,
           "quantity": 1
         },
         {
@@ -10570,6 +10570,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2025-12-28T04:42:55",
+  "datetime_utc_minus3": "2025-12-28T05:31:35",
   "euro_rate": 6.5076
 }
