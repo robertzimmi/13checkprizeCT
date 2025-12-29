@@ -285,6 +285,12 @@
           "quantity": 1
         },
         {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "$174.01",
+          "price_brl": 1140.55,
+          "quantity": 1
+        },
+        {
           "expansion": "Part the Mistveil",
           "price_original": "$200.58",
           "price_brl": 1314.7,
@@ -462,12 +468,6 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$187.32",
-          "price_brl": 1227.79,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1 - Black Label",
           "price_original": "$199.31",
           "price_brl": 1306.38,
           "quantity": 2
@@ -477,6 +477,12 @@
           "price_original": "$199.31",
           "price_brl": 1306.38,
           "quantity": 3
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "$200.64",
+          "price_brl": 1315.09,
+          "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
@@ -727,6 +733,12 @@
           "price_original": "$66.98",
           "price_brl": 439.02,
           "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "$67.45",
+          "price_brl": 442.1,
+          "quantity": 5
         }
       ]
     },
@@ -1404,14 +1416,20 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$48.91",
-          "price_brl": 320.58,
+          "price_original": "$48.17",
+          "price_brl": 315.73,
           "quantity": 3
         },
         {
           "expansion": "History Pack 1 - Black Label",
           "price_original": "$67.45",
           "price_brl": 442.1,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "$160.69",
+          "price_brl": 1053.24,
           "quantity": 1
         }
       ]
@@ -1693,6 +1711,12 @@
           "price_original": "$87.86",
           "price_brl": 575.88,
           "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "$134.04",
+          "price_brl": 878.57,
+          "quantity": 3
         }
       ]
     },
@@ -2128,6 +2152,12 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
+          "price_original": "$2.33",
+          "price_brl": 15.27,
+          "quantity": 2
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
           "price_original": "$3.20",
           "price_brl": 20.97,
           "quantity": 5
@@ -2155,6 +2185,18 @@
           "price_original": "$8.18",
           "price_brl": 53.62,
           "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "$8.18",
+          "price_brl": 53.62,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "$13.51",
+          "price_brl": 88.55,
+          "quantity": 2
         },
         {
           "expansion": "Rosetta - Archive Pack",
@@ -3010,12 +3052,6 @@
           "expansion": "Tales of Aria - First",
           "price_original": "$158.02",
           "price_brl": 1035.74,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 2 - Black Label",
-          "price_original": "$80.77",
-          "price_brl": 529.41,
           "quantity": 1
         }
       ]
@@ -10594,6 +10630,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2025-12-29T16:40:43",
+  "datetime_utc_minus3": "2025-12-29T17:28:42",
   "euro_rate": 6.5545
 }
