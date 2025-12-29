@@ -7390,8 +7390,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$43.25",
-          "price_brl": 281.45,
+          "price_original": "$44.58",
+          "price_brl": 290.11,
           "quantity": 1
         },
         {
@@ -7820,7 +7820,7 @@
           "expansion": "Part the Mistveil",
           "price_original": "$7.06",
           "price_brl": 45.94,
-          "quantity": 1
+          "quantity": 2
         },
         {
           "expansion": "Part the Mistveil",
@@ -7884,8 +7884,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$41.21",
-          "price_brl": 268.18,
+          "price_original": "$41.13",
+          "price_brl": 267.66,
           "quantity": 1
         },
         {
@@ -8064,12 +8064,6 @@
           "expansion": "Part the Mistveil",
           "price_original": "$32.46",
           "price_brl": 211.24,
-          "quantity": 2
-        },
-        {
-          "expansion": "Part the Mistveil",
-          "price_original": "$36.50",
-          "price_brl": 237.53,
           "quantity": 1
         },
         {
@@ -10432,6 +10426,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2025-12-28T20:43:08",
+  "datetime_utc_minus3": "2025-12-28T23:03:27",
   "euro_rate": 6.5076
 }
