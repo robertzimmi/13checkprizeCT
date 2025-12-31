@@ -3,7 +3,7 @@
     {
       "name": "Enlightened Strike",
       "price_target": 32,
-      "price_target_brl": 207.77,
+      "price_target_brl": 205.96,
       "tag": "staples",
       "records": [
         {
@@ -179,7 +179,7 @@
     {
       "name": "Mask of Momentum",
       "price_target": 73,
-      "price_target_brl": 473.98,
+      "price_target_brl": 469.86,
       "tag": "ninja",
       "records": [
         {
@@ -299,7 +299,7 @@
         {
           "expansion": "Part the Mistveil",
           "price_original": "$200.21",
-          "price_brl": 1299.94,
+          "price_brl": 1288.63,
           "quantity": 1
         }
       ]
@@ -307,7 +307,7 @@
     {
       "name": "Fyendal's Spring Tunic",
       "price_target": 129,
-      "price_target_brl": 837.58,
+      "price_target_brl": 830.3,
       "tag": "staples",
       "records": [
         {
@@ -451,19 +451,19 @@
         {
           "expansion": "Crucible of War - First",
           "price_original": "$193.49",
-          "price_brl": 1256.31,
+          "price_brl": 1245.38,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - First",
           "price_original": "$293.13",
-          "price_brl": 1903.26,
+          "price_brl": 1886.7,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - First",
           "price_original": "$332.85",
-          "price_brl": 2161.16,
+          "price_brl": 2142.36,
           "quantity": 1
         },
         {
@@ -543,7 +543,7 @@
     {
       "name": "Heart of Fyendal",
       "price_target": 160,
-      "price_target_brl": 1038.86,
+      "price_target_brl": 1029.82,
       "tag": "gem",
       "records": [
         {
@@ -605,7 +605,7 @@
     {
       "name": "Braveforge Bracers",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "warrior",
       "records": [
         {
@@ -745,7 +745,7 @@
     {
       "name": "Command and Conquer",
       "price_target": 73,
-      "price_target_brl": 473.98,
+      "price_target_brl": 469.86,
       "tag": "staples",
       "records": [
         {
@@ -907,13 +907,13 @@
         {
           "expansion": "Arcane Rising - First",
           "price_original": "$253.28",
-          "price_brl": 1644.52,
+          "price_brl": 1630.21,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - First",
           "price_original": "$864.40",
-          "price_brl": 5612.46,
+          "price_brl": 5563.62,
           "quantity": 1
         },
         {
@@ -1017,7 +1017,7 @@
     {
       "name": "Eye of Ophidia",
       "price_target": 240,
-      "price_target_brl": 1558.3,
+      "price_target_brl": 1544.74,
       "tag": "gem",
       "records": [
         {
@@ -1073,7 +1073,7 @@
     {
       "name": "Arcanite Skullcap",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "staples",
       "records": [
         {
@@ -1231,7 +1231,7 @@
     {
       "name": "Storm Striders",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "wizzard",
       "records": [
         {
@@ -1431,7 +1431,7 @@
     {
       "name": "Grasp of the Arknight",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "runeblade",
       "records": [
         {
@@ -1577,7 +1577,7 @@
     {
       "name": "Skullbone Crosswrap",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "ranger",
       "records": [
         {
@@ -1691,7 +1691,7 @@
         {
           "expansion": "Arcane Rising - First",
           "price_original": "$890.95",
-          "price_brl": 5784.85,
+          "price_brl": 5734.51,
           "quantity": 1
         },
         {
@@ -1717,7 +1717,7 @@
     {
       "name": "Snag",
       "price_target": 8.4,
-      "price_target_brl": 54.54,
+      "price_target_brl": 54.07,
       "tag": "staples",
       "records": [
         {
@@ -1831,49 +1831,49 @@
         {
           "expansion": "Crucible of War - First",
           "price_original": "$45.08",
-          "price_brl": 292.7,
+          "price_brl": 290.15,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - First",
           "price_original": "$64.91",
-          "price_brl": 421.45,
+          "price_brl": 417.79,
           "quantity": 3
         },
         {
           "expansion": "Crucible of War - First",
           "price_original": "$12,424.37",
-          "price_brl": 80670.19,
+          "price_brl": 79968.22,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$9.47",
-          "price_brl": 61.49,
+          "price_brl": 60.95,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
           "price_original": "$12.58",
-          "price_brl": 81.68,
+          "price_brl": 80.97,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$13.20",
-          "price_brl": 85.71,
+          "price_brl": 84.96,
           "quantity": 5
         },
         {
           "expansion": "Super Slam",
           "price_original": "$13.48",
-          "price_brl": 87.52,
+          "price_brl": 86.76,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$16.23",
-          "price_brl": 105.38,
+          "price_brl": 104.46,
           "quantity": 2
         }
       ]
@@ -1881,7 +1881,7 @@
     {
       "name": "Arknight Shard",
       "price_target": 160,
-      "price_target_brl": 1038.86,
+      "price_target_brl": 1029.82,
       "tag": "gem",
       "records": [
         {
@@ -1947,13 +1947,13 @@
         {
           "expansion": "Crucible of War - First",
           "price_original": "$5,315.01",
-          "price_brl": 34509.83,
+          "price_brl": 34209.53,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - First",
           "price_original": "$8,369.33",
-          "price_brl": 54341.22,
+          "price_brl": 53868.36,
           "quantity": 1
         },
         {
@@ -1973,7 +1973,7 @@
     {
       "name": "Metacarpus Node",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "wizzard",
       "records": [
         {
@@ -2141,25 +2141,25 @@
         {
           "expansion": "Crucible of War - First",
           "price_original": "$12.09",
-          "price_brl": 78.5,
+          "price_brl": 77.82,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - First",
           "price_original": "$33.02",
-          "price_brl": 214.4,
+          "price_brl": 212.53,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - First",
           "price_original": "$33.74",
-          "price_brl": 219.07,
+          "price_brl": 217.16,
           "quantity": 2
         },
         {
           "expansion": "Crucible of War - First",
           "price_original": "$34.14",
-          "price_brl": 221.67,
+          "price_brl": 219.74,
           "quantity": 1
         },
         {
@@ -2227,7 +2227,7 @@
     {
       "name": "Great Library of Solana",
       "price_target": 160,
-      "price_target_brl": 1038.86,
+      "price_target_brl": 1029.82,
       "tag": "landmark",
       "records": [
         {
@@ -2263,13 +2263,13 @@
         {
           "expansion": "Monarch - First",
           "price_original": "$412.54",
-          "price_brl": 2678.58,
+          "price_brl": 2655.27,
           "quantity": 1
         },
         {
           "expansion": "Monarch - First",
           "price_original": "$3,973.19",
-          "price_brl": 25797.53,
+          "price_brl": 25573.04,
           "quantity": 1
         },
         {
@@ -2283,7 +2283,7 @@
     {
       "name": "Valiant Dynamo",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "warrior",
       "records": [
         {
@@ -2313,25 +2313,25 @@
         {
           "expansion": "Monarch - First",
           "price_original": "$266.56",
-          "price_brl": 1730.75,
+          "price_brl": 1715.69,
           "quantity": 1
         },
         {
           "expansion": "Monarch - First",
           "price_original": "$437.94",
-          "price_brl": 2843.5,
+          "price_brl": 2818.76,
           "quantity": 1
         },
         {
           "expansion": "Monarch - First",
           "price_original": "$665.11",
-          "price_brl": 4318.49,
+          "price_brl": 4280.91,
           "quantity": 1
         },
         {
           "expansion": "Monarch - First",
           "price_original": "$685.70",
-          "price_brl": 4452.18,
+          "price_brl": 4413.44,
           "quantity": 1
         }
       ]
@@ -2339,7 +2339,7 @@
     {
       "name": "Carrion Husk",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "ll",
       "records": [
         {
@@ -2387,25 +2387,25 @@
         {
           "expansion": "Monarch - First",
           "price_original": "$158.95",
-          "price_brl": 1032.05,
+          "price_brl": 1023.07,
           "quantity": 1
         },
         {
           "expansion": "Monarch - First",
           "price_original": "$160.26",
-          "price_brl": 1040.55,
+          "price_brl": 1031.5,
           "quantity": 1
         },
         {
           "expansion": "Monarch - First",
           "price_original": "$160.28",
-          "price_brl": 1040.68,
+          "price_brl": 1031.63,
           "quantity": 1
         },
         {
           "expansion": "Monarch - First",
           "price_original": "$174.10",
-          "price_brl": 1130.41,
+          "price_brl": 1120.58,
           "quantity": 1
         },
         {
@@ -2431,7 +2431,7 @@
     {
       "name": "Overcrowded",
       "price_target": 6.5,
-      "price_target_brl": 42.2,
+      "price_target_brl": 41.84,
       "tag": "other",
       "records": [
         {
@@ -2455,139 +2455,139 @@
         {
           "expansion": "Super Slam",
           "price_original": "$6.32",
-          "price_brl": 41.04,
+          "price_brl": 40.68,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$7.20",
-          "price_brl": 46.75,
+          "price_brl": 46.34,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$8.68",
-          "price_brl": 56.36,
+          "price_brl": 55.87,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$8.94",
-          "price_brl": 58.05,
+          "price_brl": 57.54,
           "quantity": 5
         },
         {
           "expansion": "Super Slam",
           "price_original": "$10.15",
-          "price_brl": 65.9,
+          "price_brl": 65.33,
           "quantity": 6
         },
         {
           "expansion": "Super Slam",
           "price_original": "$13.46",
-          "price_brl": 87.39,
+          "price_brl": 86.63,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
           "price_original": "$15.24",
-          "price_brl": 98.95,
+          "price_brl": 98.09,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
           "price_original": "$15.55",
-          "price_brl": 100.96,
+          "price_brl": 100.09,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
           "price_original": "$15.55",
-          "price_brl": 100.96,
+          "price_brl": 100.09,
           "quantity": 6
         },
         {
           "expansion": "Super Slam",
           "price_original": "$15.55",
-          "price_brl": 100.96,
+          "price_brl": 100.09,
           "quantity": 5
         },
         {
           "expansion": "Super Slam",
           "price_original": "$15.87",
-          "price_brl": 103.04,
+          "price_brl": 102.15,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$15.88",
-          "price_brl": 103.11,
+          "price_brl": 102.21,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$16.20",
-          "price_brl": 105.18,
+          "price_brl": 104.27,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$16.22",
-          "price_brl": 105.31,
+          "price_brl": 104.4,
           "quantity": 4
         },
         {
           "expansion": "Super Slam",
           "price_original": "$16.23",
-          "price_brl": 105.38,
+          "price_brl": 104.46,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$20.07",
-          "price_brl": 130.31,
+          "price_brl": 129.18,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$21.61",
-          "price_brl": 140.31,
+          "price_brl": 139.09,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
           "price_original": "$22.75",
-          "price_brl": 147.71,
+          "price_brl": 146.43,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
           "price_original": "$24.27",
-          "price_brl": 157.58,
+          "price_brl": 156.21,
           "quantity": 5
         },
         {
           "expansion": "Super Slam",
           "price_original": "$26.92",
-          "price_brl": 174.79,
+          "price_brl": 173.27,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
           "price_original": "$26.93",
-          "price_brl": 174.85,
+          "price_brl": 173.33,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
           "price_original": "$29.76",
-          "price_brl": 193.23,
+          "price_brl": 191.55,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
           "price_original": "$40.37",
-          "price_brl": 262.12,
+          "price_brl": 259.84,
           "quantity": 1
         }
       ]
@@ -2595,7 +2595,7 @@
     {
       "name": "Spellbound Creepers",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "runeblade",
       "records": [
         {
@@ -2631,37 +2631,37 @@
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$148.30",
-          "price_brl": 962.9,
+          "price_brl": 954.52,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$148.32",
-          "price_brl": 963.03,
+          "price_brl": 954.65,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$172.65",
-          "price_brl": 1121,
+          "price_brl": 1111.24,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$172.68",
-          "price_brl": 1121.19,
+          "price_brl": 1111.44,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$207.97",
-          "price_brl": 1350.33,
+          "price_brl": 1338.58,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$465.84",
-          "price_brl": 3024.65,
+          "price_brl": 2998.33,
           "quantity": 1
         },
         {
@@ -2681,7 +2681,7 @@
     {
       "name": "Crown of Seeds",
       "price_target": 16.23,
-      "price_target_brl": 105.38,
+      "price_target_brl": 104.46,
       "tag": "ll",
       "records": [
         {
@@ -2771,55 +2771,55 @@
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$52.50",
-          "price_brl": 340.88,
+          "price_brl": 337.91,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$60.64",
-          "price_brl": 393.73,
+          "price_brl": 390.3,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$74.17",
-          "price_brl": 481.58,
+          "price_brl": 477.39,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$74.18",
-          "price_brl": 481.64,
+          "price_brl": 477.45,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$100.49",
-          "price_brl": 652.47,
+          "price_brl": 646.79,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$131.48",
-          "price_brl": 853.69,
+          "price_brl": 846.26,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$133.70",
-          "price_brl": 868.1,
+          "price_brl": 860.55,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$133.70",
-          "price_brl": 868.1,
+          "price_brl": 860.55,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$266.56",
-          "price_brl": 1730.75,
+          "price_brl": 1715.69,
           "quantity": 1
         },
         {
@@ -2833,7 +2833,7 @@
     {
       "name": "Korshem, Crossroad of Elements",
       "price_target": 23,
-      "price_target_brl": 149.34,
+      "price_target_brl": 148.04,
       "tag": "landmark",
       "records": [
         {
@@ -2923,91 +2923,91 @@
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$40.50",
-          "price_brl": 262.96,
+          "price_brl": 260.67,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$51.50",
-          "price_brl": 334.38,
+          "price_brl": 331.47,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$54.47",
-          "price_brl": 353.67,
+          "price_brl": 350.59,
           "quantity": 10
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$55.55",
-          "price_brl": 360.68,
+          "price_brl": 357.54,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$55.74",
-          "price_brl": 361.91,
+          "price_brl": 358.76,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$60.95",
-          "price_brl": 395.74,
+          "price_brl": 392.3,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$62.18",
-          "price_brl": 403.73,
+          "price_brl": 400.22,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$67.27",
-          "price_brl": 436.78,
+          "price_brl": 432.98,
           "quantity": 3
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$67.88",
-          "price_brl": 440.74,
+          "price_brl": 436.9,
           "quantity": 2
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$192.03",
-          "price_brl": 1246.83,
+          "price_brl": 1235.98,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$323.55",
-          "price_brl": 2100.78,
+          "price_brl": 2082.5,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$352.79",
-          "price_brl": 2290.63,
+          "price_brl": 2270.7,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$597.98",
-          "price_brl": 3882.62,
+          "price_brl": 3848.84,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$1,062.36",
-          "price_brl": 6897.8,
+          "price_brl": 6837.77,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$1,328.07",
-          "price_brl": 8623.03,
+          "price_brl": 8547.99,
           "quantity": 1
         },
         {
@@ -3021,7 +3021,7 @@
     {
       "name": "Shock Charmers",
       "price_target": 48,
-      "price_target_brl": 311.66,
+      "price_target_brl": 308.95,
       "tag": "ll",
       "records": [
         {
@@ -3045,25 +3045,25 @@
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$93.77",
-          "price_brl": 608.84,
+          "price_brl": 603.54,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$157.28",
-          "price_brl": 1021.2,
+          "price_brl": 1012.32,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$157.30",
-          "price_brl": 1021.33,
+          "price_brl": 1012.45,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$157.62",
-          "price_brl": 1023.41,
+          "price_brl": 1014.51,
           "quantity": 1
         }
       ]
@@ -3071,7 +3071,7 @@
     {
       "name": "Rampart of the Ram's Head",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "guardian",
       "records": [
         {
@@ -3131,85 +3131,85 @@
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$65.24",
-          "price_brl": 423.6,
+          "price_brl": 419.91,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$79.64",
-          "price_brl": 517.09,
+          "price_brl": 512.59,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$80.87",
-          "price_brl": 525.08,
+          "price_brl": 520.51,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$83.35",
-          "price_brl": 541.18,
+          "price_brl": 536.47,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$83.85",
-          "price_brl": 544.43,
+          "price_brl": 539.69,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$87.44",
-          "price_brl": 567.74,
+          "price_brl": 562.8,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$102.69",
-          "price_brl": 666.76,
+          "price_brl": 660.95,
           "quantity": 4
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$110.67",
-          "price_brl": 718.57,
+          "price_brl": 712.32,
           "quantity": 4
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$133.70",
-          "price_brl": 868.1,
+          "price_brl": 860.55,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$133.70",
-          "price_brl": 868.1,
+          "price_brl": 860.55,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$160.28",
-          "price_brl": 1040.68,
+          "price_brl": 1031.63,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$293.13",
-          "price_brl": 1903.26,
+          "price_brl": 1886.7,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$399.41",
-          "price_brl": 2593.33,
+          "price_brl": 2570.76,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$3,761.57",
-          "price_brl": 24423.5,
+          "price_brl": 24210.97,
           "quantity": 1
         },
         {
@@ -3235,7 +3235,7 @@
     {
       "name": "Erase Face",
       "price_target": 16,
-      "price_target_brl": 103.89,
+      "price_target_brl": 102.98,
       "tag": "staples",
       "records": [
         {
@@ -3339,7 +3339,7 @@
     {
       "name": "Poison the Well",
       "price_target": 5,
-      "price_target_brl": 32.46,
+      "price_target_brl": 32.18,
       "tag": "staples",
       "records": [
         {
@@ -3491,7 +3491,7 @@
     {
       "name": "This Round's on Me",
       "price_target": 5,
-      "price_target_brl": 32.46,
+      "price_target_brl": 32.18,
       "tag": "other",
       "records": [
         {
@@ -3625,7 +3625,7 @@
     {
       "name": "Grandeur of Valahai",
       "price_target": 110,
-      "price_target_brl": 714.22,
+      "price_target_brl": 708,
       "tag": "gem",
       "records": [
         {
@@ -3687,7 +3687,7 @@
     {
       "name": "Imposing Visage",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "guardian",
       "records": [
         {
@@ -3767,7 +3767,7 @@
     {
       "name": "Swarming Gloomveil",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "runeblade",
       "records": [
         {
@@ -3907,37 +3907,37 @@
     {
       "name": "Glistening Steelblade",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "warrior",
       "records": [
         {
           "expansion": "Classic Battles: Rhinar vs Dorinthea",
           "price_original": "$14.45",
-          "price_brl": 93.82,
+          "price_brl": 93.01,
           "quantity": 1
         },
         {
           "expansion": "Classic Battles: Rhinar vs Dorinthea",
           "price_original": "$16.25",
-          "price_brl": 105.51,
+          "price_brl": 104.59,
           "quantity": 1
         },
         {
           "expansion": "Classic Battles: Rhinar vs Dorinthea",
           "price_original": "$24.60",
-          "price_brl": 159.73,
+          "price_brl": 158.34,
           "quantity": 3
         },
         {
           "expansion": "Classic Battles: Rhinar vs Dorinthea",
           "price_original": "$25.27",
-          "price_brl": 164.08,
+          "price_brl": 162.65,
           "quantity": 3
         },
         {
           "expansion": "Classic Battles: Rhinar vs Dorinthea",
           "price_original": "$26.88",
-          "price_brl": 174.53,
+          "price_brl": 173.01,
           "quantity": 7
         }
       ]
@@ -3945,7 +3945,7 @@
     {
       "name": "That All You Got?",
       "price_target": 9,
-      "price_target_brl": 58.44,
+      "price_target_brl": 57.93,
       "tag": "other",
       "records": [
         {
@@ -3989,7 +3989,7 @@
     {
       "name": "Crown of Providence",
       "price_target": 115,
-      "price_target_brl": 746.68,
+      "price_target_brl": 740.19,
       "tag": "staples",
       "records": [
         {
@@ -4081,7 +4081,7 @@
     {
       "name": "Blood of the Dracai",
       "price_target": 20,
-      "price_target_brl": 129.86,
+      "price_target_brl": 128.73,
       "tag": "gem",
       "records": [
         {
@@ -4221,7 +4221,7 @@
     {
       "name": "Flamescale Furnace",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "draconic",
       "records": [
         {
@@ -4361,7 +4361,7 @@
     {
       "name": "Alluvion Constellas",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "wizzard",
       "records": [
         {
@@ -4447,7 +4447,7 @@
     {
       "name": "Crown of Dominion",
       "price_target": 114,
-      "price_target_brl": 740.19,
+      "price_target_brl": 733.75,
       "tag": "staples",
       "records": [
         {
@@ -4521,7 +4521,7 @@
     {
       "name": "Codex of Frailty",
       "price_target": 30,
-      "price_target_brl": 194.79,
+      "price_target_brl": 193.09,
       "tag": "staples",
       "records": [
         {
@@ -4853,7 +4853,7 @@
     {
       "name": "Amnesia",
       "price_target": 4.9,
-      "price_target_brl": 31.82,
+      "price_target_brl": 31.54,
       "tag": "staples",
       "records": [
         {
@@ -4993,7 +4993,7 @@
     {
       "name": "Concealed Blade",
       "price_target": 13,
-      "price_target_brl": 84.41,
+      "price_target_brl": 83.67,
       "tag": "ninja",
       "records": [
         {
@@ -5109,7 +5109,7 @@
     {
       "name": "Knives Out",
       "price_target": 1.7,
-      "price_target_brl": 11.04,
+      "price_target_brl": 10.94,
       "tag": "ninja",
       "records": [
         {
@@ -5165,7 +5165,7 @@
     {
       "name": "Plague Hive",
       "price_target": 39,
-      "price_target_brl": 253.22,
+      "price_target_brl": 251.02,
       "tag": "gem",
       "records": [
         {
@@ -5287,7 +5287,7 @@
     {
       "name": "Flick Knives",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "assassin/ninja",
       "records": [
         {
@@ -5419,175 +5419,175 @@
         {
           "expansion": "Super Slam",
           "price_original": "$14.88",
-          "price_brl": 96.61,
+          "price_brl": 95.77,
           "quantity": 4
         },
         {
           "expansion": "Super Slam",
           "price_original": "$19.21",
-          "price_brl": 124.73,
+          "price_brl": 123.64,
           "quantity": 6
         },
         {
           "expansion": "Super Slam",
           "price_original": "$20.97",
-          "price_brl": 136.16,
+          "price_brl": 134.97,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
           "price_original": "$20.98",
-          "price_brl": 136.22,
+          "price_brl": 135.04,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
           "price_original": "$21.73",
-          "price_brl": 141.09,
+          "price_brl": 139.86,
           "quantity": 6
         },
         {
           "expansion": "Super Slam",
           "price_original": "$24.86",
-          "price_brl": 161.41,
+          "price_brl": 160.01,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$26.26",
-          "price_brl": 170.5,
+          "price_brl": 169.02,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$26.26",
-          "price_brl": 170.5,
+          "price_brl": 169.02,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$31.26",
-          "price_brl": 202.97,
+          "price_brl": 201.2,
           "quantity": 10
         },
         {
           "expansion": "Super Slam",
           "price_original": "$32.42",
-          "price_brl": 210.5,
+          "price_brl": 208.67,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
           "price_original": "$33.73",
-          "price_brl": 219.01,
+          "price_brl": 217.1,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$37.66",
-          "price_brl": 244.52,
+          "price_brl": 242.39,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
           "price_original": "$41.21",
-          "price_brl": 267.57,
+          "price_brl": 265.24,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$47.19",
-          "price_brl": 306.4,
+          "price_brl": 303.73,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$67.28",
-          "price_brl": 436.84,
+          "price_brl": 433.04,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$20.19",
-          "price_brl": 131.09,
+          "price_brl": 129.95,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
           "price_original": "$31.01",
-          "price_brl": 201.34,
+          "price_brl": 199.59,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$31.01",
-          "price_brl": 201.34,
+          "price_brl": 199.59,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
           "price_original": "$31.09",
-          "price_brl": 201.86,
+          "price_brl": 200.11,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
           "price_original": "$32.39",
-          "price_brl": 210.31,
+          "price_brl": 208.47,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$37.40",
-          "price_brl": 242.83,
+          "price_brl": 240.72,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
           "price_original": "$40.32",
-          "price_brl": 261.79,
+          "price_brl": 259.52,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
           "price_original": "$45.87",
-          "price_brl": 297.83,
+          "price_brl": 295.24,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$53.70",
-          "price_brl": 348.67,
+          "price_brl": 345.63,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$55.08",
-          "price_brl": 357.63,
+          "price_brl": 354.52,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
           "price_original": "$56.15",
-          "price_brl": 364.58,
+          "price_brl": 361.4,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
           "price_original": "$73.03",
-          "price_brl": 474.18,
+          "price_brl": 470.05,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$107.95",
-          "price_brl": 700.91,
+          "price_brl": 694.81,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$143.32",
-          "price_brl": 930.56,
+          "price_brl": 922.46,
           "quantity": 1
         }
       ]
@@ -5595,7 +5595,7 @@
     {
       "name": "Vambrace of Determination",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "staples",
       "records": [
         {
@@ -5765,7 +5765,7 @@
     {
       "name": "Premeditate",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "ranger",
       "records": [
         {
@@ -5905,7 +5905,7 @@
     {
       "name": "Codex of Bloodrot",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "ranger",
       "records": [
         {
@@ -5997,7 +5997,7 @@
     {
       "name": "Censor",
       "price_target": 9,
-      "price_target_brl": 58.44,
+      "price_target_brl": 57.93,
       "tag": "staples",
       "records": [
         {
@@ -6149,7 +6149,7 @@
     {
       "name": "Warmonger's Diplomacy",
       "price_target": 25,
-      "price_target_brl": 162.32,
+      "price_target_brl": 160.91,
       "tag": "staples",
       "records": [
         {
@@ -6281,103 +6281,103 @@
         {
           "expansion": "Super Slam",
           "price_original": "$32.46",
-          "price_brl": 210.76,
+          "price_brl": 208.93,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$34.86",
-          "price_brl": 226.34,
+          "price_brl": 224.37,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
           "price_original": "$51.35",
-          "price_brl": 333.41,
+          "price_brl": 330.51,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$54.30",
-          "price_brl": 352.56,
+          "price_brl": 349.5,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$56.25",
-          "price_brl": 365.23,
+          "price_brl": 362.05,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$56.26",
-          "price_brl": 365.29,
+          "price_brl": 362.11,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
           "price_original": "$56.64",
-          "price_brl": 367.76,
+          "price_brl": 364.56,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$60.99",
-          "price_brl": 396,
+          "price_brl": 392.56,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$61.99",
-          "price_brl": 402.49,
+          "price_brl": 398.99,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$63.45",
-          "price_brl": 411.97,
+          "price_brl": 408.39,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$71.13",
-          "price_brl": 461.84,
+          "price_brl": 457.82,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$77.74",
-          "price_brl": 504.76,
+          "price_brl": 500.37,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$77.78",
-          "price_brl": 505.02,
+          "price_brl": 500.62,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$79.24",
-          "price_brl": 514.5,
+          "price_brl": 510.02,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$80.56",
-          "price_brl": 523.07,
+          "price_brl": 518.52,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
           "price_original": "$80.90",
-          "price_brl": 525.28,
+          "price_brl": 520.7,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$83.35",
-          "price_brl": 541.18,
+          "price_brl": 536.47,
           "quantity": 1
         }
       ]
@@ -6385,7 +6385,7 @@
     {
       "name": "Light of Sol",
       "price_target": 80,
-      "price_target_brl": 519.43,
+      "price_target_brl": 514.91,
       "tag": "gem",
       "records": [
         {
@@ -6459,7 +6459,7 @@
     {
       "name": "Dyadic Carapace",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "runeblade",
       "records": [
         {
@@ -6551,7 +6551,7 @@
     {
       "name": "Hold the Line",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "other",
       "records": [
         {
@@ -6679,7 +6679,7 @@
     {
       "name": "Wax Off",
       "price_target": 2.5,
-      "price_target_brl": 16.23,
+      "price_target_brl": 16.09,
       "tag": "ninja",
       "records": [
         {
@@ -6855,7 +6855,7 @@
     {
       "name": "Master Cog",
       "price_target": 45,
-      "price_target_brl": 292.18,
+      "price_target_brl": 289.64,
       "tag": "gem",
       "records": [
         {
@@ -6989,7 +6989,7 @@
     {
       "name": "Nasty Surprise",
       "price_target": 1.7,
-      "price_target_brl": 11.04,
+      "price_target_brl": 10.94,
       "tag": "other",
       "records": [
         {
@@ -7129,7 +7129,7 @@
     {
       "name": "Deathmatch Arena",
       "price_target": 110,
-      "price_target_brl": 714.22,
+      "price_target_brl": 708,
       "tag": "landmark",
       "records": [
         {
@@ -7161,7 +7161,7 @@
     {
       "name": "Tenacity",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "staples",
       "records": [
         {
@@ -7295,7 +7295,7 @@
     {
       "name": "Balance of Justice",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "staples",
       "records": [
         {
@@ -7375,7 +7375,7 @@
     {
       "name": "Grains of Bloodspill",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "warrior",
       "records": [
         {
@@ -7449,7 +7449,7 @@
     {
       "name": "Blade Flurry",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "warrior",
       "records": [
         {
@@ -7535,97 +7535,97 @@
     {
       "name": "The Weakest Link",
       "price_target": 32,
-      "price_target_brl": 207.77,
+      "price_target_brl": 205.96,
       "tag": "staples",
       "records": [
         {
           "expansion": "Part the Mistveil",
           "price_original": "$30.17",
-          "price_brl": 195.89,
+          "price_brl": 194.19,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$35.08",
-          "price_brl": 227.77,
+          "price_brl": 225.79,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$37.37",
-          "price_brl": 242.64,
+          "price_brl": 240.53,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$38.34",
-          "price_brl": 248.94,
+          "price_brl": 246.77,
           "quantity": 7
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$39.65",
-          "price_brl": 257.44,
+          "price_brl": 255.2,
           "quantity": 2
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$41.97",
-          "price_brl": 272.51,
+          "price_brl": 270.14,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$44.50",
-          "price_brl": 288.93,
+          "price_brl": 286.42,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$44.57",
-          "price_brl": 289.39,
+          "price_brl": 286.87,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$46.12",
-          "price_brl": 299.45,
+          "price_brl": 296.85,
           "quantity": 3
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$46.20",
-          "price_brl": 299.97,
+          "price_brl": 297.36,
           "quantity": 2
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$46.20",
-          "price_brl": 299.97,
+          "price_brl": 297.36,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$48.56",
-          "price_brl": 315.3,
+          "price_brl": 312.55,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$77.62",
-          "price_brl": 503.98,
+          "price_brl": 499.59,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$81.73",
-          "price_brl": 530.66,
+          "price_brl": 526.05,
           "quantity": 3
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$96.83",
-          "price_brl": 628.71,
+          "price_brl": 623.24,
           "quantity": 1
         }
       ]
@@ -7633,145 +7633,145 @@
     {
       "name": "Mistcloak Gully // Inner Chi",
       "price_target": 15,
-      "price_target_brl": 97.39,
+      "price_target_brl": 96.55,
       "tag": "landmark",
       "records": [
         {
           "expansion": "Part the Mistveil",
           "price_original": "$18.51",
-          "price_brl": 120.18,
+          "price_brl": 119.14,
           "quantity": 2
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$19.07",
-          "price_brl": 123.82,
+          "price_brl": 122.74,
           "quantity": 2
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$19.32",
-          "price_brl": 125.44,
+          "price_brl": 124.35,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$23.03",
-          "price_brl": 149.53,
+          "price_brl": 148.23,
           "quantity": 5
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$23.44",
-          "price_brl": 152.19,
+          "price_brl": 150.87,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$25.15",
-          "price_brl": 163.3,
+          "price_brl": 161.88,
           "quantity": 5
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$26.75",
-          "price_brl": 173.69,
+          "price_brl": 172.17,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$26.95",
-          "price_brl": 174.98,
+          "price_brl": 173.46,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$26.95",
-          "price_brl": 174.98,
+          "price_brl": 173.46,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$27.57",
-          "price_brl": 179.01,
+          "price_brl": 177.45,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$29.76",
-          "price_brl": 193.23,
+          "price_brl": 191.55,
           "quantity": 2
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$32.44",
-          "price_brl": 210.63,
+          "price_brl": 208.8,
           "quantity": 3
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$35.63",
-          "price_brl": 231.34,
+          "price_brl": 229.33,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$40.42",
-          "price_brl": 262.44,
+          "price_brl": 260.16,
           "quantity": 2
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$67.31",
-          "price_brl": 437.04,
+          "price_brl": 433.23,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$133.80",
-          "price_brl": 868.75,
+          "price_brl": 861.19,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$153.61",
-          "price_brl": 997.37,
+          "price_brl": 988.7,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$160.40",
-          "price_brl": 1041.46,
+          "price_brl": 1032.4,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$41.27",
-          "price_brl": 267.96,
+          "price_brl": 265.63,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$132.89",
-          "price_brl": 862.84,
+          "price_brl": 855.33,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$200.28",
-          "price_brl": 1300.4,
+          "price_brl": 1289.08,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$372.36",
-          "price_brl": 2417.7,
+          "price_brl": 2396.66,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$379.65",
-          "price_brl": 2465.03,
+          "price_brl": 2443.58,
           "quantity": 1
         }
       ]
@@ -7779,145 +7779,145 @@
     {
       "name": "Levels of Enlightenment",
       "price_target": 5.6,
-      "price_target_brl": 36.36,
+      "price_target_brl": 36.04,
       "tag": "ll",
       "records": [
         {
           "expansion": "Part the Mistveil",
           "price_original": "$6.71",
-          "price_brl": 43.57,
+          "price_brl": 43.19,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$7.46",
-          "price_brl": 48.44,
+          "price_brl": 48.02,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$7.46",
-          "price_brl": 48.44,
+          "price_brl": 48.02,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$8.03",
-          "price_brl": 52.14,
+          "price_brl": 51.68,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$8.44",
-          "price_brl": 54.8,
+          "price_brl": 54.32,
           "quantity": 3
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$8.44",
-          "price_brl": 54.8,
+          "price_brl": 54.32,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$8.63",
-          "price_brl": 56.03,
+          "price_brl": 55.55,
           "quantity": 2
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$9.44",
-          "price_brl": 61.29,
+          "price_brl": 60.76,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$9.59",
-          "price_brl": 62.27,
+          "price_brl": 61.73,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$12.18",
-          "price_brl": 79.08,
+          "price_brl": 78.4,
           "quantity": 5
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$13.49",
-          "price_brl": 87.59,
+          "price_brl": 86.83,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$26.94",
-          "price_brl": 174.92,
+          "price_brl": 173.4,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$37.76",
-          "price_brl": 245.17,
+          "price_brl": 243.04,
           "quantity": 6
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$39.38",
-          "price_brl": 255.69,
+          "price_brl": 253.47,
           "quantity": 3
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$38.58",
-          "price_brl": 250.5,
+          "price_brl": 248.32,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$44.61",
-          "price_brl": 289.65,
+          "price_brl": 287.13,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$46.10",
-          "price_brl": 299.32,
+          "price_brl": 296.72,
           "quantity": 2
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$46.60",
-          "price_brl": 302.57,
+          "price_brl": 299.94,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$47.74",
-          "price_brl": 309.97,
+          "price_brl": 307.27,
           "quantity": 2
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$48.15",
-          "price_brl": 312.63,
+          "price_brl": 309.91,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$51.20",
-          "price_brl": 332.44,
+          "price_brl": 329.54,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$54.93",
-          "price_brl": 356.65,
+          "price_brl": 353.55,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$67.33",
-          "price_brl": 437.17,
+          "price_brl": 433.36,
           "quantity": 3
         }
       ]
@@ -7925,67 +7925,67 @@
     {
       "name": "Traverse the Universe",
       "price_target": 16,
-      "price_target_brl": 103.89,
+      "price_target_brl": 102.98,
       "tag": "ll",
       "records": [
         {
           "expansion": "Part the Mistveil",
           "price_original": "$16.78",
-          "price_brl": 108.95,
+          "price_brl": 108,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$31.92",
-          "price_brl": 207.25,
+          "price_brl": 205.45,
           "quantity": 4
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$33.84",
-          "price_brl": 219.72,
+          "price_brl": 217.81,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$67.33",
-          "price_brl": 437.17,
+          "price_brl": 433.36,
           "quantity": 11
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$67.41",
-          "price_brl": 437.69,
+          "price_brl": 433.88,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$67.89",
-          "price_brl": 440.8,
+          "price_brl": 436.97,
           "quantity": 2
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$74.13",
-          "price_brl": 481.32,
+          "price_brl": 477.13,
           "quantity": 4
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$97.82",
-          "price_brl": 635.14,
+          "price_brl": 629.61,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$166.14",
-          "price_brl": 1078.73,
+          "price_brl": 1069.34,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$238.81",
-          "price_brl": 1550.57,
+          "price_brl": 1537.08,
           "quantity": 1
         }
       ]
@@ -7993,97 +7993,97 @@
     {
       "name": "Mask of Recurring Nightmares",
       "price_target": 6.4,
-      "price_target_brl": 41.55,
+      "price_target_brl": 41.19,
       "tag": "ll",
       "records": [
         {
           "expansion": "Part the Mistveil",
           "price_original": "$7.06",
-          "price_brl": 45.84,
+          "price_brl": 45.44,
           "quantity": 2
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$7.30",
-          "price_brl": 47.4,
+          "price_brl": 46.99,
           "quantity": 5
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$8.72",
-          "price_brl": 56.62,
+          "price_brl": 56.13,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$12.25",
-          "price_brl": 79.54,
+          "price_brl": 78.85,
           "quantity": 2
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$13.20",
-          "price_brl": 85.71,
+          "price_brl": 84.96,
           "quantity": 3
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$22.81",
-          "price_brl": 148.1,
+          "price_brl": 146.81,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$23.63",
-          "price_brl": 153.43,
+          "price_brl": 152.09,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$25.47",
-          "price_brl": 165.37,
+          "price_brl": 163.94,
           "quantity": 3
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$53.74",
-          "price_brl": 348.93,
+          "price_brl": 345.89,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$67.33",
-          "price_brl": 437.17,
+          "price_brl": 433.36,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$113.86",
-          "price_brl": 739.28,
+          "price_brl": 732.85,
           "quantity": 2
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$31.02",
-          "price_brl": 201.41,
+          "price_brl": 199.66,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$41.06",
-          "price_brl": 266.6,
+          "price_brl": 264.28,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$63.21",
-          "price_brl": 410.42,
+          "price_brl": 406.84,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$63.22",
-          "price_brl": 410.48,
+          "price_brl": 406.91,
           "quantity": 2
         }
       ]
@@ -8091,151 +8091,151 @@
     {
       "name": "Twelve Petal Kasaya",
       "price_target": 6.4,
-      "price_target_brl": 41.55,
+      "price_target_brl": 41.19,
       "tag": "ll",
       "records": [
         {
           "expansion": "Part the Mistveil",
           "price_original": "$7.10",
-          "price_brl": 46.1,
+          "price_brl": 45.7,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$7.49",
-          "price_brl": 48.63,
+          "price_brl": 48.21,
           "quantity": 10
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$7.66",
-          "price_brl": 49.74,
+          "price_brl": 49.3,
           "quantity": 3
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$7.93",
-          "price_brl": 51.49,
+          "price_brl": 51.04,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$8.20",
-          "price_brl": 53.24,
+          "price_brl": 52.78,
           "quantity": 4
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$8.27",
-          "price_brl": 53.7,
+          "price_brl": 53.23,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$8.28",
-          "price_brl": 53.76,
+          "price_brl": 53.29,
           "quantity": 3
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$8.44",
-          "price_brl": 54.8,
+          "price_brl": 54.32,
           "quantity": 10
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$8.54",
-          "price_brl": 55.45,
+          "price_brl": 54.97,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$8.85",
-          "price_brl": 57.46,
+          "price_brl": 56.96,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$9.11",
-          "price_brl": 59.15,
+          "price_brl": 58.64,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$10.83",
-          "price_brl": 70.32,
+          "price_brl": 69.71,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$25.46",
-          "price_brl": 165.31,
+          "price_brl": 163.87,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$60.68",
-          "price_brl": 393.99,
+          "price_brl": 390.56,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$67.31",
-          "price_brl": 437.04,
+          "price_brl": 433.23,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$80.63",
-          "price_brl": 523.52,
+          "price_brl": 518.97,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$113.73",
-          "price_brl": 738.44,
+          "price_brl": 732.01,
           "quantity": 2
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$147.10",
-          "price_brl": 955.11,
+          "price_brl": 946.79,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$24.47",
-          "price_brl": 158.88,
+          "price_brl": 157.5,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$29.33",
-          "price_brl": 190.44,
+          "price_brl": 188.78,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$29.38",
-          "price_brl": 190.76,
+          "price_brl": 189.1,
           "quantity": 6
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$32.52",
-          "price_brl": 211.15,
+          "price_brl": 209.31,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$36.43",
-          "price_brl": 236.54,
+          "price_brl": 234.48,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$47.15",
-          "price_brl": 306.14,
+          "price_brl": 303.48,
           "quantity": 1
         }
       ]
@@ -8243,31 +8243,31 @@
     {
       "name": "Persuasive Prognosis",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "assassin",
       "records": [
         {
           "expansion": "Part the Mistveil",
           "price_original": "$32.44",
-          "price_brl": 210.63,
+          "price_brl": 208.8,
           "quantity": 2
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$46.16",
-          "price_brl": 299.71,
+          "price_brl": 297.1,
           "quantity": 3
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$53.08",
-          "price_brl": 344.64,
+          "price_brl": 341.64,
           "quantity": 3
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$53.88",
-          "price_brl": 349.84,
+          "price_brl": 346.79,
           "quantity": 3
         }
       ]
@@ -8275,127 +8275,127 @@
     {
       "name": "Bonds of Agony",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "assassin",
       "records": [
         {
           "expansion": "Part the Mistveil",
           "price_original": "$5.05",
-          "price_brl": 32.79,
+          "price_brl": 32.5,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$5.12",
-          "price_brl": 33.24,
+          "price_brl": 32.95,
           "quantity": 3
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$5.92",
-          "price_brl": 38.44,
+          "price_brl": 38.1,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$6.79",
-          "price_brl": 44.09,
+          "price_brl": 43.7,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$6.88",
-          "price_brl": 44.67,
+          "price_brl": 44.28,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$9.47",
-          "price_brl": 61.49,
+          "price_brl": 60.95,
           "quantity": 4
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$11.68",
-          "price_brl": 75.84,
+          "price_brl": 75.18,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$11.72",
-          "price_brl": 76.1,
+          "price_brl": 75.43,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$12.96",
-          "price_brl": 84.15,
+          "price_brl": 83.42,
           "quantity": 3
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$15.63",
-          "price_brl": 101.48,
+          "price_brl": 100.6,
           "quantity": 2
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$15.78",
-          "price_brl": 102.46,
+          "price_brl": 101.57,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$16.38",
-          "price_brl": 106.35,
+          "price_brl": 105.43,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$17.06",
-          "price_brl": 110.77,
+          "price_brl": 109.8,
           "quantity": 3
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$18.47",
-          "price_brl": 119.92,
+          "price_brl": 118.88,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$18.54",
-          "price_brl": 120.38,
+          "price_brl": 119.33,
           "quantity": 4
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$22.88",
-          "price_brl": 148.56,
+          "price_brl": 147.26,
           "quantity": 3
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$23.89",
-          "price_brl": 155.12,
+          "price_brl": 153.77,
           "quantity": 3
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$31.78",
-          "price_brl": 206.34,
+          "price_brl": 204.55,
           "quantity": 3
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$33.75",
-          "price_brl": 219.14,
+          "price_brl": 217.23,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$53.88",
-          "price_brl": 349.84,
+          "price_brl": 346.79,
           "quantity": 3
         }
       ]
@@ -8403,67 +8403,67 @@
     {
       "name": "Stonewall Gauntlet",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "staples",
       "records": [
         {
           "expansion": "Part the Mistveil",
           "price_original": "$52.18",
-          "price_brl": 338.8,
+          "price_brl": 335.85,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$57.00",
-          "price_brl": 370.1,
+          "price_brl": 366.87,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$60.68",
-          "price_brl": 393.99,
+          "price_brl": 390.56,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$67.33",
-          "price_brl": 437.17,
+          "price_brl": 433.36,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$71.74",
-          "price_brl": 465.8,
+          "price_brl": 461.75,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$73.03",
-          "price_brl": 474.18,
+          "price_brl": 470.05,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$77.83",
-          "price_brl": 505.34,
+          "price_brl": 500.95,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$85.77",
-          "price_brl": 556.9,
+          "price_brl": 552.05,
           "quantity": 2
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$86.37",
-          "price_brl": 560.79,
+          "price_brl": 555.91,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$108.17",
-          "price_brl": 702.34,
+          "price_brl": 696.23,
           "quantity": 1
         }
       ]
@@ -8471,7 +8471,7 @@
     {
       "name": "Will of Arcana",
       "price_target": 47,
-      "price_target_brl": 305.17,
+      "price_target_brl": 302.51,
       "tag": "gem",
       "records": [
         {
@@ -8533,7 +8533,7 @@
     {
       "name": "Unsheathed",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "warrior",
       "records": [
         {
@@ -8559,7 +8559,7 @@
     {
       "name": "Face Purgatory",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "runeblade",
       "records": [
         {
@@ -8615,7 +8615,7 @@
     {
       "name": "Lightning Greaves",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "lightning",
       "records": [
         {
@@ -8653,7 +8653,7 @@
     {
       "name": "Shelter from the Storm",
       "price_target": 73,
-      "price_target_brl": 473.98,
+      "price_target_brl": 469.86,
       "tag": "staples",
       "records": [
         {
@@ -8811,7 +8811,7 @@
     {
       "name": "Blood Splattered Vest",
       "price_target": 49,
-      "price_target_brl": 318.15,
+      "price_target_brl": 315.38,
       "tag": "assassin/ninja",
       "records": [
         {
@@ -8945,7 +8945,7 @@
     {
       "name": "Dragonscaler Flight Path",
       "price_target": 49,
-      "price_target_brl": 318.15,
+      "price_target_brl": 315.38,
       "tag": "draconic",
       "records": [
         {
@@ -9073,7 +9073,7 @@
     {
       "name": "Quickdodge Flexors",
       "price_target": 129,
-      "price_target_brl": 837.58,
+      "price_target_brl": 830.3,
       "tag": "staples",
       "records": [
         {
@@ -9135,7 +9135,7 @@
     {
       "name": "Pain in the Backside",
       "price_target": 16,
-      "price_target_brl": 103.89,
+      "price_target_brl": 102.98,
       "tag": "ninja",
       "records": [
         {
@@ -9155,7 +9155,7 @@
     {
       "name": "Throw Dagger",
       "price_target": 8.4,
-      "price_target_brl": 54.54,
+      "price_target_brl": 54.07,
       "tag": "ninja",
       "records": [
         {
@@ -9253,7 +9253,7 @@
     {
       "name": "Dual Threat",
       "price_target": 3.25,
-      "price_target_brl": 21.1,
+      "price_target_brl": 20.92,
       "tag": "ninja",
       "records": [
         {
@@ -9399,7 +9399,7 @@
     {
       "name": "Schism of Chaos",
       "price_target": 32,
-      "price_target_brl": 207.77,
+      "price_target_brl": 205.96,
       "tag": "gem",
       "records": [
         {
@@ -9521,7 +9521,7 @@
     {
       "name": "Take Up the Mantle",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "assassin",
       "records": [
         {
@@ -9661,7 +9661,7 @@
     {
       "name": "Oath of Loyalty",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "draconic",
       "records": [
         {
@@ -9843,7 +9843,7 @@
     {
       "name": "Kabuto of Imperial Authority",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "warrior",
       "records": [
         {
@@ -9971,7 +9971,7 @@
     {
       "name": "Savor Bloodshed",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "assassin/warrior",
       "records": [
         {
@@ -10003,7 +10003,7 @@
     {
       "name": "Arcane Compliance",
       "price_target": 6.5,
-      "price_target_brl": 42.2,
+      "price_target_brl": 41.84,
       "tag": "staples",
       "records": [
         {
@@ -10209,7 +10209,7 @@
     {
       "name": "Fearless Confrontation",
       "price_target": 17,
-      "price_target_brl": 110.38,
+      "price_target_brl": 109.42,
       "tag": "other",
       "records": [
         {
@@ -10253,7 +10253,7 @@
     {
       "name": "Call for Backup",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "other",
       "records": [
         {
@@ -10375,7 +10375,7 @@
     {
       "name": "Base of the Mountain",
       "price_target": 1,
-      "price_target_brl": 6.49,
+      "price_target_brl": 6.44,
       "tag": "other",
       "records": [
         {
@@ -10395,145 +10395,145 @@
     {
       "name": "Cutting Retort",
       "price_target": 1.7,
-      "price_target_brl": 11.04,
+      "price_target_brl": 10.94,
       "tag": "other",
       "records": [
         {
           "expansion": "Super Slam",
           "price_original": "$4.03",
-          "price_brl": 26.17,
+          "price_brl": 25.94,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$5.68",
-          "price_brl": 36.88,
+          "price_brl": 36.56,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
           "price_original": "$5.94",
-          "price_brl": 38.57,
+          "price_brl": 38.23,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$6.16",
-          "price_brl": 40,
+          "price_brl": 39.65,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$6.37",
-          "price_brl": 41.36,
+          "price_brl": 41,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
           "price_original": "$6.37",
-          "price_brl": 41.36,
+          "price_brl": 41,
           "quantity": 4
         },
         {
           "expansion": "Super Slam",
           "price_original": "$6.64",
-          "price_brl": 43.11,
+          "price_brl": 42.74,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
           "price_original": "$6.75",
-          "price_brl": 43.83,
+          "price_brl": 43.45,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
           "price_original": "$6.75",
-          "price_brl": 43.83,
+          "price_brl": 43.45,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
           "price_original": "$6.79",
-          "price_brl": 44.09,
+          "price_brl": 43.7,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$6.79",
-          "price_brl": 44.09,
+          "price_brl": 43.7,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$7.03",
-          "price_brl": 45.65,
+          "price_brl": 45.25,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$8.16",
-          "price_brl": 52.98,
+          "price_brl": 52.52,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
           "price_original": "$8.85",
-          "price_brl": 57.46,
+          "price_brl": 56.96,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$9.02",
-          "price_brl": 58.57,
+          "price_brl": 58.06,
           "quantity": 4
         },
         {
           "expansion": "Super Slam",
           "price_original": "$9.48",
-          "price_brl": 61.55,
+          "price_brl": 61.02,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
           "price_original": "$10.15",
-          "price_brl": 65.9,
+          "price_brl": 65.33,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$10.43",
-          "price_brl": 67.72,
+          "price_brl": 67.13,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
           "price_original": "$10.83",
-          "price_brl": 70.32,
+          "price_brl": 69.71,
           "quantity": 6
         },
         {
           "expansion": "Super Slam",
           "price_original": "$12.83",
-          "price_brl": 83.3,
+          "price_brl": 82.58,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
           "price_original": "$13.47",
-          "price_brl": 87.46,
+          "price_brl": 86.7,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
           "price_original": "$16.23",
-          "price_brl": 105.38,
+          "price_brl": 104.46,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$20.20",
-          "price_brl": 131.16,
+          "price_brl": 130.02,
           "quantity": 1
         }
       ]
@@ -10541,43 +10541,43 @@
     {
       "name": "Authority of Ataya",
       "price_target": 170,
-      "price_target_brl": 1103.79,
+      "price_target_brl": 1094.19,
       "tag": "gem",
       "records": [
         {
           "expansion": "Super Slam",
           "price_original": "$258.50",
-          "price_brl": 1678.41,
+          "price_brl": 1663.81,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$288.38",
-          "price_brl": 1872.42,
+          "price_brl": 1856.13,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$352.90",
-          "price_brl": 2291.34,
+          "price_brl": 2271.41,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$384.51",
-          "price_brl": 2496.58,
+          "price_brl": 2474.86,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$413.37",
-          "price_brl": 2683.97,
+          "price_brl": 2660.61,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
           "price_original": "$532.25",
-          "price_brl": 3455.85,
+          "price_brl": 3425.77,
           "quantity": 1
         }
       ]
@@ -10587,6 +10587,6 @@
     "riches of tropal-dhani",
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2025-12-31T11:47:16",
-  "euro_rate": 6.4929
+  "datetime_utc_minus3": "2025-12-31T12:25:12",
+  "euro_rate": 6.4364
 }
