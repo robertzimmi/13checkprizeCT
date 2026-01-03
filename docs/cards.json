@@ -558,8 +558,8 @@
         },
         {
           "expansion": "Part the Mistveil - Archive Pack",
-          "price_original": "R$1,343.84",
-          "price_brl": 1343.84,
+          "price_original": "R$1,330.87",
+          "price_brl": 1330.87,
           "quantity": 1
         }
       ]
@@ -3370,8 +3370,14 @@
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "R$234.80",
-          "price_brl": 234.8,
+          "price_original": "R$224.81",
+          "price_brl": 224.81,
+          "quantity": 2
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "R$232.54",
+          "price_brl": 232.54,
           "quantity": 1
         }
       ]
@@ -3474,8 +3480,8 @@
         },
         {
           "expansion": "Part the Mistveil - Archive Pack",
-          "price_original": "R$156.56",
-          "price_brl": 156.56,
+          "price_original": "R$155.05",
+          "price_brl": 155.05,
           "quantity": 1
         }
       ]
@@ -3790,8 +3796,8 @@
         },
         {
           "expansion": "Part the Mistveil - Archive Pack",
-          "price_original": "R$117.48",
-          "price_brl": 117.48,
+          "price_original": "R$116.34",
+          "price_brl": 116.34,
           "quantity": 1
         }
       ]
@@ -5592,8 +5598,8 @@
         },
         {
           "expansion": "Part the Mistveil - Archive Pack",
-          "price_original": "R$846.83",
-          "price_brl": 846.83,
+          "price_original": "R$838.66",
+          "price_brl": 838.66,
           "quantity": 1
         },
         {
@@ -5960,8 +5966,8 @@
         },
         {
           "expansion": "Part the Mistveil - Archive Pack",
-          "price_original": "R$312.96",
-          "price_brl": 312.96,
+          "price_original": "R$309.95",
+          "price_brl": 309.95,
           "quantity": 1
         }
       ]
@@ -10864,6 +10870,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-01-03T09:46:25",
+  "datetime_utc_minus3": "2026-01-03T10:32:30",
   "euro_rate": 6.3743
 }
