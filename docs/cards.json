@@ -4187,6 +4187,12 @@
           "price_original": "$39.49",
           "price_brl": 251.72,
           "quantity": 1
+        },
+        {
+          "expansion": "Part the Mistveil - Archive Pack",
+          "price_original": "R$106.79",
+          "price_brl": 106.79,
+          "quantity": 2
         }
       ]
     },
@@ -10966,6 +10972,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-01-04T09:47:02",
+  "datetime_utc_minus3": "2026-01-04T10:32:46",
   "euro_rate": 6.3743
 }
