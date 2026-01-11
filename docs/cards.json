@@ -498,6 +498,12 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$832.44",
+          "price_brl": 832.44,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
           "price_original": "R$1,054.97",
           "price_brl": 1054.97,
           "quantity": 4
@@ -512,7 +518,19 @@
           "expansion": "History Pack 1 - Black Label",
           "price_original": "R$1,126.49",
           "price_brl": 1126.49,
+          "quantity": 2
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$1,126.49",
+          "price_brl": 1126.49,
           "quantity": 3
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$1,134.01",
+          "price_brl": 1134.01,
+          "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
@@ -598,6 +616,12 @@
           "expansion": "Welcome to Rathe - Unlimited",
           "price_original": "R$2,804.69",
           "price_brl": 2804.69,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$1,586.89",
+          "price_brl": 1586.89,
           "quantity": 1
         },
         {
@@ -738,6 +762,12 @@
           "expansion": "History Pack 1 - Black Label",
           "price_original": "R$152.52",
           "price_brl": 152.52,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$267.40",
+          "price_brl": 267.4,
           "quantity": 1
         },
         {
@@ -932,6 +962,12 @@
           "expansion": "Arcane Rising - First",
           "price_original": "R$4,897.99",
           "price_brl": 4897.99,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$522.14",
+          "price_brl": 522.14,
           "quantity": 1
         },
         {
@@ -1398,8 +1434,8 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$343.20",
-          "price_brl": 343.2,
+          "price_original": "R$252.79",
+          "price_brl": 252.79,
           "quantity": 3
         },
         {
@@ -1704,6 +1740,12 @@
           "expansion": "History Pack 1 - Black Label",
           "price_original": "R$191.21",
           "price_brl": 191.21,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$496.55",
+          "price_brl": 496.55,
           "quantity": 1
         },
         {
@@ -2140,6 +2182,18 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$13.18",
+          "price_brl": 13.18,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$15.89",
+          "price_brl": 15.89,
+          "quantity": 5
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
           "price_original": "R$19.50",
           "price_brl": 19.5,
           "quantity": 2
@@ -2149,6 +2203,12 @@
           "price_original": "R$38.47",
           "price_brl": 38.47,
           "quantity": 4
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$42.08",
+          "price_brl": 42.08,
+          "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
@@ -2358,6 +2418,12 @@
           "expansion": "Monarch - First",
           "price_original": "R$977.34",
           "price_brl": 977.34,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 2 - Black Label",
+          "price_original": "R$365.41",
+          "price_brl": 365.41,
           "quantity": 1
         },
         {
@@ -2608,6 +2674,12 @@
           "expansion": "Tales of Aria - First",
           "price_original": "R$2,639.60",
           "price_brl": 2639.6,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 2 - Black Label",
+          "price_original": "R$646.36",
+          "price_brl": 646.36,
           "quantity": 1
         },
         {
@@ -10851,6 +10923,6 @@
     "riches of tropal-dhani",
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-01-11T19:45:51",
+  "datetime_utc_minus3": "2026-01-11T20:23:47",
   "euro_rate": 6.2733
 }
