@@ -1144,6 +1144,12 @@
         },
         {
           "expansion": "Everfest - First",
+          "price_original": "R$304.96",
+          "price_brl": 304.96,
+          "quantity": 1
+        },
+        {
+          "expansion": "Everfest - First",
           "price_original": "R$456.49",
           "price_brl": 456.49,
           "quantity": 1
@@ -3150,8 +3156,8 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "R$68.05",
-          "price_brl": 68.05,
+          "price_original": "R$68.11",
+          "price_brl": 68.11,
           "quantity": 14
         },
         {
@@ -3186,8 +3192,8 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "R$164.51",
-          "price_brl": 164.51,
+          "price_original": "R$165.11",
+          "price_brl": 165.11,
           "quantity": 3
         },
         {
@@ -3412,14 +3418,14 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "R$22.04",
-          "price_brl": 22.04,
+          "price_original": "R$23.34",
+          "price_brl": 23.34,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "R$23.34",
-          "price_brl": 23.34,
+          "price_original": "R$23.99",
+          "price_brl": 23.99,
           "quantity": 1
         },
         {
@@ -3430,14 +3436,14 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "R$28.62",
-          "price_brl": 28.62,
+          "price_original": "R$30.94",
+          "price_brl": 30.94,
           "quantity": 2
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "R$39.25",
-          "price_brl": 39.25,
+          "price_original": "R$39.06",
+          "price_brl": 39.06,
           "quantity": 1
         },
         {
@@ -3454,15 +3460,9 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "R$51.34",
-          "price_brl": 51.34,
+          "price_original": "R$45.62",
+          "price_brl": 45.62,
           "quantity": 5
-        },
-        {
-          "expansion": "Everfest - First",
-          "price_original": "R$53.75",
-          "price_brl": 53.75,
-          "quantity": 1
         },
         {
           "expansion": "Everfest - First",
@@ -3472,8 +3472,8 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "R$63.73",
-          "price_brl": 63.73,
+          "price_original": "R$63.79",
+          "price_brl": 63.79,
           "quantity": 1
         },
         {
@@ -3558,8 +3558,8 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "R$968.21",
-          "price_brl": 968.21,
+          "price_original": "R$968.63",
+          "price_brl": 968.63,
           "quantity": 1
         },
         {
@@ -3576,14 +3576,14 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "R$1,159.37",
-          "price_brl": 1159.37,
+          "price_original": "R$1,153.67",
+          "price_brl": 1153.67,
           "quantity": 2
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "R$1,257.13",
-          "price_brl": 1257.13,
+          "price_original": "R$1,247.82",
+          "price_brl": 1247.82,
           "quantity": 1
         },
         {
@@ -3614,12 +3614,6 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "R$149.69",
-          "price_brl": 149.69,
-          "quantity": 1
-        },
-        {
-          "expansion": "Everfest - First",
           "price_original": "R$150.08",
           "price_brl": 150.08,
           "quantity": 1
@@ -3632,33 +3626,39 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "R$152.09",
-          "price_brl": 152.09,
+          "price_original": "R$153.43",
+          "price_brl": 153.43,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "R$155.30",
-          "price_brl": 155.3,
+          "price_original": "R$157.62",
+          "price_brl": 157.62,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "R$163.36",
-          "price_brl": 163.36,
+          "price_original": "R$165.67",
+          "price_brl": 165.67,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "R$169.55",
-          "price_brl": 169.55,
+          "price_original": "R$168.26",
+          "price_brl": 168.26,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "R$185.66",
-          "price_brl": 185.66,
+          "price_original": "R$186.29",
+          "price_brl": 186.29,
           "quantity": 2
+        },
+        {
+          "expansion": "Everfest - First",
+          "price_original": "R$190.24",
+          "price_brl": 190.24,
+          "quantity": 1
         },
         {
           "expansion": "Everfest - First",
@@ -3670,6 +3670,12 @@
           "expansion": "Everfest - First",
           "price_original": "R$196.31",
           "price_brl": 196.31,
+          "quantity": 1
+        },
+        {
+          "expansion": "Everfest - First",
+          "price_original": "R$210.92",
+          "price_brl": 210.92,
           "quantity": 1
         },
         {
@@ -3702,12 +3708,12 @@
           "expansion": "Everfest - First",
           "price_original": "R$68.32",
           "price_brl": 68.32,
-          "quantity": 1
+          "quantity": 3
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "R$76.18",
-          "price_brl": 76.18,
+          "price_original": "R$74.50",
+          "price_brl": 74.5,
           "quantity": 2
         },
         {
@@ -3718,20 +3724,20 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "R$89.24",
-          "price_brl": 89.24,
+          "price_original": "R$87.61",
+          "price_brl": 87.61,
           "quantity": 5
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "R$91.90",
-          "price_brl": 91.9,
+          "price_original": "R$90.13",
+          "price_brl": 90.13,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "R$92.35",
-          "price_brl": 92.35,
+          "price_original": "R$96.06",
+          "price_brl": 96.06,
           "quantity": 1
         },
         {
@@ -3742,9 +3748,9 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "R$104.40",
-          "price_brl": 104.4,
-          "quantity": 2
+          "price_original": "R$100.94",
+          "price_brl": 100.94,
+          "quantity": 3
         },
         {
           "expansion": "Everfest - First",
@@ -3754,21 +3760,15 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "R$113.38",
-          "price_brl": 113.38,
-          "quantity": 3
+          "price_original": "R$109.03",
+          "price_brl": 109.03,
+          "quantity": 2
         },
         {
           "expansion": "Everfest - First",
           "price_original": "R$126.32",
           "price_brl": 126.32,
           "quantity": 1
-        },
-        {
-          "expansion": "Everfest - First",
-          "price_original": "R$128.75",
-          "price_brl": 128.75,
-          "quantity": 3
         },
         {
           "expansion": "Everfest - First",
@@ -3792,6 +3792,12 @@
           "expansion": "Everfest - First",
           "price_original": "R$156.06",
           "price_brl": 156.06,
+          "quantity": 1
+        },
+        {
+          "expansion": "Everfest - First",
+          "price_original": "R$171.60",
+          "price_brl": 171.6,
           "quantity": 1
         },
         {
@@ -3884,8 +3890,20 @@
       "records": [
         {
           "expansion": "Uprising",
-          "price_original": "R$52.01",
-          "price_brl": 52.01,
+          "price_original": "R$18.85",
+          "price_brl": 18.85,
+          "quantity": 1
+        },
+        {
+          "expansion": "Uprising",
+          "price_original": "R$52.38",
+          "price_brl": 52.38,
+          "quantity": 1
+        },
+        {
+          "expansion": "Uprising",
+          "price_original": "R$52.48",
+          "price_brl": 52.48,
           "quantity": 1
         },
         {
@@ -3896,20 +3914,26 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "R$62.53",
-          "price_brl": 62.53,
+          "price_original": "R$61.51",
+          "price_brl": 61.51,
           "quantity": 1
         },
         {
           "expansion": "Uprising",
-          "price_original": "R$65.76",
-          "price_brl": 65.76,
+          "price_original": "R$62.46",
+          "price_brl": 62.46,
+          "quantity": 1
+        },
+        {
+          "expansion": "Uprising",
+          "price_original": "R$65.70",
+          "price_brl": 65.7,
           "quantity": 2
         },
         {
           "expansion": "Uprising",
-          "price_original": "R$68.05",
-          "price_brl": 68.05,
+          "price_original": "R$68.98",
+          "price_brl": 68.98,
           "quantity": 2
         },
         {
@@ -3946,14 +3970,14 @@
       "records": [
         {
           "expansion": "Uprising",
-          "price_original": "R$775.54",
-          "price_brl": 775.54,
+          "price_original": "R$775.94",
+          "price_brl": 775.94,
           "quantity": 1
         },
         {
           "expansion": "Uprising",
-          "price_original": "R$938.30",
-          "price_brl": 938.3,
+          "price_original": "R$941.45",
+          "price_brl": 941.45,
           "quantity": 4
         },
         {
@@ -3976,8 +4000,8 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "R$1,757.80",
-          "price_brl": 1757.8,
+          "price_original": "R$1,763.09",
+          "price_brl": 1763.09,
           "quantity": 4
         },
         {
@@ -4050,14 +4074,14 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "R$169.68",
-          "price_brl": 169.68,
+          "price_original": "R$170.29",
+          "price_brl": 170.29,
           "quantity": 13
         },
         {
           "expansion": "Uprising",
-          "price_original": "R$180.54",
-          "price_brl": 180.54,
+          "price_original": "R$180.35",
+          "price_brl": 180.35,
           "quantity": 1
         },
         {
@@ -4122,8 +4146,8 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "R$602.83",
-          "price_brl": 602.83,
+          "price_original": "R$604.75",
+          "price_brl": 604.75,
           "quantity": 4
         },
         {
@@ -4180,12 +4204,12 @@
           "expansion": "Uprising",
           "price_original": "R$207.18",
           "price_brl": 207.18,
-          "quantity": 3
+          "quantity": 4
         },
         {
           "expansion": "Uprising",
-          "price_original": "R$229.74",
-          "price_brl": 229.74,
+          "price_original": "R$230.41",
+          "price_brl": 230.41,
           "quantity": 13
         },
         {
@@ -4238,8 +4262,8 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "R$360.02",
-          "price_brl": 360.02,
+          "price_original": "R$355.39",
+          "price_brl": 355.39,
           "quantity": 1
         },
         {
@@ -4250,8 +4274,8 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "R$418.90",
-          "price_brl": 418.9,
+          "price_original": "R$420.64",
+          "price_brl": 420.64,
           "quantity": 2
         },
         {
@@ -4264,13 +4288,13 @@
           "expansion": "Uprising",
           "price_original": "R$682.26",
           "price_brl": 682.26,
-          "quantity": 1
+          "quantity": 2
         },
         {
           "expansion": "Uprising",
           "price_original": "R$682.26",
           "price_brl": 682.26,
-          "quantity": 2
+          "quantity": 1
         },
         {
           "expansion": "Uprising",
@@ -4312,8 +4336,8 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "R$136.74",
-          "price_brl": 136.74,
+          "price_original": "R$137.32",
+          "price_brl": 137.32,
           "quantity": 5
         },
         {
@@ -4348,8 +4372,8 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "R$200.34",
-          "price_brl": 200.34,
+          "price_original": "R$200.98",
+          "price_brl": 200.98,
           "quantity": 1
         },
         {
@@ -10845,6 +10869,6 @@
     "riches of tropal-dhani",
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-01-11T07:25:33",
+  "datetime_utc_minus3": "2026-01-11T07:47:35",
   "euro_rate": 6.2733
 }
