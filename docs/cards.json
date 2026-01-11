@@ -1788,14 +1788,14 @@
         },
         {
           "expansion": "Crucible of War - First",
-          "price_original": "R$405.11",
-          "price_brl": 405.11,
+          "price_original": "R$403.68",
+          "price_brl": 403.68,
           "quantity": 3
         },
         {
           "expansion": "Crucible of War - First",
-          "price_original": "R$69,699.42",
-          "price_brl": 69699.42,
+          "price_original": "R$69,629.71",
+          "price_brl": 69629.71,
           "quantity": 1
         },
         {
@@ -2528,8 +2528,8 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "R$530.72",
-          "price_brl": 530.72,
+          "price_original": "R$532.57",
+          "price_brl": 532.57,
           "quantity": 1
         },
         {
@@ -2658,6 +2658,12 @@
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "R$1,501.75",
           "price_brl": 1501.75,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "R$126.77",
+          "price_brl": 126.77,
           "quantity": 1
         },
         {
@@ -2844,8 +2850,8 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "R$327.65",
-          "price_brl": 327.65,
+          "price_original": "R$327.60",
+          "price_brl": 327.6,
           "quantity": 1
         },
         {
@@ -2862,8 +2868,8 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "R$378.31",
-          "price_brl": 378.31,
+          "price_original": "R$379.57",
+          "price_brl": 379.57,
           "quantity": 2
         },
         {
@@ -2932,6 +2938,12 @@
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "R$838.52",
           "price_brl": 838.52,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "R$346.45",
+          "price_brl": 346.45,
           "quantity": 1
         },
         {
@@ -3022,14 +3034,14 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "R$449.46",
-          "price_brl": 449.46,
+          "price_original": "R$449.41",
+          "price_brl": 449.41,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "R$449.93",
-          "price_brl": 449.93,
+          "price_original": "R$450.34",
+          "price_brl": 450.34,
           "quantity": 1
         },
         {
@@ -3048,12 +3060,12 @@
           "expansion": "Tales of Aria - First",
           "price_original": "R$572.47",
           "price_brl": 572.47,
-          "quantity": 4
+          "quantity": 5
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "R$632.18",
-          "price_brl": 632.18,
+          "price_original": "R$634.15",
+          "price_brl": 634.15,
           "quantity": 4
         },
         {
@@ -3088,8 +3100,8 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "R$20,084.47",
-          "price_brl": 20084.47,
+          "price_original": "R$19,984.01",
+          "price_brl": 19984.01,
           "quantity": 1
         },
         {
@@ -10833,6 +10845,6 @@
     "riches of tropal-dhani",
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-01-11T06:44:30",
+  "datetime_utc_minus3": "2026-01-11T07:25:33",
   "euro_rate": 6.2733
 }
