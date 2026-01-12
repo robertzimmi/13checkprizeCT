@@ -2606,8 +2606,8 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$150.23",
-          "price_brl": 944.39,
+          "price_original": "$150.46",
+          "price_brl": 945.84,
           "quantity": 1
         },
         {
@@ -2668,8 +2668,8 @@
       "records": [
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$14.89",
-          "price_brl": 93.6,
+          "price_original": "$14.75",
+          "price_brl": 92.72,
           "quantity": 1
         },
         {
@@ -2680,20 +2680,20 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$19.28",
-          "price_brl": 121.2,
+          "price_original": "$19.30",
+          "price_brl": 121.33,
           "quantity": 2
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$19.44",
-          "price_brl": 122.21,
+          "price_original": "$19.30",
+          "price_brl": 121.33,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$21.40",
-          "price_brl": 134.53,
+          "price_original": "$21.32",
+          "price_brl": 134.02,
           "quantity": 1
         },
         {
@@ -2844,9 +2844,15 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$37.05",
-          "price_brl": 232.91,
+          "price_original": "$37.11",
+          "price_brl": 233.28,
           "quantity": 3
+        },
+        {
+          "expansion": "Tales of Aria - Unlimited",
+          "price_original": "$41.74",
+          "price_brl": 262.39,
+          "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
@@ -2856,14 +2862,8 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$44.32",
-          "price_brl": 278.61,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$46.21",
-          "price_brl": 290.49,
+          "price_original": "$46.27",
+          "price_brl": 290.87,
           "quantity": 2
         },
         {
@@ -2886,8 +2886,8 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$51.00",
-          "price_brl": 320.6,
+          "price_original": "$50.92",
+          "price_brl": 320.1,
           "quantity": 1
         },
         {
@@ -3026,8 +3026,8 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$146.99",
-          "price_brl": 924.02,
+          "price_original": "$147.21",
+          "price_brl": 925.41,
           "quantity": 1
         },
         {
@@ -3070,8 +3070,8 @@
       "records": [
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$49.56",
-          "price_brl": 311.55,
+          "price_original": "$49.06",
+          "price_brl": 308.41,
           "quantity": 1
         },
         {
@@ -3088,26 +3088,26 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$78.70",
-          "price_brl": 494.73,
+          "price_original": "$78.82",
+          "price_brl": 495.49,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$83.06",
-          "price_brl": 522.14,
+          "price_original": "$83.57",
+          "price_brl": 525.35,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$86.83",
-          "price_brl": 545.84,
+          "price_original": "$86.76",
+          "price_brl": 545.4,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$94.31",
-          "price_brl": 592.86,
+          "price_original": "$94.75",
+          "price_brl": 595.63,
           "quantity": 1
         },
         {
@@ -10911,6 +10911,6 @@
     "riches of tropal-dhani",
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-01-12T16:43:41",
+  "datetime_utc_minus3": "2026-01-12T17:29:40",
   "euro_rate": 6.2863
 }
