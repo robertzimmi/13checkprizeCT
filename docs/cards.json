@@ -3,7 +3,7 @@
     {
       "name": "Enlightened Strike",
       "price_target": 32,
-      "price_target_brl": 200.75,
+      "price_target_brl": 201.16,
       "tag": "staples",
       "records": [
         {
@@ -185,7 +185,7 @@
     {
       "name": "Mask of Momentum",
       "price_target": 73,
-      "price_target_brl": 457.95,
+      "price_target_brl": 458.9,
       "tag": "ninja",
       "records": [
         {
@@ -313,7 +313,7 @@
     {
       "name": "Fyendal's Spring Tunic",
       "price_target": 129,
-      "price_target_brl": 809.26,
+      "price_target_brl": 810.93,
       "tag": "staples",
       "records": [
         {
@@ -567,7 +567,7 @@
     {
       "name": "Heart of Fyendal",
       "price_target": 160,
-      "price_target_brl": 1003.73,
+      "price_target_brl": 1005.81,
       "tag": "gem",
       "records": [
         {
@@ -629,7 +629,7 @@
     {
       "name": "Braveforge Bracers",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "warrior",
       "records": [
         {
@@ -769,7 +769,7 @@
     {
       "name": "Command and Conquer",
       "price_target": 73,
-      "price_target_brl": 457.95,
+      "price_target_brl": 458.9,
       "tag": "staples",
       "records": [
         {
@@ -1047,7 +1047,7 @@
     {
       "name": "Eye of Ophidia",
       "price_target": 240,
-      "price_target_brl": 1505.59,
+      "price_target_brl": 1508.71,
       "tag": "gem",
       "records": [
         {
@@ -1091,7 +1091,7 @@
     {
       "name": "Arcanite Skullcap",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "staples",
       "records": [
         {
@@ -1237,7 +1237,7 @@
     {
       "name": "Storm Striders",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "wizzard",
       "records": [
         {
@@ -1437,7 +1437,7 @@
     {
       "name": "Grasp of the Arknight",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "runeblade",
       "records": [
         {
@@ -1577,7 +1577,7 @@
     {
       "name": "Skullbone Crosswrap",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "ranger",
       "records": [
         {
@@ -1735,7 +1735,7 @@
     {
       "name": "Snag",
       "price_target": 8.4,
-      "price_target_brl": 52.7,
+      "price_target_brl": 52.8,
       "tag": "staples",
       "records": [
         {
@@ -1887,7 +1887,7 @@
     {
       "name": "Arknight Shard",
       "price_target": 160,
-      "price_target_brl": 1003.73,
+      "price_target_brl": 1005.81,
       "tag": "gem",
       "records": [
         {
@@ -1973,7 +1973,7 @@
     {
       "name": "Metacarpus Node",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "wizzard",
       "records": [
         {
@@ -2221,7 +2221,7 @@
     {
       "name": "Great Library of Solana",
       "price_target": 160,
-      "price_target_brl": 1003.73,
+      "price_target_brl": 1005.81,
       "tag": "landmark",
       "records": [
         {
@@ -2277,7 +2277,7 @@
     {
       "name": "Valiant Dynamo",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "warrior",
       "records": [
         {
@@ -2333,7 +2333,7 @@
     {
       "name": "Carrion Husk",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "ll",
       "records": [
         {
@@ -2419,7 +2419,7 @@
     {
       "name": "Overcrowded",
       "price_target": 6.5,
-      "price_target_brl": 40.78,
+      "price_target_brl": 40.86,
       "tag": "other",
       "records": [
         {
@@ -2577,7 +2577,7 @@
     {
       "name": "Spellbound Creepers",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "runeblade",
       "records": [
         {
@@ -2601,13 +2601,13 @@
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$119.24",
-          "price_brl": 748.03,
+          "price_brl": 749.58,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$150.23",
-          "price_brl": 942.44,
+          "price_brl": 944.39,
           "quantity": 1
         },
         {
@@ -2663,91 +2663,91 @@
     {
       "name": "Crown of Seeds",
       "price_target": 16.23,
-      "price_target_brl": 101.82,
+      "price_target_brl": 102.03,
       "tag": "ll",
       "records": [
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$14.89",
-          "price_brl": 93.41,
+          "price_brl": 93.6,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$15.13",
-          "price_brl": 94.92,
+          "price_brl": 95.11,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$19.28",
-          "price_brl": 120.95,
+          "price_brl": 121.2,
           "quantity": 2
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$19.44",
-          "price_brl": 121.95,
+          "price_brl": 122.21,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$21.40",
-          "price_brl": 134.25,
+          "price_brl": 134.53,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$22.81",
-          "price_brl": 143.09,
+          "price_brl": 143.39,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$25.46",
-          "price_brl": 159.72,
+          "price_brl": 160.05,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$45.27",
-          "price_brl": 283.99,
+          "price_brl": 284.58,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$45.37",
-          "price_brl": 284.62,
+          "price_brl": 285.21,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$53.30",
-          "price_brl": 334.37,
+          "price_brl": 335.06,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$60.04",
-          "price_brl": 376.65,
+          "price_brl": 377.43,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$92.92",
-          "price_brl": 582.92,
+          "price_brl": 584.12,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$132.40",
-          "price_brl": 830.58,
+          "price_brl": 832.31,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$262.44",
-          "price_brl": 1646.36,
+          "price_brl": 1649.78,
           "quantity": 1
         },
         {
@@ -2827,97 +2827,97 @@
     {
       "name": "Korshem, Crossroad of Elements",
       "price_target": 23,
-      "price_target_brl": 144.29,
+      "price_target_brl": 144.58,
       "tag": "landmark",
       "records": [
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$30.36",
-          "price_brl": 190.46,
+          "price_brl": 190.85,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$30.36",
-          "price_brl": 190.46,
+          "price_brl": 190.85,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$37.05",
-          "price_brl": 232.43,
+          "price_brl": 232.91,
           "quantity": 3
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$42.60",
-          "price_brl": 267.24,
+          "price_brl": 267.8,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$44.32",
-          "price_brl": 278.03,
+          "price_brl": 278.61,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$46.21",
-          "price_brl": 289.89,
+          "price_brl": 290.49,
           "quantity": 2
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$48.02",
-          "price_brl": 301.24,
+          "price_brl": 301.87,
           "quantity": 2
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$49.34",
-          "price_brl": 309.52,
+          "price_brl": 310.17,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$50.06",
-          "price_brl": 314.04,
+          "price_brl": 314.69,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$51.00",
-          "price_brl": 319.94,
+          "price_brl": 320.6,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$60.04",
-          "price_brl": 376.65,
+          "price_brl": 377.43,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$60.04",
-          "price_brl": 376.65,
+          "price_brl": 377.43,
           "quantity": 2
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$66.60",
-          "price_brl": 417.8,
+          "price_brl": 418.67,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$132.40",
-          "price_brl": 830.58,
+          "price_brl": 832.31,
           "quantity": 3
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$396.69",
-          "price_brl": 2488.56,
+          "price_brl": 2493.71,
           "quantity": 1
         },
         {
@@ -3015,19 +3015,19 @@
     {
       "name": "Shock Charmers",
       "price_target": 48,
-      "price_target_brl": 301.12,
+      "price_target_brl": 301.74,
       "tag": "ll",
       "records": [
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$132.40",
-          "price_brl": 830.58,
+          "price_brl": 832.31,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$146.99",
-          "price_brl": 922.11,
+          "price_brl": 924.02,
           "quantity": 1
         },
         {
@@ -3065,55 +3065,55 @@
     {
       "name": "Rampart of the Ram's Head",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "guardian",
       "records": [
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$49.56",
-          "price_brl": 310.9,
+          "price_brl": 311.55,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$56.94",
-          "price_brl": 357.2,
+          "price_brl": 357.94,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$69.63",
-          "price_brl": 436.81,
+          "price_brl": 437.72,
           "quantity": 2
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$78.70",
-          "price_brl": 493.71,
+          "price_brl": 494.73,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$83.06",
-          "price_brl": 521.06,
+          "price_brl": 522.14,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$86.83",
-          "price_brl": 544.71,
+          "price_brl": 545.84,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$94.31",
-          "price_brl": 591.63,
+          "price_brl": 592.86,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$329.53",
-          "price_brl": 2067.24,
+          "price_brl": 2071.52,
           "quantity": 1
         },
         {
@@ -3217,7 +3217,7 @@
     {
       "name": "Erase Face",
       "price_target": 16,
-      "price_target_brl": 100.37,
+      "price_target_brl": 100.58,
       "tag": "staples",
       "records": [
         {
@@ -3321,7 +3321,7 @@
     {
       "name": "Poison the Well",
       "price_target": 5,
-      "price_target_brl": 31.37,
+      "price_target_brl": 31.43,
       "tag": "staples",
       "records": [
         {
@@ -3473,7 +3473,7 @@
     {
       "name": "This Round's on Me",
       "price_target": 5,
-      "price_target_brl": 31.37,
+      "price_target_brl": 31.43,
       "tag": "other",
       "records": [
         {
@@ -3625,7 +3625,7 @@
     {
       "name": "Grandeur of Valahai",
       "price_target": 110,
-      "price_target_brl": 690.06,
+      "price_target_brl": 691.49,
       "tag": "gem",
       "records": [
         {
@@ -3681,7 +3681,7 @@
     {
       "name": "Imposing Visage",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "guardian",
       "records": [
         {
@@ -3779,7 +3779,7 @@
     {
       "name": "Swarming Gloomveil",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "runeblade",
       "records": [
         {
@@ -3925,7 +3925,7 @@
     {
       "name": "Glistening Steelblade",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "warrior",
       "records": [
         {
@@ -3963,7 +3963,7 @@
     {
       "name": "That All You Got?",
       "price_target": 9,
-      "price_target_brl": 56.46,
+      "price_target_brl": 56.58,
       "tag": "other",
       "records": [
         {
@@ -4025,7 +4025,7 @@
     {
       "name": "Crown of Providence",
       "price_target": 115,
-      "price_target_brl": 721.43,
+      "price_target_brl": 722.92,
       "tag": "staples",
       "records": [
         {
@@ -4111,7 +4111,7 @@
     {
       "name": "Blood of the Dracai",
       "price_target": 20,
-      "price_target_brl": 125.47,
+      "price_target_brl": 125.73,
       "tag": "gem",
       "records": [
         {
@@ -4245,7 +4245,7 @@
     {
       "name": "Flamescale Furnace",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "draconic",
       "records": [
         {
@@ -4379,7 +4379,7 @@
     {
       "name": "Alluvion Constellas",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "wizzard",
       "records": [
         {
@@ -4465,7 +4465,7 @@
     {
       "name": "Crown of Dominion",
       "price_target": 114,
-      "price_target_brl": 715.16,
+      "price_target_brl": 716.64,
       "tag": "staples",
       "records": [
         {
@@ -4539,7 +4539,7 @@
     {
       "name": "Codex of Frailty",
       "price_target": 30,
-      "price_target_brl": 188.2,
+      "price_target_brl": 188.59,
       "tag": "staples",
       "records": [
         {
@@ -4811,7 +4811,7 @@
     {
       "name": "Amnesia",
       "price_target": 4.9,
-      "price_target_brl": 30.74,
+      "price_target_brl": 30.8,
       "tag": "staples",
       "records": [
         {
@@ -4951,7 +4951,7 @@
     {
       "name": "Concealed Blade",
       "price_target": 13,
-      "price_target_brl": 81.55,
+      "price_target_brl": 81.72,
       "tag": "ninja",
       "records": [
         {
@@ -5073,7 +5073,7 @@
     {
       "name": "Knives Out",
       "price_target": 1.7,
-      "price_target_brl": 10.66,
+      "price_target_brl": 10.69,
       "tag": "ninja",
       "records": [
         {
@@ -5177,7 +5177,7 @@
     {
       "name": "Plague Hive",
       "price_target": 39,
-      "price_target_brl": 244.66,
+      "price_target_brl": 245.17,
       "tag": "gem",
       "records": [
         {
@@ -5317,7 +5317,7 @@
     {
       "name": "Flick Knives",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "assassin/ninja",
       "records": [
         {
@@ -5625,7 +5625,7 @@
     {
       "name": "Vambrace of Determination",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "staples",
       "records": [
         {
@@ -5801,7 +5801,7 @@
     {
       "name": "Premeditate",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "ranger",
       "records": [
         {
@@ -5965,7 +5965,7 @@
     {
       "name": "Codex of Bloodrot",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "ranger",
       "records": [
         {
@@ -6075,7 +6075,7 @@
     {
       "name": "Censor",
       "price_target": 9,
-      "price_target_brl": 56.46,
+      "price_target_brl": 56.58,
       "tag": "staples",
       "records": [
         {
@@ -6215,7 +6215,7 @@
     {
       "name": "Warmonger's Diplomacy",
       "price_target": 25,
-      "price_target_brl": 156.83,
+      "price_target_brl": 157.16,
       "tag": "staples",
       "records": [
         {
@@ -6433,7 +6433,7 @@
     {
       "name": "Light of Sol",
       "price_target": 80,
-      "price_target_brl": 501.86,
+      "price_target_brl": 502.9,
       "tag": "gem",
       "records": [
         {
@@ -6489,7 +6489,7 @@
     {
       "name": "Dyadic Carapace",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "runeblade",
       "records": [
         {
@@ -6581,7 +6581,7 @@
     {
       "name": "Hold the Line",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "other",
       "records": [
         {
@@ -6685,7 +6685,7 @@
     {
       "name": "Wax Off",
       "price_target": 2.5,
-      "price_target_brl": 15.68,
+      "price_target_brl": 15.72,
       "tag": "ninja",
       "records": [
         {
@@ -6867,7 +6867,7 @@
     {
       "name": "Master Cog",
       "price_target": 45,
-      "price_target_brl": 282.3,
+      "price_target_brl": 282.88,
       "tag": "gem",
       "records": [
         {
@@ -7007,7 +7007,7 @@
     {
       "name": "Nasty Surprise",
       "price_target": 1.7,
-      "price_target_brl": 10.66,
+      "price_target_brl": 10.69,
       "tag": "other",
       "records": [
         {
@@ -7153,7 +7153,7 @@
     {
       "name": "Deathmatch Arena",
       "price_target": 110,
-      "price_target_brl": 690.06,
+      "price_target_brl": 691.49,
       "tag": "landmark",
       "records": [
         {
@@ -7185,7 +7185,7 @@
     {
       "name": "Tenacity",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "staples",
       "records": [
         {
@@ -7337,7 +7337,7 @@
     {
       "name": "Balance of Justice",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "staples",
       "records": [
         {
@@ -7411,7 +7411,7 @@
     {
       "name": "Grains of Bloodspill",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "warrior",
       "records": [
         {
@@ -7467,7 +7467,7 @@
     {
       "name": "Blade Flurry",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "warrior",
       "records": [
         {
@@ -7547,7 +7547,7 @@
     {
       "name": "The Weakest Link",
       "price_target": 32,
-      "price_target_brl": 200.75,
+      "price_target_brl": 201.16,
       "tag": "staples",
       "records": [
         {
@@ -7645,7 +7645,7 @@
     {
       "name": "Mistcloak Gully // Inner Chi",
       "price_target": 15,
-      "price_target_brl": 94.1,
+      "price_target_brl": 94.29,
       "tag": "landmark",
       "records": [
         {
@@ -7791,7 +7791,7 @@
     {
       "name": "Levels of Enlightenment",
       "price_target": 5.6,
-      "price_target_brl": 35.13,
+      "price_target_brl": 35.2,
       "tag": "ll",
       "records": [
         {
@@ -7955,7 +7955,7 @@
     {
       "name": "Traverse the Universe",
       "price_target": 16,
-      "price_target_brl": 100.37,
+      "price_target_brl": 100.58,
       "tag": "ll",
       "records": [
         {
@@ -8023,7 +8023,7 @@
     {
       "name": "Mask of Recurring Nightmares",
       "price_target": 6.4,
-      "price_target_brl": 40.15,
+      "price_target_brl": 40.23,
       "tag": "ll",
       "records": [
         {
@@ -8127,7 +8127,7 @@
     {
       "name": "Twelve Petal Kasaya",
       "price_target": 6.4,
-      "price_target_brl": 40.15,
+      "price_target_brl": 40.23,
       "tag": "ll",
       "records": [
         {
@@ -8267,7 +8267,7 @@
     {
       "name": "Persuasive Prognosis",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "assassin",
       "records": [
         {
@@ -8311,7 +8311,7 @@
     {
       "name": "Bonds of Agony",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "assassin",
       "records": [
         {
@@ -8451,7 +8451,7 @@
     {
       "name": "Stonewall Gauntlet",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "staples",
       "records": [
         {
@@ -8525,7 +8525,7 @@
     {
       "name": "Will of Arcana",
       "price_target": 47,
-      "price_target_brl": 294.85,
+      "price_target_brl": 295.46,
       "tag": "gem",
       "records": [
         {
@@ -8581,7 +8581,7 @@
     {
       "name": "Unsheathed",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "warrior",
       "records": [
         {
@@ -8613,7 +8613,7 @@
     {
       "name": "Face Purgatory",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "runeblade",
       "records": [
         {
@@ -8663,7 +8663,7 @@
     {
       "name": "Lightning Greaves",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "lightning",
       "records": [
         {
@@ -8707,7 +8707,7 @@
     {
       "name": "Shelter from the Storm",
       "price_target": 73,
-      "price_target_brl": 457.95,
+      "price_target_brl": 458.9,
       "tag": "staples",
       "records": [
         {
@@ -8871,7 +8871,7 @@
     {
       "name": "Blood Splattered Vest",
       "price_target": 49,
-      "price_target_brl": 307.39,
+      "price_target_brl": 308.03,
       "tag": "assassin/ninja",
       "records": [
         {
@@ -9023,7 +9023,7 @@
     {
       "name": "Dragonscaler Flight Path",
       "price_target": 49,
-      "price_target_brl": 307.39,
+      "price_target_brl": 308.03,
       "tag": "draconic",
       "records": [
         {
@@ -9163,7 +9163,7 @@
     {
       "name": "Quickdodge Flexors",
       "price_target": 129,
-      "price_target_brl": 809.26,
+      "price_target_brl": 810.93,
       "tag": "staples",
       "records": [
         {
@@ -9231,7 +9231,7 @@
     {
       "name": "Pain in the Backside",
       "price_target": 16,
-      "price_target_brl": 100.37,
+      "price_target_brl": 100.58,
       "tag": "ninja",
       "records": [
         {
@@ -9287,7 +9287,7 @@
     {
       "name": "Throw Dagger",
       "price_target": 8.4,
-      "price_target_brl": 52.7,
+      "price_target_brl": 52.8,
       "tag": "ninja",
       "records": [
         {
@@ -9409,7 +9409,7 @@
     {
       "name": "Dual Threat",
       "price_target": 3.25,
-      "price_target_brl": 20.39,
+      "price_target_brl": 20.43,
       "tag": "ninja",
       "records": [
         {
@@ -9561,7 +9561,7 @@
     {
       "name": "Schism of Chaos",
       "price_target": 32,
-      "price_target_brl": 200.75,
+      "price_target_brl": 201.16,
       "tag": "gem",
       "records": [
         {
@@ -9695,7 +9695,7 @@
     {
       "name": "Take Up the Mantle",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "assassin",
       "records": [
         {
@@ -9865,7 +9865,7 @@
     {
       "name": "Oath of Loyalty",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "draconic",
       "records": [
         {
@@ -10053,7 +10053,7 @@
     {
       "name": "Kabuto of Imperial Authority",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "warrior",
       "records": [
         {
@@ -10175,7 +10175,7 @@
     {
       "name": "Savor Bloodshed",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "assassin/warrior",
       "records": [
         {
@@ -10225,7 +10225,7 @@
     {
       "name": "Arcane Compliance",
       "price_target": 6.5,
-      "price_target_brl": 40.78,
+      "price_target_brl": 40.86,
       "tag": "staples",
       "records": [
         {
@@ -10479,7 +10479,7 @@
     {
       "name": "Fearless Confrontation",
       "price_target": 17,
-      "price_target_brl": 106.65,
+      "price_target_brl": 106.87,
       "tag": "other",
       "records": [
         {
@@ -10517,7 +10517,7 @@
     {
       "name": "Call for Backup",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "other",
       "records": [
         {
@@ -10669,7 +10669,7 @@
     {
       "name": "Base of the Mountain",
       "price_target": 1,
-      "price_target_brl": 6.27,
+      "price_target_brl": 6.29,
       "tag": "other",
       "records": [
         {
@@ -10707,7 +10707,7 @@
     {
       "name": "Cutting Retort",
       "price_target": 1.7,
-      "price_target_brl": 10.66,
+      "price_target_brl": 10.69,
       "tag": "other",
       "records": [
         {
@@ -10877,7 +10877,7 @@
     {
       "name": "Authority of Ataya",
       "price_target": 170,
-      "price_target_brl": 1066.46,
+      "price_target_brl": 1068.67,
       "tag": "gem",
       "records": [
         {
@@ -10911,6 +10911,6 @@
     "riches of tropal-dhani",
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-01-12T11:57:51",
-  "euro_rate": 6.2733
+  "datetime_utc_minus3": "2026-01-12T12:33:22",
+  "euro_rate": 6.2863
 }
