@@ -1764,14 +1764,14 @@
         },
         {
           "expansion": "Crucible of War - First",
-          "price_original": "R$392.48",
-          "price_brl": 392.48,
+          "price_original": "R$391.07",
+          "price_brl": 391.07,
           "quantity": 3
         },
         {
           "expansion": "Crucible of War - First",
-          "price_original": "R$68,788.58",
-          "price_brl": 68788.58,
+          "price_original": "R$68,719.75",
+          "price_brl": 68719.75,
           "quantity": 1
         },
         {
@@ -2228,14 +2228,14 @@
         },
         {
           "expansion": "Monarch - First",
-          "price_original": "R$1,688.77",
-          "price_brl": 1688.77,
+          "price_original": "R$2,468.78",
+          "price_brl": 2468.78,
           "quantity": 1
         },
         {
           "expansion": "Monarch - First",
-          "price_original": "R$2,468.78",
-          "price_brl": 2468.78,
+          "price_original": "R$2,781.25",
+          "price_brl": 2781.25,
           "quantity": 1
         },
         {
@@ -2314,15 +2314,15 @@
         },
         {
           "expansion": "Monarch - First",
-          "price_original": "R$967.61",
-          "price_brl": 967.61,
-          "quantity": 5
-        },
-        {
-          "expansion": "Monarch - First",
           "price_original": "R$976.72",
           "price_brl": 976.72,
           "quantity": 1
+        },
+        {
+          "expansion": "Monarch - First",
+          "price_original": "R$1,008.98",
+          "price_brl": 1008.98,
+          "quantity": 5
         },
         {
           "expansion": "History Pack 2 - Black Label",
@@ -2838,8 +2838,8 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "R$309.80",
-          "price_brl": 309.8,
+          "price_original": "R$314.89",
+          "price_brl": 314.89,
           "quantity": 1
         },
         {
@@ -2957,6 +2957,12 @@
           "price_original": "R$888.53",
           "price_brl": 888.53,
           "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "R$1,069.48",
+          "price_brl": 1069.48,
+          "quantity": 1
         }
       ]
     },
@@ -3010,8 +3016,8 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "R$418.12",
-          "price_brl": 418.12,
+          "price_original": "R$415.34",
+          "price_brl": 415.34,
           "quantity": 1
         },
         {
@@ -3034,8 +3040,8 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "R$565.27",
-          "price_brl": 565.27,
+          "price_original": "R$552.86",
+          "price_brl": 552.86,
           "quantity": 5
         },
         {
@@ -3076,8 +3082,8 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "R$19,282.88",
-          "price_brl": 19282.88,
+          "price_original": "R$19,186.46",
+          "price_brl": 19186.46,
           "quantity": 1
         },
         {
@@ -10450,6 +10456,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-01-19T07:34:06",
+  "datetime_utc_minus3": "2026-01-19T08:25:20",
   "euro_rate": 6.2411
 }
