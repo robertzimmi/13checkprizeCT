@@ -1359,6 +1359,12 @@
           "price_original": "$158.37",
           "price_brl": 988.4,
           "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "$163.17",
+          "price_brl": 1018.36,
+          "quantity": 1
         }
       ]
     },
@@ -2320,8 +2326,8 @@
         },
         {
           "expansion": "History Pack 2 - Black Label",
-          "price_original": "$63.72",
-          "price_brl": 397.68,
+          "price_original": "$59.25",
+          "price_brl": 369.79,
           "quantity": 1
         },
         {
@@ -10408,6 +10414,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-01-18T23:03:26",
+  "datetime_utc_minus3": "2026-01-19T01:03:41",
   "euro_rate": 6.2411
 }
