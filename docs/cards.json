@@ -570,14 +570,14 @@
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$830.27",
-          "price_brl": 830.27,
+          "price_original": "R$830.10",
+          "price_brl": 830.1,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$920.33",
-          "price_brl": 920.33,
+          "price_original": "R$919.87",
+          "price_brl": 919.87,
           "quantity": 1
         },
         {
@@ -1032,26 +1032,26 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$567.22",
-          "price_brl": 567.22,
+          "price_original": "R$567.10",
+          "price_brl": 567.1,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$590.64",
-          "price_brl": 590.64,
+          "price_original": "R$590.51",
+          "price_brl": 590.51,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$628.49",
-          "price_brl": 628.49,
+          "price_original": "R$628.18",
+          "price_brl": 628.18,
           "quantity": 8
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$674.52",
-          "price_brl": 674.52,
+          "price_original": "R$674.38",
+          "price_brl": 674.38,
           "quantity": 1
         },
         {
@@ -1956,14 +1956,14 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$73.76",
-          "price_brl": 73.76,
+          "price_original": "R$73.75",
+          "price_brl": 73.75,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$74.41",
-          "price_brl": 74.41,
+          "price_original": "R$74.40",
+          "price_brl": 74.4,
           "quantity": 2
         },
         {
@@ -1974,8 +1974,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$82.15",
-          "price_brl": 82.15,
+          "price_original": "R$82.10",
+          "price_brl": 82.1,
           "quantity": 1
         },
         {
@@ -2556,14 +2556,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$50.03",
-          "price_brl": 50.03,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "R$68.02",
-          "price_brl": 68.02,
+          "price_original": "R$50.02",
+          "price_brl": 50.02,
           "quantity": 1
         },
         {
@@ -2571,6 +2565,12 @@
           "price_original": "R$68.09",
           "price_brl": 68.09,
           "quantity": 2
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "R$69.88",
+          "price_brl": 69.88,
+          "quantity": 1
         },
         {
           "expansion": "Super Slam",
@@ -2586,8 +2586,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$87.02",
-          "price_brl": 87.02,
+          "price_original": "R$87.00",
+          "price_brl": 87,
           "quantity": 2
         },
         {
@@ -2610,8 +2610,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$95.47",
-          "price_brl": 95.47,
+          "price_original": "R$95.46",
+          "price_brl": 95.46,
           "quantity": 3
         },
         {
@@ -2622,14 +2622,14 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$106.61",
-          "price_brl": 106.61,
+          "price_original": "R$106.58",
+          "price_brl": 106.58,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$112.33",
-          "price_brl": 112.33,
+          "price_original": "R$112.31",
+          "price_brl": 112.31,
           "quantity": 1
         },
         {
@@ -2640,8 +2640,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$122.12",
-          "price_brl": 122.12,
+          "price_original": "R$122.10",
+          "price_brl": 122.1,
           "quantity": 1
         },
         {
@@ -2670,8 +2670,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$160.79",
-          "price_brl": 160.79,
+          "price_original": "R$160.75",
+          "price_brl": 160.75,
           "quantity": 1
         },
         {
@@ -3464,8 +3464,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$86.98",
-          "price_brl": 86.98,
+          "price_original": "R$86.96",
+          "price_brl": 86.96,
           "quantity": 1
         },
         {
@@ -3476,8 +3476,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$93.95",
-          "price_brl": 93.95,
+          "price_original": "R$93.94",
+          "price_brl": 93.94,
           "quantity": 2
         },
         {
@@ -3506,8 +3506,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$98.57",
-          "price_brl": 98.57,
+          "price_original": "R$98.54",
+          "price_brl": 98.54,
           "quantity": 2
         },
         {
@@ -4174,26 +4174,32 @@
         },
         {
           "expansion": "Dusk till dawn",
+          "price_original": "R$800.99",
+          "price_brl": 800.99,
+          "quantity": 1
+        },
+        {
+          "expansion": "Dusk till dawn",
+          "price_original": "R$801.36",
+          "price_brl": 801.36,
+          "quantity": 1
+        },
+        {
+          "expansion": "Dusk till dawn",
           "price_original": "R$801.43",
           "price_brl": 801.43,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$801.50",
-          "price_brl": 801.5,
+          "price_original": "R$842.46",
+          "price_brl": 842.46,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$842.88",
-          "price_brl": 842.88,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dusk till dawn",
-          "price_original": "R$904.32",
-          "price_brl": 904.32,
+          "price_original": "R$904.13",
+          "price_brl": 904.13,
           "quantity": 1
         }
       ]
@@ -5616,20 +5622,26 @@
         },
         {
           "expansion": "Super Slam",
+          "price_original": "R$90.78",
+          "price_brl": 90.78,
+          "quantity": 1
+        },
+        {
+          "expansion": "Super Slam",
           "price_original": "R$110.71",
           "price_brl": 110.71,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$117.47",
-          "price_brl": 117.47,
+          "price_original": "R$117.43",
+          "price_brl": 117.43,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$123.32",
-          "price_brl": 123.32,
+          "price_original": "R$123.30",
+          "price_brl": 123.3,
           "quantity": 7
         },
         {
@@ -5640,14 +5652,14 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$139.18",
-          "price_brl": 139.18,
+          "price_original": "R$139.14",
+          "price_brl": 139.14,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$142.58",
-          "price_brl": 142.58,
+          "price_original": "R$142.56",
+          "price_brl": 142.56,
           "quantity": 1
         },
         {
@@ -5664,8 +5676,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$178.15",
-          "price_brl": 178.15,
+          "price_original": "R$178.12",
+          "price_brl": 178.12,
           "quantity": 10
         },
         {
@@ -5682,8 +5694,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$210.86",
-          "price_brl": 210.86,
+          "price_original": "R$210.82",
+          "price_brl": 210.82,
           "quantity": 3
         },
         {
@@ -5694,8 +5706,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$234.83",
-          "price_brl": 234.83,
+          "price_original": "R$234.78",
+          "price_brl": 234.78,
           "quantity": 1
         },
         {
@@ -5708,12 +5720,6 @@
           "expansion": "Super Slam",
           "price_original": "R$376.82",
           "price_brl": 376.82,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "R$105.67",
-          "price_brl": 105.67,
           "quantity": 1
         },
         {
@@ -5760,8 +5766,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$209.42",
-          "price_brl": 209.42,
+          "price_original": "R$209.39",
+          "price_brl": 209.39,
           "quantity": 2
         },
         {
@@ -5778,20 +5784,20 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$283.24",
-          "price_brl": 283.24,
+          "price_original": "R$283.18",
+          "price_brl": 283.18,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$294.44",
-          "price_brl": 294.44,
+          "price_original": "R$294.30",
+          "price_brl": 294.3,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$314.33",
-          "price_brl": 314.33,
+          "price_original": "R$314.26",
+          "price_brl": 314.26,
           "quantity": 2
         },
         {
@@ -6320,21 +6326,21 @@
       "records": [
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$112.38",
-          "price_brl": 112.38,
+          "price_original": "R$112.36",
+          "price_brl": 112.36,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "R$121.00",
           "price_brl": 121,
-          "quantity": 6
+          "quantity": 5
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "R$121.00",
           "price_brl": 121,
-          "quantity": 5
+          "quantity": 6
         },
         {
           "expansion": "Dusk till dawn",
@@ -6362,8 +6368,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$146.38",
-          "price_brl": 146.38,
+          "price_original": "R$146.35",
+          "price_brl": 146.35,
           "quantity": 2
         },
         {
@@ -6374,8 +6380,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$172.85",
-          "price_brl": 172.85,
+          "price_original": "R$172.81",
+          "price_brl": 172.81,
           "quantity": 1
         },
         {
@@ -6404,8 +6410,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$191.57",
-          "price_brl": 191.57,
+          "price_original": "R$191.47",
+          "price_brl": 191.47,
           "quantity": 3
         },
         {
@@ -6416,8 +6422,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$195.25",
-          "price_brl": 195.25,
+          "price_original": "R$195.20",
+          "price_brl": 195.2,
           "quantity": 1
         },
         {
@@ -6434,8 +6440,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$220.98",
-          "price_brl": 220.98,
+          "price_original": "R$220.93",
+          "price_brl": 220.93,
           "quantity": 6
         },
         {
@@ -6446,14 +6452,14 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$234.78",
-          "price_brl": 234.78,
+          "price_original": "R$234.73",
+          "price_brl": 234.73,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$245.62",
-          "price_brl": 245.62,
+          "price_original": "R$245.50",
+          "price_brl": 245.5,
           "quantity": 2
         },
         {
@@ -6484,8 +6490,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$205.55",
-          "price_brl": 205.55,
+          "price_original": "R$205.50",
+          "price_brl": 205.5,
           "quantity": 2
         },
         {
@@ -6496,20 +6502,20 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$227.76",
-          "price_brl": 227.76,
+          "price_original": "R$227.65",
+          "price_brl": 227.65,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$234.78",
-          "price_brl": 234.78,
+          "price_original": "R$234.73",
+          "price_brl": 234.73,
           "quantity": 6
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$241.30",
-          "price_brl": 241.3,
+          "price_original": "R$241.25",
+          "price_brl": 241.25,
           "quantity": 1
         },
         {
@@ -6520,8 +6526,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$245.22",
-          "price_brl": 245.22,
+          "price_original": "R$245.17",
+          "price_brl": 245.17,
           "quantity": 4
         },
         {
@@ -6544,14 +6550,14 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$308.69",
-          "price_brl": 308.69,
+          "price_original": "R$308.63",
+          "price_brl": 308.63,
           "quantity": 6
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$328.04",
-          "price_brl": 328.04,
+          "price_original": "R$327.97",
+          "price_brl": 327.97,
           "quantity": 7
         },
         {
@@ -6562,8 +6568,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$341.98",
-          "price_brl": 341.98,
+          "price_original": "R$341.80",
+          "price_brl": 341.8,
           "quantity": 7
         },
         {
@@ -6610,8 +6616,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$242.18",
-          "price_brl": 242.18,
+          "price_original": "R$242.06",
+          "price_brl": 242.06,
           "quantity": 1
         },
         {
@@ -6628,8 +6634,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$287.48",
-          "price_brl": 287.48,
+          "price_original": "R$287.42",
+          "price_brl": 287.42,
           "quantity": 1
         },
         {
@@ -6640,14 +6646,14 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$321.94",
-          "price_brl": 321.94,
+          "price_original": "R$319.40",
+          "price_brl": 319.4,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$371.56",
-          "price_brl": 371.56,
+          "price_original": "R$368.89",
+          "price_brl": 368.89,
           "quantity": 1
         },
         {
@@ -6670,8 +6676,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$443.62",
-          "price_brl": 443.62,
+          "price_original": "R$443.52",
+          "price_brl": 443.52,
           "quantity": 1
         },
         {
@@ -6682,20 +6688,20 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$452.89",
-          "price_brl": 452.89,
+          "price_original": "R$452.81",
+          "price_brl": 452.81,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$466.62",
-          "price_brl": 466.62,
+          "price_original": "R$466.52",
+          "price_brl": 466.52,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$582.23",
-          "price_brl": 582.23,
+          "price_original": "R$582.11",
+          "price_brl": 582.11,
           "quantity": 2
         }
       ]
@@ -6708,8 +6714,8 @@
       "records": [
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$562.79",
-          "price_brl": 562.79,
+          "price_original": "R$488.38",
+          "price_brl": 488.38,
           "quantity": 2
         },
         {
@@ -6726,8 +6732,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$860.02",
-          "price_brl": 860.02,
+          "price_original": "R$859.84",
+          "price_brl": 859.84,
           "quantity": 1
         },
         {
@@ -6744,8 +6750,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$953.09",
-          "price_brl": 953.09,
+          "price_original": "R$952.61",
+          "price_brl": 952.61,
           "quantity": 1
         },
         {
@@ -6762,8 +6768,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$1,136.00",
-          "price_brl": 1136,
+          "price_original": "R$1,135.78",
+          "price_brl": 1135.78,
           "quantity": 1
         },
         {
@@ -6774,8 +6780,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$2,314.24",
-          "price_brl": 2314.24,
+          "price_original": "R$2,313.76",
+          "price_brl": 2313.76,
           "quantity": 1
         }
       ]
@@ -6806,20 +6812,20 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$320.63",
-          "price_brl": 320.63,
+          "price_original": "R$320.47",
+          "price_brl": 320.47,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$332.89",
-          "price_brl": 332.89,
+          "price_original": "R$332.82",
+          "price_brl": 332.82,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$343.75",
-          "price_brl": 343.75,
+          "price_original": "R$343.68",
+          "price_brl": 343.68,
           "quantity": 2
         },
         {
@@ -6854,14 +6860,14 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$785.47",
-          "price_brl": 785.47,
+          "price_original": "R$785.30",
+          "price_brl": 785.3,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$789.95",
-          "price_brl": 789.95,
+          "price_original": "R$789.78",
+          "price_brl": 789.78,
           "quantity": 1
         },
         {
@@ -6884,8 +6890,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$930.88",
-          "price_brl": 930.88,
+          "price_original": "R$930.68",
+          "price_brl": 930.68,
           "quantity": 1
         }
       ]
@@ -6916,8 +6922,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$75.01",
-          "price_brl": 75.01,
+          "price_original": "R$75.00",
+          "price_brl": 75,
           "quantity": 3
         },
         {
@@ -6940,8 +6946,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$180.00",
-          "price_brl": 180,
+          "price_original": "R$179.96",
+          "price_brl": 179.96,
           "quantity": 3
         },
         {
@@ -7014,15 +7020,15 @@
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$14.39",
-          "price_brl": 14.39,
-          "quantity": 2
+          "price_original": "R$13.81",
+          "price_brl": 13.81,
+          "quantity": 3
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$16.03",
-          "price_brl": 16.03,
-          "quantity": 3
+          "price_original": "R$14.39",
+          "price_brl": 14.39,
+          "quantity": 2
         },
         {
           "expansion": "Bright Lights",
@@ -7032,8 +7038,8 @@
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$16.86",
-          "price_brl": 16.86,
+          "price_original": "R$16.85",
+          "price_brl": 16.85,
           "quantity": 14
         },
         {
@@ -7044,9 +7050,15 @@
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$17.56",
-          "price_brl": 17.56,
+          "price_original": "R$17.54",
+          "price_brl": 17.54,
           "quantity": 2
+        },
+        {
+          "expansion": "Bright Lights",
+          "price_original": "R$18.90",
+          "price_brl": 18.9,
+          "quantity": 1
         },
         {
           "expansion": "Bright Lights",
@@ -7074,12 +7086,6 @@
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$26.12",
-          "price_brl": 26.12,
-          "quantity": 1
-        },
-        {
-          "expansion": "Bright Lights",
           "price_original": "R$26.28",
           "price_brl": 26.28,
           "quantity": 2
@@ -7098,8 +7104,8 @@
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$35.68",
-          "price_brl": 35.68,
+          "price_original": "R$35.65",
+          "price_brl": 35.65,
           "quantity": 5
         },
         {
@@ -7122,8 +7128,8 @@
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$38.57",
-          "price_brl": 38.57,
+          "price_original": "R$38.56",
+          "price_brl": 38.56,
           "quantity": 1
         },
         {
@@ -7184,20 +7190,20 @@
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$415.16",
-          "price_brl": 415.16,
+          "price_original": "R$415.07",
+          "price_brl": 415.07,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$415.30",
-          "price_brl": 415.3,
+          "price_original": "R$415.21",
+          "price_brl": 415.21,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$415.39",
-          "price_brl": 415.39,
+          "price_original": "R$415.31",
+          "price_brl": 415.31,
           "quantity": 2
         },
         {
@@ -7208,14 +7214,14 @@
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$460.45",
-          "price_brl": 460.45,
+          "price_original": "R$460.22",
+          "price_brl": 460.22,
           "quantity": 2
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$493.82",
-          "price_brl": 493.82,
+          "price_original": "R$493.72",
+          "price_brl": 493.72,
           "quantity": 1
         },
         {
@@ -7268,26 +7274,26 @@
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$909.77",
-          "price_brl": 909.77,
+          "price_original": "R$909.58",
+          "price_brl": 909.58,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$909.77",
-          "price_brl": 909.77,
+          "price_original": "R$909.58",
+          "price_brl": 909.58,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$928.52",
-          "price_brl": 928.52,
+          "price_original": "R$928.33",
+          "price_brl": 928.33,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$1,008.40",
-          "price_brl": 1008.4,
+          "price_original": "R$1,007.90",
+          "price_brl": 1007.9,
           "quantity": 1
         },
         {
@@ -8944,8 +8950,8 @@
       "records": [
         {
           "expansion": "Rosetta",
-          "price_original": "R$419.94",
-          "price_brl": 419.94,
+          "price_original": "R$419.74",
+          "price_brl": 419.74,
           "quantity": 1
         },
         {
@@ -8968,8 +8974,8 @@
         },
         {
           "expansion": "Rosetta",
-          "price_original": "R$770.09",
-          "price_brl": 770.09,
+          "price_original": "R$769.93",
+          "price_brl": 769.93,
           "quantity": 2
         },
         {
@@ -9000,8 +9006,8 @@
       "records": [
         {
           "expansion": "Rosetta",
-          "price_original": "R$202.45",
-          "price_brl": 202.45,
+          "price_original": "R$202.42",
+          "price_brl": 202.42,
           "quantity": 3
         },
         {
@@ -9032,8 +9038,8 @@
       "records": [
         {
           "expansion": "Rosetta",
-          "price_original": "R$745.98",
-          "price_brl": 745.98,
+          "price_original": "R$745.82",
+          "price_brl": 745.82,
           "quantity": 1
         },
         {
@@ -9044,8 +9050,8 @@
         },
         {
           "expansion": "Rosetta",
-          "price_original": "R$826.76",
-          "price_brl": 826.76,
+          "price_original": "R$826.36",
+          "price_brl": 826.36,
           "quantity": 4
         },
         {
@@ -9068,26 +9074,26 @@
         },
         {
           "expansion": "Rosetta",
-          "price_original": "R$300.79",
-          "price_brl": 300.79,
+          "price_original": "R$300.73",
+          "price_brl": 300.73,
           "quantity": 2
         },
         {
           "expansion": "Rosetta",
-          "price_original": "R$329.72",
-          "price_brl": 329.72,
+          "price_original": "R$313.06",
+          "price_brl": 313.06,
           "quantity": 1
         },
         {
           "expansion": "Rosetta",
-          "price_original": "R$334.13",
-          "price_brl": 334.13,
+          "price_original": "R$333.96",
+          "price_brl": 333.96,
           "quantity": 2
         },
         {
           "expansion": "Rosetta",
-          "price_original": "R$358.12",
-          "price_brl": 358.12,
+          "price_original": "R$358.04",
+          "price_brl": 358.04,
           "quantity": 2
         },
         {
@@ -9118,8 +9124,8 @@
         },
         {
           "expansion": "Rosetta",
-          "price_original": "R$220.36",
-          "price_brl": 220.36,
+          "price_original": "R$219.77",
+          "price_brl": 219.77,
           "quantity": 5
         },
         {
@@ -9136,14 +9142,14 @@
         },
         {
           "expansion": "Rosetta",
-          "price_original": "R$340.01",
-          "price_brl": 340.01,
-          "quantity": 2
+          "price_original": "R$339.94",
+          "price_brl": 339.94,
+          "quantity": 1
         },
         {
           "expansion": "Rosetta",
-          "price_original": "R$350.77",
-          "price_brl": 350.77,
+          "price_original": "R$350.70",
+          "price_brl": 350.7,
           "quantity": 1
         },
         {
@@ -9160,8 +9166,8 @@
         },
         {
           "expansion": "Rosetta",
-          "price_original": "R$376.73",
-          "price_brl": 376.73,
+          "price_original": "R$376.55",
+          "price_brl": 376.55,
           "quantity": 1
         },
         {
@@ -9192,50 +9198,50 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$406.62",
-          "price_brl": 406.62,
+          "price_original": "R$406.52",
+          "price_brl": 406.52,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$406.75",
-          "price_brl": 406.75,
+          "price_original": "R$406.67",
+          "price_brl": 406.67,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$414.84",
-          "price_brl": 414.84,
+          "price_original": "R$414.74",
+          "price_brl": 414.74,
           "quantity": 13
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$421.85",
-          "price_brl": 421.85,
+          "price_original": "R$420.50",
+          "price_brl": 420.5,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$442.42",
-          "price_brl": 442.42,
+          "price_original": "R$442.32",
+          "price_brl": 442.32,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$459.58",
-          "price_brl": 459.58,
+          "price_original": "R$459.35",
+          "price_brl": 459.35,
           "quantity": 4
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$466.62",
-          "price_brl": 466.62,
+          "price_original": "R$466.52",
+          "price_brl": 466.52,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$493.22",
-          "price_brl": 493.22,
+          "price_original": "R$493.12",
+          "price_brl": 493.12,
           "quantity": 2
         },
         {
@@ -9246,8 +9252,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$536.04",
-          "price_brl": 536.04,
+          "price_original": "R$535.93",
+          "price_brl": 535.93,
           "quantity": 1
         },
         {
@@ -9258,26 +9264,26 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$548.56",
-          "price_brl": 548.56,
+          "price_original": "R$546.59",
+          "price_brl": 546.59,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$591.89",
-          "price_brl": 591.89,
+          "price_original": "R$591.76",
+          "price_brl": 591.76,
+          "quantity": 1
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "R$596.42",
+          "price_brl": 596.42,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "R$596.50",
           "price_brl": 596.5,
-          "quantity": 1
-        },
-        {
-          "expansion": "The Hunted",
-          "price_original": "R$596.57",
-          "price_brl": 596.57,
           "quantity": 1
         },
         {
@@ -9306,14 +9312,14 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$691.48",
-          "price_brl": 691.48,
+          "price_original": "R$691.33",
+          "price_brl": 691.33,
           "quantity": 4
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$766.22",
-          "price_brl": 766.22,
+          "price_original": "R$765.84",
+          "price_brl": 765.84,
           "quantity": 6
         },
         {
@@ -9324,8 +9330,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$1,759.94",
-          "price_brl": 1759.94,
+          "price_original": "R$1,759.58",
+          "price_brl": 1759.58,
           "quantity": 2
         },
         {
@@ -9336,8 +9342,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$2,364.90",
-          "price_brl": 2364.9,
+          "price_original": "R$2,364.41",
+          "price_brl": 2364.41,
           "quantity": 1
         },
         {
@@ -9362,8 +9368,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$629.21",
-          "price_brl": 629.21,
+          "price_original": "R$629.08",
+          "price_brl": 629.08,
           "quantity": 1
         },
         {
@@ -9380,8 +9386,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$654.14",
-          "price_brl": 654.14,
+          "price_original": "R$654.01",
+          "price_brl": 654.01,
           "quantity": 1
         },
         {
@@ -9398,9 +9404,9 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$674.47",
-          "price_brl": 674.47,
-          "quantity": 4
+          "price_original": "R$674.33",
+          "price_brl": 674.33,
+          "quantity": 3
         },
         {
           "expansion": "The Hunted",
@@ -9416,20 +9422,26 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$731.10",
-          "price_brl": 731.1,
+          "price_original": "R$730.94",
+          "price_brl": 730.94,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$246.34",
-          "price_brl": 246.34,
+          "price_original": "R$246.29",
+          "price_brl": 246.29,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$247.76",
-          "price_brl": 247.76,
+          "price_original": "R$247.72",
+          "price_brl": 247.72,
+          "quantity": 1
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "R$269.15",
+          "price_brl": 269.15,
           "quantity": 1
         },
         {
@@ -9440,26 +9452,26 @@
         },
         {
           "expansion": "The Hunted",
+          "price_original": "R$308.82",
+          "price_brl": 308.82,
+          "quantity": 1
+        },
+        {
+          "expansion": "The Hunted",
           "price_original": "R$314.58",
           "price_brl": 314.58,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$317.22",
-          "price_brl": 317.22,
-          "quantity": 1
-        },
-        {
-          "expansion": "The Hunted",
-          "price_original": "R$343.72",
-          "price_brl": 343.72,
+          "price_original": "R$343.55",
+          "price_brl": 343.55,
           "quantity": 7
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$374.23",
-          "price_brl": 374.23,
+          "price_original": "R$374.16",
+          "price_brl": 374.16,
           "quantity": 5
         },
         {
@@ -9476,8 +9488,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$582.00",
-          "price_brl": 582,
+          "price_original": "R$581.88",
+          "price_brl": 581.88,
           "quantity": 1
         },
         {
@@ -9500,6 +9512,12 @@
       "price_target_brl": 303.85,
       "tag": "draconic",
       "records": [
+        {
+          "expansion": "The Hunted",
+          "price_original": "R$266.26",
+          "price_brl": 266.26,
+          "quantity": 1
+        },
         {
           "expansion": "The Hunted",
           "price_original": "R$266.33",
@@ -9532,14 +9550,14 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$344.81",
-          "price_brl": 344.81,
+          "price_original": "R$344.44",
+          "price_brl": 344.44,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$374.23",
-          "price_brl": 374.23,
+          "price_original": "R$374.16",
+          "price_brl": 374.16,
           "quantity": 2
         },
         {
@@ -9550,20 +9568,20 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$379.08",
-          "price_brl": 379.08,
+          "price_original": "R$379.01",
+          "price_brl": 379.01,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$421.67",
-          "price_brl": 421.67,
+          "price_original": "R$421.58",
+          "price_brl": 421.58,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$428.46",
-          "price_brl": 428.46,
+          "price_original": "R$428.38",
+          "price_brl": 428.38,
           "quantity": 1
         },
         {
@@ -9574,8 +9592,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$511.74",
-          "price_brl": 511.74,
+          "price_original": "R$511.63",
+          "price_brl": 511.63,
           "quantity": 1
         },
         {
@@ -9592,20 +9610,20 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$531.37",
-          "price_brl": 531.37,
+          "price_original": "R$531.26",
+          "price_brl": 531.26,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$540.89",
-          "price_brl": 540.89,
+          "price_original": "R$540.78",
+          "price_brl": 540.78,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$551.60",
-          "price_brl": 551.6,
+          "price_original": "R$551.50",
+          "price_brl": 551.5,
           "quantity": 1
         },
         {
@@ -9654,8 +9672,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$882.32",
-          "price_brl": 882.32,
+          "price_original": "R$882.14",
+          "price_brl": 882.14,
           "quantity": 3
         },
         {
@@ -9696,8 +9714,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$1,263.10",
-          "price_brl": 1263.1,
+          "price_original": "R$1,258.66",
+          "price_brl": 1258.66,
           "quantity": 1
         },
         {
@@ -9708,8 +9726,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$1,350.32",
-          "price_brl": 1350.32,
+          "price_original": "R$1,346.09",
+          "price_brl": 1346.09,
           "quantity": 2
         }
       ]
@@ -9722,9 +9740,15 @@
       "records": [
         {
           "expansion": "The Hunted",
-          "price_original": "R$180.28",
-          "price_brl": 180.28,
+          "price_original": "R$180.24",
+          "price_brl": 180.24,
           "quantity": 1
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "R$192.58",
+          "price_brl": 192.58,
+          "quantity": 2
         },
         {
           "expansion": "The Hunted",
@@ -9734,26 +9758,20 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$228.60",
-          "price_brl": 228.6,
+          "price_original": "R$228.55",
+          "price_brl": 228.55,
           "quantity": 4
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$231.00",
-          "price_brl": 231,
+          "price_original": "R$233.03",
+          "price_brl": 233.03,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$241.45",
-          "price_brl": 241.45,
-          "quantity": 4
-        },
-        {
-          "expansion": "The Hunted",
-          "price_original": "R$281.03",
-          "price_brl": 281.03,
+          "price_original": "R$280.97",
+          "price_brl": 280.97,
           "quantity": 1
         },
         {
@@ -9778,8 +9796,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$75.56",
-          "price_brl": 75.56,
+          "price_original": "R$75.55",
+          "price_brl": 75.55,
           "quantity": 1
         },
         {
@@ -9796,8 +9814,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$89.15",
-          "price_brl": 89.15,
+          "price_original": "R$89.12",
+          "price_brl": 89.12,
           "quantity": 17
         },
         {
@@ -9820,8 +9838,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$95.20",
-          "price_brl": 95.2,
+          "price_original": "R$95.18",
+          "price_brl": 95.18,
           "quantity": 1
         },
         {
@@ -9838,8 +9856,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$99.18",
-          "price_brl": 99.18,
+          "price_original": "R$99.13",
+          "price_brl": 99.13,
           "quantity": 3
         },
         {
@@ -9856,8 +9874,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$101.71",
-          "price_brl": 101.71,
+          "price_original": "R$101.69",
+          "price_brl": 101.69,
           "quantity": 4
         },
         {
@@ -9904,8 +9922,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$42,918.80",
-          "price_brl": 42918.8,
+          "price_original": "R$42,768.54",
+          "price_brl": 42768.54,
           "quantity": 1
         }
       ]
@@ -9924,8 +9942,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$28.50",
-          "price_brl": 28.5,
+          "price_original": "R$28.49",
+          "price_brl": 28.49,
           "quantity": 2
         },
         {
@@ -9936,8 +9954,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$31.00",
-          "price_brl": 31,
+          "price_original": "R$30.98",
+          "price_brl": 30.98,
           "quantity": 1
         },
         {
@@ -9948,14 +9966,14 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$34.46",
-          "price_brl": 34.46,
+          "price_original": "R$34.45",
+          "price_brl": 34.45,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$35.68",
-          "price_brl": 35.68,
+          "price_original": "R$35.65",
+          "price_brl": 35.65,
           "quantity": 3
         },
         {
@@ -9966,32 +9984,32 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$38.57",
-          "price_brl": 38.57,
+          "price_original": "R$38.56",
+          "price_brl": 38.56,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$39.59",
-          "price_brl": 39.59,
+          "price_original": "R$39.58",
+          "price_brl": 39.58,
           "quantity": 13
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$39.64",
-          "price_brl": 39.64,
+          "price_original": "R$39.62",
+          "price_brl": 39.62,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$39.82",
-          "price_brl": 39.82,
+          "price_original": "R$39.80",
+          "price_brl": 39.8,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$40.24",
-          "price_brl": 40.24,
+          "price_original": "R$40.22",
+          "price_brl": 40.22,
           "quantity": 1
         },
         {
@@ -10002,15 +10020,15 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$47.21",
-          "price_brl": 47.21,
-          "quantity": 2
+          "price_original": "R$47.20",
+          "price_brl": 47.2,
+          "quantity": 5
         },
         {
           "expansion": "The Hunted",
           "price_original": "R$47.21",
           "price_brl": 47.21,
-          "quantity": 5
+          "quantity": 2
         },
         {
           "expansion": "The Hunted",
@@ -10032,8 +10050,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$80.74",
-          "price_brl": 80.74,
+          "price_original": "R$80.72",
+          "price_brl": 80.72,
           "quantity": 1
         },
         {
@@ -10076,14 +10094,14 @@
       "records": [
         {
           "expansion": "The Hunted",
-          "price_original": "R$197.56",
-          "price_brl": 197.56,
+          "price_original": "R$197.52",
+          "price_brl": 197.52,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$201.62",
-          "price_brl": 201.62,
+          "price_original": "R$201.58",
+          "price_brl": 201.58,
           "quantity": 1
         },
         {
@@ -10100,8 +10118,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$222.76",
-          "price_brl": 222.76,
+          "price_original": "R$222.50",
+          "price_brl": 222.5,
           "quantity": 1
         },
         {
@@ -10124,14 +10142,14 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$286.80",
-          "price_brl": 286.8,
+          "price_original": "R$286.74",
+          "price_brl": 286.74,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$303.16",
-          "price_brl": 303.16,
+          "price_original": "R$303.01",
+          "price_brl": 303.01,
           "quantity": 5
         },
         {
@@ -10142,8 +10160,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$325.78",
-          "price_brl": 325.78,
+          "price_original": "R$325.72",
+          "price_brl": 325.72,
           "quantity": 1
         },
         {
@@ -10154,14 +10172,14 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$443.42",
-          "price_brl": 443.42,
+          "price_original": "R$443.34",
+          "price_brl": 443.34,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$518.21",
-          "price_brl": 518.21,
+          "price_original": "R$517.63",
+          "price_brl": 517.63,
           "quantity": 1
         },
         {
@@ -10190,14 +10208,14 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$605.23",
-          "price_brl": 605.23,
+          "price_original": "R$605.11",
+          "price_brl": 605.11,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$662.90",
-          "price_brl": 662.9,
+          "price_original": "R$654.73",
+          "price_brl": 654.73,
           "quantity": 1
         },
         {
@@ -10234,8 +10252,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$17.83",
-          "price_brl": 17.83,
+          "price_original": "R$17.82",
+          "price_brl": 17.82,
           "quantity": 9
         },
         {
@@ -10264,20 +10282,20 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$20.60",
-          "price_brl": 20.6,
+          "price_original": "R$20.59",
+          "price_brl": 20.59,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$21.53",
-          "price_brl": 21.53,
+          "price_original": "R$21.52",
+          "price_brl": 21.52,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$21.65",
-          "price_brl": 21.65,
+          "price_original": "R$21.64",
+          "price_brl": 21.64,
           "quantity": 2
         },
         {
@@ -10326,13 +10344,13 @@
           "expansion": "The Hunted",
           "price_original": "R$37.51",
           "price_brl": 37.51,
-          "quantity": 1
+          "quantity": 4
         },
         {
           "expansion": "The Hunted",
           "price_original": "R$37.51",
           "price_brl": 37.51,
-          "quantity": 4
+          "quantity": 1
         },
         {
           "expansion": "The Hunted",
@@ -10342,14 +10360,14 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$39.36",
-          "price_brl": 39.36,
+          "price_original": "R$39.35",
+          "price_brl": 39.35,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$41.12",
-          "price_brl": 41.12,
+          "price_original": "R$41.10",
+          "price_brl": 41.1,
           "quantity": 3
         },
         {
@@ -10360,8 +10378,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$47.21",
-          "price_brl": 47.21,
+          "price_original": "R$47.20",
+          "price_brl": 47.2,
           "quantity": 6
         },
         {
@@ -10410,14 +10428,14 @@
       "records": [
         {
           "expansion": "The Hunted",
-          "price_original": "R$88.92",
-          "price_brl": 88.92,
+          "price_original": "R$88.90",
+          "price_brl": 88.9,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$89.89",
-          "price_brl": 89.89,
+          "price_original": "R$89.87",
+          "price_brl": 89.87,
           "quantity": 10
         },
         {
@@ -10434,14 +10452,20 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$95.11",
-          "price_brl": 95.11,
+          "price_original": "R$94.66",
+          "price_brl": 94.66,
+          "quantity": 2
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "R$95.09",
+          "price_brl": 95.09,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$95.71",
-          "price_brl": 95.71,
+          "price_original": "R$96.74",
+          "price_brl": 96.74,
           "quantity": 1
         },
         {
@@ -10470,8 +10494,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$103.14",
-          "price_brl": 103.14,
+          "price_original": "R$103.12",
+          "price_brl": 103.12,
           "quantity": 7
         },
         {
@@ -10484,13 +10508,13 @@
           "expansion": "The Hunted",
           "price_original": "R$118.57",
           "price_brl": 118.57,
-          "quantity": 5
+          "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "R$118.57",
           "price_brl": 118.57,
-          "quantity": 1
+          "quantity": 5
         },
         {
           "expansion": "The Hunted",
@@ -10506,14 +10530,14 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$127.54",
-          "price_brl": 127.54,
+          "price_original": "R$127.50",
+          "price_brl": 127.5,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$140.56",
-          "price_brl": 140.56,
+          "price_original": "R$140.53",
+          "price_brl": 140.53,
           "quantity": 4
         },
         {
@@ -10548,8 +10572,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$473.08",
-          "price_brl": 473.08,
+          "price_original": "R$472.85",
+          "price_brl": 472.85,
           "quantity": 7
         },
         {
@@ -10560,20 +10584,20 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$473.08",
-          "price_brl": 473.08,
+          "price_original": "R$472.85",
+          "price_brl": 472.85,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$503.24",
-          "price_brl": 503.24,
+          "price_original": "R$503.14",
+          "price_brl": 503.14,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$507.68",
-          "price_brl": 507.68,
+          "price_original": "R$507.58",
+          "price_brl": 507.58,
           "quantity": 1
         },
         {
@@ -10596,8 +10620,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$1,159.56",
-          "price_brl": 1159.56,
+          "price_original": "R$1,159.32",
+          "price_brl": 1159.32,
           "quantity": 1
         }
       ]
@@ -10610,20 +10634,20 @@
       "records": [
         {
           "expansion": "The Hunted",
-          "price_original": "R$293.03",
-          "price_brl": 293.03,
+          "price_original": "R$294.36",
+          "price_brl": 294.36,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$304.94",
-          "price_brl": 304.94,
+          "price_original": "R$304.88",
+          "price_brl": 304.88,
           "quantity": 4
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$339.36",
-          "price_brl": 339.36,
+          "price_original": "R$339.19",
+          "price_brl": 339.19,
           "quantity": 2
         },
         {
@@ -10634,14 +10658,20 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$350.82",
-          "price_brl": 350.82,
+          "price_original": "R$350.75",
+          "price_brl": 350.75,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$361.43",
-          "price_brl": 361.43,
+          "price_original": "R$359.20",
+          "price_brl": 359.2,
+          "quantity": 1
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "R$359.57",
+          "price_brl": 359.57,
           "quantity": 1
         },
         {
@@ -10670,20 +10700,14 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$131.32",
-          "price_brl": 131.32,
+          "price_original": "R$131.29",
+          "price_brl": 131.29,
           "quantity": 9
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$144.07",
-          "price_brl": 144.07,
-          "quantity": 1
-        },
-        {
-          "expansion": "The Hunted",
-          "price_original": "R$152.32",
-          "price_brl": 152.32,
+          "price_original": "R$152.24",
+          "price_brl": 152.24,
           "quantity": 1
         },
         {
@@ -10738,8 +10762,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "R$211.00",
-          "price_brl": 211,
+          "price_original": "R$210.95",
+          "price_brl": 210.95,
           "quantity": 3
         },
         {
@@ -11242,8 +11266,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$27.07",
-          "price_brl": 27.07,
+          "price_original": "R$27.06",
+          "price_brl": 27.06,
           "quantity": 3
         },
         {
@@ -11332,8 +11356,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$49.56",
-          "price_brl": 49.56,
+          "price_original": "R$49.55",
+          "price_brl": 49.55,
           "quantity": 1
         },
         {
@@ -11406,32 +11430,32 @@
       "records": [
         {
           "expansion": "Super Slam",
-          "price_original": "R$1,667.62",
-          "price_brl": 1667.62,
+          "price_original": "R$1,667.27",
+          "price_brl": 1667.27,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$1,715.18",
-          "price_brl": 1715.18,
+          "price_original": "R$1,714.84",
+          "price_brl": 1714.84,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$1,996.73",
-          "price_brl": 1996.73,
+          "price_original": "R$1,995.73",
+          "price_brl": 1995.73,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$2,152.66",
-          "price_brl": 2152.66,
+          "price_original": "R$2,152.21",
+          "price_brl": 2152.21,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "R$2,314.24",
-          "price_brl": 2314.24,
+          "price_original": "R$2,313.76",
+          "price_brl": 2313.76,
           "quantity": 3
         },
         {
@@ -11446,6 +11470,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-01-25T12:24:49",
+  "datetime_utc_minus3": "2026-01-25T12:44:32",
   "euro_rate": 6.2011
 }
