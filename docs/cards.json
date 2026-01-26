@@ -772,12 +772,6 @@
         },
         {
           "expansion": "Welcome to Rathe - Alpha",
-          "price_original": "$1,658.08",
-          "price_brl": 10281.92,
-          "quantity": 1
-        },
-        {
-          "expansion": "Welcome to Rathe - Alpha",
           "price_original": "$1,924.77",
           "price_brl": 11935.69,
           "quantity": 1
@@ -1482,8 +1476,8 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$165.44",
-          "price_brl": 1025.91,
+          "price_original": "$165.33",
+          "price_brl": 1025.23,
           "quantity": 1
         }
       ]
@@ -11488,6 +11482,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-01-25T23:08:02",
+  "datetime_utc_minus3": "2026-01-26T01:09:30",
   "euro_rate": 6.2011
 }
