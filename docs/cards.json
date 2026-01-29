@@ -3,7 +3,7 @@
     {
       "name": "Enlightened Strike",
       "price_target": 32,
-      "price_target_brl": 198.24,
+      "price_target_brl": 198.44,
       "tag": "staples",
       "records": [
         {
@@ -185,7 +185,7 @@
     {
       "name": "Mask of Momentum",
       "price_target": 73,
-      "price_target_brl": 452.23,
+      "price_target_brl": 452.68,
       "tag": "ninja",
       "records": [
         {
@@ -307,7 +307,7 @@
     {
       "name": "Fyendal's Spring Tunic",
       "price_target": 129,
-      "price_target_brl": 799.14,
+      "price_target_brl": 799.94,
       "tag": "staples",
       "records": [
         {
@@ -487,19 +487,19 @@
         {
           "expansion": "Crucible of War - First",
           "price_original": "$197.06",
-          "price_brl": 1220.77,
+          "price_brl": 1221.99,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - First",
           "price_original": "$298.53",
-          "price_brl": 1849.36,
+          "price_brl": 1851.21,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - First",
           "price_original": "$339.00",
-          "price_brl": 2100.07,
+          "price_brl": 2102.17,
           "quantity": 1
         },
         {
@@ -547,31 +547,31 @@
         {
           "expansion": "Bright Lights",
           "price_original": "$108.86",
-          "price_brl": 674.38,
+          "price_brl": 675.05,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$162.62",
-          "price_brl": 1007.41,
+          "price_brl": 1008.42,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$165.92",
-          "price_brl": 1027.86,
+          "price_brl": 1028.89,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$295.59",
-          "price_brl": 1831.15,
+          "price_brl": 1832.98,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$296.07",
-          "price_brl": 1834.12,
+          "price_brl": 1835.96,
           "quantity": 1
         },
         {
@@ -585,7 +585,7 @@
     {
       "name": "Heart of Fyendal",
       "price_target": 160,
-      "price_target_brl": 991.18,
+      "price_target_brl": 992.18,
       "tag": "gem",
       "records": [
         {
@@ -647,7 +647,7 @@
     {
       "name": "Braveforge Bracers",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "warrior",
       "records": [
         {
@@ -755,7 +755,7 @@
         {
           "expansion": "Welcome to Rathe - Alpha",
           "price_original": "$1,955.43",
-          "price_brl": 12113.69,
+          "price_brl": 12125.82,
           "quantity": 1
         },
         {
@@ -793,7 +793,7 @@
     {
       "name": "Command and Conquer",
       "price_target": 73,
-      "price_target_brl": 452.23,
+      "price_target_brl": 452.68,
       "tag": "staples",
       "records": [
         {
@@ -967,13 +967,13 @@
         {
           "expansion": "Arcane Rising - First",
           "price_original": "$257.95",
-          "price_brl": 1597.97,
+          "price_brl": 1599.57,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - First",
           "price_original": "$880.36",
-          "price_brl": 5453.74,
+          "price_brl": 5459.2,
           "quantity": 1
         },
         {
@@ -1027,37 +1027,37 @@
         {
           "expansion": "The Hunted",
           "price_original": "$106.08",
-          "price_brl": 657.15,
+          "price_brl": 657.81,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$113.31",
-          "price_brl": 701.94,
+          "price_brl": 702.65,
           "quantity": 8
         },
         {
           "expansion": "The Hunted",
           "price_original": "$121.16",
-          "price_brl": 750.57,
+          "price_brl": 751.33,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$135.57",
-          "price_brl": 839.84,
+          "price_brl": 840.68,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$458.26",
-          "price_brl": 2838.87,
+          "price_brl": 2841.72,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$13,480.63",
-          "price_brl": 83511.15,
+          "price_brl": 83594.73,
           "quantity": 1
         }
       ]
@@ -1065,7 +1065,7 @@
     {
       "name": "Eye of Ophidia",
       "price_target": 240,
-      "price_target_brl": 1486.78,
+      "price_target_brl": 1488.26,
       "tag": "gem",
       "records": [
         {
@@ -1115,7 +1115,7 @@
     {
       "name": "Arcanite Skullcap",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "staples",
       "records": [
         {
@@ -1243,7 +1243,7 @@
     {
       "name": "Storm Striders",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "wizzard",
       "records": [
         {
@@ -1429,7 +1429,7 @@
         {
           "expansion": "Arcane Rising - First",
           "price_original": "$1,692.20",
-          "price_brl": 10483.01,
+          "price_brl": 10493.5,
           "quantity": 1
         },
         {
@@ -1461,7 +1461,7 @@
     {
       "name": "Grasp of the Arknight",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "runeblade",
       "records": [
         {
@@ -1587,7 +1587,7 @@
         {
           "expansion": "Arcane Rising - First",
           "price_original": "$1,692.20",
-          "price_brl": 10483.01,
+          "price_brl": 10493.5,
           "quantity": 1
         },
         {
@@ -1601,7 +1601,7 @@
     {
       "name": "Skullbone Crosswrap",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "ranger",
       "records": [
         {
@@ -1741,7 +1741,7 @@
     {
       "name": "Snag",
       "price_target": 8.4,
-      "price_target_brl": 52.04,
+      "price_target_brl": 52.09,
       "tag": "staples",
       "records": [
         {
@@ -1855,19 +1855,19 @@
         {
           "expansion": "Crucible of War - First",
           "price_original": "$45.53",
-          "price_brl": 282.05,
+          "price_brl": 282.34,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - First",
           "price_original": "$58.58",
-          "price_brl": 362.9,
+          "price_brl": 363.26,
           "quantity": 3
         },
         {
           "expansion": "Crucible of War - First",
           "price_original": "$12,047.71",
-          "price_brl": 74634.36,
+          "price_brl": 74709.05,
           "quantity": 1
         },
         {
@@ -1911,7 +1911,7 @@
     {
       "name": "Arknight Shard",
       "price_target": 160,
-      "price_target_brl": 991.18,
+      "price_target_brl": 992.18,
       "tag": "gem",
       "records": [
         {
@@ -1977,13 +1977,13 @@
         {
           "expansion": "Crucible of War - First",
           "price_original": "$5,413.12",
-          "price_brl": 33533.74,
+          "price_brl": 33567.3,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - First",
           "price_original": "$8,523.80",
-          "price_brl": 52804.09,
+          "price_brl": 52856.94,
           "quantity": 1
         },
         {
@@ -2003,7 +2003,7 @@
     {
       "name": "Metacarpus Node",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "wizzard",
       "records": [
         {
@@ -2153,25 +2153,25 @@
         {
           "expansion": "Crucible of War - First",
           "price_original": "$12.32",
-          "price_brl": 76.32,
+          "price_brl": 76.4,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - First",
           "price_original": "$33.63",
-          "price_brl": 208.33,
+          "price_brl": 208.54,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - First",
           "price_original": "$34.36",
-          "price_brl": 212.86,
+          "price_brl": 213.07,
           "quantity": 2
         },
         {
           "expansion": "Crucible of War - First",
           "price_original": "$34.49",
-          "price_brl": 213.66,
+          "price_brl": 213.88,
           "quantity": 1
         },
         {
@@ -2239,7 +2239,7 @@
     {
       "name": "Great Library of Solana",
       "price_target": 160,
-      "price_target_brl": 991.18,
+      "price_target_brl": 992.18,
       "tag": "landmark",
       "records": [
         {
@@ -2287,13 +2287,13 @@
         {
           "expansion": "Monarch - First",
           "price_original": "$261.71",
-          "price_brl": 1621.27,
+          "price_brl": 1622.89,
           "quantity": 2
         },
         {
           "expansion": "Monarch - First",
           "price_original": "$4,046.52",
-          "price_brl": 25067.79,
+          "price_brl": 25092.88,
           "quantity": 1
         },
         {
@@ -2313,7 +2313,7 @@
     {
       "name": "Valiant Dynamo",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "warrior",
       "records": [
         {
@@ -2337,19 +2337,19 @@
         {
           "expansion": "Monarch - First",
           "price_original": "$271.48",
-          "price_brl": 1681.79,
+          "price_brl": 1683.47,
           "quantity": 1
         },
         {
           "expansion": "Monarch - First",
           "price_original": "$677.38",
-          "price_brl": 4196.3,
+          "price_brl": 4200.5,
           "quantity": 1
         },
         {
           "expansion": "Monarch - First",
           "price_original": "$685.70",
-          "price_brl": 4247.84,
+          "price_brl": 4252.09,
           "quantity": 1
         }
       ]
@@ -2357,7 +2357,7 @@
     {
       "name": "Carrion Husk",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "ll",
       "records": [
         {
@@ -2399,25 +2399,25 @@
         {
           "expansion": "Monarch - First",
           "price_original": "$161.88",
-          "price_brl": 1002.83,
+          "price_brl": 1003.83,
           "quantity": 1
         },
         {
           "expansion": "Monarch - First",
           "price_original": "$163.22",
-          "price_brl": 1011.13,
+          "price_brl": 1012.14,
           "quantity": 1
         },
         {
           "expansion": "Monarch - First",
           "price_original": "$163.23",
-          "price_brl": 1011.19,
+          "price_brl": 1012.21,
           "quantity": 1
         },
         {
           "expansion": "Monarch - First",
           "price_original": "$175.85",
-          "price_brl": 1089.37,
+          "price_brl": 1090.46,
           "quantity": 1
         },
         {
@@ -2443,7 +2443,7 @@
     {
       "name": "Spellbound Creepers",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "runeblade",
       "records": [
         {
@@ -2455,73 +2455,73 @@
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$122.18",
-          "price_brl": 756.89,
+          "price_brl": 757.65,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$153.52",
-          "price_brl": 951.04,
+          "price_brl": 951.99,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$169.33",
-          "price_brl": 1048.98,
+          "price_brl": 1050.03,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$169.34",
-          "price_brl": 1049.04,
+          "price_brl": 1050.09,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$208.28",
-          "price_brl": 1290.27,
+          "price_brl": 1291.57,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$96.40",
-          "price_brl": 597.19,
+          "price_brl": 597.79,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$151.05",
-          "price_brl": 935.74,
+          "price_brl": 936.68,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$151.06",
-          "price_brl": 935.8,
+          "price_brl": 936.74,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$175.84",
-          "price_brl": 1089.31,
+          "price_brl": 1090.4,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$175.86",
-          "price_brl": 1089.44,
+          "price_brl": 1090.53,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$211.81",
-          "price_brl": 1312.14,
+          "price_brl": 1313.45,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$474.44",
-          "price_brl": 2939.11,
+          "price_brl": 2942.05,
           "quantity": 1
         },
         {
@@ -2535,139 +2535,139 @@
     {
       "name": "Crown of Seeds",
       "price_target": 16.23,
-      "price_target_brl": 100.54,
+      "price_target_brl": 100.64,
       "tag": "ll",
       "records": [
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$15.14",
-          "price_brl": 93.79,
+          "price_brl": 93.88,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$19.70",
-          "price_brl": 122.04,
+          "price_brl": 122.16,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$21.97",
-          "price_brl": 136.1,
+          "price_brl": 136.24,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$22.81",
-          "price_brl": 141.31,
+          "price_brl": 141.45,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$25.46",
-          "price_brl": 157.72,
+          "price_brl": 157.88,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$46.39",
-          "price_brl": 287.38,
+          "price_brl": 287.67,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$46.49",
-          "price_brl": 288,
+          "price_brl": 288.29,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$54.62",
-          "price_brl": 338.37,
+          "price_brl": 338.7,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$61.52",
-          "price_brl": 381.11,
+          "price_brl": 381.49,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$68.20",
-          "price_brl": 422.49,
+          "price_brl": 422.92,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$95.20",
-          "price_brl": 589.75,
+          "price_brl": 590.34,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$135.66",
-          "price_brl": 840.4,
+          "price_brl": 841.24,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$53.47",
-          "price_brl": 331.24,
+          "price_brl": 331.57,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$61.75",
-          "price_brl": 382.54,
+          "price_brl": 382.92,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$67.52",
-          "price_brl": 418.28,
+          "price_brl": 418.7,
           "quantity": 2
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$75.54",
-          "price_brl": 467.96,
+          "price_brl": 468.43,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$75.55",
-          "price_brl": 468.02,
+          "price_brl": 468.49,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$102.34",
-          "price_brl": 633.99,
+          "price_brl": 634.62,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$133.89",
-          "price_brl": 829.44,
+          "price_brl": 830.27,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$136.18",
-          "price_brl": 843.62,
+          "price_brl": 844.47,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$136.18",
-          "price_brl": 843.62,
+          "price_brl": 844.47,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$271.48",
-          "price_brl": 1681.79,
+          "price_brl": 1683.47,
           "quantity": 1
         },
         {
@@ -2681,175 +2681,175 @@
     {
       "name": "Korshem, Crossroad of Elements",
       "price_target": 23,
-      "price_target_brl": 142.48,
+      "price_target_brl": 142.63,
       "tag": "landmark",
       "records": [
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$30.37",
-          "price_brl": 188.14,
+          "price_brl": 188.33,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$30.37",
-          "price_brl": 188.14,
+          "price_brl": 188.33,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$37.87",
-          "price_brl": 234.6,
+          "price_brl": 234.84,
           "quantity": 3
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$42.60",
-          "price_brl": 263.9,
+          "price_brl": 264.17,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$43.12",
-          "price_brl": 267.12,
+          "price_brl": 267.39,
           "quantity": 3
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$43.21",
-          "price_brl": 267.68,
+          "price_brl": 267.95,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$49.21",
-          "price_brl": 304.85,
+          "price_brl": 305.16,
           "quantity": 2
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$50.54",
-          "price_brl": 313.09,
+          "price_brl": 313.4,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$51.29",
-          "price_brl": 317.74,
+          "price_brl": 318.05,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$52.93",
-          "price_brl": 327.9,
+          "price_brl": 328.22,
           "quantity": 2
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$61.52",
-          "price_brl": 381.11,
+          "price_brl": 381.49,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$61.52",
-          "price_brl": 381.11,
+          "price_brl": 381.49,
           "quantity": 2
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$68.25",
-          "price_brl": 422.8,
+          "price_brl": 423.23,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$135.59",
-          "price_brl": 839.97,
+          "price_brl": 840.81,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$162.61",
-          "price_brl": 1007.35,
+          "price_brl": 1008.36,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$48.70",
-          "price_brl": 301.69,
+          "price_brl": 301.99,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$55.02",
-          "price_brl": 340.84,
+          "price_brl": 341.18,
           "quantity": 10
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$55.75",
-          "price_brl": 345.37,
+          "price_brl": 345.71,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$56.70",
-          "price_brl": 351.25,
+          "price_brl": 351.6,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$60.68",
-          "price_brl": 375.91,
+          "price_brl": 376.28,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$67.21",
-          "price_brl": 416.36,
+          "price_brl": 416.78,
           "quantity": 2
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$68.50",
-          "price_brl": 424.35,
+          "price_brl": 424.78,
           "quantity": 3
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$195.57",
-          "price_brl": 1211.54,
+          "price_brl": 1212.75,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$329.52",
-          "price_brl": 2041.34,
+          "price_brl": 2043.39,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$359.29",
-          "price_brl": 2225.77,
+          "price_brl": 2227.99,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$609.02",
-          "price_brl": 3772.82,
+          "price_brl": 3776.59,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$1,081.96",
-          "price_brl": 6702.63,
+          "price_brl": 6709.34,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$1,352.58",
-          "price_brl": 8379.1,
+          "price_brl": 8387.48,
           "quantity": 1
         },
         {
@@ -2863,49 +2863,49 @@
     {
       "name": "Shock Charmers",
       "price_target": 48,
-      "price_target_brl": 297.36,
+      "price_target_brl": 297.65,
       "tag": "ll",
       "records": [
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$135.66",
-          "price_brl": 840.4,
+          "price_brl": 841.24,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$150.20",
-          "price_brl": 930.47,
+          "price_brl": 931.41,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$69.20",
-          "price_brl": 428.69,
+          "price_brl": 429.12,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$69.52",
-          "price_brl": 430.67,
+          "price_brl": 431.1,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$95.50",
-          "price_brl": 591.61,
+          "price_brl": 592.21,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$160.53",
-          "price_brl": 994.47,
+          "price_brl": 995.46,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$192.55",
-          "price_brl": 1192.83,
+          "price_brl": 1194.02,
           "quantity": 1
         },
         {
@@ -2919,43 +2919,43 @@
     {
       "name": "Rampart of the Ram's Head",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "guardian",
       "records": [
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$43.51",
-          "price_brl": 269.54,
+          "price_brl": 269.81,
           "quantity": 2
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$70.43",
-          "price_brl": 436.31,
+          "price_brl": 436.74,
           "quantity": 2
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$82.80",
-          "price_brl": 512.94,
+          "price_brl": 513.45,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$87.87",
-          "price_brl": 544.35,
+          "price_brl": 544.89,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$88.41",
-          "price_brl": 547.69,
+          "price_brl": 548.24,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$93.88",
-          "price_brl": 581.58,
+          "price_brl": 582.16,
           "quantity": 1
         },
         {
@@ -2967,73 +2967,73 @@
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$72.36",
-          "price_brl": 448.26,
+          "price_brl": 448.71,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$74.87",
-          "price_brl": 463.81,
+          "price_brl": 464.28,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$80.87",
-          "price_brl": 500.98,
+          "price_brl": 501.48,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$84.18",
-          "price_brl": 521.49,
+          "price_brl": 522.01,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$88.41",
-          "price_brl": 547.69,
+          "price_brl": 548.24,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$99.97",
-          "price_brl": 619.3,
+          "price_brl": 619.92,
           "quantity": 5
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$136.18",
-          "price_brl": 843.62,
+          "price_brl": 844.47,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$136.18",
-          "price_brl": 843.62,
+          "price_brl": 844.47,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$163.23",
-          "price_brl": 1011.19,
+          "price_brl": 1012.21,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$298.53",
-          "price_brl": 1849.36,
+          "price_brl": 1851.21,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$406.79",
-          "price_brl": 2520.02,
+          "price_brl": 2522.55,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
           "price_original": "$3,285.50",
-          "price_brl": 20353.34,
+          "price_brl": 20373.71,
           "quantity": 1
         },
         {
@@ -3065,7 +3065,7 @@
     {
       "name": "Erase Face",
       "price_target": 16,
-      "price_target_brl": 99.12,
+      "price_target_brl": 99.22,
       "tag": "staples",
       "records": [
         {
@@ -3145,7 +3145,7 @@
     {
       "name": "Poison the Well",
       "price_target": 5,
-      "price_target_brl": 30.97,
+      "price_target_brl": 31.01,
       "tag": "staples",
       "records": [
         {
@@ -3175,121 +3175,121 @@
         {
           "expansion": "Dusk till dawn",
           "price_original": "$14.10",
-          "price_brl": 87.35,
+          "price_brl": 87.44,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$14.49",
-          "price_brl": 89.76,
+          "price_brl": 89.85,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$15.14",
-          "price_brl": 93.79,
+          "price_brl": 93.88,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$15.62",
-          "price_brl": 96.76,
+          "price_brl": 96.86,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$16.87",
-          "price_brl": 104.51,
+          "price_brl": 104.61,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$17.31",
-          "price_brl": 107.23,
+          "price_brl": 107.34,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$17.33",
-          "price_brl": 107.36,
+          "price_brl": 107.47,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$17.40",
-          "price_brl": 107.79,
+          "price_brl": 107.9,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$17.71",
-          "price_brl": 109.71,
+          "price_brl": 109.82,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$18.04",
-          "price_brl": 111.76,
+          "price_brl": 111.87,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$19.13",
-          "price_brl": 118.51,
+          "price_brl": 118.63,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$19.14",
-          "price_brl": 118.57,
+          "price_brl": 118.69,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$21.93",
-          "price_brl": 135.85,
+          "price_brl": 135.99,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$22.50",
-          "price_brl": 139.39,
+          "price_brl": 139.52,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$24.01",
-          "price_brl": 148.74,
+          "price_brl": 148.89,
           "quantity": 4
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$24.02",
-          "price_brl": 148.8,
+          "price_brl": 148.95,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$24.09",
-          "price_brl": 149.24,
+          "price_brl": 149.38,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$27.32",
-          "price_brl": 169.24,
+          "price_brl": 169.41,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$38.98",
-          "price_brl": 241.48,
+          "price_brl": 241.72,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$68.26",
-          "price_brl": 422.86,
+          "price_brl": 423.29,
           "quantity": 2
         }
       ]
@@ -3297,7 +3297,7 @@
     {
       "name": "This Round's on Me",
       "price_target": 5,
-      "price_target_brl": 30.97,
+      "price_target_brl": 31.01,
       "tag": "other",
       "records": [
         {
@@ -3443,7 +3443,7 @@
     {
       "name": "Grandeur of Valahai",
       "price_target": 110,
-      "price_target_brl": 681.44,
+      "price_target_brl": 682.12,
       "tag": "gem",
       "records": [
         {
@@ -3499,7 +3499,7 @@
     {
       "name": "Imposing Visage",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "guardian",
       "records": [
         {
@@ -3555,7 +3555,7 @@
     {
       "name": "Swarming Gloomveil",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "runeblade",
       "records": [
         {
@@ -3665,37 +3665,37 @@
     {
       "name": "Glistening Steelblade",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "warrior",
       "records": [
         {
           "expansion": "Classic Battles: Rhinar vs Dorinthea",
           "price_original": "$15.14",
-          "price_brl": 93.79,
+          "price_brl": 93.88,
           "quantity": 1
         },
         {
           "expansion": "Classic Battles: Rhinar vs Dorinthea",
           "price_original": "$25.23",
-          "price_brl": 156.3,
+          "price_brl": 156.45,
           "quantity": 2
         },
         {
           "expansion": "Classic Battles: Rhinar vs Dorinthea",
           "price_original": "$25.73",
-          "price_brl": 159.39,
+          "price_brl": 159.55,
           "quantity": 3
         },
         {
           "expansion": "Classic Battles: Rhinar vs Dorinthea",
           "price_original": "$26.20",
-          "price_brl": 162.31,
+          "price_brl": 162.47,
           "quantity": 3
         },
         {
           "expansion": "Classic Battles: Rhinar vs Dorinthea",
           "price_original": "$28.07",
-          "price_brl": 173.89,
+          "price_brl": 174.06,
           "quantity": 8
         }
       ]
@@ -3703,7 +3703,7 @@
     {
       "name": "That All You Got?",
       "price_target": 9,
-      "price_target_brl": 55.75,
+      "price_target_brl": 55.81,
       "tag": "other",
       "records": [
         {
@@ -3747,7 +3747,7 @@
     {
       "name": "Crown of Providence",
       "price_target": 115,
-      "price_target_brl": 712.41,
+      "price_target_brl": 713.13,
       "tag": "staples",
       "records": [
         {
@@ -3801,37 +3801,37 @@
         {
           "expansion": "Dusk till dawn",
           "price_original": "$115.65",
-          "price_brl": 716.44,
+          "price_brl": 717.16,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$144.79",
-          "price_brl": 896.96,
+          "price_brl": 897.86,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$145.09",
-          "price_brl": 898.82,
+          "price_brl": 899.72,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$145.15",
-          "price_brl": 899.19,
+          "price_brl": 900.09,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$149.98",
-          "price_brl": 929.11,
+          "price_brl": 930.04,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$160.36",
-          "price_brl": 993.41,
+          "price_brl": 994.41,
           "quantity": 1
         }
       ]
@@ -3839,7 +3839,7 @@
     {
       "name": "Blood of the Dracai",
       "price_target": 20,
-      "price_target_brl": 123.9,
+      "price_target_brl": 124.02,
       "tag": "gem",
       "records": [
         {
@@ -3967,7 +3967,7 @@
     {
       "name": "Flamescale Furnace",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "draconic",
       "records": [
         {
@@ -4077,7 +4077,7 @@
     {
       "name": "Alluvion Constellas",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "wizzard",
       "records": [
         {
@@ -4175,7 +4175,7 @@
     {
       "name": "Crown of Dominion",
       "price_target": 114,
-      "price_target_brl": 706.22,
+      "price_target_brl": 706.93,
       "tag": "staples",
       "records": [
         {
@@ -4237,7 +4237,7 @@
     {
       "name": "Codex of Frailty",
       "price_target": 30,
-      "price_target_brl": 185.85,
+      "price_target_brl": 186.03,
       "tag": "staples",
       "records": [
         {
@@ -4533,7 +4533,7 @@
     {
       "name": "Amnesia",
       "price_target": 4.9,
-      "price_target_brl": 30.36,
+      "price_target_brl": 30.39,
       "tag": "staples",
       "records": [
         {
@@ -4673,7 +4673,7 @@
     {
       "name": "Concealed Blade",
       "price_target": 13,
-      "price_target_brl": 80.53,
+      "price_target_brl": 80.61,
       "tag": "ninja",
       "records": [
         {
@@ -4795,7 +4795,7 @@
     {
       "name": "Knives Out",
       "price_target": 1.7,
-      "price_target_brl": 10.53,
+      "price_target_brl": 10.54,
       "tag": "ninja",
       "records": [
         {
@@ -4893,7 +4893,7 @@
     {
       "name": "Plague Hive",
       "price_target": 39,
-      "price_target_brl": 241.6,
+      "price_target_brl": 241.84,
       "tag": "gem",
       "records": [
         {
@@ -5039,7 +5039,7 @@
     {
       "name": "Flick Knives",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "assassin/ninja",
       "records": [
         {
@@ -5347,7 +5347,7 @@
     {
       "name": "Vambrace of Determination",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "staples",
       "records": [
         {
@@ -5535,7 +5535,7 @@
     {
       "name": "Premeditate",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "ranger",
       "records": [
         {
@@ -5693,7 +5693,7 @@
     {
       "name": "Codex of Bloodrot",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "ranger",
       "records": [
         {
@@ -5797,145 +5797,145 @@
     {
       "name": "Censor",
       "price_target": 9,
-      "price_target_brl": 55.75,
+      "price_target_brl": 55.81,
       "tag": "staples",
       "records": [
         {
           "expansion": "Dusk till dawn",
           "price_original": "$20.12",
-          "price_brl": 124.64,
+          "price_brl": 124.77,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$20.18",
-          "price_brl": 125.01,
+          "price_brl": 125.14,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$21.92",
-          "price_brl": 135.79,
+          "price_brl": 135.93,
           "quantity": 6
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$22.57",
-          "price_brl": 139.82,
+          "price_brl": 139.96,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$22.81",
-          "price_brl": 141.31,
+          "price_brl": 141.45,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$22.81",
-          "price_brl": 141.31,
+          "price_brl": 141.45,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$25.22",
-          "price_brl": 156.24,
+          "price_brl": 156.39,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$28.37",
-          "price_brl": 175.75,
+          "price_brl": 175.93,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$29.27",
-          "price_brl": 181.32,
+          "price_brl": 181.51,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$30.37",
-          "price_brl": 188.14,
+          "price_brl": 188.33,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$30.46",
-          "price_brl": 188.7,
+          "price_brl": 188.89,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$31.52",
-          "price_brl": 195.26,
+          "price_brl": 195.46,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$31.54",
-          "price_brl": 195.39,
+          "price_brl": 195.58,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$32.47",
-          "price_brl": 201.15,
+          "price_brl": 201.35,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$34.53",
-          "price_brl": 213.91,
+          "price_brl": 214.12,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$35.06",
-          "price_brl": 217.19,
+          "price_brl": 217.41,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$35.58",
-          "price_brl": 220.41,
+          "price_brl": 220.64,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$40.19",
-          "price_brl": 248.97,
+          "price_brl": 249.22,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$42.17",
-          "price_brl": 261.24,
+          "price_brl": 261.5,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$42.88",
-          "price_brl": 265.64,
+          "price_brl": 265.9,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$44.67",
-          "price_brl": 276.73,
+          "price_brl": 277,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$51.14",
-          "price_brl": 316.81,
+          "price_brl": 317.12,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$68.26",
-          "price_brl": 422.86,
+          "price_brl": 423.29,
           "quantity": 1
         }
       ]
@@ -5943,121 +5943,121 @@
     {
       "name": "Warmonger's Diplomacy",
       "price_target": 25,
-      "price_target_brl": 154.87,
+      "price_target_brl": 155.03,
       "tag": "staples",
       "records": [
         {
           "expansion": "Dusk till dawn",
           "price_original": "$34.23",
-          "price_brl": 212.05,
+          "price_brl": 212.26,
           "quantity": 6
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$38.94",
-          "price_brl": 241.23,
+          "price_brl": 241.47,
           "quantity": 6
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$40.21",
-          "price_brl": 249.1,
+          "price_brl": 249.35,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$41.06",
-          "price_brl": 254.36,
+          "price_brl": 254.62,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$42.17",
-          "price_brl": 261.24,
+          "price_brl": 261.5,
           "quantity": 6
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$42.26",
-          "price_brl": 261.8,
+          "price_brl": 262.06,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$43.82",
-          "price_brl": 271.46,
+          "price_brl": 271.73,
           "quantity": 6
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$44.05",
-          "price_brl": 272.89,
+          "price_brl": 273.16,
           "quantity": 4
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$44.51",
-          "price_brl": 275.73,
+          "price_brl": 276.01,
           "quantity": 11
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$54.62",
-          "price_brl": 338.37,
+          "price_brl": 338.7,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$58.92",
-          "price_brl": 365,
+          "price_brl": 365.37,
           "quantity": 7
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$61.52",
-          "price_brl": 381.11,
+          "price_brl": 381.49,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$61.65",
-          "price_brl": 381.92,
+          "price_brl": 382.3,
           "quantity": 7
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$64.62",
-          "price_brl": 400.31,
+          "price_brl": 400.72,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$88.48",
-          "price_brl": 548.12,
+          "price_brl": 548.67,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$108.71",
-          "price_brl": 673.45,
+          "price_brl": 674.12,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$122.18",
-          "price_brl": 756.89,
+          "price_brl": 757.65,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$149.14",
-          "price_brl": 923.91,
+          "price_brl": 924.83,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$155.88",
-          "price_brl": 965.66,
+          "price_brl": 966.63,
           "quantity": 1
         },
         {
@@ -6161,73 +6161,73 @@
     {
       "name": "Light of Sol",
       "price_target": 80,
-      "price_target_brl": 495.59,
+      "price_target_brl": 496.09,
       "tag": "gem",
       "records": [
         {
           "expansion": "Dusk till dawn",
           "price_original": "$88.47",
-          "price_brl": 548.06,
+          "price_brl": 548.61,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$118.12",
-          "price_brl": 731.74,
+          "price_brl": 732.47,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$130.65",
-          "price_brl": 809.36,
+          "price_brl": 810.17,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$130.65",
-          "price_brl": 809.36,
+          "price_brl": 810.17,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$162.62",
-          "price_brl": 1007.41,
+          "price_brl": 1008.42,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$171.82",
-          "price_brl": 1064.41,
+          "price_brl": 1065.47,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$176.10",
-          "price_brl": 1090.92,
+          "price_brl": 1092.01,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$176.19",
-          "price_brl": 1091.48,
+          "price_brl": 1092.57,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$204.04",
-          "price_brl": 1264.01,
+          "price_brl": 1265.27,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$230.02",
-          "price_brl": 1424.95,
+          "price_brl": 1426.38,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$415.67",
-          "price_brl": 2575.03,
+          "price_brl": 2577.61,
           "quantity": 1
         }
       ]
@@ -6235,109 +6235,109 @@
     {
       "name": "Dyadic Carapace",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "runeblade",
       "records": [
         {
           "expansion": "Dusk till dawn",
           "price_original": "$32.89",
-          "price_brl": 203.75,
+          "price_brl": 203.95,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$44.41",
-          "price_brl": 275.12,
+          "price_brl": 275.39,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$46.53",
-          "price_brl": 288.25,
+          "price_brl": 288.54,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$57.80",
-          "price_brl": 358.07,
+          "price_brl": 358.42,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$59.79",
-          "price_brl": 370.39,
+          "price_brl": 370.76,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$61.74",
-          "price_brl": 382.47,
+          "price_brl": 382.86,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$67.75",
-          "price_brl": 419.7,
+          "price_brl": 420.12,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$68.26",
-          "price_brl": 422.86,
+          "price_brl": 423.29,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$68.26",
-          "price_brl": 422.86,
+          "price_brl": 423.29,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$108.71",
-          "price_brl": 673.45,
+          "price_brl": 674.12,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$108.71",
-          "price_brl": 673.45,
+          "price_brl": 674.12,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$125.65",
-          "price_brl": 778.39,
+          "price_brl": 779.17,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$141.08",
-          "price_brl": 873.98,
+          "price_brl": 874.85,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$141.88",
-          "price_brl": 878.93,
+          "price_brl": 879.81,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$149.14",
-          "price_brl": 923.91,
+          "price_brl": 924.83,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$162.62",
-          "price_brl": 1007.41,
+          "price_brl": 1008.42,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$166.47",
-          "price_brl": 1031.27,
+          "price_brl": 1032.3,
           "quantity": 1
         }
       ]
@@ -6345,79 +6345,79 @@
     {
       "name": "Hold the Line",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "other",
       "records": [
         {
           "expansion": "Dusk till dawn",
           "price_original": "$8.94",
-          "price_brl": 55.38,
+          "price_brl": 55.44,
           "quantity": 4
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$10.07",
-          "price_brl": 62.38,
+          "price_brl": 62.45,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$13.47",
-          "price_brl": 83.45,
+          "price_brl": 83.53,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$15.77",
-          "price_brl": 97.69,
+          "price_brl": 97.79,
           "quantity": 6
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$15.77",
-          "price_brl": 97.69,
+          "price_brl": 97.79,
           "quantity": 6
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$23.28",
-          "price_brl": 144.22,
+          "price_brl": 144.36,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$32.33",
-          "price_brl": 200.28,
+          "price_brl": 200.48,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$33.59",
-          "price_brl": 208.09,
+          "price_brl": 208.29,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$34.24",
-          "price_brl": 212.11,
+          "price_brl": 212.33,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$40.97",
-          "price_brl": 253.81,
+          "price_brl": 254.06,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$47.10",
-          "price_brl": 291.78,
+          "price_brl": 292.07,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
           "price_original": "$68.26",
-          "price_brl": 422.86,
+          "price_brl": 423.29,
           "quantity": 3
         }
       ]
@@ -6425,7 +6425,7 @@
     {
       "name": "Wax Off",
       "price_target": 2.5,
-      "price_target_brl": 15.49,
+      "price_target_brl": 15.5,
       "tag": "ninja",
       "records": [
         {
@@ -6437,163 +6437,163 @@
         {
           "expansion": "Bright Lights",
           "price_original": "$1.25",
-          "price_brl": 7.74,
+          "price_brl": 7.75,
           "quantity": 2
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$1.25",
-          "price_brl": 7.74,
+          "price_brl": 7.75,
           "quantity": 3
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$1.27",
-          "price_brl": 7.87,
+          "price_brl": 7.88,
           "quantity": 2
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$1.77",
-          "price_brl": 10.96,
+          "price_brl": 10.98,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$2.01",
-          "price_brl": 12.45,
+          "price_brl": 12.46,
           "quantity": 2
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$2.17",
-          "price_brl": 13.44,
+          "price_brl": 13.46,
           "quantity": 3
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$2.17",
-          "price_brl": 13.44,
+          "price_brl": 13.46,
           "quantity": 2
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$2.82",
-          "price_brl": 17.47,
+          "price_brl": 17.49,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$2.96",
-          "price_brl": 18.34,
+          "price_brl": 18.36,
           "quantity": 14
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$3.12",
-          "price_brl": 19.33,
+          "price_brl": 19.35,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$3.67",
-          "price_brl": 22.74,
+          "price_brl": 22.76,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$3.70",
-          "price_brl": 22.92,
+          "price_brl": 22.94,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$4.17",
-          "price_brl": 25.83,
+          "price_brl": 25.86,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$4.29",
-          "price_brl": 26.58,
+          "price_brl": 26.6,
           "quantity": 2
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$4.29",
-          "price_brl": 26.58,
+          "price_brl": 26.6,
           "quantity": 3
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$4.62",
-          "price_brl": 28.62,
+          "price_brl": 28.65,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$5.57",
-          "price_brl": 34.51,
+          "price_brl": 34.54,
           "quantity": 5
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$5.64",
-          "price_brl": 34.94,
+          "price_brl": 34.97,
           "quantity": 2
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$5.96",
-          "price_brl": 36.92,
+          "price_brl": 36.96,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$6.69",
-          "price_brl": 41.44,
+          "price_brl": 41.49,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$6.89",
-          "price_brl": 42.68,
+          "price_brl": 42.73,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$7.59",
-          "price_brl": 47.02,
+          "price_brl": 47.07,
           "quantity": 2
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$14.25",
-          "price_brl": 88.28,
+          "price_brl": 88.37,
           "quantity": 2
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$16.46",
-          "price_brl": 101.97,
+          "price_brl": 102.07,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$19.66",
-          "price_brl": 121.79,
+          "price_brl": 121.91,
           "quantity": 3
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$20.50",
-          "price_brl": 127,
+          "price_brl": 127.12,
           "quantity": 3
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$28.46",
-          "price_brl": 176.31,
+          "price_brl": 176.48,
           "quantity": 1
         }
       ]
@@ -6601,121 +6601,121 @@
     {
       "name": "Master Cog",
       "price_target": 45,
-      "price_target_brl": 278.77,
+      "price_target_brl": 279.05,
       "tag": "gem",
       "records": [
         {
           "expansion": "Bright Lights",
           "price_original": "$54.45",
-          "price_brl": 337.31,
+          "price_brl": 337.65,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$60.50",
-          "price_brl": 374.79,
+          "price_brl": 375.17,
           "quantity": 2
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$74.58",
-          "price_brl": 462.02,
+          "price_brl": 462.48,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$76.30",
-          "price_brl": 472.67,
+          "price_brl": 473.14,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$77.92",
-          "price_brl": 482.71,
+          "price_brl": 483.19,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$83.01",
-          "price_brl": 514.24,
+          "price_brl": 514.75,
           "quantity": 2
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$88.69",
-          "price_brl": 549.43,
+          "price_brl": 549.98,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$101.04",
-          "price_brl": 625.93,
+          "price_brl": 626.56,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$107.35",
-          "price_brl": 665.02,
+          "price_brl": 665.69,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$111.40",
-          "price_brl": 690.11,
+          "price_brl": 690.8,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$115.44",
-          "price_brl": 715.14,
+          "price_brl": 715.85,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$120.44",
-          "price_brl": 746.11,
+          "price_brl": 746.86,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$121.26",
-          "price_brl": 751.19,
+          "price_brl": 751.95,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$130.65",
-          "price_brl": 809.36,
+          "price_brl": 810.17,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$130.65",
-          "price_brl": 809.36,
+          "price_brl": 810.17,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$155.27",
-          "price_brl": 961.88,
+          "price_brl": 962.84,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$166.78",
-          "price_brl": 1033.19,
+          "price_brl": 1034.22,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$175.66",
-          "price_brl": 1088.2,
+          "price_brl": 1089.29,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
           "price_original": "$323.46",
-          "price_brl": 2003.8,
+          "price_brl": 2005.81,
           "quantity": 1
         }
       ]
@@ -6723,7 +6723,7 @@
     {
       "name": "Nasty Surprise",
       "price_target": 1.7,
-      "price_target_brl": 10.53,
+      "price_target_brl": 10.54,
       "tag": "other",
       "records": [
         {
@@ -6863,7 +6863,7 @@
     {
       "name": "Deathmatch Arena",
       "price_target": 110,
-      "price_target_brl": 681.44,
+      "price_target_brl": 682.12,
       "tag": "landmark",
       "records": [
         {
@@ -6889,7 +6889,7 @@
     {
       "name": "Tenacity",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "staples",
       "records": [
         {
@@ -7029,7 +7029,7 @@
     {
       "name": "Balance of Justice",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "staples",
       "records": [
         {
@@ -7103,7 +7103,7 @@
     {
       "name": "Grains of Bloodspill",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "warrior",
       "records": [
         {
@@ -7135,7 +7135,7 @@
     {
       "name": "Blade Flurry",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "warrior",
       "records": [
         {
@@ -7203,7 +7203,7 @@
     {
       "name": "The Weakest Link",
       "price_target": 32,
-      "price_target_brl": 198.24,
+      "price_target_brl": 198.44,
       "tag": "staples",
       "records": [
         {
@@ -7289,7 +7289,7 @@
     {
       "name": "Mistcloak Gully // Inner Chi",
       "price_target": 15,
-      "price_target_brl": 92.92,
+      "price_target_brl": 93.02,
       "tag": "landmark",
       "records": [
         {
@@ -7417,7 +7417,7 @@
     {
       "name": "Levels of Enlightenment",
       "price_target": 5.6,
-      "price_target_brl": 34.69,
+      "price_target_brl": 34.73,
       "tag": "ll",
       "records": [
         {
@@ -7593,7 +7593,7 @@
     {
       "name": "Traverse the Universe",
       "price_target": 16,
-      "price_target_brl": 99.12,
+      "price_target_brl": 99.22,
       "tag": "ll",
       "records": [
         {
@@ -7667,7 +7667,7 @@
     {
       "name": "Mask of Recurring Nightmares",
       "price_target": 6.4,
-      "price_target_brl": 39.65,
+      "price_target_brl": 39.69,
       "tag": "ll",
       "records": [
         {
@@ -7759,7 +7759,7 @@
     {
       "name": "Twelve Petal Kasaya",
       "price_target": 6.4,
-      "price_target_brl": 39.65,
+      "price_target_brl": 39.69,
       "tag": "ll",
       "records": [
         {
@@ -7923,7 +7923,7 @@
     {
       "name": "Persuasive Prognosis",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "assassin",
       "records": [
         {
@@ -7961,7 +7961,7 @@
     {
       "name": "Bonds of Agony",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "assassin",
       "records": [
         {
@@ -8107,7 +8107,7 @@
     {
       "name": "Stonewall Gauntlet",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "staples",
       "records": [
         {
@@ -8193,55 +8193,55 @@
     {
       "name": "Will of Arcana",
       "price_target": 47,
-      "price_target_brl": 291.16,
+      "price_target_brl": 291.45,
       "tag": "gem",
       "records": [
         {
           "expansion": "Rosetta",
           "price_original": "$55.65",
-          "price_brl": 344.75,
+          "price_brl": 345.09,
           "quantity": 1
         },
         {
           "expansion": "Rosetta",
           "price_original": "$75.71",
-          "price_brl": 469.02,
+          "price_brl": 469.49,
           "quantity": 1
         },
         {
           "expansion": "Rosetta",
           "price_original": "$75.74",
-          "price_brl": 469.2,
+          "price_brl": 469.67,
           "quantity": 1
         },
         {
           "expansion": "Rosetta",
           "price_original": "$120.76",
-          "price_brl": 748.1,
+          "price_brl": 748.84,
           "quantity": 1
         },
         {
           "expansion": "Rosetta",
           "price_original": "$124.43",
-          "price_brl": 770.83,
+          "price_brl": 771.6,
           "quantity": 1
         },
         {
           "expansion": "Rosetta",
           "price_original": "$135.59",
-          "price_brl": 839.97,
+          "price_brl": 840.81,
           "quantity": 1
         },
         {
           "expansion": "Rosetta",
           "price_original": "$149.14",
-          "price_brl": 923.91,
+          "price_brl": 924.83,
           "quantity": 1
         },
         {
           "expansion": "Rosetta",
           "price_original": "$162.54",
-          "price_brl": 1006.92,
+          "price_brl": 1007.93,
           "quantity": 1
         }
       ]
@@ -8249,19 +8249,19 @@
     {
       "name": "Unsheathed",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "warrior",
       "records": [
         {
           "expansion": "Rosetta",
           "price_original": "$37.51",
-          "price_brl": 232.37,
+          "price_brl": 232.6,
           "quantity": 3
         },
         {
           "expansion": "Rosetta",
           "price_original": "$54.38",
-          "price_brl": 336.88,
+          "price_brl": 337.22,
           "quantity": 2
         }
       ]
@@ -8269,67 +8269,67 @@
     {
       "name": "Face Purgatory",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "runeblade",
       "records": [
         {
           "expansion": "Rosetta",
           "price_original": "$142.32",
-          "price_brl": 881.66,
+          "price_brl": 882.54,
           "quantity": 1
         },
         {
           "expansion": "Rosetta",
           "price_original": "$149.05",
-          "price_brl": 923.35,
+          "price_brl": 924.27,
           "quantity": 4
         },
         {
           "expansion": "Rosetta",
           "price_original": "$161.64",
-          "price_brl": 1001.34,
+          "price_brl": 1002.35,
           "quantity": 1
         },
         {
           "expansion": "Rosetta",
           "price_original": "$203.06",
-          "price_brl": 1257.94,
+          "price_brl": 1259.2,
           "quantity": 1
         },
         {
           "expansion": "Rosetta",
           "price_original": "$44.86",
-          "price_brl": 277.9,
+          "price_brl": 278.18,
           "quantity": 3
         },
         {
           "expansion": "Rosetta",
           "price_original": "$56.71",
-          "price_brl": 351.31,
+          "price_brl": 351.66,
           "quantity": 1
         },
         {
           "expansion": "Rosetta",
           "price_original": "$60.24",
-          "price_brl": 373.18,
+          "price_brl": 373.55,
           "quantity": 2
         },
         {
           "expansion": "Rosetta",
           "price_original": "$64.32",
-          "price_brl": 398.46,
+          "price_brl": 398.85,
           "quantity": 2
         },
         {
           "expansion": "Rosetta",
           "price_original": "$66.16",
-          "price_brl": 409.85,
+          "price_brl": 410.26,
           "quantity": 1
         },
         {
           "expansion": "Rosetta",
           "price_original": "$66.16",
-          "price_brl": 409.85,
+          "price_brl": 410.26,
           "quantity": 1
         }
       ]
@@ -8337,61 +8337,61 @@
     {
       "name": "Lightning Greaves",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "lightning",
       "records": [
         {
           "expansion": "Rosetta",
           "price_original": "$34.37",
-          "price_brl": 212.92,
+          "price_brl": 213.13,
           "quantity": 1
         },
         {
           "expansion": "Rosetta",
           "price_original": "$35.09",
-          "price_brl": 217.38,
+          "price_brl": 217.6,
           "quantity": 1
         },
         {
           "expansion": "Rosetta",
           "price_original": "$39.64",
-          "price_brl": 245.57,
+          "price_brl": 245.81,
           "quantity": 5
         },
         {
           "expansion": "Rosetta",
           "price_original": "$47.88",
-          "price_brl": 296.61,
+          "price_brl": 296.91,
           "quantity": 1
         },
         {
           "expansion": "Rosetta",
           "price_original": "$63.01",
-          "price_brl": 390.34,
+          "price_brl": 390.73,
           "quantity": 1
         },
         {
           "expansion": "Rosetta",
           "price_original": "$64.90",
-          "price_brl": 402.05,
+          "price_brl": 402.45,
           "quantity": 1
         },
         {
           "expansion": "Rosetta",
           "price_original": "$65.47",
-          "price_brl": 405.58,
+          "price_brl": 405.99,
           "quantity": 1
         },
         {
           "expansion": "Rosetta",
           "price_original": "$67.91",
-          "price_brl": 420.7,
+          "price_brl": 421.12,
           "quantity": 1
         },
         {
           "expansion": "Rosetta",
           "price_original": "$79.02",
-          "price_brl": 489.52,
+          "price_brl": 490.01,
           "quantity": 1
         }
       ]
@@ -8399,169 +8399,169 @@
     {
       "name": "Shelter from the Storm",
       "price_target": 73,
-      "price_target_brl": 452.23,
+      "price_target_brl": 452.68,
       "tag": "staples",
       "records": [
         {
           "expansion": "The Hunted",
           "price_original": "$60.40",
-          "price_brl": 374.17,
+          "price_brl": 374.55,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$62.05",
-          "price_brl": 384.39,
+          "price_brl": 384.78,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$64.75",
-          "price_brl": 401.12,
+          "price_brl": 401.52,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$73.02",
-          "price_brl": 452.35,
+          "price_brl": 452.8,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$73.03",
-          "price_brl": 452.41,
+          "price_brl": 452.87,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$75.59",
-          "price_brl": 468.27,
+          "price_brl": 468.74,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$79.46",
-          "price_brl": 492.25,
+          "price_brl": 492.74,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$82.85",
-          "price_brl": 513.25,
+          "price_brl": 513.76,
           "quantity": 4
         },
         {
           "expansion": "The Hunted",
           "price_original": "$83.81",
-          "price_brl": 519.19,
+          "price_brl": 519.71,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$85.36",
-          "price_brl": 528.8,
+          "price_brl": 529.33,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$85.65",
-          "price_brl": 530.59,
+          "price_brl": 531.12,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
           "price_original": "$88.59",
-          "price_brl": 548.81,
+          "price_brl": 549.36,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$94.00",
-          "price_brl": 582.32,
+          "price_brl": 582.9,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$96.28",
-          "price_brl": 596.44,
+          "price_brl": 597.04,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$100.64",
-          "price_brl": 623.45,
+          "price_brl": 624.08,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$106.31",
-          "price_brl": 658.58,
+          "price_brl": 659.24,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$107.19",
-          "price_brl": 664.03,
+          "price_brl": 664.7,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$108.03",
-          "price_brl": 669.24,
+          "price_brl": 669.9,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$109.70",
-          "price_brl": 679.58,
+          "price_brl": 680.26,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$114.10",
-          "price_brl": 706.84,
+          "price_brl": 707.55,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$122.18",
-          "price_brl": 756.89,
+          "price_brl": 757.65,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
           "price_original": "$123.04",
-          "price_brl": 762.22,
+          "price_brl": 762.98,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$138.13",
-          "price_brl": 855.7,
+          "price_brl": 856.56,
           "quantity": 6
         },
         {
           "expansion": "The Hunted",
           "price_original": "$316.11",
-          "price_brl": 1958.27,
+          "price_brl": 1960.23,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$402.74",
-          "price_brl": 2494.93,
+          "price_brl": 2497.43,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$424.77",
-          "price_brl": 2631.41,
+          "price_brl": 2634.04,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$472.66",
-          "price_brl": 2928.08,
+          "price_brl": 2931.01,
           "quantity": 1
         }
       ]
@@ -8569,157 +8569,157 @@
     {
       "name": "Blood Splattered Vest",
       "price_target": 49,
-      "price_target_brl": 303.55,
+      "price_target_brl": 303.85,
       "tag": "assassin/ninja",
       "records": [
         {
           "expansion": "The Hunted",
           "price_original": "$96.03",
-          "price_brl": 594.9,
+          "price_brl": 595.49,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$100.75",
-          "price_brl": 624.14,
+          "price_brl": 624.76,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$101.49",
-          "price_brl": 628.72,
+          "price_brl": 629.35,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$107.81",
-          "price_brl": 667.87,
+          "price_brl": 668.54,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$109.54",
-          "price_brl": 678.59,
+          "price_brl": 679.27,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$117.50",
-          "price_brl": 727.9,
+          "price_brl": 728.63,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$120.81",
-          "price_brl": 748.41,
+          "price_brl": 749.15,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$121.15",
-          "price_brl": 750.51,
+          "price_brl": 751.26,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
           "price_original": "$121.51",
-          "price_brl": 752.74,
+          "price_brl": 753.5,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$122.18",
-          "price_brl": 756.89,
+          "price_brl": 757.65,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$131.32",
-          "price_brl": 813.51,
+          "price_brl": 814.33,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$42.11",
-          "price_brl": 260.87,
+          "price_brl": 261.13,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$44.24",
-          "price_brl": 274.06,
+          "price_brl": 274.34,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$48.62",
-          "price_brl": 301.2,
+          "price_brl": 301.5,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$49.74",
-          "price_brl": 308.13,
+          "price_brl": 308.44,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$53.45",
-          "price_brl": 331.12,
+          "price_brl": 331.45,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$54.53",
-          "price_brl": 337.81,
+          "price_brl": 338.15,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$55.95",
-          "price_brl": 346.6,
+          "price_brl": 346.95,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$59.21",
-          "price_brl": 366.8,
+          "price_brl": 367.17,
           "quantity": 7
         },
         {
           "expansion": "The Hunted",
           "price_original": "$67.21",
-          "price_brl": 416.36,
+          "price_brl": 416.78,
           "quantity": 5
         },
         {
           "expansion": "The Hunted",
           "price_original": "$70.95",
-          "price_brl": 439.53,
+          "price_brl": 439.97,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$75.00",
-          "price_brl": 464.62,
+          "price_brl": 465.08,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$104.54",
-          "price_brl": 647.61,
+          "price_brl": 648.26,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$121.10",
-          "price_brl": 750.2,
+          "price_brl": 750.95,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$176.09",
-          "price_brl": 1090.86,
+          "price_brl": 1091.95,
           "quantity": 1
         }
       ]
@@ -8727,151 +8727,151 @@
     {
       "name": "Dragonscaler Flight Path",
       "price_target": 49,
-      "price_target_brl": 303.55,
+      "price_target_brl": 303.85,
       "tag": "draconic",
       "records": [
         {
           "expansion": "The Hunted",
           "price_original": "$46.88",
-          "price_brl": 290.42,
+          "price_brl": 290.71,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$46.90",
-          "price_brl": 290.54,
+          "price_brl": 290.83,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$46.91",
-          "price_brl": 290.6,
+          "price_brl": 290.89,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$54.18",
-          "price_brl": 335.64,
+          "price_brl": 335.98,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$57.48",
-          "price_brl": 356.08,
+          "price_brl": 356.44,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$59.45",
-          "price_brl": 368.29,
+          "price_brl": 368.66,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
           "price_original": "$61.37",
-          "price_brl": 380.18,
+          "price_brl": 380.56,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$61.37",
-          "price_brl": 380.18,
+          "price_brl": 380.56,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$67.21",
-          "price_brl": 416.36,
+          "price_brl": 416.78,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$68.09",
-          "price_brl": 421.81,
+          "price_brl": 422.23,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$71.11",
-          "price_brl": 440.52,
+          "price_brl": 440.96,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$75.52",
-          "price_brl": 467.84,
+          "price_brl": 468.31,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$76.77",
-          "price_brl": 475.58,
+          "price_brl": 476.06,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$91.91",
-          "price_brl": 569.37,
+          "price_brl": 569.94,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$95.20",
-          "price_brl": 589.75,
+          "price_brl": 590.34,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$95.23",
-          "price_brl": 589.94,
+          "price_brl": 590.53,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$95.44",
-          "price_brl": 591.24,
+          "price_brl": 591.83,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$97.15",
-          "price_brl": 601.83,
+          "price_brl": 602.44,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$99.08",
-          "price_brl": 613.79,
+          "price_brl": 614.4,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$104.93",
-          "price_brl": 650.03,
+          "price_brl": 650.68,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$110.73",
-          "price_brl": 685.96,
+          "price_brl": 686.65,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$121.26",
-          "price_brl": 751.19,
+          "price_brl": 751.95,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$135.65",
-          "price_brl": 840.34,
+          "price_brl": 841.18,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$337.86",
-          "price_brl": 2093.01,
+          "price_brl": 2095.1,
           "quantity": 1
         }
       ]
@@ -8879,73 +8879,73 @@
     {
       "name": "Quickdodge Flexors",
       "price_target": 129,
-      "price_target_brl": 799.14,
+      "price_target_brl": 799.94,
       "tag": "staples",
       "records": [
         {
           "expansion": "The Hunted",
           "price_original": "$120.65",
-          "price_brl": 747.41,
+          "price_brl": 748.16,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$145.74",
-          "price_brl": 902.84,
+          "price_brl": 903.75,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$155.15",
-          "price_brl": 961.14,
+          "price_brl": 962.1,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$158.48",
-          "price_brl": 981.77,
+          "price_brl": 982.75,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
           "price_original": "$162.13",
-          "price_brl": 1004.38,
+          "price_brl": 1005.38,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$171.75",
-          "price_brl": 1063.97,
+          "price_brl": 1065.04,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$174.37",
-          "price_brl": 1080.2,
+          "price_brl": 1081.29,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$196.53",
-          "price_brl": 1217.48,
+          "price_brl": 1218.7,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$203.05",
-          "price_brl": 1257.87,
+          "price_brl": 1259.13,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$242.79",
-          "price_brl": 1504.06,
+          "price_brl": 1505.57,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$243.50",
-          "price_brl": 1508.46,
+          "price_brl": 1509.97,
           "quantity": 1
         }
       ]
@@ -8953,49 +8953,49 @@
     {
       "name": "Pain in the Backside",
       "price_target": 16,
-      "price_target_brl": 99.12,
+      "price_target_brl": 99.22,
       "tag": "ninja",
       "records": [
         {
           "expansion": "The Hunted",
           "price_original": "$32.39",
-          "price_brl": 200.65,
+          "price_brl": 200.85,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$34.88",
-          "price_brl": 216.08,
+          "price_brl": 216.29,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$38.21",
-          "price_brl": 236.71,
+          "price_brl": 236.94,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$38.21",
-          "price_brl": 236.71,
+          "price_brl": 236.94,
           "quantity": 4
         },
         {
           "expansion": "The Hunted",
           "price_original": "$42.14",
-          "price_brl": 261.05,
+          "price_brl": 261.31,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$50.48",
-          "price_brl": 312.72,
+          "price_brl": 313.03,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$53.71",
-          "price_brl": 332.73,
+          "price_brl": 333.06,
           "quantity": 2
         }
       ]
@@ -9003,127 +9003,127 @@
     {
       "name": "Throw Dagger",
       "price_target": 8.4,
-      "price_target_brl": 52.04,
+      "price_target_brl": 52.09,
       "tag": "ninja",
       "records": [
         {
           "expansion": "The Hunted",
           "price_original": "$11.67",
-          "price_brl": 72.29,
+          "price_brl": 72.37,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$13.44",
-          "price_brl": 83.26,
+          "price_brl": 83.34,
           "quantity": 5
         },
         {
           "expansion": "The Hunted",
           "price_original": "$13.44",
-          "price_brl": 83.26,
+          "price_brl": 83.34,
           "quantity": 7
         },
         {
           "expansion": "The Hunted",
           "price_original": "$15.74",
-          "price_brl": 97.51,
+          "price_brl": 97.61,
           "quantity": 4
         },
         {
           "expansion": "The Hunted",
           "price_original": "$15.87",
-          "price_brl": 98.31,
+          "price_brl": 98.41,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$16.44",
-          "price_brl": 101.84,
+          "price_brl": 101.95,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
           "price_original": "$16.44",
-          "price_brl": 101.84,
+          "price_brl": 101.95,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$16.46",
-          "price_brl": 101.97,
+          "price_brl": 102.07,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$16.74",
-          "price_brl": 103.7,
+          "price_brl": 103.81,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$16.93",
-          "price_brl": 104.88,
+          "price_brl": 104.98,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$16.97",
-          "price_brl": 105.13,
+          "price_brl": 105.23,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$17.10",
-          "price_brl": 105.93,
+          "price_brl": 106.04,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$17.61",
-          "price_brl": 109.09,
+          "price_brl": 109.2,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$17.81",
-          "price_brl": 110.33,
+          "price_brl": 110.44,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
           "price_original": "$17.88",
-          "price_brl": 110.76,
+          "price_brl": 110.88,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
           "price_original": "$19.16",
-          "price_brl": 118.69,
+          "price_brl": 118.81,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$24.23",
-          "price_brl": 150.1,
+          "price_brl": 150.25,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
           "price_original": "$26.65",
-          "price_brl": 165.09,
+          "price_brl": 165.26,
           "quantity": 6
         },
         {
           "expansion": "The Hunted",
           "price_original": "$28.20",
-          "price_brl": 174.7,
+          "price_brl": 174.87,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
           "price_original": "$6,678.07",
-          "price_brl": 41369.98,
+          "price_brl": 41411.38,
           "quantity": 1
         }
       ]
@@ -9131,67 +9131,67 @@
     {
       "name": "Dual Threat",
       "price_target": 3.25,
-      "price_target_brl": 20.13,
+      "price_target_brl": 20.15,
       "tag": "ninja",
       "records": [
         {
           "expansion": "The Hunted",
           "price_original": "$8.26",
-          "price_brl": 51.17,
+          "price_brl": 51.22,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$9.45",
-          "price_brl": 58.54,
+          "price_brl": 58.6,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$9.53",
-          "price_brl": 59.04,
+          "price_brl": 59.1,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$12.11",
-          "price_brl": 75.02,
+          "price_brl": 75.1,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
           "price_original": "$14.50",
-          "price_brl": 89.83,
+          "price_brl": 89.92,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$16.46",
-          "price_brl": 101.97,
+          "price_brl": 102.07,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$16.46",
-          "price_brl": 101.97,
+          "price_brl": 102.07,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
           "price_original": "$20.10",
-          "price_brl": 124.52,
+          "price_brl": 124.64,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
           "price_original": "$20.50",
-          "price_brl": 127,
+          "price_brl": 127.12,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$24.25",
-          "price_brl": 150.23,
+          "price_brl": 150.38,
           "quantity": 3
         }
       ]
@@ -9199,139 +9199,139 @@
     {
       "name": "Schism of Chaos",
       "price_target": 32,
-      "price_target_brl": 198.24,
+      "price_target_brl": 198.44,
       "tag": "gem",
       "records": [
         {
           "expansion": "The Hunted",
           "price_original": "$31.86",
-          "price_brl": 197.37,
+          "price_brl": 197.57,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$34.99",
-          "price_brl": 216.76,
+          "price_brl": 216.98,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$35.47",
-          "price_brl": 219.73,
+          "price_brl": 219.95,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$35.88",
-          "price_brl": 222.27,
+          "price_brl": 222.5,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$35.95",
-          "price_brl": 222.71,
+          "price_brl": 222.93,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$39.51",
-          "price_brl": 244.76,
+          "price_brl": 245.01,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$39.51",
-          "price_brl": 244.76,
+          "price_brl": 245.01,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$39.63",
-          "price_brl": 245.5,
+          "price_brl": 245.75,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$51.52",
-          "price_brl": 319.16,
+          "price_brl": 319.48,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$54.66",
-          "price_brl": 338.61,
+          "price_brl": 338.95,
           "quantity": 5
         },
         {
           "expansion": "The Hunted",
           "price_original": "$56.26",
-          "price_brl": 348.53,
+          "price_brl": 348.87,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$58.51",
-          "price_brl": 362.46,
+          "price_brl": 362.83,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$68.26",
-          "price_brl": 422.86,
+          "price_brl": 423.29,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$79.64",
-          "price_brl": 493.36,
+          "price_brl": 493.86,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$81.42",
-          "price_brl": 504.39,
+          "price_brl": 504.89,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$90.65",
-          "price_brl": 561.57,
+          "price_brl": 562.13,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$95.87",
-          "price_brl": 593.91,
+          "price_brl": 594.5,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$105.60",
-          "price_brl": 654.18,
+          "price_brl": 654.84,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$107.78",
-          "price_brl": 667.69,
+          "price_brl": 668.35,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$108.69",
-          "price_brl": 673.32,
+          "price_brl": 674,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$118.10",
-          "price_brl": 731.62,
+          "price_brl": 732.35,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$122.18",
-          "price_brl": 756.89,
+          "price_brl": 757.65,
           "quantity": 1
         }
       ]
@@ -9339,163 +9339,163 @@
     {
       "name": "Take Up the Mantle",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "assassin",
       "records": [
         {
           "expansion": "The Hunted",
           "price_original": "$2.91",
-          "price_brl": 18.03,
+          "price_brl": 18.05,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$3.14",
-          "price_brl": 19.45,
+          "price_brl": 19.47,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$3.16",
-          "price_brl": 19.58,
+          "price_brl": 19.6,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$3.16",
-          "price_brl": 19.58,
+          "price_brl": 19.6,
           "quantity": 9
         },
         {
           "expansion": "The Hunted",
           "price_original": "$3.20",
-          "price_brl": 19.82,
+          "price_brl": 19.84,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$3.50",
-          "price_brl": 21.68,
+          "price_brl": 21.7,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$3.61",
-          "price_brl": 22.36,
+          "price_brl": 22.39,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$3.66",
-          "price_brl": 22.67,
+          "price_brl": 22.7,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$3.70",
-          "price_brl": 22.92,
+          "price_brl": 22.94,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$3.90",
-          "price_brl": 24.16,
+          "price_brl": 24.18,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$3.91",
-          "price_brl": 24.22,
+          "price_brl": 24.25,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$4.29",
-          "price_brl": 26.58,
+          "price_brl": 26.6,
           "quantity": 13
         },
         {
           "expansion": "The Hunted",
           "price_original": "$5.12",
-          "price_brl": 31.72,
+          "price_brl": 31.75,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$5.23",
-          "price_brl": 32.4,
+          "price_brl": 32.43,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$5.54",
-          "price_brl": 34.32,
+          "price_brl": 34.35,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$5.92",
-          "price_brl": 36.67,
+          "price_brl": 36.71,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$5.92",
-          "price_brl": 36.67,
+          "price_brl": 36.71,
           "quantity": 4
         },
         {
           "expansion": "The Hunted",
           "price_original": "$6.89",
-          "price_brl": 42.68,
+          "price_brl": 42.73,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
           "price_original": "$7.07",
-          "price_brl": 43.8,
+          "price_brl": 43.84,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$7.41",
-          "price_brl": 45.9,
+          "price_brl": 45.95,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
           "price_original": "$8.01",
-          "price_brl": 49.62,
+          "price_brl": 49.67,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$8.48",
-          "price_brl": 52.53,
+          "price_brl": 52.59,
           "quantity": 6
         },
         {
           "expansion": "The Hunted",
           "price_original": "$10.71",
-          "price_brl": 66.35,
+          "price_brl": 66.41,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
           "price_original": "$13.68",
-          "price_brl": 84.75,
+          "price_brl": 84.83,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$15.11",
-          "price_brl": 93.6,
+          "price_brl": 93.7,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$16.08",
-          "price_brl": 99.61,
+          "price_brl": 99.71,
           "quantity": 3
         },
         {
@@ -9509,205 +9509,205 @@
     {
       "name": "Oath of Loyalty",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "draconic",
       "records": [
         {
           "expansion": "The Hunted",
           "price_original": "$13.84",
-          "price_brl": 85.74,
+          "price_brl": 85.82,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$16.10",
-          "price_brl": 99.74,
+          "price_brl": 99.84,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$16.46",
-          "price_brl": 101.97,
+          "price_brl": 102.07,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$16.84",
-          "price_brl": 104.32,
+          "price_brl": 104.43,
           "quantity": 5
         },
         {
           "expansion": "The Hunted",
           "price_original": "$17.12",
-          "price_brl": 106.06,
+          "price_brl": 106.16,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$17.13",
-          "price_brl": 106.12,
+          "price_brl": 106.22,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$17.28",
-          "price_brl": 107.05,
+          "price_brl": 107.16,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$17.29",
-          "price_brl": 107.11,
+          "price_brl": 107.22,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$17.47",
-          "price_brl": 108.22,
+          "price_brl": 108.33,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$17.67",
-          "price_brl": 109.46,
+          "price_brl": 109.57,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$17.74",
-          "price_brl": 109.9,
+          "price_brl": 110.01,
           "quantity": 10
         },
         {
           "expansion": "The Hunted",
           "price_original": "$17.74",
-          "price_brl": 109.9,
+          "price_brl": 110.01,
           "quantity": 5
         },
         {
           "expansion": "The Hunted",
           "price_original": "$18.52",
-          "price_brl": 114.73,
+          "price_brl": 114.84,
           "quantity": 7
         },
         {
           "expansion": "The Hunted",
           "price_original": "$18.71",
-          "price_brl": 115.91,
+          "price_brl": 116.02,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$18.71",
-          "price_brl": 115.91,
+          "price_brl": 116.02,
           "quantity": 5
         },
         {
           "expansion": "The Hunted",
           "price_original": "$21.36",
-          "price_brl": 132.32,
+          "price_brl": 132.46,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$21.83",
-          "price_brl": 135.23,
+          "price_brl": 135.37,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$25.24",
-          "price_brl": 156.36,
+          "price_brl": 156.52,
           "quantity": 4
         },
         {
           "expansion": "The Hunted",
           "price_original": "$31.95",
-          "price_brl": 197.93,
+          "price_brl": 198.13,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
           "price_original": "$34.94",
-          "price_brl": 216.45,
+          "price_brl": 216.67,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
           "price_original": "$40.04",
-          "price_brl": 248.04,
+          "price_brl": 248.29,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
           "price_original": "$44.53",
-          "price_brl": 275.86,
+          "price_brl": 276.13,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
           "price_original": "$60.74",
-          "price_brl": 376.28,
+          "price_brl": 376.65,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$85.28",
-          "price_brl": 528.3,
+          "price_brl": 528.83,
           "quantity": 7
         },
         {
           "expansion": "The Hunted",
           "price_original": "$67.75",
-          "price_brl": 419.7,
+          "price_brl": 420.12,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
           "price_original": "$83.82",
-          "price_brl": 519.26,
+          "price_brl": 519.78,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$85.28",
-          "price_brl": 528.3,
+          "price_brl": 528.83,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
           "price_original": "$90.39",
-          "price_brl": 559.96,
+          "price_brl": 560.52,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$91.19",
-          "price_brl": 564.91,
+          "price_brl": 565.48,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$91.55",
-          "price_brl": 567.14,
+          "price_brl": 567.71,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$94.21",
-          "price_brl": 583.62,
+          "price_brl": 584.21,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$114.53",
-          "price_brl": 709.5,
+          "price_brl": 710.21,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
           "price_original": "$122.18",
-          "price_brl": 756.89,
+          "price_brl": 757.65,
           "quantity": 1
         }
       ]
@@ -9715,109 +9715,109 @@
     {
       "name": "Kabuto of Imperial Authority",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "warrior",
       "records": [
         {
           "expansion": "The Hunted",
           "price_original": "$52.64",
-          "price_brl": 326.1,
+          "price_brl": 326.43,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$54.77",
-          "price_brl": 339.29,
+          "price_brl": 339.63,
           "quantity": 4
         },
         {
           "expansion": "The Hunted",
           "price_original": "$55.30",
-          "price_brl": 342.58,
+          "price_brl": 342.92,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$60.75",
-          "price_brl": 376.34,
+          "price_brl": 376.72,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$61.09",
-          "price_brl": 378.45,
+          "price_brl": 378.83,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$63.01",
-          "price_brl": 390.34,
+          "price_brl": 390.73,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$65.07",
-          "price_brl": 403.1,
+          "price_brl": 403.51,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$68.26",
-          "price_brl": 422.86,
+          "price_brl": 423.29,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$115.71",
-          "price_brl": 716.81,
+          "price_brl": 717.53,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$126.65",
-          "price_brl": 784.58,
+          "price_brl": 785.37,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$23.58",
-          "price_brl": 146.08,
+          "price_brl": 146.22,
           "quantity": 8
         },
         {
           "expansion": "The Hunted",
           "price_original": "$24.57",
-          "price_brl": 152.21,
+          "price_brl": 152.36,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$25.47",
-          "price_brl": 157.78,
+          "price_brl": 157.94,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$25.99",
-          "price_brl": 161.01,
+          "price_brl": 161.17,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$27.87",
-          "price_brl": 172.65,
+          "price_brl": 172.82,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$61.79",
-          "price_brl": 382.78,
+          "price_brl": 383.17,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$67.35",
-          "price_brl": 417.23,
+          "price_brl": 417.64,
           "quantity": 1
         }
       ]
@@ -9825,49 +9825,49 @@
     {
       "name": "Savor Bloodshed",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "assassin/warrior",
       "records": [
         {
           "expansion": "The Hunted",
           "price_original": "$35.37",
-          "price_brl": 219.11,
+          "price_brl": 219.33,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
           "price_original": "$36.85",
-          "price_brl": 228.28,
+          "price_brl": 228.51,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$36.87",
-          "price_brl": 228.41,
+          "price_brl": 228.63,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$43.83",
-          "price_brl": 271.52,
+          "price_brl": 271.79,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
           "price_original": "$45.72",
-          "price_brl": 283.23,
+          "price_brl": 283.51,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$46.51",
-          "price_brl": 288.12,
+          "price_brl": 288.41,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$50.75",
-          "price_brl": 314.39,
+          "price_brl": 314.71,
           "quantity": 1
         }
       ]
@@ -9875,7 +9875,7 @@
     {
       "name": "Arcane Compliance",
       "price_target": 6.5,
-      "price_target_brl": 40.27,
+      "price_target_brl": 40.31,
       "tag": "staples",
       "records": [
         {
@@ -10111,7 +10111,7 @@
     {
       "name": "Riches of Trōpal-Dhani",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "gem",
       "records": [
         {
@@ -10137,7 +10137,7 @@
     {
       "name": "Fearless Confrontation",
       "price_target": 17,
-      "price_target_brl": 105.31,
+      "price_target_brl": 105.42,
       "tag": "other",
       "records": [
         {
@@ -10193,7 +10193,7 @@
     {
       "name": "Call for Backup",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "other",
       "records": [
         {
@@ -10267,7 +10267,7 @@
     {
       "name": "Base of the Mountain",
       "price_target": 1,
-      "price_target_brl": 6.19,
+      "price_target_brl": 6.2,
       "tag": "other",
       "records": [
         {
@@ -10347,7 +10347,7 @@
     {
       "name": "Overcrowded",
       "price_target": 6.5,
-      "price_target_brl": 40.27,
+      "price_target_brl": 40.31,
       "tag": "other",
       "records": [
         {
@@ -10469,7 +10469,7 @@
     {
       "name": "Cutting Retort",
       "price_target": 1.7,
-      "price_target_brl": 10.53,
+      "price_target_brl": 10.54,
       "tag": "other",
       "records": [
         {
@@ -10651,7 +10651,7 @@
     {
       "name": "Authority of Ataya",
       "price_target": 170,
-      "price_target_brl": 1053.13,
+      "price_target_brl": 1054.19,
       "tag": "gem",
       "records": [
         {
@@ -10702,6 +10702,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-01-29T11:12:01",
-  "euro_rate": 6.1949
+  "datetime_utc_minus3": "2026-01-29T12:07:22",
+  "euro_rate": 6.2011
 }
