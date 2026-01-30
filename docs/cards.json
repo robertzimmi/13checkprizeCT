@@ -10124,8 +10124,14 @@
         },
         {
           "expansion": "Armory Deck: Arakni",
-          "price_original": "R$56.87",
-          "price_brl": 56.87,
+          "price_original": "$2.84",
+          "price_brl": 17.67,
+          "quantity": 2
+        },
+        {
+          "expansion": "Armory Deck: Arakni",
+          "price_original": "$10.35",
+          "price_brl": 64.41,
           "quantity": 2
         }
       ]
@@ -11368,6 +11374,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-01-30T14:38:49",
+  "datetime_utc_minus3": "2026-01-30T15:49:26",
   "euro_rate": 6.2233
 }
