@@ -280,8 +280,8 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$135.54",
-          "price_brl": 843.51,
+          "price_original": "$88.41",
+          "price_brl": 550.2,
           "quantity": 1
         },
         {
@@ -1410,8 +1410,8 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$167.29",
-          "price_brl": 1041.1,
+          "price_original": "$166.87",
+          "price_brl": 1038.48,
           "quantity": 1
         }
       ]
@@ -2232,6 +2232,12 @@
         },
         {
           "expansion": "History Pack 2 - Black Label",
+          "price_original": "$253.00",
+          "price_brl": 1574.49,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 2 - Black Label",
           "price_original": "$270.16",
           "price_brl": 1681.29,
           "quantity": 1
@@ -2288,8 +2294,8 @@
         },
         {
           "expansion": "History Pack 2 - Black Label",
-          "price_original": "$169.62",
-          "price_brl": 1055.6,
+          "price_original": "$161.57",
+          "price_brl": 1005.5,
           "quantity": 1
         }
       ]
@@ -3442,9 +3448,9 @@
         },
         {
           "expansion": "History Pack 2 - Black Label",
-          "price_original": "$18.76",
-          "price_brl": 116.75,
-          "quantity": 2
+          "price_original": "$18.74",
+          "price_brl": 116.62,
+          "quantity": 3
         },
         {
           "expansion": "History Pack 2 - Black Label",
@@ -3676,8 +3682,8 @@
         },
         {
           "expansion": "History Pack 2 - Black Label",
-          "price_original": "$22.88",
-          "price_brl": 142.39,
+          "price_original": "$22.86",
+          "price_brl": 142.26,
           "quantity": 2
         }
       ]
@@ -10306,6 +10312,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-02-02T03:06:00",
+  "datetime_utc_minus3": "2026-02-02T04:35:27",
   "euro_rate": 6.2233
 }
