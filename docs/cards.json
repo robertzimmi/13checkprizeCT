@@ -3390,32 +3390,32 @@
       "records": [
         {
           "expansion": "Classic Battles: Rhinar vs Dorinthea",
-          "price_original": "$14.95",
-          "price_brl": 92.78,
+          "price_original": "R$93.66",
+          "price_brl": 93.66,
           "quantity": 1
         },
         {
           "expansion": "Classic Battles: Rhinar vs Dorinthea",
-          "price_original": "$19.31",
-          "price_brl": 119.84,
+          "price_original": "R$120.97",
+          "price_brl": 120.97,
           "quantity": 1
         },
         {
           "expansion": "Classic Battles: Rhinar vs Dorinthea",
-          "price_original": "$25.21",
-          "price_brl": 156.45,
+          "price_original": "R$139.62",
+          "price_brl": 139.62,
           "quantity": 2
         },
         {
           "expansion": "Classic Battles: Rhinar vs Dorinthea",
-          "price_original": "$26.02",
-          "price_brl": 161.48,
+          "price_original": "R$144.67",
+          "price_brl": 144.67,
           "quantity": 3
         },
         {
           "expansion": "Classic Battles: Rhinar vs Dorinthea",
-          "price_original": "$28.13",
-          "price_brl": 174.57,
+          "price_original": "R$156.41",
+          "price_brl": 156.41,
           "quantity": 8
         }
       ]
@@ -9268,6 +9268,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-02-05T12:12:57",
+  "datetime_utc_minus3": "2026-02-05T13:09:15",
   "euro_rate": 6.2059
 }
