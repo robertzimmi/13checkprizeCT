@@ -173,6 +173,18 @@
           "price_original": "$67.78",
           "price_brl": 419.75,
           "quantity": 1
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "R$204.97",
+          "price_brl": 204.97,
+          "quantity": 9
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "R$738.04",
+          "price_brl": 738.04,
+          "quantity": 1
         }
       ]
     },
@@ -561,6 +573,12 @@
           "price_original": "R$1,288.74",
           "price_brl": 1288.74,
           "quantity": 1
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "R$766.84",
+          "price_brl": 766.84,
+          "quantity": 2
         }
       ]
     },
@@ -1023,6 +1041,12 @@
           "price_original": "R$74,074.74",
           "price_brl": 74074.74,
           "quantity": 1
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "R$417.94",
+          "price_brl": 417.94,
+          "quantity": 9
         }
       ]
     },
@@ -3732,6 +3756,18 @@
           "expansion": "Dusk till dawn",
           "price_original": "$152.23",
           "price_brl": 942.75,
+          "quantity": 1
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "R$509.75",
+          "price_brl": 509.75,
+          "quantity": 3
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "R$738.04",
+          "price_brl": 738.04,
           "quantity": 1
         }
       ]
@@ -6595,6 +6631,12 @@
           "price_original": "$363.50",
           "price_brl": 2251.12,
           "quantity": 1
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "R$840.29",
+          "price_brl": 840.29,
+          "quantity": 1
         }
       ]
     },
@@ -7595,6 +7637,18 @@
           "price_original": "R$601.48",
           "price_brl": 601.48,
           "quantity": 1
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "R$256.34",
+          "price_brl": 256.34,
+          "quantity": 4
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "R$738.04",
+          "price_brl": 738.04,
+          "quantity": 1
         }
       ]
     },
@@ -7940,6 +7994,18 @@
           "expansion": "The Hunted",
           "price_original": "R$2,597.20",
           "price_brl": 2597.2,
+          "quantity": 1
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "R$408.76",
+          "price_brl": 408.76,
+          "quantity": 6
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "R$738.04",
+          "price_brl": 738.04,
           "quantity": 1
         }
       ]
@@ -8300,6 +8366,12 @@
           "expansion": "The Hunted",
           "price_original": "R$1,344.02",
           "price_brl": 1344.02,
+          "quantity": 2
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "R$716.34",
+          "price_brl": 716.34,
           "quantity": 2
         }
       ]
@@ -8794,8 +8866,14 @@
         },
         {
           "expansion": "Armory Deck: Arakni",
-          "price_original": "R$56.70",
-          "price_brl": 56.7,
+          "price_original": "R$35.26",
+          "price_brl": 35.26,
+          "quantity": 4
+        },
+        {
+          "expansion": "Armory Deck: Arakni",
+          "price_original": "R$56.66",
+          "price_brl": 56.66,
           "quantity": 2
         }
       ]
@@ -9664,6 +9742,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-02-10T19:08:40",
+  "datetime_utc_minus3": "2026-02-10T20:10:15",
   "euro_rate": 6.1929
 }
