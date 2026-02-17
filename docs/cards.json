@@ -193,12 +193,6 @@
           "quantity": 1
         },
         {
-          "expansion": "Welcome to Rathe - Alpha",
-          "price_original": "$45.32",
-          "price_brl": 280.69,
-          "quantity": 1
-        },
-        {
           "expansion": "Compendium of Rathe",
           "price_original": "$26.92",
           "price_brl": 166.73,
@@ -334,20 +328,20 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$86.07",
-          "price_brl": 533.07,
+          "price_original": "R$477.22",
+          "price_brl": 477.22,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$87.98",
-          "price_brl": 544.9,
+          "price_original": "R$487.85",
+          "price_brl": 487.85,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$175.12",
-          "price_brl": 1084.61,
+          "price_original": "R$970.94",
+          "price_brl": 970.94,
           "quantity": 1
         },
         {
@@ -570,44 +564,56 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$148.22",
-          "price_brl": 918,
+          "price_original": "R$821.86",
+          "price_brl": 821.86,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$187.84",
-          "price_brl": 1163.39,
+          "price_original": "R$823.34",
+          "price_brl": 823.34,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$1,041.55",
+          "price_brl": 1041.55,
           "quantity": 4
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$191.20",
-          "price_brl": 1184.2,
+          "price_original": "R$1,045.26",
+          "price_brl": 1045.26,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$200.58",
-          "price_brl": 1242.29,
+          "price_original": "R$1,060.13",
+          "price_brl": 1060.13,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$1,112.16",
+          "price_brl": 1112.16,
           "quantity": 2
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$200.58",
-          "price_brl": 1242.29,
+          "price_original": "R$1,112.16",
+          "price_brl": 1112.16,
           "quantity": 3
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$201.92",
-          "price_brl": 1250.59,
+          "price_original": "R$1,119.59",
+          "price_brl": 1119.59,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$201.92",
-          "price_brl": 1250.59,
+          "price_original": "R$1,119.59",
+          "price_brl": 1119.59,
           "quantity": 1
         },
         {
@@ -770,14 +776,14 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$295.74",
-          "price_brl": 1831.67,
+          "price_original": "R$1,639.84",
+          "price_brl": 1639.84,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$804.40",
-          "price_brl": 4982.05,
+          "price_original": "R$4,460.21",
+          "price_brl": 4460.21,
           "quantity": 1
         }
       ]
@@ -892,45 +898,51 @@
         },
         {
           "expansion": "Welcome to Rathe - Alpha",
-          "price_original": "$1,810.41",
-          "price_brl": 11212.77,
+          "price_original": "R$10,038.23",
+          "price_brl": 10038.23,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Alpha",
-          "price_original": "$1,944.45",
-          "price_brl": 12042.95,
+          "price_original": "R$10,781.45",
+          "price_brl": 10781.45,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$24.48",
-          "price_brl": 151.62,
+          "price_original": "R$135.71",
+          "price_brl": 135.71,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$27.15",
-          "price_brl": 168.15,
+          "price_original": "R$150.58",
+          "price_brl": 150.58,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$47.61",
-          "price_brl": 294.87,
+          "price_original": "R$263.99",
+          "price_brl": 263.99,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$67.39",
-          "price_brl": 417.38,
+          "price_original": "R$373.69",
+          "price_brl": 373.69,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$67.88",
-          "price_brl": 420.41,
+          "price_original": "R$376.37",
+          "price_brl": 376.37,
           "quantity": 5
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$378.44",
+          "price_brl": 378.44,
+          "quantity": 1
         }
       ]
     },
@@ -1146,38 +1158,38 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$80.75",
-          "price_brl": 500.13,
+          "price_original": "R$506.24",
+          "price_brl": 506.24,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$80.75",
-          "price_brl": 500.13,
+          "price_original": "R$506.24",
+          "price_brl": 506.24,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$101.38",
-          "price_brl": 627.9,
+          "price_original": "R$562.18",
+          "price_brl": 562.18,
           "quantity": 3
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$101.38",
-          "price_brl": 627.9,
+          "price_original": "R$562.18",
+          "price_brl": 562.18,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$125.03",
-          "price_brl": 774.37,
+          "price_original": "R$693.28",
+          "price_brl": 693.28,
           "quantity": 3
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$148.30",
-          "price_brl": 918.5,
+          "price_original": "R$822.30",
+          "price_brl": 822.3,
           "quantity": 1
         },
         {
@@ -1346,8 +1358,8 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$547.68",
-          "price_brl": 3392.06,
+          "price_original": "R$3,036.72",
+          "price_brl": 3036.72,
           "quantity": 1
         }
       ]
@@ -1668,26 +1680,26 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$41.28",
-          "price_brl": 255.67,
+          "price_original": "R$228.91",
+          "price_brl": 228.91,
           "quantity": 3
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$67.88",
-          "price_brl": 420.41,
+          "price_original": "R$376.37",
+          "price_brl": 376.37,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$161.70",
-          "price_brl": 1001.49,
+          "price_original": "R$896.62",
+          "price_brl": 896.62,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$166.75",
-          "price_brl": 1032.77,
+          "price_original": "R$925.08",
+          "price_brl": 925.08,
           "quantity": 1
         }
       ]
@@ -1930,32 +1942,32 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$24.48",
-          "price_brl": 151.62,
+          "price_original": "R$135.71",
+          "price_brl": 135.71,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$32.70",
-          "price_brl": 202.53,
+          "price_original": "R$181.34",
+          "price_brl": 181.34,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$34.05",
-          "price_brl": 210.89,
+          "price_original": "R$188.77",
+          "price_brl": 188.77,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$88.41",
-          "price_brl": 547.57,
+          "price_original": "R$490.22",
+          "price_brl": 490.22,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$134.90",
-          "price_brl": 835.5,
+          "price_original": "R$747.97",
+          "price_brl": 747.97,
           "quantity": 3
         }
       ]
@@ -2222,14 +2234,14 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$210.91",
-          "price_brl": 1306.27,
+          "price_original": "R$1,169.46",
+          "price_brl": 1169.46,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$402.98",
-          "price_brl": 2495.86,
+          "price_original": "R$2,234.41",
+          "price_brl": 2234.41,
           "quantity": 1
         }
       ]
@@ -2416,56 +2428,56 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$2.35",
-          "price_brl": 14.55,
+          "price_original": "R$13.01",
+          "price_brl": 13.01,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$2.81",
-          "price_brl": 17.4,
+          "price_original": "R$15.61",
+          "price_brl": 15.61,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$3.47",
-          "price_brl": 21.49,
+          "price_original": "R$19.25",
+          "price_brl": 19.25,
           "quantity": 2
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$4.15",
-          "price_brl": 25.7,
+          "price_original": "R$22.97",
+          "price_brl": 22.97,
           "quantity": 5
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$6.85",
-          "price_brl": 42.43,
+          "price_original": "R$37.98",
+          "price_brl": 37.98,
           "quantity": 4
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$7.49",
-          "price_brl": 46.39,
+          "price_original": "R$41.54",
+          "price_brl": 41.54,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$8.23",
-          "price_brl": 50.97,
+          "price_original": "R$45.64",
+          "price_brl": 45.64,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$8.23",
-          "price_brl": 50.97,
+          "price_original": "R$45.64",
+          "price_brl": 45.64,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$13.61",
-          "price_brl": 84.29,
+          "price_original": "R$75.43",
+          "price_brl": 75.43,
           "quantity": 2
         },
         {
@@ -2550,14 +2562,14 @@
         },
         {
           "expansion": "History Pack 2 - Black Label",
-          "price_original": "$251.79",
-          "price_brl": 1559.46,
+          "price_original": "R$1,396.07",
+          "price_brl": 1396.07,
           "quantity": 1
         },
         {
           "expansion": "History Pack 2 - Black Label",
-          "price_original": "$268.94",
-          "price_brl": 1665.68,
+          "price_original": "R$1,491.19",
+          "price_brl": 1491.19,
           "quantity": 1
         }
       ]
@@ -2612,8 +2624,8 @@
         },
         {
           "expansion": "History Pack 2 - Black Label",
-          "price_original": "$147.39",
-          "price_brl": 912.86,
+          "price_original": "R$817.25",
+          "price_brl": 817.25,
           "quantity": 1
         }
       ]
@@ -2686,20 +2698,20 @@
         },
         {
           "expansion": "History Pack 2 - Black Label",
-          "price_original": "$58.50",
-          "price_brl": 362.32,
+          "price_original": "R$324.34",
+          "price_brl": 324.34,
           "quantity": 1
         },
         {
           "expansion": "History Pack 2 - Black Label",
-          "price_original": "$113.86",
-          "price_brl": 705.19,
+          "price_original": "R$631.30",
+          "price_brl": 631.3,
           "quantity": 1
         },
         {
           "expansion": "History Pack 2 - Black Label",
-          "price_original": "$128.20",
-          "price_brl": 794.01,
+          "price_original": "R$710.82",
+          "price_brl": 710.82,
           "quantity": 1
         }
       ]
@@ -2906,8 +2918,8 @@
         },
         {
           "expansion": "History Pack 2 - Black Label",
-          "price_original": "$115.09",
-          "price_brl": 712.81,
+          "price_original": "R$638.12",
+          "price_brl": 638.12,
           "quantity": 1
         }
       ]
@@ -3058,8 +3070,8 @@
         },
         {
           "expansion": "History Pack 2 - Black Label",
-          "price_original": "$39.14",
-          "price_brl": 242.41,
+          "price_original": "R$217.02",
+          "price_brl": 217.02,
           "quantity": 1
         }
       ]
@@ -3240,8 +3252,8 @@
         },
         {
           "expansion": "History Pack 2 - Black Label",
-          "price_original": "$201.92",
-          "price_brl": 1250.59,
+          "price_original": "R$1,119.59",
+          "price_brl": 1119.59,
           "quantity": 1
         }
       ]
@@ -3292,6 +3304,12 @@
           "expansion": "Tales of Aria - First",
           "price_original": "$191.69",
           "price_brl": 1187.23,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 2 - Black Label",
+          "price_original": "R$450.68",
+          "price_brl": 450.68,
           "quantity": 1
         }
       ]
@@ -3394,14 +3412,14 @@
         },
         {
           "expansion": "History Pack 2 - Black Label",
-          "price_original": "$55.89",
-          "price_brl": 346.15,
+          "price_original": "R$309.92",
+          "price_brl": 309.92,
           "quantity": 1
         },
         {
           "expansion": "History Pack 2 - Black Label",
-          "price_original": "$75.01",
-          "price_brl": 464.57,
+          "price_original": "R$415.91",
+          "price_brl": 415.91,
           "quantity": 1
         },
         {
@@ -3802,26 +3820,26 @@
         },
         {
           "expansion": "History Pack 2 - Black Label",
-          "price_original": "$6.84",
-          "price_brl": 42.36,
+          "price_original": "R$37.91",
+          "price_brl": 37.91,
           "quantity": 1
         },
         {
           "expansion": "History Pack 2 - Black Label",
-          "price_original": "$18.64",
-          "price_brl": 115.45,
+          "price_original": "R$103.38",
+          "price_brl": 103.38,
           "quantity": 3
         },
         {
           "expansion": "History Pack 2 - Black Label",
-          "price_original": "$19.05",
-          "price_brl": 117.99,
+          "price_original": "R$105.61",
+          "price_brl": 105.61,
           "quantity": 1
         },
         {
           "expansion": "History Pack 2 - Black Label",
-          "price_original": "$20.39",
-          "price_brl": 126.29,
+          "price_original": "R$113.04",
+          "price_brl": 113.04,
           "quantity": 1
         },
         {
@@ -4036,8 +4054,8 @@
         },
         {
           "expansion": "History Pack 2 - Black Label",
-          "price_original": "$22.75",
-          "price_brl": 140.9,
+          "price_original": "R$126.12",
+          "price_brl": 126.12,
           "quantity": 2
         },
         {
@@ -11014,6 +11032,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-02-17T05:06:39",
+  "datetime_utc_minus3": "2026-02-17T06:13:59",
   "euro_rate": 6.1935
 }
