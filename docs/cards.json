@@ -642,14 +642,14 @@
         },
         {
           "expansion": "Part the Mistveil - Archive Pack",
-          "price_original": "R$1,223.18",
-          "price_brl": 1223.18,
+          "price_original": "R$1,223.57",
+          "price_brl": 1223.57,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil - Archive Pack",
-          "price_original": "R$1,292.74",
-          "price_brl": 1292.74,
+          "price_original": "R$1,293.13",
+          "price_brl": 1293.13,
           "quantity": 1
         },
         {
@@ -2712,20 +2712,20 @@
       "records": [
         {
           "expansion": "Armory Events",
-          "price_original": "$134.90",
-          "price_brl": 833.52,
+          "price_original": "R$747.97",
+          "price_brl": 747.97,
           "quantity": 1
         },
         {
           "expansion": "Armory Events",
-          "price_original": "$134.90",
-          "price_brl": 833.52,
+          "price_original": "R$747.97",
+          "price_brl": 747.97,
           "quantity": 2
         },
         {
           "expansion": "Armory Events",
-          "price_original": "$234.49",
-          "price_brl": 1448.87,
+          "price_original": "R$1,300.19",
+          "price_brl": 1300.19,
           "quantity": 3
         },
         {
@@ -2828,20 +2828,20 @@
       "records": [
         {
           "expansion": "Flesh and Blood Promos",
-          "price_original": "$146.95",
-          "price_brl": 907.97,
+          "price_original": "R$814.79",
+          "price_brl": 814.79,
           "quantity": 1
         },
         {
           "expansion": "Flesh and Blood Promos",
-          "price_original": "$227.79",
-          "price_brl": 1407.47,
+          "price_original": "R$1,263.02",
+          "price_brl": 1263.02,
           "quantity": 1
         },
         {
           "expansion": "Flesh and Blood Promos",
-          "price_original": "$671.06",
-          "price_brl": 4146.35,
+          "price_original": "R$3,720.85",
+          "price_brl": 3720.85,
           "quantity": 1
         },
         {
@@ -3412,20 +3412,20 @@
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "R$300.61",
-          "price_brl": 300.61,
+          "price_original": "R$300.71",
+          "price_brl": 300.71,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "R$487.70",
-          "price_brl": 487.7,
+          "price_original": "R$487.85",
+          "price_brl": 487.85,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "R$537.92",
-          "price_brl": 537.92,
+          "price_original": "R$537.84",
+          "price_brl": 537.84,
           "quantity": 2
         }
       ]
@@ -3516,8 +3516,8 @@
         },
         {
           "expansion": "Part the Mistveil - Archive Pack",
-          "price_original": "R$150.60",
-          "price_brl": 150.6,
+          "price_original": "R$150.65",
+          "price_brl": 150.65,
           "quantity": 1
         }
       ]
@@ -3856,8 +3856,8 @@
         },
         {
           "expansion": "Part the Mistveil - Archive Pack",
-          "price_original": "R$113.00",
-          "price_brl": 113,
+          "price_original": "R$113.04",
+          "price_brl": 113.04,
           "quantity": 1
         }
       ]
@@ -4220,8 +4220,8 @@
         },
         {
           "expansion": "Part the Mistveil - Archive Pack",
-          "price_original": "R$101.87",
-          "price_brl": 101.87,
+          "price_original": "R$101.89",
+          "price_brl": 101.89,
           "quantity": 2
         }
       ]
@@ -4874,50 +4874,62 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$181.21",
-          "price_brl": 181.21,
+          "price_original": "R$165.26",
+          "price_brl": 165.26,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$186.84",
-          "price_brl": 186.84,
+          "price_original": "R$181.27",
+          "price_brl": 181.27,
+          "quantity": 1
+        },
+        {
+          "expansion": "High Seas",
+          "price_original": "R$190.33",
+          "price_brl": 190.33,
+          "quantity": 2
+        },
+        {
+          "expansion": "High Seas",
+          "price_original": "R$203.75",
+          "price_brl": 203.75,
           "quantity": 5
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$204.47",
-          "price_brl": 204.47,
+          "price_original": "R$204.83",
+          "price_brl": 204.83,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$205.01",
-          "price_brl": 205.01,
+          "price_original": "R$205.19",
+          "price_brl": 205.19,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$211.01",
-          "price_brl": 211.01,
+          "price_original": "R$211.08",
+          "price_brl": 211.08,
           "quantity": 3
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$213.31",
-          "price_brl": 213.31,
+          "price_original": "R$213.38",
+          "price_brl": 213.38,
           "quantity": 1
-        },
-        {
-          "expansion": "High Seas",
-          "price_original": "R$218.36",
-          "price_brl": 218.36,
-          "quantity": 3
         },
         {
           "expansion": "High Seas",
           "price_original": "R$218.44",
           "price_brl": 218.44,
+          "quantity": 3
+        },
+        {
+          "expansion": "High Seas",
+          "price_original": "R$218.51",
+          "price_brl": 218.51,
           "quantity": 3
         },
         {
@@ -4928,92 +4940,104 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$225.86",
-          "price_brl": 225.86,
+          "price_original": "R$225.94",
+          "price_brl": 225.94,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$232.03",
-          "price_brl": 232.03,
+          "price_original": "R$232.10",
+          "price_brl": 232.1,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$233.70",
-          "price_brl": 233.7,
+          "price_original": "R$233.94",
+          "price_brl": 233.94,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$254.34",
-          "price_brl": 254.34,
+          "price_original": "R$254.60",
+          "price_brl": 254.6,
           "quantity": 2
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$258.11",
-          "price_brl": 258.11,
+          "price_original": "R$258.37",
+          "price_brl": 258.37,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$263.92",
-          "price_brl": 263.92,
+          "price_original": "R$263.99",
+          "price_brl": 263.99,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$279.64",
-          "price_brl": 279.64,
+          "price_original": "R$279.91",
+          "price_brl": 279.91,
           "quantity": 3
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$293.56",
-          "price_brl": 293.56,
+          "price_original": "R$293.65",
+          "price_brl": 293.65,
           "quantity": 3
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$301.06",
-          "price_brl": 301.06,
+          "price_original": "R$301.15",
+          "price_brl": 301.15,
           "quantity": 2
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$301.06",
-          "price_brl": 301.06,
+          "price_original": "R$301.15",
+          "price_brl": 301.15,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$360.50",
-          "price_brl": 360.5,
+          "price_original": "R$360.61",
+          "price_brl": 360.61,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$368.75",
-          "price_brl": 368.75,
+          "price_original": "R$368.86",
+          "price_brl": 368.86,
           "quantity": 3
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$418.48",
-          "price_brl": 418.48,
+          "price_original": "R$376.37",
+          "price_brl": 376.37,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$442.38",
-          "price_brl": 442.38,
+          "price_original": "R$376.37",
+          "price_brl": 376.37,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$594.10",
-          "price_brl": 594.1,
+          "price_original": "R$418.91",
+          "price_brl": 418.91,
+          "quantity": 1
+        },
+        {
+          "expansion": "High Seas",
+          "price_original": "R$442.51",
+          "price_brl": 442.51,
+          "quantity": 1
+        },
+        {
+          "expansion": "High Seas",
+          "price_original": "R$594.28",
+          "price_brl": 594.28,
           "quantity": 3
         }
       ]
@@ -5688,8 +5712,8 @@
         },
         {
           "expansion": "Part the Mistveil - Archive Pack",
-          "price_original": "R$814.62",
-          "price_brl": 814.62,
+          "price_original": "R$814.87",
+          "price_brl": 814.87,
           "quantity": 1
         },
         {
@@ -6044,8 +6068,8 @@
         },
         {
           "expansion": "Part the Mistveil - Archive Pack",
-          "price_original": "R$301.06",
-          "price_brl": 301.06,
+          "price_original": "R$301.15",
+          "price_brl": 301.15,
           "quantity": 1
         }
       ]
@@ -10650,176 +10674,176 @@
       "records": [
         {
           "expansion": "High Seas",
-          "price_original": "R$17.66",
-          "price_brl": 17.66,
-          "quantity": 3
-        },
-        {
-          "expansion": "High Seas",
-          "price_original": "R$28.31",
-          "price_brl": 28.31,
-          "quantity": 3
-        },
-        {
-          "expansion": "High Seas",
-          "price_original": "R$32.76",
-          "price_brl": 32.76,
-          "quantity": 4
-        },
-        {
-          "expansion": "High Seas",
-          "price_original": "R$37.56",
-          "price_brl": 37.56,
+          "price_original": "R$26.83",
+          "price_brl": 26.83,
           "quantity": 1
+        },
+        {
+          "expansion": "High Seas",
+          "price_original": "R$28.32",
+          "price_brl": 28.32,
+          "quantity": 2
+        },
+        {
+          "expansion": "High Seas",
+          "price_original": "R$32.77",
+          "price_brl": 32.77,
+          "quantity": 4
         },
         {
           "expansion": "High Seas",
           "price_original": "R$37.60",
           "price_brl": 37.6,
-          "quantity": 3
-        },
-        {
-          "expansion": "High Seas",
-          "price_original": "R$44.84",
-          "price_brl": 44.84,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$44.84",
-          "price_brl": 44.84,
+          "price_original": "R$37.61",
+          "price_brl": 37.61,
+          "quantity": 3
+        },
+        {
+          "expansion": "High Seas",
+          "price_original": "R$44.89",
+          "price_brl": 44.89,
+          "quantity": 1
+        },
+        {
+          "expansion": "High Seas",
+          "price_original": "R$44.89",
+          "price_brl": 44.89,
           "quantity": 7
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$45.62",
-          "price_brl": 45.62,
+          "price_original": "R$45.64",
+          "price_brl": 45.64,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$49.93",
-          "price_brl": 49.93,
+          "price_original": "R$49.94",
+          "price_brl": 49.94,
           "quantity": 3
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$51.19",
-          "price_brl": 51.19,
+          "price_original": "R$51.20",
+          "price_brl": 51.2,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$55.20",
-          "price_brl": 55.2,
+          "price_original": "R$55.22",
+          "price_brl": 55.22,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$58.62",
-          "price_brl": 58.62,
+          "price_original": "R$58.64",
+          "price_brl": 58.64,
           "quantity": 2
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$60.55",
-          "price_brl": 60.55,
+          "price_original": "R$60.58",
+          "price_brl": 60.58,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$72.44",
-          "price_brl": 72.44,
+          "price_original": "R$72.47",
+          "price_brl": 72.47,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$75.41",
-          "price_brl": 75.41,
+          "price_original": "R$75.43",
+          "price_brl": 75.43,
           "quantity": 3
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$80.42",
-          "price_brl": 80.42,
+          "price_original": "R$80.50",
+          "price_brl": 80.5,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$92.77",
-          "price_brl": 92.77,
+          "price_original": "R$93.10",
+          "price_brl": 93.1,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$108.05",
-          "price_brl": 108.05,
-          "quantity": 2
-        },
-        {
-          "expansion": "High Seas",
-          "price_original": "R$108.10",
-          "price_brl": 108.1,
-          "quantity": 1
-        },
-        {
-          "expansion": "High Seas",
-          "price_original": "R$109.30",
-          "price_brl": 109.3,
+          "price_original": "R$105.61",
+          "price_brl": 105.61,
           "quantity": 3
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$113.00",
-          "price_brl": 113,
+          "price_original": "R$108.16",
+          "price_brl": 108.16,
           "quantity": 2
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$114.00",
-          "price_brl": 114,
+          "price_original": "R$108.20",
+          "price_brl": 108.2,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$115.79",
-          "price_brl": 115.79,
+          "price_original": "R$113.04",
+          "price_brl": 113.04,
+          "quantity": 2
+        },
+        {
+          "expansion": "High Seas",
+          "price_original": "R$113.98",
+          "price_brl": 113.98,
+          "quantity": 1
+        },
+        {
+          "expansion": "High Seas",
+          "price_original": "R$116.20",
+          "price_brl": 116.2,
           "quantity": 4
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$121.85",
-          "price_brl": 121.85,
+          "price_original": "R$121.88",
+          "price_brl": 121.88,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$132.02",
-          "price_brl": 132.02,
+          "price_original": "R$132.07",
+          "price_brl": 132.07,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$139.38",
-          "price_brl": 139.38,
+          "price_original": "R$139.43",
+          "price_brl": 139.43,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$143.17",
-          "price_brl": 143.17,
+          "price_original": "R$143.22",
+          "price_brl": 143.22,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$222.30",
-          "price_brl": 222.3,
+          "price_original": "R$222.37",
+          "price_brl": 222.37,
           "quantity": 2
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$263.92",
-          "price_brl": 263.92,
+          "price_original": "R$263.99",
+          "price_brl": 263.99,
           "quantity": 1
         }
       ]
@@ -10832,14 +10856,8 @@
       "records": [
         {
           "expansion": "High Seas",
-          "price_original": "R$1,847.38",
-          "price_brl": 1847.38,
-          "quantity": 1
-        },
-        {
-          "expansion": "High Seas",
-          "price_original": "R$2,081.34",
-          "price_brl": 2081.34,
+          "price_original": "R$2,081.99",
+          "price_brl": 2081.99,
           "quantity": 2
         }
       ]
@@ -10852,80 +10870,80 @@
       "records": [
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$175.51",
-          "price_brl": 175.51,
+          "price_original": "R$175.67",
+          "price_brl": 175.67,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$187.40",
-          "price_brl": 187.4,
+          "price_original": "R$204.31",
+          "price_brl": 204.31,
           "quantity": 3
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$218.36",
-          "price_brl": 218.36,
+          "price_original": "R$218.44",
+          "price_brl": 218.44,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$233.68",
-          "price_brl": 233.68,
+          "price_original": "R$233.75",
+          "price_brl": 233.75,
           "quantity": 3
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$233.70",
-          "price_brl": 233.7,
+          "price_original": "R$233.94",
+          "price_brl": 233.94,
           "quantity": 5
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$241.62",
-          "price_brl": 241.62,
+          "price_original": "R$241.69",
+          "price_brl": 241.69,
           "quantity": 2
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$241.62",
-          "price_brl": 241.62,
+          "price_original": "R$241.69",
+          "price_brl": 241.69,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$256.48",
-          "price_brl": 256.48,
+          "price_original": "R$256.56",
+          "price_brl": 256.56,
           "quantity": 3
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$289.92",
-          "price_brl": 289.92,
+          "price_original": "R$290.00",
+          "price_brl": 290,
           "quantity": 2
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$377.96",
-          "price_brl": 377.96,
+          "price_original": "R$378.07",
+          "price_brl": 378.07,
           "quantity": 2
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$404.94",
-          "price_brl": 404.94,
+          "price_original": "R$405.31",
+          "price_brl": 405.31,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$404.94",
-          "price_brl": 404.94,
+          "price_original": "R$405.31",
+          "price_brl": 405.31,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$450.55",
-          "price_brl": 450.55,
+          "price_original": "R$450.68",
+          "price_brl": 450.68,
           "quantity": 1
         }
       ]
@@ -10944,80 +10962,80 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$125.38",
-          "price_brl": 125.38,
+          "price_original": "R$125.51",
+          "price_brl": 125.51,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$132.02",
-          "price_brl": 132.02,
+          "price_original": "R$132.07",
+          "price_brl": 132.07,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$138.49",
-          "price_brl": 138.49,
+          "price_original": "R$138.54",
+          "price_brl": 138.54,
           "quantity": 2
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$139.86",
-          "price_brl": 139.86,
+          "price_original": "R$140.00",
+          "price_brl": 140,
           "quantity": 9
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$189.38",
-          "price_brl": 189.38,
+          "price_original": "R$189.58",
+          "price_brl": 189.58,
           "quantity": 2
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$192.43",
-          "price_brl": 192.43,
+          "price_original": "R$192.49",
+          "price_brl": 192.49,
           "quantity": 3
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$200.81",
-          "price_brl": 200.81,
+          "price_original": "R$201.52",
+          "price_brl": 201.52,
           "quantity": 2
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$218.44",
-          "price_brl": 218.44,
+          "price_original": "R$218.51",
+          "price_brl": 218.51,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$222.16",
-          "price_brl": 222.16,
+          "price_original": "R$222.23",
+          "price_brl": 222.23,
           "quantity": 3
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$232.33",
-          "price_brl": 232.33,
+          "price_original": "R$232.40",
+          "price_brl": 232.4,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$233.65",
-          "price_brl": 233.65,
+          "price_original": "R$233.89",
+          "price_brl": 233.89,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$241.62",
-          "price_brl": 241.62,
+          "price_original": "R$241.69",
+          "price_brl": 241.69,
           "quantity": 2
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$256.10",
-          "price_brl": 256.1,
+          "price_original": "R$256.19",
+          "price_brl": 256.19,
           "quantity": 1
         }
       ]
@@ -11030,62 +11048,62 @@
       "records": [
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$648.32",
-          "price_brl": 648.32,
+          "price_original": "R$629.12",
+          "price_brl": 629.12,
+          "quantity": 2
+        },
+        {
+          "expansion": "Mastery Pack: Guardian",
+          "price_original": "R$648.98",
+          "price_brl": 648.98,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$724.39",
-          "price_brl": 724.39,
+          "price_original": "R$693.70",
+          "price_brl": 693.7,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$724.39",
-          "price_brl": 724.39,
+          "price_original": "R$740.54",
+          "price_brl": 740.54,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$740.32",
-          "price_brl": 740.32,
+          "price_original": "R$842.92",
+          "price_brl": 842.92,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$839.98",
-          "price_brl": 839.98,
+          "price_original": "R$861.68",
+          "price_brl": 861.68,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$861.42",
-          "price_brl": 861.42,
+          "price_original": "R$925.16",
+          "price_brl": 925.16,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$924.23",
-          "price_brl": 924.23,
+          "price_original": "R$1,119.52",
+          "price_brl": 1119.52,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$1,119.17",
-          "price_brl": 1119.17,
+          "price_original": "R$1,231.00",
+          "price_brl": 1231,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$1,230.61",
-          "price_brl": 1230.61,
-          "quantity": 1
-        },
-        {
-          "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$1,291.99",
-          "price_brl": 1291.99,
+          "price_original": "R$1,293.31",
+          "price_brl": 1293.31,
           "quantity": 1
         }
       ]
@@ -11296,6 +11314,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-02-17T18:56:24",
+  "datetime_utc_minus3": "2026-02-17T19:36:50",
   "euro_rate": 6.1788
 }
