@@ -3610,14 +3610,14 @@
       "records": [
         {
           "expansion": "Judge Promos",
-          "price_original": "$127.26",
-          "price_brl": 770.64,
+          "price_original": "$127.34",
+          "price_brl": 771.12,
           "quantity": 1
         },
         {
           "expansion": "Judge Promos",
-          "price_original": "$187.16",
-          "price_brl": 1133.37,
+          "price_original": "$187.27",
+          "price_brl": 1134.03,
           "quantity": 1
         },
         {
@@ -3720,14 +3720,8 @@
         },
         {
           "expansion": "Judge Promos",
-          "price_original": "$93.68",
-          "price_brl": 567.29,
-          "quantity": 1
-        },
-        {
-          "expansion": "Judge Promos",
-          "price_original": "$120.41",
-          "price_brl": 729.15,
+          "price_original": "$93.73",
+          "price_brl": 567.59,
           "quantity": 1
         },
         {
@@ -3738,8 +3732,14 @@
         },
         {
           "expansion": "Judge Promos",
-          "price_original": "$173.85",
-          "price_brl": 1052.77,
+          "price_original": "$120.55",
+          "price_brl": 730,
+          "quantity": 1
+        },
+        {
+          "expansion": "Judge Promos",
+          "price_original": "$173.96",
+          "price_brl": 1053.43,
           "quantity": 1
         },
         {
@@ -11026,6 +11026,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-02-26T17:03:12",
+  "datetime_utc_minus3": "2026-02-26T18:04:39",
   "euro_rate": 6.0556
 }
