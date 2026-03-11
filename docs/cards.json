@@ -2682,26 +2682,26 @@
       "records": [
         {
           "expansion": "Armory Events",
-          "price_original": "R$729.86",
-          "price_brl": 729.86,
+          "price_original": "R$727.94",
+          "price_brl": 727.94,
           "quantity": 1
         },
         {
           "expansion": "Armory Events",
-          "price_original": "R$729.86",
-          "price_brl": 729.86,
+          "price_original": "R$727.94",
+          "price_brl": 727.94,
           "quantity": 2
         },
         {
           "expansion": "Armory Events",
-          "price_original": "R$780.89",
-          "price_brl": 780.89,
+          "price_original": "R$773.08",
+          "price_brl": 773.08,
           "quantity": 1
         },
         {
           "expansion": "Armory Events",
-          "price_original": "R$1,268.70",
-          "price_brl": 1268.7,
+          "price_original": "R$1,265.36",
+          "price_brl": 1265.36,
           "quantity": 3
         },
         {
@@ -2792,20 +2792,20 @@
       "records": [
         {
           "expansion": "Flesh and Blood Promos",
-          "price_original": "R$795.06",
-          "price_brl": 795.06,
+          "price_original": "R$792.97",
+          "price_brl": 792.97,
           "quantity": 1
         },
         {
           "expansion": "Flesh and Blood Promos",
-          "price_original": "R$1,232.44",
-          "price_brl": 1232.44,
+          "price_original": "R$1,229.20",
+          "price_brl": 1229.2,
           "quantity": 1
         },
         {
           "expansion": "Flesh and Blood Promos",
-          "price_original": "R$3,630.74",
-          "price_brl": 3630.74,
+          "price_original": "R$3,621.19",
+          "price_brl": 3621.19,
           "quantity": 1
         },
         {
@@ -3370,8 +3370,8 @@
         },
         {
           "expansion": "Organized Play",
-          "price_original": "$3,789.38",
-          "price_brl": 22840.87,
+          "price_original": "$3,787.41",
+          "price_brl": 22828.99,
           "quantity": 1
         },
         {
@@ -11152,6 +11152,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-03-11T01:22:31",
+  "datetime_utc_minus3": "2026-03-11T02:34:54",
   "euro_rate": 6.0276
 }
