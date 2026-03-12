@@ -2688,26 +2688,26 @@
       "records": [
         {
           "expansion": "Armory Events",
-          "price_original": "R$727.94",
-          "price_brl": 727.94,
+          "price_original": "R$723.24",
+          "price_brl": 723.24,
           "quantity": 1
         },
         {
           "expansion": "Armory Events",
-          "price_original": "R$727.94",
-          "price_brl": 727.94,
+          "price_original": "R$723.24",
+          "price_brl": 723.24,
           "quantity": 2
         },
         {
           "expansion": "Armory Events",
-          "price_original": "R$773.08",
-          "price_brl": 773.08,
+          "price_original": "R$772.07",
+          "price_brl": 772.07,
           "quantity": 1
         },
         {
           "expansion": "Armory Events",
-          "price_original": "R$1,265.36",
-          "price_brl": 1265.36,
+          "price_original": "R$1,257.19",
+          "price_brl": 1257.19,
           "quantity": 3
         },
         {
@@ -2792,20 +2792,20 @@
       "records": [
         {
           "expansion": "Flesh and Blood Promos",
-          "price_original": "R$792.97",
-          "price_brl": 792.97,
+          "price_original": "R$787.85",
+          "price_brl": 787.85,
           "quantity": 1
         },
         {
           "expansion": "Flesh and Blood Promos",
-          "price_original": "R$1,229.20",
-          "price_brl": 1229.2,
+          "price_original": "R$1,221.26",
+          "price_brl": 1221.26,
           "quantity": 1
         },
         {
           "expansion": "Flesh and Blood Promos",
-          "price_original": "R$3,621.19",
-          "price_brl": 3621.19,
+          "price_original": "R$3,597.82",
+          "price_brl": 3597.82,
           "quantity": 1
         },
         {
@@ -3370,8 +3370,8 @@
         },
         {
           "expansion": "Organized Play",
-          "price_original": "$3,787.41",
-          "price_brl": 22681.66,
+          "price_original": "R$20,845.27",
+          "price_brl": 20845.27,
           "quantity": 1
         },
         {
@@ -3480,8 +3480,8 @@
       "records": [
         {
           "expansion": "Organized Play",
-          "price_original": "$8,000.00",
-          "price_brl": 47909.6,
+          "price_original": "R$49,642.56",
+          "price_brl": 49642.56,
           "quantity": 1
         },
         {
@@ -11218,6 +11218,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-03-12T01:27:11",
+  "datetime_utc_minus3": "2026-03-12T02:37:00",
   "euro_rate": 5.9887
 }
