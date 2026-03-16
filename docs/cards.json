@@ -620,8 +620,8 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$1,448.68",
-          "price_brl": 1448.68,
+          "price_original": "R$1,412.65",
+          "price_brl": 1412.65,
           "quantity": 1
         },
         {
@@ -786,12 +786,6 @@
           "expansion": "History Pack 1 - Black Label",
           "price_original": "R$146.29",
           "price_brl": 146.29,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$256.48",
-          "price_brl": 256.48,
           "quantity": 1
         },
         {
@@ -1578,8 +1572,8 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$923.82",
-          "price_brl": 923.82,
+          "price_original": "R$923.60",
+          "price_brl": 923.6,
           "quantity": 1
         }
       ]
@@ -1684,12 +1678,6 @@
           "expansion": "Arcane Rising - First",
           "price_original": "R$9,030.42",
           "price_brl": 9030.42,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$329.56",
-          "price_brl": 329.56,
           "quantity": 1
         }
       ]
@@ -2392,12 +2380,6 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$44.34",
-          "price_brl": 44.34,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1 - Black Label",
           "price_original": "R$73.28",
           "price_brl": 73.28,
           "quantity": 2
@@ -2652,12 +2634,6 @@
           "expansion": "History Pack 2 - Black Label",
           "price_original": "R$613.32",
           "price_brl": 613.32,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 2 - Black Label",
-          "price_original": "R$726.68",
-          "price_brl": 726.68,
           "quantity": 1
         }
       ]
@@ -3951,12 +3927,6 @@
           "price_original": "R$100.44",
           "price_brl": 100.44,
           "quantity": 3
-        },
-        {
-          "expansion": "History Pack 2 - Black Label",
-          "price_original": "R$102.60",
-          "price_brl": 102.6,
-          "quantity": 1
         },
         {
           "expansion": "History Pack 2 - Black Label",
@@ -11374,6 +11344,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-03-16T10:20:34",
+  "datetime_utc_minus3": "2026-03-16T11:46:15",
   "euro_rate": 6.0172
 }
