@@ -785,6 +785,1056 @@
       ]
     },
     {
+      "name": "Command and Conquer",
+      "price_target": 73,
+      "price_target_brl": 438.47,
+      "tag": "staples",
+      "records": [
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$71.00",
+          "price_brl": 426.45,
+          "quantity": 2
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$72.16",
+          "price_brl": 433.42,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$73.80",
+          "price_brl": 443.27,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$74.08",
+          "price_brl": 444.95,
+          "quantity": 9
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$77.61",
+          "price_brl": 466.16,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$78.65",
+          "price_brl": 472.4,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$82.40",
+          "price_brl": 494.93,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$83.03",
+          "price_brl": 498.71,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$85.13",
+          "price_brl": 511.32,
+          "quantity": 3
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$99.68",
+          "price_brl": 598.72,
+          "quantity": 2
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$102.55",
+          "price_brl": 615.96,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$127.43",
+          "price_brl": 765.4,
+          "quantity": 2
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$175.22",
+          "price_brl": 1052.44,
+          "quantity": 3
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$188.90",
+          "price_brl": 1134.61,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$215.25",
+          "price_brl": 1292.88,
+          "quantity": 3
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$54.91",
+          "price_brl": 329.81,
+          "quantity": 2
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$61.79",
+          "price_brl": 371.14,
+          "quantity": 2
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$61.98",
+          "price_brl": 372.28,
+          "quantity": 3
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$63.60",
+          "price_brl": 382.01,
+          "quantity": 2
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$63.98",
+          "price_brl": 384.29,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$66.42",
+          "price_brl": 398.95,
+          "quantity": 3
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$66.84",
+          "price_brl": 401.47,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$67.80",
+          "price_brl": 407.23,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$68.01",
+          "price_brl": 408.5,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$68.11",
+          "price_brl": 409.1,
+          "quantity": 14
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$68.82",
+          "price_brl": 413.36,
+          "quantity": 3
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$71.31",
+          "price_brl": 428.32,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$85.12",
+          "price_brl": 511.26,
+          "quantity": 2
+        },
+        {
+          "expansion": "Arcane Rising - First",
+          "price_original": "R$4,360.07",
+          "price_brl": 4360.07,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - First",
+          "price_original": "R$4,723.02",
+          "price_brl": 4723.02,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$510.70",
+          "price_brl": 510.7,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$510.70",
+          "price_brl": 510.7,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$549.07",
+          "price_brl": 549.07,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$657.96",
+          "price_brl": 657.96,
+          "quantity": 1
+        },
+        {
+          "expansion": "Dynasty",
+          "price_original": "R$5,733.54",
+          "price_brl": 5733.54,
+          "quantity": 1
+        },
+        {
+          "expansion": "Dynasty",
+          "price_original": "R$10,893.20",
+          "price_brl": 10893.2,
+          "quantity": 1
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "$96.40",
+          "price_brl": 579.02,
+          "quantity": 5
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "$99.26",
+          "price_brl": 596.2,
+          "quantity": 3
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "$101.04",
+          "price_brl": 606.89,
+          "quantity": 1
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "$101.55",
+          "price_brl": 609.95,
+          "quantity": 1
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "$117.47",
+          "price_brl": 705.57,
+          "quantity": 1
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "$403.99",
+          "price_brl": 2426.53,
+          "quantity": 1
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "$440.94",
+          "price_brl": 2648.46,
+          "quantity": 2
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "$12,970.96",
+          "price_brl": 77908.77,
+          "quantity": 1
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "$62.83",
+          "price_brl": 377.38,
+          "quantity": 2
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "$70.15",
+          "price_brl": 421.35,
+          "quantity": 5
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "$70.62",
+          "price_brl": 424.17,
+          "quantity": 2
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "$70.75",
+          "price_brl": 424.95,
+          "quantity": 1
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "$70.98",
+          "price_brl": 426.33,
+          "quantity": 1
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "$71.40",
+          "price_brl": 428.86,
+          "quantity": 1
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "$72.56",
+          "price_brl": 435.82,
+          "quantity": 1
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "$77.71",
+          "price_brl": 466.76,
+          "quantity": 2
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "$78.23",
+          "price_brl": 469.88,
+          "quantity": 1
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "$79.01",
+          "price_brl": 474.57,
+          "quantity": 4
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "$81.62",
+          "price_brl": 490.24,
+          "quantity": 1
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "$83.36",
+          "price_brl": 500.69,
+          "quantity": 1
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "$84.20",
+          "price_brl": 505.74,
+          "quantity": 1
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "$105.06",
+          "price_brl": 631.03,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Eye of Ophidia",
+      "price_target": 240,
+      "price_target_brl": 1441.54,
+      "tag": "gem",
+      "records": [
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$496.17",
+          "price_brl": 2980.2,
+          "quantity": 2
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$538.64",
+          "price_brl": 3235.29,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$595.25",
+          "price_brl": 3575.31,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$649.33",
+          "price_brl": 3900.14,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$799.19",
+          "price_brl": 4800.25,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$1,038.42",
+          "price_brl": 6237.17,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$2,965.97",
+          "price_brl": 2965.97,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Arcanite Skullcap",
+      "price_target": 1,
+      "price_target_brl": 6.01,
+      "tag": "staples",
+      "records": [
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$52.35",
+          "price_brl": 314.44,
+          "quantity": 2
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$60.62",
+          "price_brl": 364.11,
+          "quantity": 5
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$65.25",
+          "price_brl": 391.92,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$68.66",
+          "price_brl": 412.4,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$72.14",
+          "price_brl": 433.3,
+          "quantity": 2
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$72.15",
+          "price_brl": 433.36,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$72.16",
+          "price_brl": 433.42,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$75.17",
+          "price_brl": 451.5,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$77.22",
+          "price_brl": 463.81,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$77.35",
+          "price_brl": 464.6,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$89.02",
+          "price_brl": 534.69,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$96.35",
+          "price_brl": 578.72,
+          "quantity": 2
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$124.03",
+          "price_brl": 744.97,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$127.89",
+          "price_brl": 768.16,
+          "quantity": 2
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$130.53",
+          "price_brl": 784.02,
+          "quantity": 5
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$169.30",
+          "price_brl": 1016.88,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$182.40",
+          "price_brl": 1095.57,
+          "quantity": 1
+        },
+        {
+          "expansion": "Everfest - First",
+          "price_original": "R$294.20",
+          "price_brl": 294.2,
+          "quantity": 1
+        },
+        {
+          "expansion": "Everfest - First",
+          "price_original": "R$322.84",
+          "price_brl": 322.84,
+          "quantity": 2
+        },
+        {
+          "expansion": "Everfest - First",
+          "price_original": "R$405.92",
+          "price_brl": 405.92,
+          "quantity": 1
+        },
+        {
+          "expansion": "Everfest - First",
+          "price_original": "R$440.18",
+          "price_brl": 440.18,
+          "quantity": 1
+        },
+        {
+          "expansion": "Everfest - First",
+          "price_original": "R$466.25",
+          "price_brl": 466.25,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Storm Striders",
+      "price_target": 1,
+      "price_target_brl": 6.01,
+      "tag": "wizzard",
+      "records": [
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$42.31",
+          "price_brl": 254.13,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$48.56",
+          "price_brl": 291.67,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$50.23",
+          "price_brl": 301.7,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$51.72",
+          "price_brl": 310.65,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$55.40",
+          "price_brl": 332.75,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$57.91",
+          "price_brl": 347.83,
+          "quantity": 2
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$65.68",
+          "price_brl": 394.5,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$83.41",
+          "price_brl": 500.99,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$84.25",
+          "price_brl": 506.04,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$91.54",
+          "price_brl": 549.83,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$103.44",
+          "price_brl": 621.3,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$130.47",
+          "price_brl": 783.66,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$130.53",
+          "price_brl": 784.02,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$185.11",
+          "price_brl": 1111.84,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$325.07",
+          "price_brl": 1952.5,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$35.44",
+          "price_brl": 212.87,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$35.53",
+          "price_brl": 213.41,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$35.54",
+          "price_brl": 213.47,
+          "quantity": 2
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$36.09",
+          "price_brl": 216.77,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$36.54",
+          "price_brl": 219.47,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$38.98",
+          "price_brl": 234.13,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$41.30",
+          "price_brl": 248.06,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$41.55",
+          "price_brl": 249.57,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$41.95",
+          "price_brl": 251.97,
+          "quantity": 2
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$43.09",
+          "price_brl": 258.82,
+          "quantity": 3
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$45.47",
+          "price_brl": 273.11,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$45.84",
+          "price_brl": 275.33,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$46.10",
+          "price_brl": 276.9,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$49.14",
+          "price_brl": 295.15,
+          "quantity": 7
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$49.78",
+          "price_brl": 299,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$51.46",
+          "price_brl": 309.09,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$109.94",
+          "price_brl": 660.34,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$130.53",
+          "price_brl": 784.02,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - First",
+          "price_original": "R$9,078.44",
+          "price_brl": 9078.44,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$208.62",
+          "price_brl": 208.62,
+          "quantity": 3
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$367.60",
+          "price_brl": 367.6,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$875.74",
+          "price_brl": 875.74,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$926.86",
+          "price_brl": 926.86,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Grasp of the Arknight",
+      "price_target": 1,
+      "price_target_brl": 6.01,
+      "tag": "runeblade",
+      "records": [
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$62.47",
+          "price_brl": 375.22,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$71.02",
+          "price_brl": 426.57,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$75.12",
+          "price_brl": 451.2,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$80.78",
+          "price_brl": 485.2,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$91.61",
+          "price_brl": 550.25,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$91.62",
+          "price_brl": 550.31,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$108.99",
+          "price_brl": 654.64,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$115.75",
+          "price_brl": 695.24,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$116.27",
+          "price_brl": 698.36,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$150.41",
+          "price_brl": 903.42,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$155.25",
+          "price_brl": 932.49,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$162.96",
+          "price_brl": 978.8,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$45.50",
+          "price_brl": 273.29,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$46.07",
+          "price_brl": 276.71,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$51.53",
+          "price_brl": 309.51,
+          "quantity": 12
+        },
+        {
+          "expansion": "Arcane Rising - First",
+          "price_original": "R$9,078.44",
+          "price_brl": 9078.44,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Skullbone Crosswrap",
+      "price_target": 1,
+      "price_target_brl": 6.01,
+      "tag": "ranger",
+      "records": [
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$24.62",
+          "price_brl": 147.88,
+          "quantity": 3
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$24.85",
+          "price_brl": 149.26,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$25.48",
+          "price_brl": 153.04,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$27.03",
+          "price_brl": 162.35,
+          "quantity": 2
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$27.97",
+          "price_brl": 168,
+          "quantity": 2
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$28.10",
+          "price_brl": 168.78,
+          "quantity": 6
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$29.41",
+          "price_brl": 176.65,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$29.43",
+          "price_brl": 176.77,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$35.18",
+          "price_brl": 211.31,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$46.07",
+          "price_brl": 276.71,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$49.56",
+          "price_brl": 297.68,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$61.88",
+          "price_brl": 371.68,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$65.68",
+          "price_brl": 394.5,
+          "quantity": 2
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$76.35",
+          "price_brl": 458.59,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$156.47",
+          "price_brl": 939.82,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$16.46",
+          "price_brl": 98.87,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$20.20",
+          "price_brl": 121.33,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$22.60",
+          "price_brl": 135.74,
+          "quantity": 19
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$25.46",
+          "price_brl": 152.92,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - First",
+          "price_original": "R$4,868.05",
+          "price_brl": 4868.05,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$132.55",
+          "price_brl": 132.55,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$169.86",
+          "price_brl": 169.86,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$177.12",
+          "price_brl": 177.12,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$184.38",
+          "price_brl": 184.38,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$478.81",
+          "price_brl": 478.81,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1 - Black Label",
+          "price_original": "R$730.55",
+          "price_brl": 730.55,
+          "quantity": 3
+        }
+      ]
+    },
+    {
       "name": "Snag",
       "price_target": 8.4,
       "price_target_brl": 50.45,
@@ -1724,20 +2774,20 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$657.96",
-          "price_brl": 657.96,
+          "price_original": "$118.11",
+          "price_brl": 709.42,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$744.40",
-          "price_brl": 744.4,
+          "price_original": "$133.22",
+          "price_brl": 800.17,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$1,157.65",
-          "price_brl": 1157.65,
+          "price_original": "$207.17",
+          "price_brl": 1244.35,
           "quantity": 1
         },
         {
@@ -1804,80 +2854,80 @@
       "records": [
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$93.16",
-          "price_brl": 93.16,
+          "price_original": "$14.73",
+          "price_brl": 88.47,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$95.59",
-          "price_brl": 95.59,
+          "price_original": "$15.13",
+          "price_brl": 90.88,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$95.69",
-          "price_brl": 95.69,
+          "price_original": "$17.11",
+          "price_brl": 102.77,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$102.92",
-          "price_brl": 102.92,
+          "price_original": "$18.42",
+          "price_brl": 110.64,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$113.80",
-          "price_brl": 113.8,
+          "price_original": "$20.59",
+          "price_brl": 123.67,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$144.32",
-          "price_brl": 144.32,
+          "price_original": "$22.82",
+          "price_brl": 137.07,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$161.08",
-          "price_brl": 161.08,
+          "price_original": "$25.47",
+          "price_brl": 152.98,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$249.78",
-          "price_brl": 249.78,
+          "price_original": "$44.84",
+          "price_brl": 269.33,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$250.37",
-          "price_brl": 250.37,
+          "price_original": "$44.94",
+          "price_brl": 269.93,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$294.13",
-          "price_brl": 294.13,
+          "price_original": "$52.79",
+          "price_brl": 317.08,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$331.31",
-          "price_brl": 331.31,
+          "price_original": "$59.47",
+          "price_brl": 357.2,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$367.24",
-          "price_brl": 367.24,
+          "price_original": "$65.92",
+          "price_brl": 395.94,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$512.70",
-          "price_brl": 512.7,
+          "price_original": "$92.03",
+          "price_brl": 552.77,
           "quantity": 1
         },
         {
@@ -1980,98 +3030,98 @@
       "records": [
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$191.94",
-          "price_brl": 191.94,
+          "price_original": "$30.35",
+          "price_brl": 182.29,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$191.94",
-          "price_brl": 191.94,
+          "price_original": "$30.35",
+          "price_brl": 182.29,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$208.01",
-          "price_brl": 208.01,
+          "price_original": "$37.22",
+          "price_brl": 223.56,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$210.36",
-          "price_brl": 210.36,
+          "price_original": "$37.65",
+          "price_brl": 226.14,
           "quantity": 3
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$218.48",
-          "price_brl": 218.48,
+          "price_original": "$39.10",
+          "price_brl": 234.85,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$220.45",
-          "price_brl": 220.45,
+          "price_original": "$39.57",
+          "price_brl": 237.67,
           "quantity": 3
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$220.45",
-          "price_brl": 220.45,
+          "price_original": "$39.57",
+          "price_brl": 237.67,
           "quantity": 2
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$221.17",
-          "price_brl": 221.17,
+          "price_original": "$39.88",
+          "price_brl": 239.54,
           "quantity": 2
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$264.80",
-          "price_brl": 264.8,
+          "price_original": "$47.54",
+          "price_brl": 285.54,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$265.03",
-          "price_brl": 265.03,
+          "price_original": "$47.57",
+          "price_brl": 285.72,
           "quantity": 2
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$272.21",
-          "price_brl": 272.21,
+          "price_original": "$48.86",
+          "price_brl": 293.47,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$272.21",
-          "price_brl": 272.21,
+          "price_original": "$48.86",
+          "price_brl": 293.47,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$278.47",
-          "price_brl": 278.47,
+          "price_original": "$49.83",
+          "price_brl": 299.3,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$367.52",
-          "price_brl": 367.52,
+          "price_original": "$65.97",
+          "price_brl": 396.24,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$730.19",
-          "price_brl": 730.19,
+          "price_original": "$131.07",
+          "price_brl": 787.26,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$903.76",
-          "price_brl": 903.76,
+          "price_original": "$161.74",
+          "price_brl": 971.48,
           "quantity": 1
         },
         {
@@ -2150,8 +3200,8 @@
       "records": [
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$730.55",
-          "price_brl": 730.55,
+          "price_original": "$131.14",
+          "price_brl": 787.68,
           "quantity": 1
         },
         {
@@ -2200,44 +3250,50 @@
       "records": [
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$350.59",
-          "price_brl": 350.59,
+          "price_original": "$39.59",
+          "price_brl": 237.79,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$373.39",
-          "price_brl": 373.39,
+          "price_original": "$62.74",
+          "price_brl": 376.84,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - Unlimited",
+          "price_original": "$65.39",
+          "price_brl": 392.76,
           "quantity": 2
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$430.04",
-          "price_brl": 430.04,
+          "price_original": "$71.53",
+          "price_brl": 429.64,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$465.59",
-          "price_brl": 465.59,
+          "price_original": "$74.68",
+          "price_brl": 448.56,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$465.91",
-          "price_brl": 465.91,
+          "price_original": "$81.53",
+          "price_brl": 489.7,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$476.12",
-          "price_brl": 476.12,
+          "price_original": "$84.80",
+          "price_brl": 509.34,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "R$487.68",
-          "price_brl": 487.68,
+          "price_original": "$85.46",
+          "price_brl": 513.31,
           "quantity": 1
         },
         {
@@ -2871,44 +3927,6 @@
       ]
     },
     {
-      "name": "Arcanite Skullcap",
-      "price_target": 1,
-      "price_target_brl": 6.01,
-      "tag": "staples",
-      "records": [
-        {
-          "expansion": "Everfest - First",
-          "price_original": "R$294.20",
-          "price_brl": 294.2,
-          "quantity": 1
-        },
-        {
-          "expansion": "Everfest - First",
-          "price_original": "R$322.84",
-          "price_brl": 322.84,
-          "quantity": 2
-        },
-        {
-          "expansion": "Everfest - First",
-          "price_original": "R$405.92",
-          "price_brl": 405.92,
-          "quantity": 1
-        },
-        {
-          "expansion": "Everfest - First",
-          "price_original": "R$440.18",
-          "price_brl": 440.18,
-          "quantity": 1
-        },
-        {
-          "expansion": "Everfest - First",
-          "price_original": "R$466.25",
-          "price_brl": 466.25,
-          "quantity": 1
-        }
-      ]
-    },
-    {
       "name": "Imposing Visage",
       "price_target": 1,
       "price_target_brl": 6.01,
@@ -3205,524 +4223,6 @@
           "price_original": "$27.75",
           "price_brl": 166.68,
           "quantity": 1
-        }
-      ]
-    },
-    {
-      "name": "Command and Conquer",
-      "price_target": 73,
-      "price_target_brl": 438.47,
-      "tag": "staples",
-      "records": [
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$54.91",
-          "price_brl": 329.81,
-          "quantity": 2
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$61.79",
-          "price_brl": 371.14,
-          "quantity": 2
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$61.98",
-          "price_brl": 372.28,
-          "quantity": 3
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$63.60",
-          "price_brl": 382.01,
-          "quantity": 2
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$63.98",
-          "price_brl": 384.29,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$66.42",
-          "price_brl": 398.95,
-          "quantity": 3
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$66.84",
-          "price_brl": 401.47,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$67.80",
-          "price_brl": 407.23,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$68.01",
-          "price_brl": 408.5,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$68.11",
-          "price_brl": 409.1,
-          "quantity": 14
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$68.82",
-          "price_brl": 413.36,
-          "quantity": 3
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$71.31",
-          "price_brl": 428.32,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$85.12",
-          "price_brl": 511.26,
-          "quantity": 2
-        },
-        {
-          "expansion": "Arcane Rising - First",
-          "price_original": "R$4,360.07",
-          "price_brl": 4360.07,
-          "quantity": 1
-        },
-        {
-          "expansion": "Arcane Rising - First",
-          "price_original": "R$4,723.02",
-          "price_brl": 4723.02,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$510.70",
-          "price_brl": 510.7,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$510.70",
-          "price_brl": 510.7,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$549.07",
-          "price_brl": 549.07,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$657.96",
-          "price_brl": 657.96,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dynasty",
-          "price_original": "R$5,733.54",
-          "price_brl": 5733.54,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dynasty",
-          "price_original": "R$10,893.20",
-          "price_brl": 10893.2,
-          "quantity": 1
-        },
-        {
-          "expansion": "The Hunted",
-          "price_original": "$96.40",
-          "price_brl": 579.02,
-          "quantity": 5
-        },
-        {
-          "expansion": "The Hunted",
-          "price_original": "$99.26",
-          "price_brl": 596.2,
-          "quantity": 3
-        },
-        {
-          "expansion": "The Hunted",
-          "price_original": "$101.04",
-          "price_brl": 606.89,
-          "quantity": 1
-        },
-        {
-          "expansion": "The Hunted",
-          "price_original": "$101.55",
-          "price_brl": 609.95,
-          "quantity": 1
-        },
-        {
-          "expansion": "The Hunted",
-          "price_original": "$117.47",
-          "price_brl": 705.57,
-          "quantity": 1
-        },
-        {
-          "expansion": "The Hunted",
-          "price_original": "$403.99",
-          "price_brl": 2426.53,
-          "quantity": 1
-        },
-        {
-          "expansion": "The Hunted",
-          "price_original": "$440.94",
-          "price_brl": 2648.46,
-          "quantity": 2
-        },
-        {
-          "expansion": "The Hunted",
-          "price_original": "$12,970.96",
-          "price_brl": 77908.77,
-          "quantity": 1
-        },
-        {
-          "expansion": "Compendium of Rathe",
-          "price_original": "$62.83",
-          "price_brl": 377.38,
-          "quantity": 2
-        },
-        {
-          "expansion": "Compendium of Rathe",
-          "price_original": "$70.15",
-          "price_brl": 421.35,
-          "quantity": 5
-        },
-        {
-          "expansion": "Compendium of Rathe",
-          "price_original": "$70.62",
-          "price_brl": 424.17,
-          "quantity": 2
-        },
-        {
-          "expansion": "Compendium of Rathe",
-          "price_original": "$70.75",
-          "price_brl": 424.95,
-          "quantity": 1
-        },
-        {
-          "expansion": "Compendium of Rathe",
-          "price_original": "$70.98",
-          "price_brl": 426.33,
-          "quantity": 1
-        },
-        {
-          "expansion": "Compendium of Rathe",
-          "price_original": "$71.40",
-          "price_brl": 428.86,
-          "quantity": 1
-        },
-        {
-          "expansion": "Compendium of Rathe",
-          "price_original": "$72.56",
-          "price_brl": 435.82,
-          "quantity": 1
-        },
-        {
-          "expansion": "Compendium of Rathe",
-          "price_original": "$77.71",
-          "price_brl": 466.76,
-          "quantity": 2
-        },
-        {
-          "expansion": "Compendium of Rathe",
-          "price_original": "$78.23",
-          "price_brl": 469.88,
-          "quantity": 1
-        },
-        {
-          "expansion": "Compendium of Rathe",
-          "price_original": "$79.01",
-          "price_brl": 474.57,
-          "quantity": 4
-        },
-        {
-          "expansion": "Compendium of Rathe",
-          "price_original": "$81.62",
-          "price_brl": 490.24,
-          "quantity": 1
-        },
-        {
-          "expansion": "Compendium of Rathe",
-          "price_original": "$83.36",
-          "price_brl": 500.69,
-          "quantity": 1
-        },
-        {
-          "expansion": "Compendium of Rathe",
-          "price_original": "$84.20",
-          "price_brl": 505.74,
-          "quantity": 1
-        },
-        {
-          "expansion": "Compendium of Rathe",
-          "price_original": "$105.06",
-          "price_brl": 631.03,
-          "quantity": 1
-        }
-      ]
-    },
-    {
-      "name": "Storm Striders",
-      "price_target": 1,
-      "price_target_brl": 6.01,
-      "tag": "wizzard",
-      "records": [
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$35.44",
-          "price_brl": 212.87,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$35.53",
-          "price_brl": 213.41,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$35.54",
-          "price_brl": 213.47,
-          "quantity": 2
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$36.09",
-          "price_brl": 216.77,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$36.54",
-          "price_brl": 219.47,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$38.98",
-          "price_brl": 234.13,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$41.30",
-          "price_brl": 248.06,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$41.55",
-          "price_brl": 249.57,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$41.95",
-          "price_brl": 251.97,
-          "quantity": 2
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$43.09",
-          "price_brl": 258.82,
-          "quantity": 3
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$45.47",
-          "price_brl": 273.11,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$45.84",
-          "price_brl": 275.33,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$46.10",
-          "price_brl": 276.9,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$49.14",
-          "price_brl": 295.15,
-          "quantity": 7
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$49.78",
-          "price_brl": 299,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$51.46",
-          "price_brl": 309.09,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$109.94",
-          "price_brl": 660.34,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$130.53",
-          "price_brl": 784.02,
-          "quantity": 1
-        },
-        {
-          "expansion": "Arcane Rising - First",
-          "price_original": "R$9,078.44",
-          "price_brl": 9078.44,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$208.62",
-          "price_brl": 208.62,
-          "quantity": 3
-        },
-        {
-          "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$367.60",
-          "price_brl": 367.6,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$875.74",
-          "price_brl": 875.74,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$926.86",
-          "price_brl": 926.86,
-          "quantity": 1
-        }
-      ]
-    },
-    {
-      "name": "Grasp of the Arknight",
-      "price_target": 1,
-      "price_target_brl": 6.01,
-      "tag": "runeblade",
-      "records": [
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$45.50",
-          "price_brl": 273.29,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$46.07",
-          "price_brl": 276.71,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$51.53",
-          "price_brl": 309.51,
-          "quantity": 12
-        },
-        {
-          "expansion": "Arcane Rising - First",
-          "price_original": "R$9,078.44",
-          "price_brl": 9078.44,
-          "quantity": 1
-        }
-      ]
-    },
-    {
-      "name": "Skullbone Crosswrap",
-      "price_target": 1,
-      "price_target_brl": 6.01,
-      "tag": "ranger",
-      "records": [
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$16.46",
-          "price_brl": 98.87,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$20.20",
-          "price_brl": 121.33,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$22.60",
-          "price_brl": 135.74,
-          "quantity": 19
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$25.46",
-          "price_brl": 152.92,
-          "quantity": 1
-        },
-        {
-          "expansion": "Arcane Rising - First",
-          "price_original": "R$4,868.05",
-          "price_brl": 4868.05,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$132.55",
-          "price_brl": 132.55,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$169.86",
-          "price_brl": 169.86,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$177.12",
-          "price_brl": 177.12,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$184.38",
-          "price_brl": 184.38,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$478.81",
-          "price_brl": 478.81,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$730.55",
-          "price_brl": 730.55,
-          "quantity": 3
         }
       ]
     },
@@ -4339,20 +4839,6 @@
           "price_original": "$65.68",
           "price_brl": 394.5,
           "quantity": 6
-        }
-      ]
-    },
-    {
-      "name": "Eye of Ophidia",
-      "price_target": 240,
-      "price_target_brl": 1441.54,
-      "tag": "gem",
-      "records": [
-        {
-          "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$2,965.97",
-          "price_brl": 2965.97,
-          "quantity": 1
         }
       ]
     },
@@ -10618,6 +11104,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-03-18T08:55:09",
+  "datetime_utc_minus3": "2026-03-18T10:20:37",
   "euro_rate": 6.0064
 }
