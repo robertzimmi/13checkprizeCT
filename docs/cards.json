@@ -7846,8 +7846,14 @@
       "records": [
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$30.17",
-          "price_brl": 184,
+          "price_original": "$30.20",
+          "price_brl": 184.19,
+          "quantity": 2
+        },
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$34.35",
+          "price_brl": 209.5,
           "quantity": 2
         },
         {
@@ -7855,12 +7861,6 @@
           "price_original": "$34.35",
           "price_brl": 209.5,
           "quantity": 1
-        },
-        {
-          "expansion": "Part the Mistveil",
-          "price_original": "$34.35",
-          "price_brl": 209.5,
-          "quantity": 2
         },
         {
           "expansion": "Part the Mistveil",
@@ -7870,14 +7870,14 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$34.50",
-          "price_brl": 210.41,
+          "price_original": "$35.14",
+          "price_brl": 214.32,
           "quantity": 2
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$34.78",
-          "price_brl": 212.12,
+          "price_original": "$35.34",
+          "price_brl": 215.54,
           "quantity": 6
         },
         {
@@ -7900,26 +7900,26 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$41.03",
-          "price_brl": 250.24,
+          "price_original": "$41.08",
+          "price_brl": 250.54,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$41.88",
-          "price_brl": 255.42,
+          "price_original": "$41.91",
+          "price_brl": 255.6,
           "quantity": 5
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$42.13",
-          "price_brl": 256.95,
+          "price_original": "$42.16",
+          "price_brl": 257.13,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$46.00",
-          "price_brl": 280.55,
+          "price_original": "$46.05",
+          "price_brl": 280.85,
           "quantity": 3
         },
         {
@@ -7968,8 +7968,8 @@
       "records": [
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$15.93",
-          "price_brl": 97.16,
+          "price_original": "$15.11",
+          "price_brl": 92.15,
           "quantity": 1
         },
         {
@@ -7986,8 +7986,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$20.85",
-          "price_brl": 127.16,
+          "price_original": "$20.87",
+          "price_brl": 127.28,
           "quantity": 1
         },
         {
@@ -8064,8 +8064,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$222.10",
-          "price_brl": 1354.57,
+          "price_original": "$222.32",
+          "price_brl": 1355.91,
           "quantity": 1
         },
         {
@@ -8108,14 +8108,14 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$14.16",
-          "price_brl": 86.36,
+          "price_original": "$13.91",
+          "price_brl": 84.84,
           "quantity": 4
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$16.75",
-          "price_brl": 102.16,
+          "price_original": "$15.11",
+          "price_brl": 92.15,
           "quantity": 3
         },
         {
@@ -8144,14 +8144,14 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$40.45",
-          "price_brl": 246.7,
+          "price_original": "$41.00",
+          "price_brl": 250.05,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$40.95",
-          "price_brl": 249.75,
+          "price_original": "$42.00",
+          "price_brl": 256.15,
           "quantity": 1
         },
         {
@@ -8168,8 +8168,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$56.43",
-          "price_brl": 344.16,
+          "price_original": "$56.49",
+          "price_brl": 344.53,
           "quantity": 1
         },
         {
@@ -8180,8 +8180,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$66.74",
-          "price_brl": 407.04,
+          "price_original": "$66.79",
+          "price_brl": 407.35,
           "quantity": 2
         }
       ]
@@ -8200,20 +8200,20 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$27.87",
-          "price_brl": 169.98,
+          "price_original": "$27.77",
+          "price_brl": 169.37,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$35.34",
-          "price_brl": 215.54,
+          "price_original": "$35.37",
+          "price_brl": 215.72,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$35.38",
-          "price_brl": 215.78,
+          "price_original": "$35.41",
+          "price_brl": 215.96,
           "quantity": 1
         },
         {
@@ -8230,14 +8230,14 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$99.68",
-          "price_brl": 607.94,
+          "price_original": "$99.78",
+          "price_brl": 608.55,
           "quantity": 2
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$128.21",
-          "price_brl": 781.94,
+          "price_original": "$128.33",
+          "price_brl": 782.67,
           "quantity": 1
         },
         {
@@ -8280,8 +8280,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$6.07",
-          "price_brl": 37.02,
+          "price_original": "$6.08",
+          "price_brl": 37.08,
           "quantity": 1
         },
         {
@@ -8292,8 +8292,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$6.76",
-          "price_brl": 41.23,
+          "price_original": "$6.77",
+          "price_brl": 41.29,
           "quantity": 1
         },
         {
@@ -8414,14 +8414,14 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$8.41",
-          "price_brl": 51.29,
+          "price_original": "$8.42",
+          "price_brl": 51.35,
           "quantity": 8
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$8.62",
-          "price_brl": 52.57,
+          "price_original": "$8.63",
+          "price_brl": 52.63,
           "quantity": 1
         },
         {
@@ -8438,8 +8438,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$8.73",
-          "price_brl": 53.24,
+          "price_original": "$8.75",
+          "price_brl": 53.37,
           "quantity": 1
         },
         {
@@ -8522,8 +8522,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$22.77",
-          "price_brl": 138.87,
+          "price_original": "$22.69",
+          "price_brl": 138.38,
           "quantity": 1
         },
         {
@@ -8560,8 +8560,8 @@
       "records": [
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$38.41",
-          "price_brl": 234.26,
+          "price_original": "$36.79",
+          "price_brl": 224.38,
           "quantity": 3
         },
         {
@@ -8578,20 +8578,14 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$52.91",
-          "price_brl": 322.69,
-          "quantity": 3
-        },
-        {
-          "expansion": "Part the Mistveil",
           "price_original": "$56.07",
           "price_brl": 341.97,
           "quantity": 3
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$58.50",
-          "price_brl": 356.79,
+          "price_original": "$58.56",
+          "price_brl": 357.15,
           "quantity": 1
         }
       ]
@@ -8616,20 +8610,14 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$4.51",
-          "price_brl": 27.51,
+          "price_original": "$4.52",
+          "price_brl": 27.57,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$4.63",
-          "price_brl": 28.24,
-          "quantity": 1
-        },
-        {
-          "expansion": "Part the Mistveil",
-          "price_original": "$4.71",
-          "price_brl": 28.73,
+          "price_original": "$4.64",
+          "price_brl": 28.3,
           "quantity": 1
         },
         {
@@ -8640,15 +8628,21 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$5.02",
-          "price_brl": 30.62,
-          "quantity": 4
+          "price_original": "$4.71",
+          "price_brl": 28.73,
+          "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$5.02",
           "price_brl": 30.62,
           "quantity": 1
+        },
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$5.02",
+          "price_brl": 30.62,
+          "quantity": 4
         },
         {
           "expansion": "Part the Mistveil",
@@ -8724,8 +8718,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$10.06",
-          "price_brl": 61.35,
+          "price_original": "$10.07",
+          "price_brl": 61.42,
           "quantity": 2
         },
         {
@@ -8736,20 +8730,20 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$11.11",
-          "price_brl": 67.76,
+          "price_original": "$11.12",
+          "price_brl": 67.82,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$11.18",
-          "price_brl": 68.19,
+          "price_original": "$11.19",
+          "price_brl": 68.25,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$11.51",
-          "price_brl": 70.2,
+          "price_original": "$11.53",
+          "price_brl": 70.32,
           "quantity": 1
         },
         {
@@ -8760,8 +8754,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$12.45",
-          "price_brl": 75.93,
+          "price_original": "$12.46",
+          "price_brl": 75.99,
           "quantity": 4
         },
         {
@@ -8772,8 +8766,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$15.73",
-          "price_brl": 95.94,
+          "price_original": "$15.67",
+          "price_brl": 95.57,
           "quantity": 1
         },
         {
@@ -8834,8 +8828,14 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$44.40",
-          "price_brl": 270.79,
+          "price_original": "$44.44",
+          "price_brl": 271.04,
+          "quantity": 1
+        },
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$46.02",
+          "price_brl": 280.67,
           "quantity": 1
         },
         {
@@ -8846,20 +8846,14 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$49.48",
-          "price_brl": 301.77,
+          "price_original": "$49.53",
+          "price_brl": 302.08,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$52.91",
           "price_brl": 322.69,
-          "quantity": 1
-        },
-        {
-          "expansion": "Part the Mistveil",
-          "price_original": "$53.40",
-          "price_brl": 325.68,
           "quantity": 1
         },
         {
@@ -8882,14 +8876,14 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$74.95",
-          "price_brl": 457.11,
+          "price_original": "$73.38",
+          "price_brl": 447.54,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$74.98",
-          "price_brl": 457.3,
+          "price_original": "$75.02",
+          "price_brl": 457.54,
           "quantity": 1
         },
         {
@@ -8912,8 +8906,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$107.92",
-          "price_brl": 658.19,
+          "price_original": "$108.02",
+          "price_brl": 658.8,
           "quantity": 1
         },
         {
@@ -11188,6 +11182,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-03-23T17:05:11",
+  "datetime_utc_minus3": "2026-03-23T18:04:55",
   "euro_rate": 6.0989
 }
