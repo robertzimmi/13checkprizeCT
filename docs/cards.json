@@ -542,7 +542,7 @@
           "expansion": "History Pack 1 - Black Label",
           "price_original": "R$806.22",
           "price_brl": 806.22,
-          "quantity": 3
+          "quantity": 2
         },
         {
           "expansion": "History Pack 1 - Black Label",
@@ -664,12 +664,6 @@
           "expansion": "Welcome to Rathe - Unlimited",
           "price_original": "$535.93",
           "price_brl": 3268.58,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$1,425.60",
-          "price_brl": 1425.6,
           "quantity": 1
         },
         {
@@ -826,20 +820,8 @@
         },
         {
           "expansion": "Welcome to Rathe - Alpha",
-          "price_original": "R$9,769.08",
-          "price_brl": 9769.08,
-          "quantity": 1
-        },
-        {
-          "expansion": "Welcome to Rathe - Alpha",
           "price_original": "R$10,570.64",
           "price_brl": 10570.64,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$133.06",
-          "price_brl": 133.06,
           "quantity": 1
         },
         {
@@ -1662,8 +1644,8 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$209.28",
-          "price_brl": 209.28,
+          "price_original": "R$203.02",
+          "price_brl": 203.02,
           "quantity": 3
         },
         {
@@ -1680,8 +1662,8 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "R$924.20",
-          "price_brl": 924.2,
+          "price_original": "R$924.78",
+          "price_brl": 924.78,
           "quantity": 1
         }
       ]
@@ -11206,6 +11188,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-03-23T13:03:16",
+  "datetime_utc_minus3": "2026-03-23T14:27:22",
   "euro_rate": 6.0989
 }
