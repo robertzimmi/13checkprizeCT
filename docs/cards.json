@@ -3956,13 +3956,13 @@
           "expansion": "Everfest - First",
           "price_original": "$4.12",
           "price_brl": 24.94,
-          "quantity": 3
+          "quantity": 1
         },
         {
           "expansion": "Everfest - First",
           "price_original": "$4.12",
           "price_brl": 24.94,
-          "quantity": 1
+          "quantity": 3
         },
         {
           "expansion": "Everfest - First",
@@ -11128,6 +11128,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-03-28T01:34:27",
+  "datetime_utc_minus3": "2026-03-28T03:00:32",
   "euro_rate": 6.0535
 }
