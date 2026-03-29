@@ -188,14 +188,14 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$35.79",
-          "price_brl": 216.65,
+          "price_original": "$35.81",
+          "price_brl": 216.78,
           "quantity": 1
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$35.80",
-          "price_brl": 216.72,
+          "price_original": "$35.82",
+          "price_brl": 216.84,
           "quantity": 8
         },
         {
@@ -206,8 +206,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$38.51",
-          "price_brl": 233.12,
+          "price_original": "$39.18",
+          "price_brl": 237.18,
           "quantity": 1
         },
         {
@@ -224,14 +224,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$42.39",
-          "price_brl": 256.61,
-          "quantity": 6
-        },
-        {
-          "expansion": "Compendium of Rathe",
-          "price_original": "$50.10",
-          "price_brl": 303.28,
+          "price_original": "$50.05",
+          "price_brl": 302.98,
           "quantity": 1
         },
         {
@@ -263,6 +257,12 @@
           "price_original": "$65.78",
           "price_brl": 398.2,
           "quantity": 1
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "$67.80",
+          "price_brl": 410.43,
+          "quantity": 6
         }
       ]
     },
@@ -590,12 +590,12 @@
           "expansion": "Compendium of Rathe",
           "price_original": "$120.63",
           "price_brl": 730.23,
-          "quantity": 1
+          "quantity": 2
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$150.12",
-          "price_brl": 908.75,
+          "price_original": "$150.19",
+          "price_brl": 909.18,
           "quantity": 4
         },
         {
@@ -1134,26 +1134,26 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$69.24",
-          "price_brl": 419.14,
+          "price_original": "$69.26",
+          "price_brl": 419.27,
           "quantity": 14
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$70.47",
-          "price_brl": 426.59,
+          "price_original": "$69.71",
+          "price_brl": 421.99,
+          "quantity": 1
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "$70.50",
+          "price_brl": 426.77,
           "quantity": 1
         },
         {
           "expansion": "Compendium of Rathe",
           "price_original": "$70.75",
           "price_brl": 428.29,
-          "quantity": 1
-        },
-        {
-          "expansion": "Compendium of Rathe",
-          "price_original": "$70.77",
-          "price_brl": 428.41,
           "quantity": 1
         },
         {
@@ -1176,8 +1176,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$83.09",
-          "price_brl": 502.99,
+          "price_original": "$83.12",
+          "price_brl": 503.17,
           "quantity": 1
         },
         {
@@ -4570,20 +4570,20 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$118.51",
-          "price_brl": 717.4,
+          "price_original": "$118.56",
+          "price_brl": 717.7,
           "quantity": 1
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$118.91",
-          "price_brl": 719.82,
+          "price_original": "$118.96",
+          "price_brl": 720.12,
           "quantity": 6
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$121.67",
-          "price_brl": 736.53,
+          "price_original": "$123.03",
+          "price_brl": 744.76,
           "quantity": 2
         },
         {
@@ -4612,8 +4612,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$147.43",
-          "price_brl": 892.47,
+          "price_original": "$147.49",
+          "price_brl": 892.83,
           "quantity": 1
         }
       ]
@@ -7690,8 +7690,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$154.64",
-          "price_brl": 936.11,
+          "price_original": "$154.71",
+          "price_brl": 936.54,
           "quantity": 5
         },
         {
@@ -8978,8 +8978,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$23.97",
-          "price_brl": 145.1,
+          "price_original": "$23.98",
+          "price_brl": 145.16,
           "quantity": 2
         },
         {
@@ -9264,8 +9264,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$95.42",
-          "price_brl": 577.62,
+          "price_original": "$95.46",
+          "price_brl": 577.87,
           "quantity": 10
         }
       ]
@@ -9588,8 +9588,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$127.50",
-          "price_brl": 771.82,
+          "price_original": "$127.55",
+          "price_brl": 772.12,
           "quantity": 7
         }
       ]
@@ -10128,12 +10128,6 @@
           "expansion": "Armory Deck: Arakni",
           "price_original": "$2.49",
           "price_brl": 15.07,
-          "quantity": 1
-        },
-        {
-          "expansion": "Armory Deck: Arakni",
-          "price_original": "$2.50",
-          "price_brl": 15.13,
           "quantity": 1
         },
         {
@@ -11110,6 +11104,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-03-29T08:33:39",
+  "datetime_utc_minus3": "2026-03-29T10:03:16",
   "euro_rate": 6.0535
 }
