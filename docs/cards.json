@@ -2616,8 +2616,8 @@
         },
         {
           "expansion": "Armory Events",
-          "price_original": "$227.02",
-          "price_brl": 1363.6,
+          "price_original": "$227.30",
+          "price_brl": 1365.28,
           "quantity": 3
         },
         {
@@ -2714,14 +2714,14 @@
       "records": [
         {
           "expansion": "Flesh and Blood Promos",
-          "price_original": "$220.53",
-          "price_brl": 1324.61,
+          "price_original": "$220.80",
+          "price_brl": 1326.24,
           "quantity": 1
         },
         {
           "expansion": "Flesh and Blood Promos",
-          "price_original": "$649.67",
-          "price_brl": 3902.24,
+          "price_original": "$650.47",
+          "price_brl": 3907.05,
           "quantity": 1
         },
         {
@@ -10822,6 +10822,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-04-01T07:09:35",
+  "datetime_utc_minus3": "2026-04-01T08:31:21",
   "euro_rate": 6.0065
 }
