@@ -1318,8 +1318,14 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$38.10",
-          "price_brl": 228.14,
+          "price_original": "$38.21",
+          "price_brl": 228.8,
+          "quantity": 1
+        },
+        {
+          "expansion": "Everfest - First",
+          "price_original": "$39.49",
+          "price_brl": 236.46,
           "quantity": 1
         },
         {
@@ -1330,26 +1336,26 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$56.84",
-          "price_brl": 340.35,
+          "price_original": "$56.99",
+          "price_brl": 341.25,
           "quantity": 2
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$71.46",
-          "price_brl": 427.9,
+          "price_original": "$71.65",
+          "price_brl": 429.03,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$78.78",
-          "price_brl": 471.73,
+          "price_original": "$79.52",
+          "price_brl": 476.16,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$83.45",
-          "price_brl": 499.69,
+          "price_original": "$84.23",
+          "price_brl": 504.36,
           "quantity": 1
         }
       ]
@@ -3776,25 +3782,25 @@
           "expansion": "Everfest - First",
           "price_original": "$4.12",
           "price_brl": 24.67,
-          "quantity": 2
+          "quantity": 3
         },
         {
           "expansion": "Everfest - First",
           "price_original": "$4.12",
           "price_brl": 24.67,
+          "quantity": 2
+        },
+        {
+          "expansion": "Everfest - First",
+          "price_original": "$4.21",
+          "price_brl": 25.21,
           "quantity": 3
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$4.19",
-          "price_brl": 25.09,
+          "price_original": "$4.23",
+          "price_brl": 25.33,
           "quantity": 1
-        },
-        {
-          "expansion": "Everfest - First",
-          "price_original": "$4.20",
-          "price_brl": 25.15,
-          "quantity": 3
         },
         {
           "expansion": "Everfest - First",
@@ -3810,74 +3816,74 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$7.41",
-          "price_brl": 44.37,
+          "price_original": "$7.49",
+          "price_brl": 44.85,
           "quantity": 4
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$7.94",
-          "price_brl": 47.54,
+          "price_original": "$8.01",
+          "price_brl": 47.96,
           "quantity": 5
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$10.23",
-          "price_brl": 61.26,
+          "price_original": "$10.26",
+          "price_brl": 61.44,
           "quantity": 7
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$12.54",
-          "price_brl": 75.09,
+          "price_original": "$12.20",
+          "price_brl": 73.05,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$13.02",
-          "price_brl": 77.96,
+          "price_original": "$13.14",
+          "price_brl": 78.68,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$13.19",
-          "price_brl": 78.98,
+          "price_original": "$13.31",
+          "price_brl": 79.7,
           "quantity": 2
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$13.28",
-          "price_brl": 79.52,
+          "price_original": "$13.40",
+          "price_brl": 80.24,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$17.16",
-          "price_brl": 102.75,
+          "price_original": "$17.32",
+          "price_brl": 103.71,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$18.15",
-          "price_brl": 108.68,
+          "price_original": "$18.19",
+          "price_brl": 108.92,
           "quantity": 2
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$19.76",
-          "price_brl": 118.32,
+          "price_original": "$19.94",
+          "price_brl": 119.4,
           "quantity": 3
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$22.06",
-          "price_brl": 132.09,
+          "price_original": "$22.11",
+          "price_brl": 132.39,
           "quantity": 2
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$23.22",
-          "price_brl": 139.04,
+          "price_original": "$23.44",
+          "price_brl": 140.36,
           "quantity": 1
         },
         {
@@ -3926,26 +3932,32 @@
       "records": [
         {
           "expansion": "Everfest - First",
-          "price_original": "$140.62",
-          "price_brl": 842.02,
+          "price_original": "$140.63",
+          "price_brl": 842.08,
+          "quantity": 3
+        },
+        {
+          "expansion": "Everfest - First",
+          "price_original": "$140.63",
+          "price_brl": 842.08,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$189.96",
-          "price_brl": 1137.46,
+          "price_original": "$190.47",
+          "price_brl": 1140.52,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$262.35",
-          "price_brl": 1570.93,
+          "price_original": "$262.36",
+          "price_brl": 1570.99,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$546.52",
-          "price_brl": 3272.51,
+          "price_original": "$551.61",
+          "price_brl": 3302.99,
           "quantity": 1
         }
       ]
@@ -3958,27 +3970,27 @@
       "records": [
         {
           "expansion": "Everfest - First",
-          "price_original": "$23.07",
-          "price_brl": 138.14,
+          "price_original": "$23.14",
+          "price_brl": 138.56,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$24.70",
-          "price_brl": 147.9,
+          "price_original": "$24.77",
+          "price_brl": 148.32,
           "quantity": 2
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$25.40",
-          "price_brl": 152.09,
+          "price_original": "$25.48",
+          "price_brl": 152.57,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
           "price_original": "$26.62",
           "price_brl": 159.4,
-          "quantity": 2
+          "quantity": 1
         },
         {
           "expansion": "Everfest - First",
@@ -3994,44 +4006,56 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$27.79",
-          "price_brl": 166.4,
+          "price_original": "$28.05",
+          "price_brl": 167.96,
           "quantity": 2
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$28.63",
-          "price_brl": 171.43,
+          "price_original": "$28.70",
+          "price_brl": 171.85,
           "quantity": 9
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$31.78",
-          "price_brl": 190.3,
+          "price_original": "$31.85",
+          "price_brl": 190.71,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$33.00",
-          "price_brl": 197.6,
+          "price_original": "$33.31",
+          "price_brl": 199.46,
           "quantity": 2
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$34.23",
-          "price_brl": 204.97,
+          "price_original": "$33.75",
+          "price_brl": 202.09,
+          "quantity": 3
+        },
+        {
+          "expansion": "Everfest - First",
+          "price_original": "$33.75",
+          "price_brl": 202.09,
+          "quantity": 1
+        },
+        {
+          "expansion": "Everfest - First",
+          "price_original": "$34.56",
+          "price_brl": 206.94,
           "quantity": 4
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$36.87",
-          "price_brl": 220.77,
+          "price_original": "$37.14",
+          "price_brl": 222.39,
           "quantity": 2
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$37.04",
-          "price_brl": 221.79,
+          "price_original": "$37.22",
+          "price_brl": 222.87,
           "quantity": 2
         },
         {
@@ -4042,14 +4066,14 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$38.67",
-          "price_brl": 231.55,
+          "price_original": "$38.78",
+          "price_brl": 232.21,
           "quantity": 2
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$52.65",
-          "price_brl": 315.26,
+          "price_original": "$53.13",
+          "price_brl": 318.14,
           "quantity": 1
         }
       ]
@@ -4074,21 +4098,21 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$11.07",
-          "price_brl": 66.29,
+          "price_original": "$10.78",
+          "price_brl": 64.55,
           "quantity": 3
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$14.20",
-          "price_brl": 85.03,
-          "quantity": 9
+          "price_original": "$14.32",
+          "price_brl": 85.75,
+          "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$14.28",
-          "price_brl": 85.51,
-          "quantity": 1
+          "price_original": "$14.34",
+          "price_brl": 85.87,
+          "quantity": 9
         },
         {
           "expansion": "Everfest - First",
@@ -4104,26 +4128,26 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$16.14",
-          "price_brl": 96.64,
+          "price_original": "$16.18",
+          "price_brl": 96.88,
           "quantity": 8
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$16.89",
-          "price_brl": 101.14,
+          "price_original": "$17.05",
+          "price_brl": 102.09,
           "quantity": 3
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$18.14",
-          "price_brl": 108.62,
+          "price_original": "$18.31",
+          "price_brl": 109.64,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$18.53",
-          "price_brl": 110.96,
+          "price_original": "$18.58",
+          "price_brl": 111.26,
           "quantity": 2
         },
         {
@@ -4134,56 +4158,56 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$19.11",
-          "price_brl": 114.43,
+          "price_original": "$19.29",
+          "price_brl": 115.51,
           "quantity": 3
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$19.39",
-          "price_brl": 116.11,
+          "price_original": "$19.56",
+          "price_brl": 117.12,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$22.81",
-          "price_brl": 136.58,
+          "price_original": "$23.03",
+          "price_brl": 137.9,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$26.94",
-          "price_brl": 161.31,
+          "price_original": "$25.27",
+          "price_brl": 151.31,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$31.71",
-          "price_brl": 189.88,
+          "price_original": "$27.19",
+          "price_brl": 162.81,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$36.88",
-          "price_brl": 220.83,
+          "price_original": "$37.23",
+          "price_brl": 222.93,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$40.08",
-          "price_brl": 240,
+          "price_original": "$40.18",
+          "price_brl": 240.59,
           "quantity": 3
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$45.67",
-          "price_brl": 273.47,
+          "price_original": "$46.09",
+          "price_brl": 275.98,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$98.28",
-          "price_brl": 588.49,
+          "price_original": "$99.19",
+          "price_brl": 593.94,
           "quantity": 3
         },
         {
@@ -7126,26 +7150,20 @@
       "records": [
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$1.10",
-          "price_brl": 6.59,
-          "quantity": 3
-        },
-        {
-          "expansion": "Heavy Hitters",
           "price_original": "$2.12",
           "price_brl": 12.69,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$2.98",
-          "price_brl": 17.84,
+          "price_original": "$3.02",
+          "price_brl": 18.08,
           "quantity": 6
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$3.02",
-          "price_brl": 18.08,
+          "price_original": "$3.03",
+          "price_brl": 18.14,
           "quantity": 1
         },
         {
@@ -7162,8 +7180,8 @@
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$3.21",
-          "price_brl": 19.22,
+          "price_original": "$3.22",
+          "price_brl": 19.28,
           "quantity": 1
         },
         {
@@ -7174,15 +7192,15 @@
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$3.54",
-          "price_brl": 21.2,
-          "quantity": 1
-        },
-        {
-          "expansion": "Heavy Hitters",
           "price_original": "$3.62",
           "price_brl": 21.68,
           "quantity": 6
+        },
+        {
+          "expansion": "Heavy Hitters",
+          "price_original": "$3.63",
+          "price_brl": 21.74,
+          "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
@@ -7198,62 +7216,62 @@
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$4.42",
-          "price_brl": 26.47,
+          "price_original": "$4.46",
+          "price_brl": 26.71,
           "quantity": 4
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$5.34",
-          "price_brl": 31.98,
+          "price_original": "$5.39",
+          "price_brl": 32.27,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$5.86",
-          "price_brl": 35.09,
+          "price_original": "$5.91",
+          "price_brl": 35.39,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$8.87",
-          "price_brl": 53.11,
+          "price_original": "$8.96",
+          "price_brl": 53.65,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$10.33",
-          "price_brl": 61.86,
+          "price_original": "$10.43",
+          "price_brl": 62.45,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$11.68",
-          "price_brl": 69.94,
+          "price_original": "$11.79",
+          "price_brl": 70.6,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$13.19",
-          "price_brl": 78.98,
+          "price_original": "$13.31",
+          "price_brl": 79.7,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$19.10",
-          "price_brl": 114.37,
+          "price_original": "$19.28",
+          "price_brl": 115.45,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$19.37",
-          "price_brl": 115.99,
+          "price_original": "$19.55",
+          "price_brl": 117.06,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$26.34",
-          "price_brl": 157.72,
+          "price_original": "$26.58",
+          "price_brl": 159.16,
           "quantity": 1
         }
       ]
@@ -7266,8 +7284,8 @@
       "records": [
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$145.62",
-          "price_brl": 871.96,
+          "price_original": "$145.63",
+          "price_brl": 872.02,
           "quantity": 1
         },
         {
@@ -7278,20 +7296,20 @@
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$163.17",
-          "price_brl": 977.05,
+          "price_original": "$163.60",
+          "price_brl": 979.62,
           "quantity": 4
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$182.55",
-          "price_brl": 1093.09,
+          "price_original": "$184.30",
+          "price_brl": 1103.57,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$241.58",
-          "price_brl": 1446.56,
+          "price_original": "$243.83",
+          "price_brl": 1460.03,
           "quantity": 1
         }
       ]
@@ -7322,14 +7340,14 @@
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$3.79",
-          "price_brl": 22.69,
+          "price_original": "$3.80",
+          "price_brl": 22.75,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$4.03",
-          "price_brl": 24.13,
+          "price_original": "$4.05",
+          "price_brl": 24.25,
           "quantity": 1
         },
         {
@@ -7364,8 +7382,8 @@
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$7.19",
-          "price_brl": 43.05,
+          "price_original": "$7.25",
+          "price_brl": 43.41,
           "quantity": 8
         },
         {
@@ -7376,50 +7394,50 @@
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$7.58",
-          "price_brl": 45.39,
+          "price_original": "$7.60",
+          "price_brl": 45.51,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$8.81",
-          "price_brl": 52.75,
+          "price_original": "$8.89",
+          "price_brl": 53.23,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$9.10",
-          "price_brl": 54.49,
+          "price_original": "$9.18",
+          "price_brl": 54.97,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$23.07",
-          "price_brl": 138.14,
+          "price_original": "$23.13",
+          "price_brl": 138.5,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$23.24",
-          "price_brl": 139.16,
+          "price_original": "$23.46",
+          "price_brl": 140.48,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$25.94",
-          "price_brl": 155.33,
+          "price_original": "$26.19",
+          "price_brl": 156.82,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$31.05",
-          "price_brl": 185.92,
+          "price_original": "$31.35",
+          "price_brl": 187.72,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$65.80",
-          "price_brl": 394,
+          "price_original": "$66.41",
+          "price_brl": 397.66,
           "quantity": 3
         }
       ]
@@ -7432,26 +7450,26 @@
       "records": [
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$132.73",
-          "price_brl": 794.77,
+          "price_original": "$132.72",
+          "price_brl": 794.71,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$153.85",
-          "price_brl": 921.24,
+          "price_original": "$154.26",
+          "price_brl": 923.69,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$155.75",
-          "price_brl": 932.62,
+          "price_original": "$156.09",
+          "price_brl": 934.65,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$245.74",
-          "price_brl": 1471.47,
+          "price_original": "$232.49",
+          "price_brl": 1392.13,
           "quantity": 1
         },
         {
@@ -7462,8 +7480,8 @@
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$436.47",
-          "price_brl": 2613.54,
+          "price_original": "$440.54",
+          "price_brl": 2637.91,
           "quantity": 1
         },
         {
@@ -7500,20 +7518,14 @@
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$82.49",
-          "price_brl": 493.94,
+          "price_original": "$82.48",
+          "price_brl": 493.88,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$103.12",
-          "price_brl": 617.47,
-          "quantity": 1
-        },
-        {
-          "expansion": "Heavy Hitters",
-          "price_original": "$108.02",
-          "price_brl": 646.81,
+          "price_original": "$103.40",
+          "price_brl": 619.15,
           "quantity": 1
         },
         {
@@ -7524,26 +7536,32 @@
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$130.71",
-          "price_brl": 782.68,
+          "price_original": "$109.02",
+          "price_brl": 652.8,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$130.76",
-          "price_brl": 782.98,
+          "price_original": "$131.06",
+          "price_brl": 784.77,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$181.87",
-          "price_brl": 1089.02,
+          "price_original": "$131.97",
+          "price_brl": 790.22,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$325.65",
-          "price_brl": 1949.96,
+          "price_original": "$183.57",
+          "price_brl": 1099.2,
+          "quantity": 1
+        },
+        {
+          "expansion": "Heavy Hitters",
+          "price_original": "$328.68",
+          "price_brl": 1968.1,
           "quantity": 1
         }
       ]
@@ -7556,8 +7574,8 @@
       "records": [
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$33.00",
-          "price_brl": 197.6,
+          "price_original": "$33.31",
+          "price_brl": 199.46,
           "quantity": 3
         },
         {
@@ -7574,14 +7592,20 @@
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$36.14",
-          "price_brl": 216.4,
+          "price_original": "$36.24",
+          "price_brl": 217,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$37.46",
-          "price_brl": 224.31,
+          "price_original": "$37.19",
+          "price_brl": 222.69,
+          "quantity": 1
+        },
+        {
+          "expansion": "Heavy Hitters",
+          "price_original": "$37.55",
+          "price_brl": 224.85,
           "quantity": 1
         },
         {
@@ -7592,14 +7616,14 @@
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$46.15",
-          "price_brl": 276.34,
+          "price_original": "$46.58",
+          "price_brl": 278.92,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$65.80",
-          "price_brl": 394,
+          "price_original": "$66.41",
+          "price_brl": 397.66,
           "quantity": 3
         }
       ]
@@ -10804,6 +10828,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-04-02T02:10:17",
+  "datetime_utc_minus3": "2026-04-02T03:50:13",
   "euro_rate": 5.9879
 }
