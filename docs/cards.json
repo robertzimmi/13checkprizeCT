@@ -10708,44 +10708,50 @@
         },
         {
           "expansion": "Armory Deck: Arakni",
-          "price_original": "R$7.60",
-          "price_brl": 7.6,
+          "price_original": "R$7.66",
+          "price_brl": 7.66,
           "quantity": 1
         },
         {
           "expansion": "Armory Deck: Arakni",
-          "price_original": "R$7.66",
-          "price_brl": 7.66,
+          "price_original": "R$7.73",
+          "price_brl": 7.73,
           "quantity": 4
         },
         {
           "expansion": "Armory Deck: Arakni",
-          "price_original": "R$8.50",
-          "price_brl": 8.5,
+          "price_original": "R$8.58",
+          "price_brl": 8.58,
           "quantity": 4
         },
         {
           "expansion": "Armory Deck: Arakni",
-          "price_original": "R$9.59",
-          "price_brl": 9.59,
+          "price_original": "R$9.66",
+          "price_brl": 9.66,
           "quantity": 3
         },
         {
           "expansion": "Armory Deck: Arakni",
-          "price_original": "R$13.72",
-          "price_brl": 13.72,
+          "price_original": "R$10.34",
+          "price_brl": 10.34,
+          "quantity": 3
+        },
+        {
+          "expansion": "Armory Deck: Arakni",
+          "price_original": "R$13.86",
+          "price_brl": 13.86,
           "quantity": 9
         },
         {
           "expansion": "Armory Deck: Arakni",
-          "price_original": "R$19.15",
-          "price_brl": 19.15,
+          "price_original": "R$19.33",
+          "price_brl": 19.33,
           "quantity": 6
         },
         {
           "expansion": "Armory Deck: Arakni",
-          "price_original": "R$53.28",
-          "price_brl": 53.28,
+          "price_original": "R$53.76",
+          "price_brl": 53.76,
           "quantity": 2
         }
       ]
@@ -11872,6 +11878,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-04-25T11:46:10",
+  "datetime_utc_minus3": "2026-04-25T12:42:41",
   "euro_rate": 5.8567
 }
