@@ -1158,15 +1158,15 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$83.74",
-          "price_brl": 490.44,
-          "quantity": 2
+          "price_original": "$83.73",
+          "price_brl": 490.38,
+          "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$86.12",
-          "price_brl": 504.38,
-          "quantity": 1
+          "price_original": "$83.76",
+          "price_brl": 490.56,
+          "quantity": 2
         },
         {
           "expansion": "The Hunted",
@@ -1182,20 +1182,20 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$100.08",
-          "price_brl": 586.14,
+          "price_original": "$100.10",
+          "price_brl": 586.26,
           "quantity": 7
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$100.95",
-          "price_brl": 591.23,
+          "price_original": "$100.97",
+          "price_brl": 591.35,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$404.43",
-          "price_brl": 2368.63,
+          "price_original": "$404.48",
+          "price_brl": 2368.92,
           "quantity": 1
         },
         {
@@ -8542,8 +8542,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$34.32",
-          "price_brl": 201,
+          "price_original": "$34.12",
+          "price_brl": 199.83,
           "quantity": 1
         },
         {
@@ -8596,14 +8596,14 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$42.01",
-          "price_brl": 246.04,
+          "price_original": "$42.02",
+          "price_brl": 246.1,
           "quantity": 5
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$42.26",
-          "price_brl": 247.5,
+          "price_original": "$42.27",
+          "price_brl": 247.56,
           "quantity": 1
         },
         {
@@ -8611,6 +8611,12 @@
           "price_original": "$44.36",
           "price_brl": 259.8,
           "quantity": 1
+        },
+        {
+          "expansion": "Part the Mistveil",
+          "price_original": "$46.16",
+          "price_brl": 270.35,
+          "quantity": 3
         },
         {
           "expansion": "Part the Mistveil",
@@ -8718,8 +8724,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$57.46",
-          "price_brl": 336.53,
+          "price_original": "$57.47",
+          "price_brl": 336.58,
           "quantity": 2
         },
         {
@@ -8748,8 +8754,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$225.47",
-          "price_brl": 1320.51,
+          "price_original": "$224.81",
+          "price_brl": 1316.64,
           "quantity": 1
         },
         {
@@ -8798,8 +8804,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$16.69",
-          "price_brl": 97.75,
+          "price_original": "$16.63",
+          "price_brl": 97.4,
           "quantity": 1
         },
         {
@@ -8840,8 +8846,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$41.10",
-          "price_brl": 240.71,
+          "price_original": "$41.11",
+          "price_brl": 240.77,
           "quantity": 1
         },
         {
@@ -8864,8 +8870,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$54.03",
-          "price_brl": 316.44,
+          "price_original": "$53.98",
+          "price_brl": 316.14,
           "quantity": 1
         },
         {
@@ -8896,8 +8902,8 @@
       "records": [
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$15.20",
-          "price_brl": 89.02,
+          "price_original": "$15.14",
+          "price_brl": 88.67,
           "quantity": 1
         },
         {
@@ -8920,8 +8926,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$73.47",
-          "price_brl": 430.29,
+          "price_original": "$73.48",
+          "price_brl": 430.35,
           "quantity": 1
         },
         {
@@ -8944,8 +8950,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$13,182.52",
-          "price_brl": 77206.06,
+          "price_original": "$13,169.33",
+          "price_brl": 77128.82,
           "quantity": 1
         }
       ]
@@ -9024,8 +9030,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$7.49",
-          "price_brl": 43.87,
+          "price_original": "$7.47",
+          "price_brl": 43.75,
           "quantity": 1
         },
         {
@@ -9134,21 +9140,15 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$7.15",
-          "price_brl": 41.88,
-          "quantity": 2
+          "price_original": "$7.66",
+          "price_brl": 44.86,
+          "quantity": 3
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$7.66",
           "price_brl": 44.86,
           "quantity": 1
-        },
-        {
-          "expansion": "Part the Mistveil",
-          "price_original": "$7.66",
-          "price_brl": 44.86,
-          "quantity": 3
         },
         {
           "expansion": "Part the Mistveil",
@@ -9164,8 +9164,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$8.19",
-          "price_brl": 47.97,
+          "price_original": "$7.80",
+          "price_brl": 45.68,
           "quantity": 1
         },
         {
@@ -9176,15 +9176,15 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$8.77",
-          "price_brl": 51.36,
-          "quantity": 1
+          "price_original": "$8.76",
+          "price_brl": 51.3,
+          "quantity": 2
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$8.77",
           "price_brl": 51.36,
-          "quantity": 2
+          "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
@@ -9224,14 +9224,14 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$18.85",
-          "price_brl": 110.4,
+          "price_original": "$18.79",
+          "price_brl": 110.05,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$18.87",
-          "price_brl": 110.52,
+          "price_original": "$18.81",
+          "price_brl": 110.16,
           "quantity": 1
         },
         {
@@ -9334,9 +9334,9 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$40.23",
-          "price_brl": 235.62,
-          "quantity": 1
+          "price_original": "$41.60",
+          "price_brl": 243.64,
+          "quantity": 2
         },
         {
           "expansion": "Part the Mistveil",
@@ -9358,8 +9358,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$58.70",
-          "price_brl": 343.79,
+          "price_original": "$58.71",
+          "price_brl": 343.85,
           "quantity": 1
         }
       ]
@@ -9372,15 +9372,15 @@
       "records": [
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$3.44",
-          "price_brl": 20.15,
-          "quantity": 2
+          "price_original": "$3.41",
+          "price_brl": 19.97,
+          "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$4.18",
-          "price_brl": 24.48,
-          "quantity": 1
+          "price_original": "$3.44",
+          "price_brl": 20.15,
+          "quantity": 2
         },
         {
           "expansion": "Part the Mistveil",
@@ -9402,8 +9402,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$4.53",
-          "price_brl": 26.53,
+          "price_original": "$4.45",
+          "price_brl": 26.06,
           "quantity": 1
         },
         {
@@ -9444,14 +9444,14 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$5.63",
-          "price_brl": 32.97,
+          "price_original": "$5.59",
+          "price_brl": 32.74,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$5.63",
-          "price_brl": 32.97,
+          "price_original": "$5.59",
+          "price_brl": 32.74,
           "quantity": 1
         },
         {
@@ -9464,7 +9464,7 @@
           "expansion": "Part the Mistveil",
           "price_original": "$6.15",
           "price_brl": 36.02,
-          "quantity": 2
+          "quantity": 4
         },
         {
           "expansion": "Part the Mistveil",
@@ -9486,8 +9486,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$7.31",
-          "price_brl": 42.81,
+          "price_original": "$7.28",
+          "price_brl": 42.64,
           "quantity": 1
         },
         {
@@ -9500,13 +9500,13 @@
           "expansion": "Part the Mistveil",
           "price_original": "$7.65",
           "price_brl": 44.8,
-          "quantity": 1
+          "quantity": 4
         },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$7.65",
           "price_brl": 44.8,
-          "quantity": 4
+          "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
@@ -9552,14 +9552,14 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$10.94",
-          "price_brl": 64.07,
+          "price_original": "$10.95",
+          "price_brl": 64.13,
           "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$11.55",
-          "price_brl": 67.64,
+          "price_original": "$11.56",
+          "price_brl": 67.7,
           "quantity": 1
         },
         {
@@ -9600,8 +9600,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$23.03",
-          "price_brl": 134.88,
+          "price_original": "$22.97",
+          "price_brl": 134.53,
           "quantity": 1
         },
         {
@@ -9650,15 +9650,9 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$29.46",
-          "price_brl": 172.54,
+          "price_original": "$29.47",
+          "price_brl": 172.6,
           "quantity": 1
-        },
-        {
-          "expansion": "Part the Mistveil",
-          "price_original": "$31.46",
-          "price_brl": 184.25,
-          "quantity": 2
         },
         {
           "expansion": "Part the Mistveil",
@@ -9698,8 +9692,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$60.69",
-          "price_brl": 355.44,
+          "price_original": "$60.70",
+          "price_brl": 355.5,
           "quantity": 1
         },
         {
@@ -9716,8 +9710,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$71.26",
-          "price_brl": 417.35,
+          "price_original": "$71.27",
+          "price_brl": 417.41,
           "quantity": 2
         },
         {
@@ -9790,8 +9784,8 @@
       "records": [
         {
           "expansion": "Rosetta",
-          "price_original": "$113.34",
-          "price_brl": 663.8,
+          "price_original": "$115.98",
+          "price_brl": 679.26,
           "quantity": 1
         },
         {
@@ -9820,14 +9814,14 @@
         },
         {
           "expansion": "Rosetta",
-          "price_original": "$152.95",
-          "price_brl": 895.78,
+          "price_original": "$152.96",
+          "price_brl": 895.84,
           "quantity": 1
         },
         {
           "expansion": "Rosetta",
-          "price_original": "$13,195.73",
-          "price_brl": 77283.43,
+          "price_original": "$13,182.52",
+          "price_brl": 77206.06,
           "quantity": 1
         }
       ]
@@ -9846,14 +9840,14 @@
         },
         {
           "expansion": "Rosetta",
-          "price_original": "$37.71",
-          "price_brl": 220.86,
+          "price_original": "$37.72",
+          "price_brl": 220.91,
           "quantity": 3
         },
         {
           "expansion": "Rosetta",
-          "price_original": "$41.40",
-          "price_brl": 242.47,
+          "price_original": "$41.41",
+          "price_brl": 242.53,
           "quantity": 3
         },
         {
@@ -9908,8 +9902,8 @@
         },
         {
           "expansion": "Rosetta",
-          "price_original": "$68.59",
-          "price_brl": 401.71,
+          "price_original": "$68.43",
+          "price_brl": 400.77,
           "quantity": 1
         }
       ]
@@ -9922,8 +9916,8 @@
       "records": [
         {
           "expansion": "Rosetta",
-          "price_original": "$66.96",
-          "price_brl": 392.16,
+          "price_original": "$66.98",
+          "price_brl": 392.28,
           "quantity": 3
         },
         {
@@ -9946,8 +9940,8 @@
         },
         {
           "expansion": "Rosetta",
-          "price_original": "$87.02",
-          "price_brl": 509.65,
+          "price_original": "$87.85",
+          "price_brl": 514.51,
           "quantity": 1
         },
         {
@@ -9990,14 +9984,14 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$81.71",
-          "price_brl": 478.55,
+          "price_original": "$81.72",
+          "price_brl": 478.61,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$83.50",
-          "price_brl": 489.03,
+          "price_original": "$83.51",
+          "price_brl": 489.09,
           "quantity": 1
         },
         {
@@ -10008,8 +10002,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$88.89",
-          "price_brl": 520.6,
+          "price_original": "$88.90",
+          "price_brl": 520.66,
           "quantity": 2
         },
         {
@@ -10020,8 +10014,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$95.81",
-          "price_brl": 561.13,
+          "price_original": "$95.82",
+          "price_brl": 561.19,
           "quantity": 3
         },
         {
@@ -10032,9 +10026,15 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$98.39",
-          "price_brl": 576.24,
+          "price_original": "$98.40",
+          "price_brl": 576.3,
           "quantity": 22
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "$99.38",
+          "price_brl": 582.04,
+          "quantity": 1
         },
         {
           "expansion": "The Hunted",
@@ -10044,20 +10044,14 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$99.41",
-          "price_brl": 582.21,
+          "price_original": "$101.65",
+          "price_brl": 595.33,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$101.64",
-          "price_brl": 595.27,
-          "quantity": 1
-        },
-        {
-          "expansion": "The Hunted",
-          "price_original": "$101.69",
-          "price_brl": 595.57,
+          "price_original": "$101.70",
+          "price_brl": 595.63,
           "quantity": 6
         },
         {
@@ -10074,20 +10068,20 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$342.20",
-          "price_brl": 2004.16,
+          "price_original": "$342.24",
+          "price_brl": 2004.4,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$422.51",
-          "price_brl": 2474.51,
+          "price_original": "$422.56",
+          "price_brl": 2474.81,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$423.13",
-          "price_brl": 2478.15,
+          "price_original": "$423.20",
+          "price_brl": 2478.56,
           "quantity": 1
         },
         {
@@ -10154,14 +10148,14 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$86.80",
-          "price_brl": 508.36,
+          "price_original": "$86.65",
+          "price_brl": 507.48,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$87.95",
-          "price_brl": 515.1,
+          "price_original": "$86.80",
+          "price_brl": 508.36,
           "quantity": 1
         },
         {
@@ -10172,14 +10166,14 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$90.77",
-          "price_brl": 531.61,
+          "price_original": "$90.78",
+          "price_brl": 531.67,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$94.69",
-          "price_brl": 554.57,
+          "price_original": "$94.43",
+          "price_brl": 553.05,
           "quantity": 1
         },
         {
@@ -10190,27 +10184,33 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$101.68",
-          "price_brl": 595.51,
+          "price_original": "$101.70",
+          "price_brl": 595.63,
           "quantity": 5
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$104.15",
-          "price_brl": 609.98,
+          "price_original": "$102.97",
+          "price_brl": 603.06,
+          "quantity": 2
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "$104.16",
+          "price_brl": 610.03,
           "quantity": 4
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$106.64",
-          "price_brl": 624.56,
+          "price_original": "$106.66",
+          "price_brl": 624.68,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$108.33",
-          "price_brl": 634.46,
-          "quantity": 2
+          "price_original": "$117.07",
+          "price_brl": 685.64,
+          "quantity": 1
         },
         {
           "expansion": "The Hunted",
@@ -10232,14 +10232,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$42.56",
-          "price_brl": 249.26,
-          "quantity": 1
-        },
-        {
-          "expansion": "The Hunted",
-          "price_original": "$43.83",
-          "price_brl": 256.7,
+          "price_original": "$43.55",
+          "price_brl": 255.06,
           "quantity": 1
         },
         {
@@ -10250,9 +10244,15 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$45.66",
-          "price_brl": 267.42,
+          "price_original": "$45.67",
+          "price_brl": 267.48,
           "quantity": 6
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "$46.57",
+          "price_brl": 272.75,
+          "quantity": 1
         },
         {
           "expansion": "The Hunted",
@@ -10280,8 +10280,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$13,103.55",
-          "price_brl": 76743.56,
+          "price_original": "$13,090.44",
+          "price_brl": 76666.78,
           "quantity": 1
         }
       ]
@@ -10302,13 +10302,13 @@
           "expansion": "The Hunted",
           "price_original": "$40.50",
           "price_brl": 237.2,
-          "quantity": 7
+          "quantity": 1
         },
         {
           "expansion": "The Hunted",
           "price_original": "$40.50",
           "price_brl": 237.2,
-          "quantity": 1
+          "quantity": 7
         },
         {
           "expansion": "The Hunted",
@@ -10324,20 +10324,20 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$55.04",
-          "price_brl": 322.35,
+          "price_original": "$55.05",
+          "price_brl": 322.41,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$57.04",
-          "price_brl": 334.07,
+          "price_original": "$57.05",
+          "price_brl": 334.12,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$58.26",
-          "price_brl": 341.21,
+          "price_original": "$58.27",
+          "price_brl": 341.27,
           "quantity": 14
         },
         {
@@ -10348,14 +10348,26 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$78.26",
-          "price_brl": 458.35,
+          "price_original": "$67.83",
+          "price_brl": 397.26,
+          "quantity": 1
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "$78.28",
+          "price_brl": 458.46,
           "quantity": 8
         },
         {
           "expansion": "The Hunted",
           "price_original": "$93.48",
           "price_brl": 547.48,
+          "quantity": 1
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "$96.80",
+          "price_brl": 566.93,
           "quantity": 1
         },
         {
@@ -10392,15 +10404,9 @@
       "records": [
         {
           "expansion": "The Hunted",
-          "price_original": "$100.32",
-          "price_brl": 587.54,
+          "price_original": "$100.33",
+          "price_brl": 587.6,
           "quantity": 2
-        },
-        {
-          "expansion": "The Hunted",
-          "price_original": "$100.36",
-          "price_brl": 587.78,
-          "quantity": 1
         },
         {
           "expansion": "The Hunted",
@@ -10410,8 +10416,14 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$112.69",
-          "price_brl": 659.99,
+          "price_original": "$108.14",
+          "price_brl": 633.34,
+          "quantity": 1
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "$112.72",
+          "price_brl": 660.17,
           "quantity": 5
         },
         {
@@ -10440,20 +10452,26 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$168.18",
-          "price_brl": 984.98,
+          "price_original": "$168.20",
+          "price_brl": 985.1,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$197.70",
-          "price_brl": 1157.87,
+          "price_original": "$186.09",
+          "price_brl": 1089.87,
+          "quantity": 1
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "$197.73",
+          "price_brl": 1158.05,
           "quantity": 5
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$203.81",
-          "price_brl": 1193.65,
+          "price_original": "$203.83",
+          "price_brl": 1193.77,
           "quantity": 4
         },
         {
@@ -10514,8 +10532,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$36.11",
-          "price_brl": 211.49,
+          "price_original": "$36.13",
+          "price_brl": 211.6,
           "quantity": 26
         },
         {
@@ -10538,14 +10556,14 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$37.71",
-          "price_brl": 220.86,
+          "price_original": "$37.72",
+          "price_brl": 220.91,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$37.87",
-          "price_brl": 221.79,
+          "price_original": "$37.88",
+          "price_brl": 221.85,
           "quantity": 7
         },
         {
@@ -10556,8 +10574,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$41.41",
-          "price_brl": 242.53,
+          "price_original": "$41.30",
+          "price_brl": 241.88,
           "quantity": 1
         },
         {
@@ -10574,12 +10592,6 @@
       "price_target_brl": 49.2,
       "tag": "ninja",
       "records": [
-        {
-          "expansion": "The Hunted",
-          "price_original": "$6.64",
-          "price_brl": 38.89,
-          "quantity": 1
-        },
         {
           "expansion": "The Hunted",
           "price_original": "$7.15",
@@ -10618,8 +10630,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$8.44",
-          "price_brl": 49.43,
+          "price_original": "$8.45",
+          "price_brl": 49.49,
           "quantity": 1
         },
         {
@@ -10740,8 +10752,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$16.78",
-          "price_brl": 98.28,
+          "price_original": "$16.79",
+          "price_brl": 98.33,
           "quantity": 9
         },
         {
@@ -10764,8 +10776,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$13,182.52",
-          "price_brl": 77206.06,
+          "price_original": "$13,169.33",
+          "price_brl": 77128.82,
           "quantity": 1
         }
       ]
@@ -10778,8 +10790,8 @@
       "records": [
         {
           "expansion": "The Hunted",
-          "price_original": "$37.71",
-          "price_brl": 220.86,
+          "price_original": "$37.72",
+          "price_brl": 220.91,
           "quantity": 1
         },
         {
@@ -10796,14 +10808,14 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$44.32",
-          "price_brl": 259.57,
+          "price_original": "$44.33",
+          "price_brl": 259.63,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$46.15",
-          "price_brl": 270.29,
+          "price_original": "$46.16",
+          "price_brl": 270.35,
           "quantity": 1
         },
         {
@@ -10814,20 +10826,20 @@
         },
         {
           "expansion": "The Hunted",
+          "price_original": "$51.46",
+          "price_brl": 301.39,
+          "quantity": 1
+        },
+        {
+          "expansion": "The Hunted",
           "price_original": "$51.56",
           "price_brl": 301.97,
           "quantity": 5
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$53.09",
-          "price_brl": 310.93,
-          "quantity": 1
-        },
-        {
-          "expansion": "The Hunted",
-          "price_original": "$53.38",
-          "price_brl": 312.63,
+          "price_original": "$53.39",
+          "price_brl": 312.69,
           "quantity": 1
         },
         {
@@ -10862,8 +10874,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$99.19",
-          "price_brl": 580.93,
+          "price_original": "$92.65",
+          "price_brl": 542.62,
           "quantity": 1
         },
         {
@@ -10874,8 +10886,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$104.16",
-          "price_brl": 610.03,
+          "price_original": "$104.17",
+          "price_brl": 610.09,
           "quantity": 2
         },
         {
@@ -10900,8 +10912,8 @@
       "records": [
         {
           "expansion": "The Hunted",
-          "price_original": "$2.60",
-          "price_brl": 15.23,
+          "price_original": "$2.45",
+          "price_brl": 14.35,
           "quantity": 1
         },
         {
@@ -10909,6 +10921,12 @@
           "price_original": "$2.65",
           "price_brl": 15.52,
           "quantity": 11
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "$2.86",
+          "price_brl": 16.75,
+          "quantity": 16
         },
         {
           "expansion": "The Hunted",
@@ -10933,12 +10951,6 @@
           "price_original": "$3.03",
           "price_brl": 17.75,
           "quantity": 1
-        },
-        {
-          "expansion": "The Hunted",
-          "price_original": "$3.03",
-          "price_brl": 17.75,
-          "quantity": 16
         },
         {
           "expansion": "The Hunted",
@@ -11011,12 +11023,6 @@
           "price_original": "$5.12",
           "price_brl": 29.99,
           "quantity": 1
-        },
-        {
-          "expansion": "The Hunted",
-          "price_original": "$5.12",
-          "price_brl": 29.99,
-          "quantity": 2
         },
         {
           "expansion": "The Hunted",
@@ -11150,7 +11156,7 @@
           "expansion": "The Hunted",
           "price_original": "$13.36",
           "price_brl": 78.25,
-          "quantity": 7
+          "quantity": 6
         },
         {
           "expansion": "The Hunted",
@@ -11190,8 +11196,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$20.50",
-          "price_brl": 120.06,
+          "price_original": "$20.45",
+          "price_brl": 119.77,
           "quantity": 1
         },
         {
@@ -11238,8 +11244,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$37.71",
-          "price_brl": 220.86,
+          "price_original": "$37.72",
+          "price_brl": 220.91,
           "quantity": 10
         },
         {
@@ -11262,26 +11268,26 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$111.70",
-          "price_brl": 654.19,
+          "price_original": "$116.22",
+          "price_brl": 680.67,
           "quantity": 7
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$96.02",
-          "price_brl": 562.36,
+          "price_original": "$96.04",
+          "price_brl": 562.48,
           "quantity": 2
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$111.05",
-          "price_brl": 650.39,
+          "price_original": "$111.06",
+          "price_brl": 650.45,
           "quantity": 3
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$111.70",
-          "price_brl": 654.19,
+          "price_original": "$116.22",
+          "price_brl": 680.67,
           "quantity": 2
         },
         {
@@ -11292,14 +11298,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$130.64",
-          "price_brl": 765.12,
-          "quantity": 2
-        },
-        {
-          "expansion": "The Hunted",
-          "price_original": "$132.28",
-          "price_brl": 774.72,
+          "price_original": "$122.05",
+          "price_brl": 714.81,
           "quantity": 1
         },
         {
@@ -11324,14 +11324,14 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$62.77",
-          "price_brl": 367.63,
+          "price_original": "$62.78",
+          "price_brl": 367.68,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$72.12",
-          "price_brl": 422.39,
+          "price_original": "$72.13",
+          "price_brl": 422.44,
           "quantity": 10
         },
         {
@@ -11354,15 +11354,9 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$104.94",
-          "price_brl": 614.6,
+          "price_original": "$104.97",
+          "price_brl": 614.78,
           "quantity": 2
-        },
-        {
-          "expansion": "The Hunted",
-          "price_original": "$38.86",
-          "price_brl": 227.59,
-          "quantity": 1
         },
         {
           "expansion": "The Hunted",
@@ -11372,32 +11366,38 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$43.10",
-          "price_brl": 252.42,
+          "price_original": "$43.11",
+          "price_brl": 252.48,
           "quantity": 15
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$47.80",
-          "price_brl": 279.95,
-          "quantity": 2
-        },
-        {
-          "expansion": "The Hunted",
-          "price_original": "$48.61",
-          "price_brl": 284.69,
-          "quantity": 6
-        },
-        {
-          "expansion": "The Hunted",
-          "price_original": "$49.00",
-          "price_brl": 286.98,
+          "price_original": "$43.76",
+          "price_brl": 256.29,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$50.09",
-          "price_brl": 293.36,
+          "price_original": "$47.81",
+          "price_brl": 280.01,
+          "quantity": 2
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "$48.62",
+          "price_brl": 284.75,
+          "quantity": 6
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "$48.87",
+          "price_brl": 286.22,
+          "quantity": 1
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "$49.16",
+          "price_brl": 287.92,
           "quantity": 1
         },
         {
@@ -11416,8 +11416,8 @@
       "records": [
         {
           "expansion": "The Hunted",
-          "price_original": "$27.80",
-          "price_brl": 162.82,
+          "price_original": "$27.81",
+          "price_brl": 162.87,
           "quantity": 3
         },
         {
@@ -11440,14 +11440,14 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$32.68",
-          "price_brl": 191.4,
+          "price_original": "$32.18",
+          "price_brl": 188.47,
           "quantity": 1
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$34.42",
-          "price_brl": 201.59,
+          "price_original": "$33.84",
+          "price_brl": 198.19,
           "quantity": 2
         },
         {
@@ -11464,8 +11464,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$37.71",
-          "price_brl": 220.86,
+          "price_original": "$37.72",
+          "price_brl": 220.91,
           "quantity": 3
         },
         {
@@ -12292,6 +12292,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-04-26T09:06:06",
+  "datetime_utc_minus3": "2026-04-26T10:47:49",
   "euro_rate": 5.8567
 }
