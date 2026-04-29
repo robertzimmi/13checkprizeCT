@@ -2795,6 +2795,152 @@
       ]
     },
     {
+      "name": "Overcrowded",
+      "price_target": 6.5,
+      "price_target_brl": 37.93,
+      "tag": "other",
+      "records": [
+        {
+          "expansion": "Armory Events",
+          "price_original": "$127.95",
+          "price_brl": 746.7,
+          "quantity": 1
+        },
+        {
+          "expansion": "Armory Events",
+          "price_original": "$132.83",
+          "price_brl": 775.18,
+          "quantity": 2
+        },
+        {
+          "expansion": "Armory Events",
+          "price_original": "$230.89",
+          "price_brl": 1347.45,
+          "quantity": 3
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$11.40",
+          "price_brl": 66.53,
+          "quantity": 1
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$11.41",
+          "price_brl": 66.59,
+          "quantity": 4
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$13.54",
+          "price_brl": 79.02,
+          "quantity": 1
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$14.95",
+          "price_brl": 87.25,
+          "quantity": 2
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$15.14",
+          "price_brl": 88.36,
+          "quantity": 3
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$15.24",
+          "price_brl": 88.94,
+          "quantity": 1
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$17.74",
+          "price_brl": 103.53,
+          "quantity": 1
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$20.10",
+          "price_brl": 117.3,
+          "quantity": 1
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$21.46",
+          "price_brl": 125.24,
+          "quantity": 1
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$22.40",
+          "price_brl": 130.72,
+          "quantity": 3
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$22.60",
+          "price_brl": 131.89,
+          "quantity": 3
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$24.11",
+          "price_brl": 140.7,
+          "quantity": 5
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$24.16",
+          "price_brl": 141,
+          "quantity": 3
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$26.74",
+          "price_brl": 156.05,
+          "quantity": 2
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$26.76",
+          "price_brl": 156.17,
+          "quantity": 3
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$29.56",
+          "price_brl": 172.51,
+          "quantity": 2
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$32.07",
+          "price_brl": 187.16,
+          "quantity": 1
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$32.86",
+          "price_brl": 191.77,
+          "quantity": 3
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$35.52",
+          "price_brl": 207.29,
+          "quantity": 2
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$40.12",
+          "price_brl": 234.14,
+          "quantity": 1
+        }
+      ]
+    },
+    {
       "name": "Spellbound Creepers",
       "price_target": 1,
       "price_target_brl": 5.84,
@@ -11815,134 +11961,6 @@
       ]
     },
     {
-      "name": "Overcrowded",
-      "price_target": 6.5,
-      "price_target_brl": 37.93,
-      "tag": "other",
-      "records": [
-        {
-          "expansion": "Super Slam",
-          "price_original": "$11.40",
-          "price_brl": 66.53,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$11.41",
-          "price_brl": 66.59,
-          "quantity": 4
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$13.54",
-          "price_brl": 79.02,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$14.95",
-          "price_brl": 87.25,
-          "quantity": 2
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$15.14",
-          "price_brl": 88.36,
-          "quantity": 3
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$15.24",
-          "price_brl": 88.94,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$17.74",
-          "price_brl": 103.53,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$20.10",
-          "price_brl": 117.3,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$21.46",
-          "price_brl": 125.24,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$22.40",
-          "price_brl": 130.72,
-          "quantity": 3
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$22.60",
-          "price_brl": 131.89,
-          "quantity": 3
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$24.11",
-          "price_brl": 140.7,
-          "quantity": 5
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$24.16",
-          "price_brl": 141,
-          "quantity": 3
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$26.74",
-          "price_brl": 156.05,
-          "quantity": 2
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$26.76",
-          "price_brl": 156.17,
-          "quantity": 3
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$29.56",
-          "price_brl": 172.51,
-          "quantity": 2
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$32.07",
-          "price_brl": 187.16,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$32.86",
-          "price_brl": 191.77,
-          "quantity": 3
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$35.52",
-          "price_brl": 207.29,
-          "quantity": 2
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$40.12",
-          "price_brl": 234.14,
-          "quantity": 1
-        }
-      ]
-    },
-    {
       "name": "Cutting Retort",
       "price_target": 1.7,
       "price_target_brl": 9.92,
@@ -12142,6 +12160,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-04-29T19:34:47",
+  "datetime_utc_minus3": "2026-04-29T20:57:42",
   "euro_rate": 5.8359
 }
