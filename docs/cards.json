@@ -10996,62 +10996,68 @@
         },
         {
           "expansion": "Armory Deck: Arakni",
-          "price_original": "R$7.63",
-          "price_brl": 7.63,
+          "price_original": "$1.45",
+          "price_brl": 8.45,
           "quantity": 1
         },
         {
           "expansion": "Armory Deck: Arakni",
-          "price_original": "R$7.70",
-          "price_brl": 7.7,
+          "price_original": "$1.46",
+          "price_brl": 8.51,
           "quantity": 4
         },
         {
           "expansion": "Armory Deck: Arakni",
-          "price_original": "R$8.50",
-          "price_brl": 8.5,
+          "price_original": "$1.60",
+          "price_brl": 9.33,
           "quantity": 4
         },
         {
           "expansion": "Armory Deck: Arakni",
-          "price_original": "R$9.64",
-          "price_brl": 9.64,
+          "price_original": "$1.61",
+          "price_brl": 9.39,
+          "quantity": 4
+        },
+        {
+          "expansion": "Armory Deck: Arakni",
+          "price_original": "$1.61",
+          "price_brl": 9.39,
           "quantity": 3
         },
         {
           "expansion": "Armory Deck: Arakni",
-          "price_original": "R$10.30",
-          "price_brl": 10.3,
+          "price_original": "$1.95",
+          "price_brl": 11.37,
           "quantity": 3
         },
         {
           "expansion": "Armory Deck: Arakni",
-          "price_original": "R$11.17",
-          "price_brl": 11.17,
-          "quantity": 1
-        },
-        {
-          "expansion": "Armory Deck: Arakni",
-          "price_original": "R$11.84",
-          "price_brl": 11.84,
+          "price_original": "$1.98",
+          "price_brl": 11.54,
           "quantity": 2
         },
         {
           "expansion": "Armory Deck: Arakni",
-          "price_original": "R$13.80",
-          "price_brl": 13.8,
+          "price_original": "$2.11",
+          "price_brl": 12.3,
+          "quantity": 1
+        },
+        {
+          "expansion": "Armory Deck: Arakni",
+          "price_original": "$2.61",
+          "price_brl": 15.21,
           "quantity": 11
         },
         {
           "expansion": "Armory Deck: Arakni",
-          "price_original": "R$19.26",
-          "price_brl": 19.26,
+          "price_original": "$3.64",
+          "price_brl": 21.22,
           "quantity": 6
         },
         {
           "expansion": "Armory Deck: Arakni",
-          "price_original": "R$53.57",
-          "price_brl": 53.57,
+          "price_original": "$10.11",
+          "price_brl": 58.93,
           "quantity": 2
         }
       ]
@@ -12160,6 +12166,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-05-01T12:09:05",
+  "datetime_utc_minus3": "2026-05-01T13:33:34",
   "euro_rate": 5.8292
 }
