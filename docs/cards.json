@@ -8,8 +8,8 @@
       "records": [
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$23.58",
-          "price_brl": 137.45,
+          "price_original": "$23.63",
+          "price_brl": 137.74,
           "quantity": 1
         },
         {
@@ -32,8 +32,8 @@
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$37.36",
-          "price_brl": 217.78,
+          "price_original": "$37.31",
+          "price_brl": 217.49,
           "quantity": 1
         },
         {
@@ -62,8 +62,8 @@
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$63.92",
-          "price_brl": 372.6,
+          "price_original": "$64.03",
+          "price_brl": 373.24,
           "quantity": 1
         },
         {
@@ -92,14 +92,14 @@
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$79.70",
-          "price_brl": 464.59,
+          "price_original": "$79.81",
+          "price_brl": 465.23,
           "quantity": 2
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$85.93",
-          "price_brl": 500.9,
+          "price_original": "$86.06",
+          "price_brl": 501.66,
           "quantity": 1
         },
         {
@@ -110,8 +110,8 @@
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$107.19",
-          "price_brl": 624.83,
+          "price_original": "$107.35",
+          "price_brl": 625.76,
           "quantity": 1
         },
         {
@@ -133,21 +133,15 @@
           "quantity": 1
         },
         {
-          "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$171.42",
-          "price_brl": 999.24,
-          "quantity": 3
-        },
-        {
           "expansion": "History Pack 1",
-          "price_original": "$31.30",
-          "price_brl": 182.45,
+          "price_original": "$30.82",
+          "price_brl": 179.66,
           "quantity": 6
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$35.78",
-          "price_brl": 208.57,
+          "price_original": "$35.83",
+          "price_brl": 208.86,
           "quantity": 3
         },
         {
@@ -206,8 +200,14 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$34.57",
-          "price_brl": 201.52,
+          "price_original": "$34.62",
+          "price_brl": 201.81,
+          "quantity": 1
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "$36.32",
+          "price_brl": 211.72,
           "quantity": 1
         },
         {
@@ -218,14 +218,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$37.86",
-          "price_brl": 220.69,
-          "quantity": 1
-        },
-        {
-          "expansion": "Compendium of Rathe",
-          "price_original": "$37.88",
-          "price_brl": 220.81,
+          "price_original": "$37.93",
+          "price_brl": 221.1,
           "quantity": 4
         },
         {
@@ -254,14 +248,14 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$40.84",
-          "price_brl": 238.06,
+          "price_original": "$40.89",
+          "price_brl": 238.36,
           "quantity": 14
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$41.03",
-          "price_brl": 239.17,
+          "price_original": "$41.58",
+          "price_brl": 242.38,
           "quantity": 1
         },
         {
@@ -278,8 +272,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$48.84",
-          "price_brl": 284.7,
+          "price_original": "$48.91",
+          "price_brl": 285.11,
           "quantity": 5
         },
         {
@@ -304,6 +298,12 @@
           "expansion": "Compendium of Rathe",
           "price_original": "$60.74",
           "price_brl": 354.07,
+          "quantity": 1
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "$66.83",
+          "price_brl": 389.57,
           "quantity": 1
         }
       ]
@@ -340,20 +340,20 @@
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$198.22",
-          "price_brl": 1155.46,
+          "price_original": "$198.52",
+          "price_brl": 1157.21,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$1,411.82",
-          "price_brl": 8229.78,
+          "price_original": "$1,413.94",
+          "price_brl": 8242.14,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$63.26",
-          "price_brl": 368.76,
+          "price_original": "$63.27",
+          "price_brl": 368.81,
           "quantity": 3
         },
         {
@@ -370,20 +370,14 @@
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$78.14",
-          "price_brl": 455.49,
+          "price_original": "$83.97",
+          "price_brl": 489.48,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$83.85",
-          "price_brl": 488.78,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$112.95",
-          "price_brl": 658.41,
+          "price_original": "$108.54",
+          "price_brl": 632.7,
           "quantity": 1
         },
         {
@@ -432,8 +426,8 @@
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$290.52",
-          "price_brl": 1693.5,
+          "price_original": "$290.95",
+          "price_brl": 1696.01,
           "quantity": 1
         },
         {
@@ -456,8 +450,8 @@
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$440.73",
-          "price_brl": 2569.1,
+          "price_original": "$441.39",
+          "price_brl": 2572.95,
           "quantity": 1
         },
         {
@@ -468,8 +462,8 @@
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$122.65",
-          "price_brl": 714.95,
+          "price_original": "$122.83",
+          "price_brl": 716,
           "quantity": 2
         },
         {
@@ -486,14 +480,14 @@
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$158.95",
-          "price_brl": 926.55,
+          "price_original": "$159.18",
+          "price_brl": 927.89,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$165.61",
-          "price_brl": 965.37,
+          "price_original": "$165.86",
+          "price_brl": 966.83,
           "quantity": 1
         },
         {
@@ -545,12 +539,6 @@
           "quantity": 1
         },
         {
-          "expansion": "Crucible of War - First",
-          "price_original": "$331.29",
-          "price_brl": 1931.16,
-          "quantity": 1
-        },
-        {
           "expansion": "History Pack 1 - Black Label",
           "price_original": "$137.58",
           "price_brl": 801.98,
@@ -594,14 +582,14 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$13,053.09",
-          "price_brl": 76089.07,
+          "price_original": "$13,040.03",
+          "price_brl": 76012.94,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "$117.05",
-          "price_brl": 682.31,
+          "price_original": "$117.21",
+          "price_brl": 683.24,
           "quantity": 1
         },
         {
@@ -642,8 +630,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$153.00",
-          "price_brl": 891.87,
+          "price_original": "$153.23",
+          "price_brl": 893.21,
           "quantity": 3
         },
         {
@@ -654,8 +642,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$612.11",
-          "price_brl": 3568.11,
+          "price_original": "$612.53",
+          "price_brl": 3570.56,
           "quantity": 1
         }
       ]
@@ -680,8 +668,8 @@
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$283.87",
-          "price_brl": 1654.74,
+          "price_original": "$284.30",
+          "price_brl": 1657.24,
           "quantity": 1
         },
         {
@@ -692,20 +680,14 @@
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$434.56",
-          "price_brl": 2533.14,
-          "quantity": 1
-        },
-        {
-          "expansion": "Welcome to Rathe - Unlimited",
           "price_original": "$492.66",
           "price_brl": 2871.81,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$539.52",
-          "price_brl": 3144.97,
+          "price_original": "$540.33",
+          "price_brl": 3149.69,
           "quantity": 1
         },
         {
@@ -736,8 +718,8 @@
       "records": [
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$36.63",
-          "price_brl": 213.52,
+          "price_original": "$36.69",
+          "price_brl": 213.87,
           "quantity": 2
         },
         {
@@ -748,8 +730,8 @@
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$42.82",
-          "price_brl": 249.61,
+          "price_original": "$42.87",
+          "price_brl": 249.9,
           "quantity": 1
         },
         {
@@ -778,8 +760,8 @@
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$60.06",
-          "price_brl": 350.1,
+          "price_original": "$60.15",
+          "price_brl": 350.63,
           "quantity": 1
         },
         {
@@ -796,14 +778,14 @@
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$1,162.82",
-          "price_brl": 6778.31,
+          "price_original": "$1,164.56",
+          "price_brl": 6788.45,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$30.17",
-          "price_brl": 175.87,
+          "price_original": "$30.22",
+          "price_brl": 176.16,
           "quantity": 1
         },
         {
@@ -814,8 +796,8 @@
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$33.11",
-          "price_brl": 193,
+          "price_original": "$33.15",
+          "price_brl": 193.24,
           "quantity": 1
         },
         {
@@ -840,12 +822,6 @@
           "expansion": "Welcome to Rathe - Alpha",
           "price_original": "$1,918.22",
           "price_brl": 11181.69,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1 - Black Label",
-          "price_original": "$46.97",
-          "price_brl": 273.8,
           "quantity": 1
         },
         {
@@ -876,20 +852,20 @@
       "records": [
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$40.11",
-          "price_brl": 233.81,
+          "price_original": "$40.36",
+          "price_brl": 235.27,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$58.12",
-          "price_brl": 338.79,
+          "price_original": "$58.21",
+          "price_brl": 339.32,
           "quantity": 3
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$58.94",
-          "price_brl": 343.57,
+          "price_original": "$59.03",
+          "price_brl": 344.1,
           "quantity": 2
         },
         {
@@ -924,20 +900,20 @@
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$64.50",
-          "price_brl": 375.98,
+          "price_original": "$64.67",
+          "price_brl": 376.97,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$69.83",
-          "price_brl": 407.05,
+          "price_original": "$70.05",
+          "price_brl": 408.34,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$70.72",
-          "price_brl": 412.24,
+          "price_original": "$70.79",
+          "price_brl": 412.65,
           "quantity": 9
         },
         {
@@ -996,14 +972,14 @@
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$45.60",
-          "price_brl": 265.81,
+          "price_original": "$46.61",
+          "price_brl": 271.7,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$54.79",
-          "price_brl": 319.38,
+          "price_original": "$54.87",
+          "price_brl": 319.85,
           "quantity": 1
         },
         {
@@ -1020,8 +996,14 @@
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$60.62",
-          "price_brl": 353.37,
+          "price_original": "$56.75",
+          "price_brl": 330.81,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$60.71",
+          "price_brl": 353.89,
           "quantity": 2
         },
         {
@@ -1032,8 +1014,8 @@
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$62.32",
-          "price_brl": 363.28,
+          "price_original": "$62.41",
+          "price_brl": 363.8,
           "quantity": 3
         },
         {
@@ -1053,12 +1035,6 @@
           "price_original": "$86.78",
           "price_brl": 505.86,
           "quantity": 2
-        },
-        {
-          "expansion": "Arcane Rising - First",
-          "price_original": "$252.09",
-          "price_brl": 1469.48,
-          "quantity": 1
         },
         {
           "expansion": "Arcane Rising - First",
@@ -1170,8 +1146,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$70.56",
-          "price_brl": 411.31,
+          "price_original": "$70.66",
+          "price_brl": 411.89,
           "quantity": 8
         },
         {
@@ -1182,32 +1158,32 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$71.38",
-          "price_brl": 416.09,
+          "price_original": "$71.50",
+          "price_brl": 416.79,
           "quantity": 1
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$71.39",
-          "price_brl": 416.15,
+          "price_original": "$71.51",
+          "price_brl": 416.85,
           "quantity": 4
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$71.82",
-          "price_brl": 418.65,
+          "price_original": "$71.92",
+          "price_brl": 419.24,
           "quantity": 1
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$73.24",
-          "price_brl": 426.93,
+          "price_original": "$73.35",
+          "price_brl": 427.57,
           "quantity": 1
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$74.34",
-          "price_brl": 433.34,
+          "price_original": "$74.46",
+          "price_brl": 434.04,
           "quantity": 12
         },
         {
@@ -1224,12 +1200,6 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$78.86",
-          "price_brl": 459.69,
-          "quantity": 2
-        },
-        {
-          "expansion": "Compendium of Rathe",
           "price_original": "$80.18",
           "price_brl": 467.39,
           "quantity": 1
@@ -1242,8 +1212,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$83.85",
-          "price_brl": 488.78,
+          "price_original": "$83.97",
+          "price_brl": 489.48,
           "quantity": 1
         },
         {
@@ -1262,14 +1232,14 @@
       "records": [
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$457.33",
-          "price_brl": 2665.87,
+          "price_original": "$458.02",
+          "price_brl": 2669.89,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$495.10",
-          "price_brl": 2886.04,
+          "price_original": "$495.84",
+          "price_brl": 2890.35,
           "quantity": 1
         },
         {
@@ -1280,8 +1250,8 @@
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$803.46",
-          "price_brl": 4683.53,
+          "price_original": "$804.66",
+          "price_brl": 4690.52,
           "quantity": 1
         },
         {
@@ -1318,14 +1288,14 @@
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$50.48",
-          "price_brl": 294.26,
+          "price_original": "$50.56",
+          "price_brl": 294.72,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$54.15",
-          "price_brl": 315.65,
+          "price_original": "$54.23",
+          "price_brl": 316.12,
           "quantity": 2
         },
         {
@@ -1444,8 +1414,8 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$83.86",
-          "price_brl": 488.84,
+          "price_original": "$83.98",
+          "price_brl": 489.54,
           "quantity": 2
         },
         {
@@ -1476,32 +1446,32 @@
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$46.34",
-          "price_brl": 270.13,
+          "price_original": "$46.41",
+          "price_brl": 270.53,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$47.15",
-          "price_brl": 274.85,
+          "price_original": "$47.23",
+          "price_brl": 275.31,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$48.33",
-          "price_brl": 281.73,
+          "price_original": "$48.40",
+          "price_brl": 282.13,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$49.87",
-          "price_brl": 290.7,
+          "price_original": "$49.93",
+          "price_brl": 291.05,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$50.48",
-          "price_brl": 294.26,
+          "price_original": "$50.56",
+          "price_brl": 294.72,
           "quantity": 1
         },
         {
@@ -1512,8 +1482,8 @@
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$54.59",
-          "price_brl": 318.22,
+          "price_original": "$54.60",
+          "price_brl": 318.27,
           "quantity": 1
         },
         {
@@ -1590,26 +1560,26 @@
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$40.52",
-          "price_brl": 236.2,
+          "price_original": "$40.58",
+          "price_brl": 236.55,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$41.03",
-          "price_brl": 239.17,
+          "price_original": "$41.09",
+          "price_brl": 239.52,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$41.78",
-          "price_brl": 243.54,
+          "price_original": "$41.83",
+          "price_brl": 243.84,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$42.18",
-          "price_brl": 245.88,
+          "price_original": "$42.24",
+          "price_brl": 246.23,
           "quantity": 2
         },
         {
@@ -1626,20 +1596,20 @@
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$44.88",
-          "price_brl": 261.61,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1",
-          "price_original": "$45.28",
-          "price_brl": 263.95,
+          "price_original": "$44.95",
+          "price_brl": 262.02,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1",
           "price_original": "$45.30",
           "price_brl": 264.06,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$45.35",
+          "price_brl": 264.35,
           "quantity": 1
         },
         {
@@ -1656,8 +1626,8 @@
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$50.80",
-          "price_brl": 296.12,
+          "price_original": "$50.88",
+          "price_brl": 296.59,
           "quantity": 1
         },
         {
@@ -1692,8 +1662,8 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$166.82",
-          "price_brl": 972.43,
+          "price_original": "$167.08",
+          "price_brl": 973.94,
           "quantity": 1
         }
       ]
@@ -1718,26 +1688,26 @@
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$67.25",
-          "price_brl": 392.01,
+          "price_original": "$67.35",
+          "price_brl": 392.6,
           "quantity": 3
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$71.65",
-          "price_brl": 417.66,
+          "price_original": "$71.76",
+          "price_brl": 418.3,
           "quantity": 4
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$73.87",
-          "price_brl": 430.6,
+          "price_original": "$73.98",
+          "price_brl": 431.24,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$78.44",
-          "price_brl": 457.24,
+          "price_original": "$80.99",
+          "price_brl": 472.11,
           "quantity": 1
         },
         {
@@ -1766,14 +1736,14 @@
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$46.22",
-          "price_brl": 269.43,
+          "price_original": "$46.24",
+          "price_brl": 269.54,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$48.82",
-          "price_brl": 284.58,
+          "price_original": "$48.90",
+          "price_brl": 285.05,
           "quantity": 1
         },
         {
@@ -1816,14 +1786,14 @@
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$23.73",
-          "price_brl": 138.33,
+          "price_original": "$23.76",
+          "price_brl": 138.5,
           "quantity": 7
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$25.26",
-          "price_brl": 147.25,
+          "price_original": "$25.29",
+          "price_brl": 147.42,
           "quantity": 1
         },
         {
@@ -1834,14 +1804,14 @@
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$27.18",
-          "price_brl": 158.44,
+          "price_original": "$27.21",
+          "price_brl": 158.61,
           "quantity": 2
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$27.41",
-          "price_brl": 159.78,
+          "price_original": "$27.46",
+          "price_brl": 160.07,
           "quantity": 2
         },
         {
@@ -1852,14 +1822,14 @@
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$28.85",
-          "price_brl": 168.17,
+          "price_original": "$28.89",
+          "price_brl": 168.41,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$29.93",
-          "price_brl": 174.47,
+          "price_original": "$29.98",
+          "price_brl": 174.76,
           "quantity": 1
         },
         {
@@ -1900,20 +1870,20 @@
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$15.05",
-          "price_brl": 87.73,
+          "price_original": "$15.07",
+          "price_brl": 87.85,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$17.65",
-          "price_brl": 102.89,
+          "price_original": "$17.68",
+          "price_brl": 103.06,
           "quantity": 2
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$18.95",
-          "price_brl": 110.46,
+          "price_original": "$18.85",
+          "price_brl": 109.88,
           "quantity": 1
         },
         {
@@ -1924,8 +1894,8 @@
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$20.63",
-          "price_brl": 120.26,
+          "price_original": "$20.39",
+          "price_brl": 118.86,
           "quantity": 19
         },
         {
@@ -2004,8 +1974,8 @@
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$8.29",
-          "price_brl": 48.32,
+          "price_original": "$8.28",
+          "price_brl": 48.27,
           "quantity": 8
         },
         {
@@ -2016,14 +1986,14 @@
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$8.89",
-          "price_brl": 51.82,
+          "price_original": "$8.92",
+          "price_brl": 52,
           "quantity": 13
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$9.30",
-          "price_brl": 54.21,
+          "price_original": "$9.32",
+          "price_brl": 54.33,
           "quantity": 4
         },
         {
@@ -2034,8 +2004,8 @@
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$10.10",
-          "price_brl": 58.87,
+          "price_original": "$10.11",
+          "price_brl": 58.93,
           "quantity": 1
         },
         {
@@ -2046,8 +2016,8 @@
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$10.78",
-          "price_brl": 62.84,
+          "price_original": "$10.80",
+          "price_brl": 62.96,
           "quantity": 4
         },
         {
@@ -2076,8 +2046,8 @@
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$14.05",
-          "price_brl": 81.9,
+          "price_original": "$14.07",
+          "price_brl": 82.02,
           "quantity": 3
         },
         {
@@ -2088,8 +2058,8 @@
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$16.97",
-          "price_brl": 98.92,
+          "price_original": "$17.00",
+          "price_brl": 99.1,
           "quantity": 1
         },
         {
@@ -2106,8 +2076,8 @@
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$20.78",
-          "price_brl": 121.13,
+          "price_original": "$20.81",
+          "price_brl": 121.31,
           "quantity": 3
         },
         {
@@ -2154,26 +2124,20 @@
         },
         {
           "expansion": "Crucible of War - First",
-          "price_original": "$40.93",
-          "price_brl": 238.59,
+          "price_original": "$40.72",
+          "price_brl": 237.37,
           "quantity": 3
         },
         {
           "expansion": "Crucible of War - First",
-          "price_original": "$45.35",
-          "price_brl": 264.35,
+          "price_original": "$45.41",
+          "price_brl": 264.7,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - First",
           "price_original": "$49.98",
           "price_brl": 291.34,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$7.32",
-          "price_brl": 42.67,
           "quantity": 1
         },
         {
@@ -2190,14 +2154,14 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$7.91",
-          "price_brl": 46.11,
+          "price_original": "$7.92",
+          "price_brl": 46.17,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$7.92",
-          "price_brl": 46.17,
+          "price_original": "$7.93",
+          "price_brl": 46.23,
           "quantity": 3
         },
         {
@@ -2208,14 +2172,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$8.52",
-          "price_brl": 49.66,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$9.23",
-          "price_brl": 53.8,
+          "price_original": "$8.53",
+          "price_brl": 49.72,
           "quantity": 1
         },
         {
@@ -2252,32 +2210,32 @@
       "records": [
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$199.91",
-          "price_brl": 1165.32,
+          "price_original": "$200.21",
+          "price_brl": 1167.06,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$200.04",
-          "price_brl": 1166.07,
+          "price_original": "$200.34",
+          "price_brl": 1167.82,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$204.60",
-          "price_brl": 1192.65,
+          "price_original": "$204.90",
+          "price_brl": 1194.4,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$242.42",
-          "price_brl": 1413.11,
+          "price_original": "$242.78",
+          "price_brl": 1415.21,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$262.91",
-          "price_brl": 1532.55,
+          "price_original": "$262.65",
+          "price_brl": 1531.04,
           "quantity": 1
         },
         {
@@ -2300,8 +2258,8 @@
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$759.47",
-          "price_brl": 4427.1,
+          "price_original": "$760.60",
+          "price_brl": 4433.69,
           "quantity": 1
         },
         {
@@ -2309,12 +2267,6 @@
           "price_original": "$1,189.62",
           "price_brl": 6934.53,
           "quantity": 2
-        },
-        {
-          "expansion": "Crucible of War - Unlimited",
-          "price_original": "$1,257.06",
-          "price_brl": 7327.65,
-          "quantity": 1
         },
         {
           "expansion": "Crucible of War - First",
@@ -2362,8 +2314,8 @@
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$4.29",
-          "price_brl": 25.01,
+          "price_original": "$4.31",
+          "price_brl": 25.12,
           "quantity": 1
         },
         {
@@ -2374,14 +2326,14 @@
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$7.46",
-          "price_brl": 43.49,
+          "price_original": "$7.47",
+          "price_brl": 43.54,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$7.64",
-          "price_brl": 44.54,
+          "price_original": "$7.65",
+          "price_brl": 44.59,
           "quantity": 4
         },
         {
@@ -2464,8 +2416,8 @@
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$8.24",
-          "price_brl": 48.03,
+          "price_original": "$8.25",
+          "price_brl": 48.09,
           "quantity": 1
         },
         {
@@ -2500,8 +2452,8 @@
         },
         {
           "expansion": "Crucible of War - First",
-          "price_original": "$34.34",
-          "price_brl": 200.17,
+          "price_original": "$34.40",
+          "price_brl": 200.52,
           "quantity": 1
         },
         {
@@ -2548,20 +2500,14 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$8.12",
-          "price_brl": 47.33,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1 - Black Label",
           "price_original": "$13.42",
           "price_brl": 78.23,
           "quantity": 2
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$13,053.09",
-          "price_brl": 76089.07,
+          "price_original": "$13,040.03",
+          "price_brl": 76012.94,
           "quantity": 1
         },
         {
@@ -2604,8 +2550,8 @@
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$141.96",
-          "price_brl": 827.51,
+          "price_original": "$142.18",
+          "price_brl": 828.8,
           "quantity": 1
         },
         {
@@ -2616,14 +2562,14 @@
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$190.51",
-          "price_brl": 1110.52,
+          "price_original": "$190.79",
+          "price_brl": 1112.15,
           "quantity": 1
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$195.33",
-          "price_brl": 1138.62,
+          "price_original": "$195.63",
+          "price_brl": 1140.37,
           "quantity": 1
         },
         {
@@ -2634,8 +2580,8 @@
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$265.18",
-          "price_brl": 1545.79,
+          "price_original": "$265.57",
+          "price_brl": 1548.06,
           "quantity": 2
         },
         {
@@ -2690,8 +2636,8 @@
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$135.72",
-          "price_brl": 791.14,
+          "price_original": "$135.93",
+          "price_brl": 792.36,
           "quantity": 1
         },
         {
@@ -2708,14 +2654,20 @@
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$226.63",
-          "price_brl": 1321.07,
+          "price_original": "$226.97",
+          "price_brl": 1323.05,
           "quantity": 1
         },
         {
           "expansion": "Monarch - First",
           "price_original": "$238.86",
           "price_brl": 1392.36,
+          "quantity": 1
+        },
+        {
+          "expansion": "Monarch - First",
+          "price_original": "$661.90",
+          "price_brl": 3858.35,
           "quantity": 1
         },
         {
@@ -2728,12 +2680,6 @@
           "expansion": "Monarch - First",
           "price_original": "$662.01",
           "price_brl": 3858.99,
-          "quantity": 1
-        },
-        {
-          "expansion": "Monarch - First",
-          "price_original": "$664.56",
-          "price_brl": 3873.85,
           "quantity": 1
         },
         {
@@ -2752,8 +2698,8 @@
       "records": [
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$133.65",
-          "price_brl": 779.07,
+          "price_original": "$133.85",
+          "price_brl": 780.24,
           "quantity": 1
         },
         {
@@ -2788,8 +2734,8 @@
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$13,105.48",
-          "price_brl": 76394.46,
+          "price_original": "$13,092.36",
+          "price_brl": 76317.98,
           "quantity": 1
         },
         {
@@ -2808,12 +2754,6 @@
           "expansion": "History Pack 2 - Black Label",
           "price_original": "$112.32",
           "price_brl": 654.74,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 2 - Black Label",
-          "price_original": "$133.08",
-          "price_brl": 775.75,
           "quantity": 1
         }
       ]
@@ -2850,20 +2790,14 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$14.55",
-          "price_brl": 84.81,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$14.65",
-          "price_brl": 85.4,
+          "price_original": "$14.35",
+          "price_brl": 83.65,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$15.24",
-          "price_brl": 88.84,
+          "price_original": "$14.58",
+          "price_brl": 84.99,
           "quantity": 1
         },
         {
@@ -2874,14 +2808,14 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$17.40",
-          "price_brl": 101.43,
+          "price_original": "$17.42",
+          "price_brl": 101.54,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$20.18",
-          "price_brl": 117.63,
+          "price_original": "$20.22",
+          "price_brl": 117.87,
           "quantity": 1
         },
         {
@@ -2904,9 +2838,15 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$26.28",
-          "price_brl": 153.19,
+          "price_original": "$26.33",
+          "price_brl": 153.48,
           "quantity": 3
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$26.79",
+          "price_brl": 156.16,
+          "quantity": 2
         },
         {
           "expansion": "Super Slam",
@@ -2922,20 +2862,14 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$32.14",
-          "price_brl": 187.35,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
           "price_original": "$32.93",
           "price_brl": 191.96,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$33.34",
-          "price_brl": 194.35,
+          "price_original": "$33.39",
+          "price_brl": 194.64,
           "quantity": 2
         },
         {
@@ -2978,8 +2912,8 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$133.98",
-          "price_brl": 781,
+          "price_original": "$134.19",
+          "price_brl": 782.22,
           "quantity": 1
         },
         {
@@ -2990,8 +2924,8 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$208.37",
-          "price_brl": 1214.63,
+          "price_original": "$208.68",
+          "price_brl": 1216.44,
           "quantity": 1
         },
         {
@@ -3002,8 +2936,8 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$92.16",
-          "price_brl": 537.22,
+          "price_original": "$92.30",
+          "price_brl": 538.04,
           "quantity": 1
         },
         {
@@ -3032,14 +2966,8 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$187.75",
-          "price_brl": 1094.43,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$206.99",
-          "price_brl": 1206.59,
+          "price_original": "$188.03",
+          "price_brl": 1096.06,
           "quantity": 1
         },
         {
@@ -3082,14 +3010,14 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$16.46",
-          "price_brl": 95.95,
+          "price_original": "$16.49",
+          "price_brl": 96.12,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$16.87",
-          "price_brl": 98.34,
+          "price_original": "$16.89",
+          "price_brl": 98.46,
           "quantity": 1
         },
         {
@@ -3100,8 +3028,8 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$20.59",
-          "price_brl": 120.02,
+          "price_original": "$20.62",
+          "price_brl": 120.2,
           "quantity": 1
         },
         {
@@ -3154,14 +3082,8 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$133.08",
-          "price_brl": 775.75,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$13,105.48",
-          "price_brl": 76394.46,
+          "price_original": "$13,092.36",
+          "price_brl": 76317.98,
           "quantity": 1
         },
         {
@@ -3184,14 +3106,14 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$21.11",
-          "price_brl": 123.05,
+          "price_original": "$21.14",
+          "price_brl": 123.23,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$23.49",
-          "price_brl": 136.93,
+          "price_original": "$23.53",
+          "price_brl": 137.16,
           "quantity": 1
         },
         {
@@ -3202,8 +3124,8 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$58.00",
-          "price_brl": 338.09,
+          "price_original": "$58.09",
+          "price_brl": 338.62,
           "quantity": 2
         },
         {
@@ -3232,8 +3154,8 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$125.35",
-          "price_brl": 730.69,
+          "price_original": "$125.54",
+          "price_brl": 731.8,
           "quantity": 1
         },
         {
@@ -3282,14 +3204,14 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$33.72",
-          "price_brl": 196.56,
+          "price_original": "$33.78",
+          "price_brl": 196.91,
           "quantity": 3
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$38.71",
-          "price_brl": 225.65,
+          "price_original": "$39.19",
+          "price_brl": 228.45,
           "quantity": 1
         },
         {
@@ -3324,8 +3246,8 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$50.13",
-          "price_brl": 292.22,
+          "price_original": "$50.21",
+          "price_brl": 292.68,
           "quantity": 1
         },
         {
@@ -3342,20 +3264,20 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$162.66",
-          "price_brl": 948.18,
+          "price_original": "$162.91",
+          "price_brl": 949.63,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$33.72",
-          "price_brl": 196.56,
+          "price_original": "$33.78",
+          "price_brl": 196.91,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$42.18",
-          "price_brl": 245.88,
+          "price_original": "$42.24",
+          "price_brl": 246.23,
           "quantity": 9
         },
         {
@@ -3366,26 +3288,26 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$52.54",
-          "price_brl": 306.27,
+          "price_original": "$52.70",
+          "price_brl": 307.2,
           "quantity": 2
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$54.69",
-          "price_brl": 318.8,
+          "price_original": "$54.78",
+          "price_brl": 319.32,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$54.79",
-          "price_brl": 319.38,
+          "price_original": "$55.09",
+          "price_brl": 321.13,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$59.86",
-          "price_brl": 348.94,
+          "price_original": "$60.03",
+          "price_brl": 349.93,
           "quantity": 1
         },
         {
@@ -3393,24 +3315,6 @@
           "price_original": "$66.95",
           "price_brl": 390.26,
           "quantity": 3
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$191.13",
-          "price_brl": 1114.13,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$322.04",
-          "price_brl": 1877.24,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$351.12",
-          "price_brl": 2046.75,
-          "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
@@ -3464,14 +3368,14 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$129.81",
-          "price_brl": 756.69,
+          "price_original": "$130.01",
+          "price_brl": 757.85,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$142.18",
-          "price_brl": 828.8,
+          "price_original": "$142.56",
+          "price_brl": 831.01,
           "quantity": 1
         },
         {
@@ -3502,8 +3406,8 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$50.50",
-          "price_brl": 294.37,
+          "price_original": "$50.57",
+          "price_brl": 294.78,
           "quantity": 1
         },
         {
@@ -3514,8 +3418,8 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$56.66",
-          "price_brl": 330.28,
+          "price_original": "$56.75",
+          "price_brl": 330.81,
           "quantity": 1
         },
         {
@@ -3526,20 +3430,14 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$64.34",
-          "price_brl": 375.05,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
           "price_original": "$86.73",
           "price_brl": 505.57,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$13,105.48",
-          "price_brl": 76394.46,
+          "price_original": "$13,092.36",
+          "price_brl": 76317.98,
           "quantity": 1
         },
         {
@@ -3550,8 +3448,8 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$37.04",
-          "price_brl": 215.91,
+          "price_original": "$37.10",
+          "price_brl": 216.26,
           "quantity": 1
         },
         {
@@ -3562,8 +3460,8 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$63.45",
-          "price_brl": 369.86,
+          "price_original": "$60.53",
+          "price_brl": 352.84,
           "quantity": 3
         },
         {
@@ -3598,8 +3496,8 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$2,115.63",
-          "price_brl": 12332.43,
+          "price_original": "$2,108.21",
+          "price_brl": 12289.18,
           "quantity": 1
         },
         {
@@ -3622,32 +3520,26 @@
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$22.26",
-          "price_brl": 129.76,
-          "quantity": 1
-        },
-        {
-          "expansion": "GEM Pack",
-          "price_original": "$26.34",
-          "price_brl": 153.54,
-          "quantity": 1
-        },
-        {
-          "expansion": "GEM Pack",
           "price_original": "$26.36",
           "price_brl": 153.66,
           "quantity": 4
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$27.32",
-          "price_brl": 159.25,
+          "price_original": "$26.70",
+          "price_brl": 155.64,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$27.91",
-          "price_brl": 162.69,
+          "price_original": "$27.03",
+          "price_brl": 157.56,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$27.96",
+          "price_brl": 162.98,
           "quantity": 3
         },
         {
@@ -3660,12 +3552,6 @@
           "expansion": "GEM Pack",
           "price_original": "$33.39",
           "price_brl": 194.64,
-          "quantity": 1
-        },
-        {
-          "expansion": "GEM Pack",
-          "price_original": "$40.19",
-          "price_brl": 234.28,
           "quantity": 1
         },
         {
@@ -3714,26 +3600,26 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$44.67",
-          "price_brl": 260.39,
+          "price_original": "$44.74",
+          "price_brl": 260.8,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$56.87",
-          "price_brl": 331.51,
+          "price_original": "$56.95",
+          "price_brl": 331.97,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$59.82",
-          "price_brl": 348.7,
+          "price_original": "$59.90",
+          "price_brl": 349.17,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$62.79",
-          "price_brl": 366.02,
+          "price_original": "$62.73",
+          "price_brl": 365.67,
           "quantity": 1
         },
         {
@@ -3768,8 +3654,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$167.00",
-          "price_brl": 973.48,
+          "price_original": "$167.25",
+          "price_brl": 974.93,
           "quantity": 1
         },
         {
@@ -3794,14 +3680,14 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "$26.51",
-          "price_brl": 154.53,
+          "price_original": "$26.52",
+          "price_brl": 154.59,
           "quantity": 1
         },
         {
           "expansion": "Uprising",
-          "price_original": "$27.40",
-          "price_brl": 159.72,
+          "price_original": "$27.44",
+          "price_brl": 159.95,
           "quantity": 1
         },
         {
@@ -3818,26 +3704,20 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "$31.33",
-          "price_brl": 182.63,
+          "price_original": "$31.08",
+          "price_brl": 181.17,
           "quantity": 1
         },
         {
           "expansion": "Uprising",
-          "price_original": "$31.71",
-          "price_brl": 184.84,
+          "price_original": "$31.46",
+          "price_brl": 183.39,
           "quantity": 17
         },
         {
           "expansion": "Uprising",
           "price_original": "$32.95",
           "price_brl": 192.07,
-          "quantity": 3
-        },
-        {
-          "expansion": "Uprising",
-          "price_original": "$33.58",
-          "price_brl": 195.74,
           "quantity": 3
         },
         {
@@ -3851,18 +3731,6 @@
           "price_original": "$40.19",
           "price_brl": 234.28,
           "quantity": 1
-        },
-        {
-          "expansion": "Uprising",
-          "price_original": "$40.19",
-          "price_brl": 234.28,
-          "quantity": 1
-        },
-        {
-          "expansion": "Uprising",
-          "price_original": "$53.58",
-          "price_brl": 312.33,
-          "quantity": 2
         },
         {
           "expansion": "Uprising",
@@ -3916,9 +3784,9 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$6.09",
-          "price_brl": 35.5,
-          "quantity": 6
+          "price_original": "$6.65",
+          "price_brl": 38.76,
+          "quantity": 9
         },
         {
           "expansion": "Dusk till dawn",
@@ -3928,14 +3796,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$6.65",
-          "price_brl": 38.76,
-          "quantity": 9
-        },
-        {
-          "expansion": "Dusk till dawn",
-          "price_original": "$6.78",
-          "price_brl": 39.52,
+          "price_original": "$6.79",
+          "price_brl": 39.58,
           "quantity": 2
         },
         {
@@ -3946,14 +3808,14 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$12.00",
-          "price_brl": 69.95,
+          "price_original": "$11.68",
+          "price_brl": 68.09,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$12.33",
-          "price_brl": 71.87,
+          "price_original": "$12.34",
+          "price_brl": 71.93,
           "quantity": 1
         },
         {
@@ -3970,20 +3832,20 @@
         },
         {
           "expansion": "Dusk till dawn",
+          "price_original": "$13.18",
+          "price_brl": 76.83,
+          "quantity": 8
+        },
+        {
+          "expansion": "Dusk till dawn",
           "price_original": "$13.24",
           "price_brl": 77.18,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$13.45",
-          "price_brl": 78.4,
-          "quantity": 8
-        },
-        {
-          "expansion": "Dusk till dawn",
-          "price_original": "$13.48",
-          "price_brl": 78.58,
+          "price_original": "$13.50",
+          "price_brl": 78.69,
           "quantity": 2
         },
         {
@@ -3994,15 +3856,9 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$13.73",
-          "price_brl": 80.03,
+          "price_original": "$13.70",
+          "price_brl": 79.86,
           "quantity": 1
-        },
-        {
-          "expansion": "Dusk till dawn",
-          "price_original": "$14.16",
-          "price_brl": 82.54,
-          "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
@@ -4012,14 +3868,14 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$14.55",
-          "price_brl": 84.81,
+          "price_original": "$14.58",
+          "price_brl": 84.99,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$14.58",
-          "price_brl": 84.99,
+          "price_original": "$14.60",
+          "price_brl": 85.11,
           "quantity": 1
         },
         {
@@ -4032,42 +3888,42 @@
           "expansion": "Dusk till dawn",
           "price_original": "$15.24",
           "price_brl": 88.84,
+          "quantity": 1
+        },
+        {
+          "expansion": "Dusk till dawn",
+          "price_original": "$15.24",
+          "price_brl": 88.84,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$15.63",
-          "price_brl": 91.11,
+          "price_original": "$15.65",
+          "price_brl": 91.23,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$15.64",
-          "price_brl": 91.17,
+          "price_original": "$16.51",
+          "price_brl": 96.24,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$16.52",
-          "price_brl": 96.3,
+          "price_original": "$16.54",
+          "price_brl": 96.41,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$16.88",
-          "price_brl": 98.4,
+          "price_original": "$16.90",
+          "price_brl": 98.51,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$16.92",
-          "price_brl": 98.63,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dusk till dawn",
-          "price_original": "$17.71",
-          "price_brl": 103.24,
+          "price_original": "$17.74",
+          "price_brl": 103.41,
           "quantity": 2
         },
         {
@@ -4152,14 +4008,14 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$3.75",
-          "price_brl": 21.86,
+          "price_original": "$3.73",
+          "price_brl": 21.74,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$4.35",
-          "price_brl": 25.36,
+          "price_original": "$4.26",
+          "price_brl": 24.83,
           "quantity": 1
         },
         {
@@ -4188,8 +4044,8 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$10.45",
-          "price_brl": 60.92,
+          "price_original": "$10.48",
+          "price_brl": 61.09,
           "quantity": 7
         },
         {
@@ -4200,8 +4056,8 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$13.22",
-          "price_brl": 77.06,
+          "price_original": "$13.21",
+          "price_brl": 77,
           "quantity": 1
         },
         {
@@ -4226,24 +4082,24 @@
           "expansion": "Everfest - First",
           "price_original": "$20.11",
           "price_brl": 117.23,
-          "quantity": 3
+          "quantity": 1
         },
         {
           "expansion": "Everfest - First",
           "price_original": "$20.11",
           "price_brl": 117.23,
-          "quantity": 1
+          "quantity": 3
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$22.04",
-          "price_brl": 128.48,
+          "price_original": "$22.07",
+          "price_brl": 128.65,
           "quantity": 2
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$22.55",
-          "price_brl": 131.45,
+          "price_original": "$22.59",
+          "price_brl": 131.68,
           "quantity": 2
         },
         {
@@ -4263,12 +4119,6 @@
           "price_original": "$18.40",
           "price_brl": 107.26,
           "quantity": 3
-        },
-        {
-          "expansion": "History Pack 2 - Black Label",
-          "price_original": "$18.79",
-          "price_brl": 109.53,
-          "quantity": 1
         },
         {
           "expansion": "History Pack 2 - Black Label",
@@ -4296,6 +4146,12 @@
       "price_target_brl": 641.21,
       "tag": "gem",
       "records": [
+        {
+          "expansion": "Everfest - First",
+          "price_original": "$212.42",
+          "price_brl": 1238.24,
+          "quantity": 1
+        },
         {
           "expansion": "Everfest - First",
           "price_original": "$262.37",
@@ -4330,8 +4186,8 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$22.97",
-          "price_brl": 133.9,
+          "price_original": "$21.85",
+          "price_brl": 127.37,
           "quantity": 1
         },
         {
@@ -4342,27 +4198,33 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$25.09",
-          "price_brl": 146.25,
+          "price_original": "$25.06",
+          "price_brl": 146.08,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$25.82",
-          "price_brl": 150.51,
+          "price_original": "$25.12",
+          "price_brl": 146.43,
+          "quantity": 2
+        },
+        {
+          "expansion": "Everfest - First",
+          "price_original": "$25.79",
+          "price_brl": 150.34,
           "quantity": 1
+        },
+        {
+          "expansion": "Everfest - First",
+          "price_original": "$26.10",
+          "price_brl": 152.14,
+          "quantity": 2
         },
         {
           "expansion": "Everfest - First",
           "price_original": "$26.86",
           "price_brl": 156.57,
           "quantity": 1
-        },
-        {
-          "expansion": "Everfest - First",
-          "price_original": "$27.02",
-          "price_brl": 157.5,
-          "quantity": 2
         },
         {
           "expansion": "Everfest - First",
@@ -4378,8 +4240,8 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$29.28",
-          "price_brl": 170.68,
+          "price_original": "$29.31",
+          "price_brl": 170.85,
           "quantity": 5
         },
         {
@@ -4390,8 +4252,8 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$32.49",
-          "price_brl": 189.39,
+          "price_original": "$32.53",
+          "price_brl": 189.62,
           "quantity": 1
         },
         {
@@ -4404,13 +4266,13 @@
           "expansion": "Everfest - First",
           "price_original": "$33.76",
           "price_brl": 196.79,
-          "quantity": 1
+          "quantity": 3
         },
         {
           "expansion": "Everfest - First",
           "price_original": "$33.76",
           "price_brl": 196.79,
-          "quantity": 3
+          "quantity": 1
         },
         {
           "expansion": "Everfest - First",
@@ -4426,8 +4288,8 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$37.88",
-          "price_brl": 220.81,
+          "price_original": "$37.93",
+          "price_brl": 221.1,
           "quantity": 2
         },
         {
@@ -4458,8 +4320,8 @@
       "records": [
         {
           "expansion": "Everfest - First",
-          "price_original": "$9.91",
-          "price_brl": 57.77,
+          "price_original": "$9.92",
+          "price_brl": 57.83,
           "quantity": 1
         },
         {
@@ -4476,8 +4338,8 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$12.64",
-          "price_brl": 73.68,
+          "price_original": "$12.67",
+          "price_brl": 73.86,
           "quantity": 1
         },
         {
@@ -4488,32 +4350,32 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$13.09",
-          "price_brl": 76.3,
+          "price_original": "$13.07",
+          "price_brl": 76.19,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$13.09",
-          "price_brl": 76.3,
+          "price_original": "$13.07",
+          "price_brl": 76.19,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$13.09",
-          "price_brl": 76.3,
+          "price_original": "$13.07",
+          "price_brl": 76.19,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$13.09",
-          "price_brl": 76.3,
+          "price_original": "$13.07",
+          "price_brl": 76.19,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$13.09",
-          "price_brl": 76.3,
+          "price_original": "$13.07",
+          "price_brl": 76.19,
           "quantity": 1
         },
         {
@@ -4526,25 +4388,25 @@
           "expansion": "Everfest - First",
           "price_original": "$13.74",
           "price_brl": 80.09,
-          "quantity": 5
+          "quantity": 6
         },
         {
           "expansion": "Everfest - First",
           "price_original": "$13.74",
           "price_brl": 80.09,
-          "quantity": 6
-        },
-        {
-          "expansion": "Everfest - First",
-          "price_original": "$15.14",
-          "price_brl": 88.25,
-          "quantity": 1
+          "quantity": 5
         },
         {
           "expansion": "Everfest - First",
           "price_original": "$15.14",
           "price_brl": 88.25,
           "quantity": 2
+        },
+        {
+          "expansion": "Everfest - First",
+          "price_original": "$15.14",
+          "price_brl": 88.25,
+          "quantity": 1
         },
         {
           "expansion": "Everfest - First",
@@ -4554,20 +4416,20 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$15.62",
-          "price_brl": 91.05,
+          "price_original": "$15.64",
+          "price_brl": 91.17,
           "quantity": 2
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$16.50",
-          "price_brl": 96.18,
+          "price_original": "$16.52",
+          "price_brl": 96.3,
           "quantity": 8
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$19.20",
-          "price_brl": 111.92,
+          "price_original": "$19.22",
+          "price_brl": 112.04,
           "quantity": 1
         },
         {
@@ -4584,14 +4446,14 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$25.38",
-          "price_brl": 147.95,
+          "price_original": "$25.35",
+          "price_brl": 147.77,
           "quantity": 1
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$25.38",
-          "price_brl": 147.95,
+          "price_original": "$25.35",
+          "price_brl": 147.77,
           "quantity": 1
         },
         {
@@ -4614,8 +4476,8 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$40.97",
-          "price_brl": 238.82,
+          "price_original": "$41.04",
+          "price_brl": 239.23,
           "quantity": 3
         },
         {
@@ -4670,8 +4532,8 @@
       "records": [
         {
           "expansion": "Classic Battles: Rhinar vs Dorinthea",
-          "price_original": "$13.14",
-          "price_brl": 76.6,
+          "price_original": "$13.13",
+          "price_brl": 76.54,
           "quantity": 1
         },
         {
@@ -4694,8 +4556,8 @@
         },
         {
           "expansion": "Classic Battles: Rhinar vs Dorinthea",
-          "price_original": "$18.53",
-          "price_brl": 108.02,
+          "price_original": "$18.57",
+          "price_brl": 108.25,
           "quantity": 3
         },
         {
@@ -4718,8 +4580,8 @@
         },
         {
           "expansion": "Classic Battles: Rhinar vs Dorinthea",
-          "price_original": "$21.10",
-          "price_brl": 123,
+          "price_original": "$21.13",
+          "price_brl": 123.17,
           "quantity": 1
         },
         {
@@ -4748,8 +4610,8 @@
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$25.26",
-          "price_brl": 147.25,
+          "price_original": "$25.29",
+          "price_brl": 147.42,
           "quantity": 1
         },
         {
@@ -4804,44 +4666,44 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "$7.04",
-          "price_brl": 41.04,
+          "price_original": "$6.76",
+          "price_brl": 39.41,
           "quantity": 1
         },
         {
           "expansion": "Uprising",
-          "price_original": "$7.23",
-          "price_brl": 42.15,
+          "price_original": "$7.24",
+          "price_brl": 42.2,
           "quantity": 3
         },
         {
           "expansion": "Uprising",
-          "price_original": "$7.30",
-          "price_brl": 42.55,
+          "price_original": "$7.29",
+          "price_brl": 42.49,
           "quantity": 1
         },
         {
           "expansion": "Uprising",
-          "price_original": "$7.66",
-          "price_brl": 44.65,
-          "quantity": 1
-        },
-        {
-          "expansion": "Uprising",
-          "price_original": "$7.66",
-          "price_brl": 44.65,
+          "price_original": "$7.36",
+          "price_brl": 42.9,
           "quantity": 2
         },
         {
           "expansion": "Uprising",
-          "price_original": "$8.90",
-          "price_brl": 51.88,
+          "price_original": "$7.67",
+          "price_brl": 44.71,
+          "quantity": 1
+        },
+        {
+          "expansion": "Uprising",
+          "price_original": "$8.67",
+          "price_brl": 50.54,
           "quantity": 38
         },
         {
           "expansion": "Uprising",
-          "price_original": "$10.15",
-          "price_brl": 59.17,
+          "price_original": "$10.17",
+          "price_brl": 59.28,
           "quantity": 2
         },
         {
@@ -4858,8 +4720,8 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "$12.61",
-          "price_brl": 73.51,
+          "price_original": "$12.60",
+          "price_brl": 73.45,
           "quantity": 1
         },
         {
@@ -4870,8 +4732,8 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "$13.74",
-          "price_brl": 80.09,
+          "price_original": "$13.75",
+          "price_brl": 80.15,
           "quantity": 4
         },
         {
@@ -4888,8 +4750,8 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "$15.94",
-          "price_brl": 92.92,
+          "price_original": "$15.22",
+          "price_brl": 88.72,
           "quantity": 5
         },
         {
@@ -4912,14 +4774,14 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "$48.84",
-          "price_brl": 284.7,
+          "price_original": "$48.91",
+          "price_brl": 285.11,
           "quantity": 1
         },
         {
           "expansion": "Uprising",
-          "price_original": "$13,105.48",
-          "price_brl": 76394.46,
+          "price_original": "$13,092.36",
+          "price_brl": 76317.98,
           "quantity": 1
         },
         {
@@ -4974,8 +4836,8 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "$229.11",
-          "price_brl": 1335.53,
+          "price_original": "$229.46",
+          "price_brl": 1337.57,
           "quantity": 1
         },
         {
@@ -4998,8 +4860,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$100.45",
-          "price_brl": 585.54,
+          "price_original": "$100.59",
+          "price_brl": 586.36,
           "quantity": 1
         },
         {
@@ -5010,14 +4872,14 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$120.37",
-          "price_brl": 701.66,
+          "price_original": "$120.55",
+          "price_brl": 702.71,
           "quantity": 4
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$120.77",
-          "price_brl": 703.99,
+          "price_original": "$120.96",
+          "price_brl": 705.1,
           "quantity": 1
         },
         {
@@ -5040,14 +4902,14 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$135.02",
-          "price_brl": 787.06,
+          "price_original": "$135.23",
+          "price_brl": 788.28,
           "quantity": 1
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$136.09",
-          "price_brl": 793.3,
+          "price_original": "$146.30",
+          "price_brl": 852.81,
           "quantity": 2
         },
         {
@@ -5078,20 +4940,20 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "$25.24",
-          "price_brl": 147.13,
+          "price_original": "$25.29",
+          "price_brl": 147.42,
           "quantity": 2
         },
         {
           "expansion": "Uprising",
-          "price_original": "$25.84",
-          "price_brl": 150.63,
+          "price_original": "$25.89",
+          "price_brl": 150.92,
           "quantity": 3
         },
         {
           "expansion": "Uprising",
-          "price_original": "$30.26",
-          "price_brl": 176.39,
+          "price_original": "$30.00",
+          "price_brl": 174.88,
           "quantity": 14
         },
         {
@@ -5108,8 +4970,8 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "$47.15",
-          "price_brl": 274.85,
+          "price_original": "$47.22",
+          "price_brl": 275.25,
           "quantity": 1
         },
         {
@@ -5132,14 +4994,14 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "$83.85",
-          "price_brl": 488.78,
+          "price_original": "$83.97",
+          "price_brl": 489.48,
           "quantity": 2
         },
         {
           "expansion": "Uprising",
-          "price_original": "$89.55",
-          "price_brl": 522,
+          "price_original": "$89.68",
+          "price_brl": 522.76,
           "quantity": 1
         },
         {
@@ -5174,8 +5036,8 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "$136.58",
-          "price_brl": 796.15,
+          "price_original": "$136.79",
+          "price_brl": 797.38,
           "quantity": 1
         },
         {
@@ -5186,8 +5048,8 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "$248.95",
-          "price_brl": 1451.18,
+          "price_original": "$249.32",
+          "price_brl": 1453.34,
           "quantity": 1
         },
         {
@@ -5212,8 +5074,8 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "$35.44",
-          "price_brl": 206.59,
+          "price_original": "$35.49",
+          "price_brl": 206.88,
           "quantity": 7
         },
         {
@@ -5224,8 +5086,8 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "$38.71",
-          "price_brl": 225.65,
+          "price_original": "$38.77",
+          "price_brl": 226,
           "quantity": 1
         },
         {
@@ -5236,32 +5098,32 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "$41.31",
-          "price_brl": 240.8,
+          "price_original": "$41.08",
+          "price_brl": 239.46,
           "quantity": 12
         },
         {
           "expansion": "Uprising",
-          "price_original": "$41.95",
-          "price_brl": 244.53,
+          "price_original": "$42.01",
+          "price_brl": 244.88,
           "quantity": 1
         },
         {
           "expansion": "Uprising",
-          "price_original": "$43.02",
-          "price_brl": 250.77,
+          "price_original": "$42.77",
+          "price_brl": 249.31,
           "quantity": 3
         },
         {
           "expansion": "Uprising",
-          "price_original": "$55.58",
-          "price_brl": 323.99,
+          "price_original": "$55.66",
+          "price_brl": 324.45,
           "quantity": 1
         },
         {
           "expansion": "Uprising",
-          "price_original": "$55.62",
-          "price_brl": 324.22,
+          "price_original": "$55.70",
+          "price_brl": 324.69,
           "quantity": 1
         },
         {
@@ -5342,7 +5204,7 @@
           "expansion": "Uprising",
           "price_original": "$11.67",
           "price_brl": 68.03,
-          "quantity": 1
+          "quantity": 2
         },
         {
           "expansion": "Uprising",
@@ -5358,8 +5220,8 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "$14.96",
-          "price_brl": 87.2,
+          "price_original": "$14.98",
+          "price_brl": 87.32,
           "quantity": 2
         },
         {
@@ -5370,8 +5232,8 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "$18.53",
-          "price_brl": 108.02,
+          "price_original": "$18.57",
+          "price_brl": 108.25,
           "quantity": 1
         },
         {
@@ -5388,8 +5250,8 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "$26.75",
-          "price_brl": 155.93,
+          "price_original": "$26.79",
+          "price_brl": 156.16,
           "quantity": 1
         },
         {
@@ -5456,8 +5318,8 @@
         },
         {
           "expansion": "Dynasty",
-          "price_original": "$100.46",
-          "price_brl": 585.6,
+          "price_original": "$100.60",
+          "price_brl": 586.42,
           "quantity": 2
         },
         {
@@ -5474,26 +5336,26 @@
         },
         {
           "expansion": "Dynasty",
-          "price_original": "$151.57",
-          "price_brl": 883.53,
+          "price_original": "$149.87",
+          "price_brl": 873.62,
           "quantity": 1
         },
         {
           "expansion": "Dynasty",
-          "price_original": "$173.06",
-          "price_brl": 1008.8,
+          "price_original": "$173.32",
+          "price_brl": 1010.32,
           "quantity": 1
         },
         {
           "expansion": "Dynasty",
-          "price_original": "$216.41",
-          "price_brl": 1261.5,
+          "price_original": "$216.73",
+          "price_brl": 1263.36,
           "quantity": 1
         },
         {
           "expansion": "Dynasty",
-          "price_original": "$518.77",
-          "price_brl": 3024.01,
+          "price_original": "$519.55",
+          "price_brl": 3028.56,
           "quantity": 1
         },
         {
@@ -5504,14 +5366,14 @@
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$98.67",
-          "price_brl": 575.17,
+          "price_original": "$99.94",
+          "price_brl": 582.57,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$118.40",
-          "price_brl": 690.18,
+          "price_original": "$118.57",
+          "price_brl": 691.17,
           "quantity": 1
         },
         {
@@ -5530,8 +5392,8 @@
       "records": [
         {
           "expansion": "Outsiders",
-          "price_original": "$664.84",
-          "price_brl": 3875.49,
+          "price_original": "$665.83",
+          "price_brl": 3881.26,
           "quantity": 1
         },
         {
@@ -5554,8 +5416,8 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$33.72",
-          "price_brl": 196.56,
+          "price_original": "$33.78",
+          "price_brl": 196.91,
           "quantity": 3
         },
         {
@@ -5566,14 +5428,14 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$38.24",
-          "price_brl": 222.91,
+          "price_original": "$38.30",
+          "price_brl": 223.26,
           "quantity": 2
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$42.10",
-          "price_brl": 245.41,
+          "price_original": "$42.12",
+          "price_brl": 245.53,
           "quantity": 1
         },
         {
@@ -5584,8 +5446,8 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$46.34",
-          "price_brl": 270.13,
+          "price_original": "$46.41",
+          "price_brl": 270.53,
           "quantity": 4
         },
         {
@@ -5596,8 +5458,8 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$48.83",
-          "price_brl": 284.64,
+          "price_original": "$48.91",
+          "price_brl": 285.11,
           "quantity": 3
         },
         {
@@ -5668,8 +5530,8 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "$36.75",
-          "price_brl": 214.22,
+          "price_original": "$36.80",
+          "price_brl": 214.51,
           "quantity": 1
         },
         {
@@ -5692,14 +5554,14 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "$38.95",
-          "price_brl": 227.05,
+          "price_original": "$39.01",
+          "price_brl": 227.4,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "$50.48",
-          "price_brl": 294.26,
+          "price_original": "$50.56",
+          "price_brl": 294.72,
           "quantity": 3
         },
         {
@@ -5722,8 +5584,8 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "$63.54",
-          "price_brl": 370.39,
+          "price_original": "$63.63",
+          "price_brl": 370.91,
           "quantity": 1
         },
         {
@@ -5734,9 +5596,21 @@
         },
         {
           "expansion": "High Seas",
+          "price_original": "$64.16",
+          "price_brl": 374,
+          "quantity": 1
+        },
+        {
+          "expansion": "High Seas",
           "price_original": "$65.63",
           "price_brl": 382.57,
           "quantity": 3
+        },
+        {
+          "expansion": "High Seas",
+          "price_original": "$78.73",
+          "price_brl": 458.93,
+          "quantity": 1
         },
         {
           "expansion": "High Seas",
@@ -5746,8 +5620,8 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "$13,013.94",
-          "price_brl": 75860.86,
+          "price_original": "$13,000.91",
+          "price_brl": 75784.9,
           "quantity": 1
         }
       ]
@@ -5784,26 +5658,26 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$5.89",
-          "price_brl": 34.33,
+          "price_original": "$5.90",
+          "price_brl": 34.39,
           "quantity": 1
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$5.96",
-          "price_brl": 34.74,
+          "price_original": "$5.97",
+          "price_brl": 34.8,
           "quantity": 3
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$6.37",
-          "price_brl": 37.13,
+          "price_original": "$6.38",
+          "price_brl": 37.19,
           "quantity": 1
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$6.50",
-          "price_brl": 37.89,
+          "price_original": "$6.51",
+          "price_brl": 37.95,
           "quantity": 4
         },
         {
@@ -5814,14 +5688,14 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$9.36",
-          "price_brl": 54.56,
+          "price_original": "$9.37",
+          "price_brl": 54.62,
           "quantity": 2
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$10.98",
-          "price_brl": 64,
+          "price_original": "$11.01",
+          "price_brl": 64.18,
           "quantity": 2
         },
         {
@@ -5868,14 +5742,8 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$33.58",
-          "price_brl": 195.74,
-          "quantity": 2
-        },
-        {
-          "expansion": "Outsiders",
-          "price_original": "$33.72",
-          "price_brl": 196.56,
+          "price_original": "$33.78",
+          "price_brl": 196.91,
           "quantity": 1
         },
         {
@@ -5906,21 +5774,21 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$5.12",
-          "price_brl": 29.85,
+          "price_original": "$5.13",
+          "price_brl": 29.9,
           "quantity": 2
-        },
-        {
-          "expansion": "Outsiders",
-          "price_original": "$7.65",
-          "price_brl": 44.59,
-          "quantity": 7
         },
         {
           "expansion": "Outsiders",
           "price_original": "$7.66",
           "price_brl": 44.65,
           "quantity": 3
+        },
+        {
+          "expansion": "Outsiders",
+          "price_original": "$7.66",
+          "price_brl": 44.65,
+          "quantity": 7
         },
         {
           "expansion": "Outsiders",
@@ -5948,26 +5816,20 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$8.80",
-          "price_brl": 51.3,
+          "price_original": "$8.81",
+          "price_brl": 51.36,
           "quantity": 3
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$10.55",
-          "price_brl": 61.5,
+          "price_original": "$10.54",
+          "price_brl": 61.44,
           "quantity": 1
         },
         {
           "expansion": "Outsiders",
           "price_original": "$16.07",
           "price_brl": 93.68,
-          "quantity": 1
-        },
-        {
-          "expansion": "Outsiders",
-          "price_original": "$16.15",
-          "price_brl": 94.14,
           "quantity": 1
         },
         {
@@ -5984,8 +5846,8 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$21.10",
-          "price_brl": 123,
+          "price_original": "$21.13",
+          "price_brl": 123.17,
           "quantity": 1
         },
         {
@@ -5993,12 +5855,6 @@
           "price_original": "$22.17",
           "price_brl": 129.23,
           "quantity": 2
-        },
-        {
-          "expansion": "Outsiders",
-          "price_original": "$26.80",
-          "price_brl": 156.22,
-          "quantity": 1
         },
         {
           "expansion": "Outsiders",
@@ -6040,21 +5896,21 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$3.33",
-          "price_brl": 19.41,
+          "price_original": "$3.34",
+          "price_brl": 19.47,
           "quantity": 1
         },
         {
           "expansion": "Outsiders",
           "price_original": "$3.41",
           "price_brl": 19.88,
-          "quantity": 5
+          "quantity": 2
         },
         {
           "expansion": "Outsiders",
           "price_original": "$3.41",
           "price_brl": 19.88,
-          "quantity": 2
+          "quantity": 5
         },
         {
           "expansion": "Outsiders",
@@ -6070,14 +5926,14 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$4.08",
-          "price_brl": 23.78,
+          "price_original": "$4.09",
+          "price_brl": 23.84,
           "quantity": 1
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$4.25",
-          "price_brl": 24.77,
+          "price_original": "$4.23",
+          "price_brl": 24.66,
           "quantity": 1
         },
         {
@@ -6100,21 +5956,15 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$5.12",
-          "price_brl": 29.85,
+          "price_original": "$5.13",
+          "price_brl": 29.9,
           "quantity": 1
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$8.46",
-          "price_brl": 49.32,
+          "price_original": "$8.48",
+          "price_brl": 49.43,
           "quantity": 2
-        },
-        {
-          "expansion": "Outsiders",
-          "price_original": "$10.57",
-          "price_brl": 61.61,
-          "quantity": 1
         },
         {
           "expansion": "Outsiders",
@@ -6124,8 +5974,14 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$12.80",
-          "price_brl": 74.61,
+          "price_original": "$10.57",
+          "price_brl": 61.61,
+          "quantity": 1
+        },
+        {
+          "expansion": "Outsiders",
+          "price_original": "$12.81",
+          "price_brl": 74.67,
           "quantity": 1
         },
         {
@@ -6139,12 +5995,6 @@
           "price_original": "$13.70",
           "price_brl": 79.86,
           "quantity": 1
-        },
-        {
-          "expansion": "Outsiders",
-          "price_original": "$14.83",
-          "price_brl": 86.45,
-          "quantity": 1
         }
       ]
     },
@@ -6156,8 +6006,8 @@
       "records": [
         {
           "expansion": "Outsiders",
-          "price_original": "$46.33",
-          "price_brl": 270.07,
+          "price_original": "$46.40",
+          "price_brl": 270.47,
           "quantity": 1
         },
         {
@@ -6180,8 +6030,8 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$61.54",
-          "price_brl": 358.73,
+          "price_original": "$61.63",
+          "price_brl": 359.25,
           "quantity": 1
         },
         {
@@ -6222,14 +6072,8 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$119.86",
-          "price_brl": 698.69,
-          "quantity": 1
-        },
-        {
-          "expansion": "Outsiders",
-          "price_original": "$133.08",
-          "price_brl": 775.75,
+          "price_original": "$132.94",
+          "price_brl": 774.93,
           "quantity": 1
         },
         {
@@ -6264,8 +6108,8 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$13,105.48",
-          "price_brl": 76394.46,
+          "price_original": "$13,092.36",
+          "price_brl": 76317.98,
           "quantity": 1
         }
       ]
@@ -6280,25 +6124,25 @@
           "expansion": "Outsiders",
           "price_original": "$15.14",
           "price_brl": 88.25,
-          "quantity": 6
+          "quantity": 2
         },
         {
           "expansion": "Outsiders",
           "price_original": "$15.14",
           "price_brl": 88.25,
-          "quantity": 2
+          "quantity": 6
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$17.80",
-          "price_brl": 103.76,
-          "quantity": 1
-        },
-        {
-          "expansion": "Outsiders",
-          "price_original": "$17.92",
-          "price_brl": 104.46,
+          "price_original": "$17.30",
+          "price_brl": 100.85,
           "quantity": 3
+        },
+        {
+          "expansion": "Outsiders",
+          "price_original": "$17.56",
+          "price_brl": 102.36,
+          "quantity": 1
         },
         {
           "expansion": "Outsiders",
@@ -6314,8 +6158,8 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$19.37",
-          "price_brl": 112.91,
+          "price_original": "$19.20",
+          "price_brl": 111.92,
           "quantity": 1
         },
         {
@@ -6326,8 +6170,8 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$22.25",
-          "price_brl": 129.7,
+          "price_original": "$22.00",
+          "price_brl": 128.24,
           "quantity": 1
         },
         {
@@ -6338,14 +6182,14 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$23.18",
-          "price_brl": 135.12,
+          "price_original": "$22.91",
+          "price_brl": 133.55,
           "quantity": 2
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$41.95",
-          "price_brl": 244.53,
+          "price_original": "$42.01",
+          "price_brl": 244.88,
           "quantity": 1
         },
         {
@@ -6380,8 +6224,8 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$133.65",
-          "price_brl": 779.07,
+          "price_original": "$133.85",
+          "price_brl": 780.24,
           "quantity": 1
         },
         {
@@ -6392,14 +6236,14 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$13.15",
-          "price_brl": 76.65,
+          "price_original": "$13.14",
+          "price_brl": 76.6,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$13.49",
-          "price_brl": 78.64,
+          "price_original": "$13.50",
+          "price_brl": 78.69,
           "quantity": 1
         },
         {
@@ -6416,20 +6260,14 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$16.93",
-          "price_brl": 98.69,
+          "price_original": "$16.96",
+          "price_brl": 98.86,
           "quantity": 5
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$18.13",
-          "price_brl": 105.68,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$18.72",
-          "price_brl": 109.12,
+          "price_original": "$18.16",
+          "price_brl": 105.86,
           "quantity": 1
         },
         {
@@ -6446,14 +6284,14 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$24.15",
-          "price_brl": 140.78,
+          "price_original": "$24.19",
+          "price_brl": 141.01,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$25.01",
-          "price_brl": 145.79,
+          "price_original": "$25.04",
+          "price_brl": 145.96,
           "quantity": 1
         },
         {
@@ -6470,8 +6308,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$31.09",
-          "price_brl": 181.23,
+          "price_original": "$31.14",
+          "price_brl": 181.52,
           "quantity": 8
         },
         {
@@ -6488,8 +6326,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$37.89",
-          "price_brl": 220.87,
+          "price_original": "$37.95",
+          "price_brl": 221.22,
           "quantity": 3
         },
         {
@@ -6500,8 +6338,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$23.48",
-          "price_brl": 136.87,
+          "price_original": "$23.50",
+          "price_brl": 136.99,
           "quantity": 1
         },
         {
@@ -6530,14 +6368,14 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$29.57",
-          "price_brl": 172.37,
+          "price_original": "$29.62",
+          "price_brl": 172.66,
           "quantity": 7
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$37.63",
-          "price_brl": 219.35,
+          "price_original": "$37.69",
+          "price_brl": 219.7,
           "quantity": 2
         },
         {
@@ -6554,9 +6392,15 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$56.48",
-          "price_brl": 329.23,
+          "price_original": "$56.57",
+          "price_brl": 329.76,
           "quantity": 2
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$70.86",
+          "price_brl": 413.06,
+          "quantity": 1
         }
       ]
     },
@@ -6568,14 +6412,26 @@
       "records": [
         {
           "expansion": "Outsiders",
+          "price_original": "$7.25",
+          "price_brl": 42.26,
+          "quantity": 1
+        },
+        {
+          "expansion": "Outsiders",
           "price_original": "$16.10",
           "price_brl": 93.85,
           "quantity": 1
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$17.46",
-          "price_brl": 101.78,
+          "price_original": "$17.39",
+          "price_brl": 101.37,
+          "quantity": 1
+        },
+        {
+          "expansion": "Outsiders",
+          "price_original": "$20.51",
+          "price_brl": 119.56,
           "quantity": 1
         },
         {
@@ -6616,8 +6472,8 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$42.18",
-          "price_brl": 245.88,
+          "price_original": "$42.25",
+          "price_brl": 246.28,
           "quantity": 1
         },
         {
@@ -6628,8 +6484,8 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$50.58",
-          "price_brl": 294.84,
+          "price_original": "$50.66",
+          "price_brl": 295.31,
           "quantity": 1
         },
         {
@@ -6672,8 +6528,8 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$12.64",
-          "price_brl": 73.68,
+          "price_original": "$12.66",
+          "price_brl": 73.8,
           "quantity": 2
         },
         {
@@ -6684,15 +6540,15 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$12.89",
-          "price_brl": 75.14,
-          "quantity": 3
+          "price_original": "$12.88",
+          "price_brl": 75.08,
+          "quantity": 2
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$12.93",
-          "price_brl": 75.37,
-          "quantity": 2
+          "price_original": "$12.89",
+          "price_brl": 75.14,
+          "quantity": 3
         },
         {
           "expansion": "Outsiders",
@@ -6702,15 +6558,9 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$15.21",
-          "price_brl": 88.66,
+          "price_original": "$15.23",
+          "price_brl": 88.78,
           "quantity": 3
-        },
-        {
-          "expansion": "Outsiders",
-          "price_original": "$15.64",
-          "price_brl": 91.17,
-          "quantity": 5
         },
         {
           "expansion": "Outsiders",
@@ -6720,8 +6570,14 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$16.68",
-          "price_brl": 97.23,
+          "price_original": "$15.64",
+          "price_brl": 91.17,
+          "quantity": 5
+        },
+        {
+          "expansion": "Outsiders",
+          "price_original": "$16.70",
+          "price_brl": 97.35,
           "quantity": 3
         },
         {
@@ -6732,8 +6588,8 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$18.53",
-          "price_brl": 108.02,
+          "price_original": "$18.57",
+          "price_brl": 108.25,
           "quantity": 4
         },
         {
@@ -6762,20 +6618,20 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$20.80",
-          "price_brl": 121.25,
+          "price_original": "$20.83",
+          "price_brl": 121.42,
           "quantity": 3
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$21.10",
-          "price_brl": 123,
+          "price_original": "$21.13",
+          "price_brl": 123.17,
           "quantity": 2
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$21.93",
-          "price_brl": 127.83,
+          "price_original": "$21.97",
+          "price_brl": 128.07,
           "quantity": 1
         },
         {
@@ -6792,8 +6648,8 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$24.23",
-          "price_brl": 141.24,
+          "price_original": "$24.14",
+          "price_brl": 140.72,
           "quantity": 1
         },
         {
@@ -6810,21 +6666,21 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$29.58",
-          "price_brl": 172.43,
-          "quantity": 1
-        },
-        {
-          "expansion": "Outsiders",
-          "price_original": "$29.58",
-          "price_brl": 172.43,
-          "quantity": 2
-        },
-        {
-          "expansion": "Outsiders",
           "price_original": "$29.62",
           "price_brl": 172.66,
           "quantity": 1
+        },
+        {
+          "expansion": "Outsiders",
+          "price_original": "$29.63",
+          "price_brl": 172.72,
+          "quantity": 1
+        },
+        {
+          "expansion": "Outsiders",
+          "price_original": "$29.63",
+          "price_brl": 172.72,
+          "quantity": 2
         },
         {
           "expansion": "Outsiders",
@@ -6846,14 +6702,14 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$33.72",
-          "price_brl": 196.56,
+          "price_original": "$33.78",
+          "price_brl": 196.91,
           "quantity": 1
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$34.25",
-          "price_brl": 199.65,
+          "price_original": "$34.30",
+          "price_brl": 199.94,
           "quantity": 1
         },
         {
@@ -6896,8 +6752,8 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$8.80",
-          "price_brl": 51.3,
+          "price_original": "$8.81",
+          "price_brl": 51.36,
           "quantity": 5
         },
         {
@@ -6914,15 +6770,21 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$11.05",
-          "price_brl": 64.41,
+          "price_original": "$11.06",
+          "price_brl": 64.47,
           "quantity": 1
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$13.38",
-          "price_brl": 77.99,
+          "price_original": "$13.40",
+          "price_brl": 78.11,
           "quantity": 1
+        },
+        {
+          "expansion": "Outsiders",
+          "price_original": "$15.00",
+          "price_brl": 87.44,
+          "quantity": 3
         },
         {
           "expansion": "Outsiders",
@@ -6938,20 +6800,8 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$15.55",
-          "price_brl": 90.64,
-          "quantity": 3
-        },
-        {
-          "expansion": "Outsiders",
-          "price_original": "$16.15",
-          "price_brl": 94.14,
-          "quantity": 1
-        },
-        {
-          "expansion": "Outsiders",
-          "price_original": "$16.87",
-          "price_brl": 98.34,
+          "price_original": "$16.89",
+          "price_brl": 98.46,
           "quantity": 4
         },
         {
@@ -6962,20 +6812,20 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$21.10",
-          "price_brl": 123,
+          "price_original": "$21.13",
+          "price_brl": 123.17,
           "quantity": 1
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$22.52",
-          "price_brl": 131.27,
+          "price_original": "$22.50",
+          "price_brl": 131.16,
           "quantity": 1
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$22.52",
-          "price_brl": 131.27,
+          "price_original": "$22.50",
+          "price_brl": 131.16,
           "quantity": 1
         },
         {
@@ -7060,26 +6910,26 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$11.45",
-          "price_brl": 66.74,
+          "price_original": "$11.46",
+          "price_brl": 66.8,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$12.24",
-          "price_brl": 71.35,
+          "price_original": "$12.25",
+          "price_brl": 71.41,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$13.16",
-          "price_brl": 76.71,
+          "price_original": "$13.19",
+          "price_brl": 76.89,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$14.24",
-          "price_brl": 83.01,
+          "price_original": "$14.22",
+          "price_brl": 82.89,
           "quantity": 1
         },
         {
@@ -7102,21 +6952,9 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$17.47",
-          "price_brl": 101.84,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dusk till dawn",
-          "price_original": "$18.53",
-          "price_brl": 108.02,
+          "price_original": "$18.57",
+          "price_brl": 108.25,
           "quantity": 2
-        },
-        {
-          "expansion": "Dusk till dawn",
-          "price_original": "$19.54",
-          "price_brl": 113.9,
-          "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
@@ -7140,6 +6978,12 @@
           "expansion": "Dusk till dawn",
           "price_original": "$23.62",
           "price_brl": 137.69,
+          "quantity": 1
+        },
+        {
+          "expansion": "Dusk till dawn",
+          "price_original": "$24.25",
+          "price_brl": 141.36,
           "quantity": 1
         },
         {
@@ -7168,8 +7012,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$31.15",
-          "price_brl": 181.58,
+          "price_original": "$31.20",
+          "price_brl": 181.87,
           "quantity": 6
         },
         {
@@ -7206,20 +7050,14 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$34.36",
-          "price_brl": 200.29,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dusk till dawn",
           "price_original": "$35.46",
           "price_brl": 206.7,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$37.57",
-          "price_brl": 219,
+          "price_original": "$37.63",
+          "price_brl": 219.35,
           "quantity": 1
         },
         {
@@ -7230,8 +7068,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$37.88",
-          "price_brl": 220.81,
+          "price_original": "$37.93",
+          "price_brl": 221.1,
           "quantity": 10
         },
         {
@@ -7242,8 +7080,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$39.44",
-          "price_brl": 229.9,
+          "price_original": "$39.50",
+          "price_brl": 230.25,
           "quantity": 11
         },
         {
@@ -7254,8 +7092,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$45.51",
-          "price_brl": 265.29,
+          "price_original": "$45.57",
+          "price_brl": 265.64,
           "quantity": 4
         },
         {
@@ -7263,12 +7101,6 @@
           "price_original": "$46.00",
           "price_brl": 268.14,
           "quantity": 7
-        },
-        {
-          "expansion": "Dusk till dawn",
-          "price_original": "$46.97",
-          "price_brl": 273.8,
-          "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
@@ -7326,8 +7158,14 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$36.96",
-          "price_brl": 215.45,
+          "price_original": "$36.50",
+          "price_brl": 212.77,
+          "quantity": 4
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$37.02",
+          "price_brl": 215.8,
           "quantity": 1
         },
         {
@@ -7338,14 +7176,14 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$42.09",
-          "price_brl": 245.35,
+          "price_original": "$42.16",
+          "price_brl": 245.76,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$42.18",
-          "price_brl": 245.88,
+          "price_original": "$42.24",
+          "price_brl": 246.23,
           "quantity": 6
         },
         {
@@ -7356,8 +7194,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$46.34",
-          "price_brl": 270.13,
+          "price_original": "$46.41",
+          "price_brl": 270.53,
           "quantity": 1
         },
         {
@@ -7374,8 +7212,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$54.38",
-          "price_brl": 316.99,
+          "price_original": "$54.47",
+          "price_brl": 317.52,
           "quantity": 1
         },
         {
@@ -7412,8 +7250,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$108.74",
-          "price_brl": 633.87,
+          "price_original": "$108.91",
+          "price_brl": 634.86,
           "quantity": 8
         },
         {
@@ -7442,14 +7280,14 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$187.61",
-          "price_brl": 1093.62,
+          "price_original": "$187.90",
+          "price_brl": 1095.31,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$204.12",
-          "price_brl": 1189.86,
+          "price_original": "$204.43",
+          "price_brl": 1191.66,
           "quantity": 1
         },
         {
@@ -7460,8 +7298,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$208.93",
-          "price_brl": 1217.89,
+          "price_original": "$209.24",
+          "price_brl": 1219.7,
           "quantity": 1
         },
         {
@@ -7472,8 +7310,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$12,628.94",
-          "price_brl": 73616.62,
+          "price_original": "$12,616.31",
+          "price_brl": 73542.99,
           "quantity": 1
         }
       ]
@@ -7504,8 +7342,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$6.79",
-          "price_brl": 39.58,
+          "price_original": "$6.80",
+          "price_brl": 39.64,
           "quantity": 3
         },
         {
@@ -7540,8 +7378,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$11.42",
-          "price_brl": 66.57,
+          "price_original": "$11.44",
+          "price_brl": 66.69,
           "quantity": 1
         },
         {
@@ -7552,14 +7390,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$13.42",
-          "price_brl": 78.23,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dusk till dawn",
-          "price_original": "$13.48",
-          "price_brl": 78.58,
+          "price_original": "$13.50",
+          "price_brl": 78.69,
           "quantity": 3
         },
         {
@@ -7582,8 +7414,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$29.75",
-          "price_brl": 173.42,
+          "price_original": "$29.80",
+          "price_brl": 173.71,
           "quantity": 3
         },
         {
@@ -7606,8 +7438,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$13,105.48",
-          "price_brl": 76394.46,
+          "price_original": "$13,092.36",
+          "price_brl": 76317.98,
           "quantity": 1
         }
       ]
@@ -7692,8 +7524,8 @@
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "$3.12",
-          "price_brl": 18.19,
+          "price_original": "$3.11",
+          "price_brl": 18.13,
           "quantity": 1
         },
         {
@@ -7784,27 +7616,27 @@
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "$63.07",
-          "price_brl": 367.65,
+          "price_original": "$63.16",
+          "price_brl": 368.17,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "$63.07",
-          "price_brl": 367.65,
+          "price_original": "$63.19",
+          "price_brl": 368.35,
+          "quantity": 2
+        },
+        {
+          "expansion": "Bright Lights",
+          "price_original": "$63.44",
+          "price_brl": 369.8,
+          "quantity": 2
+        },
+        {
+          "expansion": "Bright Lights",
+          "price_original": "$66.27",
+          "price_brl": 386.3,
           "quantity": 1
-        },
-        {
-          "expansion": "Bright Lights",
-          "price_original": "$63.10",
-          "price_brl": 367.82,
-          "quantity": 2
-        },
-        {
-          "expansion": "Bright Lights",
-          "price_original": "$63.35",
-          "price_brl": 369.28,
-          "quantity": 2
         },
         {
           "expansion": "Bright Lights",
@@ -7814,14 +7646,8 @@
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "$76.38",
-          "price_brl": 445.23,
-          "quantity": 1
-        },
-        {
-          "expansion": "Bright Lights",
-          "price_original": "$97.25",
-          "price_brl": 566.89,
+          "price_original": "$76.49",
+          "price_brl": 445.88,
           "quantity": 1
         },
         {
@@ -7832,8 +7658,8 @@
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "$105.30",
-          "price_brl": 613.81,
+          "price_original": "$104.60",
+          "price_brl": 609.73,
           "quantity": 1
         },
         {
@@ -7862,20 +7688,20 @@
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "$121.18",
-          "price_brl": 706.38,
+          "price_original": "$121.36",
+          "price_brl": 707.43,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "$121.19",
-          "price_brl": 706.44,
+          "price_original": "$121.37",
+          "price_brl": 707.49,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "$125.74",
-          "price_brl": 732.96,
+          "price_original": "$125.93",
+          "price_brl": 734.07,
           "quantity": 1
         },
         {
@@ -7930,8 +7756,14 @@
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$3.62",
-          "price_brl": 21.1,
+          "price_original": "$3.63",
+          "price_brl": 21.16,
+          "quantity": 1
+        },
+        {
+          "expansion": "Heavy Hitters",
+          "price_original": "$3.71",
+          "price_brl": 21.63,
           "quantity": 1
         },
         {
@@ -7942,27 +7774,15 @@
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$3.79",
-          "price_brl": 22.09,
-          "quantity": 1
-        },
-        {
-          "expansion": "Heavy Hitters",
           "price_original": "$4.26",
           "price_brl": 24.83,
           "quantity": 4
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$4.40",
-          "price_brl": 25.65,
+          "price_original": "$4.41",
+          "price_brl": 25.71,
           "quantity": 1
-        },
-        {
-          "expansion": "Heavy Hitters",
-          "price_original": "$4.77",
-          "price_brl": 27.81,
-          "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
@@ -7975,6 +7795,12 @@
           "price_original": "$5.97",
           "price_brl": 34.8,
           "quantity": 3
+        },
+        {
+          "expansion": "Heavy Hitters",
+          "price_original": "$9.03",
+          "price_brl": 52.64,
+          "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
@@ -8002,6 +7828,12 @@
         },
         {
           "expansion": "Heavy Hitters",
+          "price_original": "$19.44",
+          "price_brl": 113.32,
+          "quantity": 1
+        },
+        {
+          "expansion": "Heavy Hitters",
           "price_original": "$19.72",
           "price_brl": 114.95,
           "quantity": 3
@@ -8022,8 +7854,8 @@
       "records": [
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$75.54",
-          "price_brl": 440.34,
+          "price_original": "$75.65",
+          "price_brl": 440.98,
           "quantity": 4
         },
         {
@@ -8040,8 +7872,8 @@
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$162.92",
-          "price_brl": 949.69,
+          "price_original": "$163.16",
+          "price_brl": 951.09,
           "quantity": 2
         },
         {
@@ -8102,8 +7934,8 @@
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$5.67",
-          "price_brl": 33.05,
+          "price_original": "$5.68",
+          "price_brl": 33.11,
           "quantity": 1
         },
         {
@@ -8162,8 +7994,8 @@
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$23.58",
-          "price_brl": 137.45,
+          "price_original": "$23.63",
+          "price_brl": 137.74,
           "quantity": 2
         },
         {
@@ -8206,20 +8038,20 @@
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$157.30",
-          "price_brl": 916.93,
+          "price_original": "$157.53",
+          "price_brl": 918.27,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$168.58",
-          "price_brl": 982.69,
+          "price_original": "$168.60",
+          "price_brl": 982.8,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$178.36",
-          "price_brl": 1039.7,
+          "price_original": "$178.63",
+          "price_brl": 1041.27,
           "quantity": 1
         },
         {
@@ -8248,8 +8080,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$137.79",
-          "price_brl": 803.21,
+          "price_original": "$138.00",
+          "price_brl": 804.43,
           "quantity": 1
         },
         {
@@ -8266,8 +8098,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$185.84",
-          "price_brl": 1083.3,
+          "price_original": "$186.12",
+          "price_brl": 1084.93,
           "quantity": 3
         }
       ]
@@ -8280,8 +8112,8 @@
       "records": [
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$86.25",
-          "price_brl": 502.77,
+          "price_original": "$86.38",
+          "price_brl": 503.53,
           "quantity": 1
         },
         {
@@ -8292,8 +8124,8 @@
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$105.43",
-          "price_brl": 614.57,
+          "price_original": "$105.59",
+          "price_brl": 615.51,
           "quantity": 1
         },
         {
@@ -8369,12 +8201,6 @@
           "price_original": "$66.96",
           "price_brl": 390.32,
           "quantity": 2
-        },
-        {
-          "expansion": "Heavy Hitters",
-          "price_original": "$66.96",
-          "price_brl": 390.32,
-          "quantity": 3
         }
       ]
     },
@@ -9614,14 +9440,14 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$17.71",
-          "price_brl": 103.24,
+          "price_original": "$17.73",
+          "price_brl": 103.35,
           "quantity": 6
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$21.14",
-          "price_brl": 123.23,
+          "price_original": "$21.18",
+          "price_brl": 123.46,
           "quantity": 3
         },
         {
@@ -9984,8 +9810,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$92.14",
-          "price_brl": 537.1,
+          "price_original": "$92.29",
+          "price_brl": 537.98,
           "quantity": 4
         },
         {
@@ -10008,8 +9834,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$113.87",
-          "price_brl": 663.77,
+          "price_original": "$114.04",
+          "price_brl": 664.76,
           "quantity": 1
         }
       ]
@@ -10386,8 +10212,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$92.14",
-          "price_brl": 537.1,
+          "price_original": "$92.29",
+          "price_brl": 537.98,
           "quantity": 1
         },
         {
@@ -10398,8 +10224,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$129.94",
-          "price_brl": 757.45,
+          "price_original": "$130.14",
+          "price_brl": 758.61,
           "quantity": 4
         }
       ]
@@ -11556,20 +11382,20 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "$15.12",
-          "price_brl": 88.14,
+          "price_original": "$15.14",
+          "price_brl": 88.25,
           "quantity": 2
         },
         {
           "expansion": "High Seas",
-          "price_original": "$15.13",
-          "price_brl": 88.2,
+          "price_original": "$15.15",
+          "price_brl": 88.31,
           "quantity": 7
         },
         {
           "expansion": "High Seas",
-          "price_original": "$16.28",
-          "price_brl": 94.9,
+          "price_original": "$16.31",
+          "price_brl": 95.07,
           "quantity": 1
         },
         {
@@ -11642,20 +11468,20 @@
       "records": [
         {
           "expansion": "High Seas",
-          "price_original": "$352.76",
-          "price_brl": 2056.31,
+          "price_original": "$353.28",
+          "price_brl": 2059.34,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "$354.03",
-          "price_brl": 2063.71,
+          "price_original": "$361.91",
+          "price_brl": 2109.65,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "$440.73",
-          "price_brl": 2569.1,
+          "price_original": "$441.40",
+          "price_brl": 2573.01,
           "quantity": 2
         },
         {
@@ -11676,7 +11502,13 @@
           "expansion": "Mastery Pack: Guardian",
           "price_original": "$17.15",
           "price_brl": 99.97,
-          "quantity": 2
+          "quantity": 1
+        },
+        {
+          "expansion": "Mastery Pack: Guardian",
+          "price_original": "$17.16",
+          "price_brl": 100.03,
+          "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
@@ -11686,14 +11518,8 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$17.79",
-          "price_brl": 103.7,
-          "quantity": 2
-        },
-        {
-          "expansion": "Mastery Pack: Guardian",
-          "price_original": "$17.80",
-          "price_brl": 103.76,
+          "price_original": "$17.82",
+          "price_brl": 103.88,
           "quantity": 1
         },
         {
@@ -11710,14 +11536,14 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$20.19",
-          "price_brl": 117.69,
+          "price_original": "$20.23",
+          "price_brl": 117.92,
           "quantity": 5
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$25.26",
-          "price_brl": 147.25,
+          "price_original": "$25.29",
+          "price_brl": 147.42,
           "quantity": 2
         },
         {
@@ -11740,20 +11566,14 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$41.55",
-          "price_brl": 242.2,
-          "quantity": 3
-        },
-        {
-          "expansion": "Mastery Pack: Guardian",
           "price_original": "$41.58",
           "price_brl": 242.38,
           "quantity": 3
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$42.18",
-          "price_brl": 245.88,
+          "price_original": "$42.25",
+          "price_brl": 246.28,
           "quantity": 5
         },
         {
@@ -11764,15 +11584,9 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$46.33",
-          "price_brl": 270.07,
+          "price_original": "$46.40",
+          "price_brl": 270.47,
           "quantity": 2
-        },
-        {
-          "expansion": "Mastery Pack: Guardian",
-          "price_original": "$46.97",
-          "price_brl": 273.8,
-          "quantity": 3
         },
         {
           "expansion": "Mastery Pack: Guardian",
@@ -11797,12 +11611,6 @@
           "price_original": "$67.27",
           "price_brl": 392.13,
           "quantity": 2
-        },
-        {
-          "expansion": "Mastery Pack: Guardian",
-          "price_original": "$93.41",
-          "price_brl": 544.51,
-          "quantity": 1
         }
       ]
     },
@@ -11814,8 +11622,14 @@
       "records": [
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$8.98",
-          "price_brl": 52.35,
+          "price_original": "$8.71",
+          "price_brl": 50.77,
+          "quantity": 1
+        },
+        {
+          "expansion": "Mastery Pack: Guardian",
+          "price_original": "$9.95",
+          "price_brl": 58,
           "quantity": 1
         },
         {
@@ -11826,8 +11640,8 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$11.92",
-          "price_brl": 69.48,
+          "price_original": "$11.32",
+          "price_brl": 65.99,
           "quantity": 1
         },
         {
@@ -11838,8 +11652,8 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$22.63",
-          "price_brl": 131.91,
+          "price_original": "$22.67",
+          "price_brl": 132.15,
           "quantity": 1
         },
         {
@@ -11850,21 +11664,15 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$25.24",
-          "price_brl": 147.13,
+          "price_original": "$25.29",
+          "price_brl": 147.42,
           "quantity": 9
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$32.39",
-          "price_brl": 188.81,
+          "price_original": "$32.43",
+          "price_brl": 189.04,
           "quantity": 4
-        },
-        {
-          "expansion": "Mastery Pack: Guardian",
-          "price_original": "$33.58",
-          "price_brl": 195.74,
-          "quantity": 2
         },
         {
           "expansion": "Mastery Pack: Guardian",
@@ -11910,8 +11718,8 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$42.18",
-          "price_brl": 245.88,
+          "price_original": "$42.24",
+          "price_brl": 246.23,
           "quantity": 1
         },
         {
@@ -11925,6 +11733,12 @@
           "price_original": "$43.00",
           "price_brl": 250.66,
           "quantity": 2
+        },
+        {
+          "expansion": "Mastery Pack: Guardian",
+          "price_original": "$45.58",
+          "price_brl": 265.69,
+          "quantity": 1
         }
       ]
     },
@@ -11938,7 +11752,13 @@
           "expansion": "Mastery Pack: Guardian",
           "price_original": "$72.64",
           "price_brl": 423.43,
-          "quantity": 2
+          "quantity": 1
+        },
+        {
+          "expansion": "Mastery Pack: Guardian",
+          "price_original": "$83.94",
+          "price_brl": 489.3,
+          "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
@@ -11948,8 +11768,8 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$97.28",
-          "price_brl": 567.06,
+          "price_original": "$97.43",
+          "price_brl": 567.94,
           "quantity": 6
         },
         {
@@ -11960,20 +11780,26 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$108.76",
-          "price_brl": 633.98,
+          "price_original": "$108.92",
+          "price_brl": 634.92,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$113.12",
-          "price_brl": 659.4,
+          "price_original": "$112.15",
+          "price_brl": 653.74,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$117.03",
-          "price_brl": 682.19,
+          "price_original": "$117.21",
+          "price_brl": 683.24,
+          "quantity": 1
+        },
+        {
+          "expansion": "Mastery Pack: Guardian",
+          "price_original": "$119.85",
+          "price_brl": 698.63,
           "quantity": 1
         },
         {
@@ -11984,8 +11810,14 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$184.77",
-          "price_brl": 1077.06,
+          "price_original": "$140.69",
+          "price_brl": 820.11,
+          "quantity": 2
+        },
+        {
+          "expansion": "Mastery Pack: Guardian",
+          "price_original": "$185.05",
+          "price_brl": 1078.69,
           "quantity": 2
         },
         {
@@ -12008,14 +11840,8 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$233.23",
-          "price_brl": 1359.54,
-          "quantity": 1
-        },
-        {
-          "expansion": "Mastery Pack: Guardian",
-          "price_original": "$265.31",
-          "price_brl": 1546.55,
+          "price_original": "$233.58",
+          "price_brl": 1361.58,
           "quantity": 1
         }
       ]
@@ -12070,6 +11896,18 @@
         },
         {
           "expansion": "Super Slam",
+          "price_original": "$7.31",
+          "price_brl": 42.61,
+          "quantity": 1
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$8.06",
+          "price_brl": 46.98,
+          "quantity": 2
+        },
+        {
+          "expansion": "Super Slam",
           "price_original": "$8.12",
           "price_brl": 47.33,
           "quantity": 3
@@ -12082,8 +11920,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$8.90",
-          "price_brl": 51.88,
+          "price_original": "$8.92",
+          "price_brl": 52,
           "quantity": 1
         },
         {
@@ -12097,12 +11935,6 @@
           "price_original": "$9.45",
           "price_brl": 55.09,
           "quantity": 3
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$10.75",
-          "price_brl": 62.66,
-          "quantity": 1
         },
         {
           "expansion": "Super Slam",
@@ -12124,14 +11956,14 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$16.15",
-          "price_brl": 94.14,
+          "price_original": "$14.15",
+          "price_brl": 82.48,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$20.11",
-          "price_brl": 117.23,
+          "price_original": "$16.15",
+          "price_brl": 94.14,
           "quantity": 1
         },
         {
@@ -12156,15 +11988,15 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$345.29",
-          "price_brl": 2012.76,
+          "price_original": "$345.80",
+          "price_brl": 2015.74,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$346.44",
-          "price_brl": 2019.47,
-          "quantity": 2
+          "price_original": "$346.96",
+          "price_brl": 2022.5,
+          "quantity": 1
         },
         {
           "expansion": "Super Slam",
@@ -12174,14 +12006,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$438.82",
-          "price_brl": 2557.97,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$450.30",
-          "price_brl": 2624.89,
+          "price_original": "$439.49",
+          "price_brl": 2561.88,
           "quantity": 1
         },
         {
@@ -12192,8 +12018,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$498.84",
-          "price_brl": 2907.84,
+          "price_original": "$499.58",
+          "price_brl": 2912.15,
           "quantity": 1
         },
         {
@@ -12208,6 +12034,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-05-02T14:48:27",
+  "datetime_utc_minus3": "2026-05-02T16:04:31",
   "euro_rate": 5.8292
 }
