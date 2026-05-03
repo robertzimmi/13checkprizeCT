@@ -200,14 +200,14 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$34.62",
-          "price_brl": 201.81,
+          "price_original": "$34.63",
+          "price_brl": 201.87,
           "quantity": 1
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$36.32",
-          "price_brl": 211.72,
+          "price_original": "$36.33",
+          "price_brl": 211.77,
           "quantity": 1
         },
         {
@@ -218,9 +218,9 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$37.93",
-          "price_brl": 221.1,
-          "quantity": 4
+          "price_original": "$37.95",
+          "price_brl": 221.22,
+          "quantity": 1
         },
         {
           "expansion": "Compendium of Rathe",
@@ -242,21 +242,21 @@
         },
         {
           "expansion": "Compendium of Rathe",
+          "price_original": "$39.95",
+          "price_brl": 232.88,
+          "quantity": 1
+        },
+        {
+          "expansion": "Compendium of Rathe",
           "price_original": "$40.51",
           "price_brl": 236.14,
           "quantity": 2
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$40.89",
-          "price_brl": 238.36,
+          "price_original": "$40.92",
+          "price_brl": 238.53,
           "quantity": 14
-        },
-        {
-          "expansion": "Compendium of Rathe",
-          "price_original": "$41.58",
-          "price_brl": 242.38,
-          "quantity": 1
         },
         {
           "expansion": "Compendium of Rathe",
@@ -272,8 +272,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$48.91",
-          "price_brl": 285.11,
+          "price_original": "$48.93",
+          "price_brl": 285.22,
           "quantity": 5
         },
         {
@@ -630,8 +630,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$153.23",
-          "price_brl": 893.21,
+          "price_original": "$153.30",
+          "price_brl": 893.62,
           "quantity": 3
         },
         {
@@ -642,8 +642,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$612.53",
-          "price_brl": 3570.56,
+          "price_original": "$611.69",
+          "price_brl": 3565.66,
           "quantity": 1
         }
       ]
@@ -1146,8 +1146,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$70.66",
-          "price_brl": 411.89,
+          "price_original": "$70.69",
+          "price_brl": 412.07,
           "quantity": 8
         },
         {
@@ -1158,39 +1158,39 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$71.50",
-          "price_brl": 416.79,
+          "price_original": "$71.52",
+          "price_brl": 416.9,
           "quantity": 1
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$71.51",
-          "price_brl": 416.85,
+          "price_original": "$71.53",
+          "price_brl": 416.96,
           "quantity": 4
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$71.92",
-          "price_brl": 419.24,
+          "price_original": "$71.96",
+          "price_brl": 419.47,
           "quantity": 1
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$73.35",
-          "price_brl": 427.57,
+          "price_original": "$73.38",
+          "price_brl": 427.75,
           "quantity": 1
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$74.46",
-          "price_brl": 434.04,
+          "price_original": "$74.20",
+          "price_brl": 432.53,
+          "quantity": 1
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "$74.48",
+          "price_brl": 434.16,
           "quantity": 12
-        },
-        {
-          "expansion": "Compendium of Rathe",
-          "price_original": "$74.68",
-          "price_brl": 435.32,
-          "quantity": 1
         },
         {
           "expansion": "Compendium of Rathe",
@@ -1212,8 +1212,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$83.97",
-          "price_brl": 489.48,
+          "price_original": "$84.00",
+          "price_brl": 489.65,
           "quantity": 1
         },
         {
@@ -2784,9 +2784,21 @@
         },
         {
           "expansion": "Super Slam",
+          "price_original": "$11.42",
+          "price_brl": 66.57,
+          "quantity": 1
+        },
+        {
+          "expansion": "Super Slam",
           "price_original": "$11.44",
           "price_brl": 66.69,
           "quantity": 4
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$14.17",
+          "price_brl": 82.6,
+          "quantity": 1
         },
         {
           "expansion": "Super Slam",
@@ -2796,26 +2808,14 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$14.58",
-          "price_brl": 84.99,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$15.92",
-          "price_brl": 92.8,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
           "price_original": "$17.42",
           "price_brl": 101.54,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$20.22",
-          "price_brl": 117.87,
+          "price_original": "$20.23",
+          "price_brl": 117.92,
           "quantity": 1
         },
         {
@@ -2838,8 +2838,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$26.33",
-          "price_brl": 153.48,
+          "price_original": "$26.34",
+          "price_brl": 153.54,
           "quantity": 3
         },
         {
@@ -2868,8 +2868,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$33.39",
-          "price_brl": 194.64,
+          "price_original": "$33.40",
+          "price_brl": 194.7,
           "quantity": 2
         },
         {
@@ -4872,14 +4872,14 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$120.55",
-          "price_brl": 702.71,
+          "price_original": "$120.59",
+          "price_brl": 702.94,
           "quantity": 4
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$120.96",
-          "price_brl": 705.1,
+          "price_original": "$121.01",
+          "price_brl": 705.39,
           "quantity": 1
         },
         {
@@ -4902,8 +4902,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$135.23",
-          "price_brl": 788.28,
+          "price_original": "$135.28",
+          "price_brl": 788.57,
           "quantity": 1
         },
         {
@@ -5494,14 +5494,14 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "$29.97",
-          "price_brl": 174.7,
+          "price_original": "$30.36",
+          "price_brl": 176.97,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "$30.36",
-          "price_brl": 176.97,
+          "price_original": "$30.96",
+          "price_brl": 180.47,
           "quantity": 1
         },
         {
@@ -5530,8 +5530,8 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "$36.80",
-          "price_brl": 214.51,
+          "price_original": "$36.82",
+          "price_brl": 214.63,
           "quantity": 1
         },
         {
@@ -5554,14 +5554,14 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "$39.01",
-          "price_brl": 227.4,
+          "price_original": "$39.03",
+          "price_brl": 227.51,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "$50.56",
-          "price_brl": 294.72,
+          "price_original": "$50.58",
+          "price_brl": 294.84,
           "quantity": 3
         },
         {
@@ -5584,8 +5584,8 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "$63.63",
-          "price_brl": 370.91,
+          "price_original": "$63.65",
+          "price_brl": 371.03,
           "quantity": 1
         },
         {
@@ -5620,8 +5620,8 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "$13,000.91",
-          "price_brl": 75784.9,
+          "price_original": "$12,987.90",
+          "price_brl": 75709.07,
           "quantity": 1
         }
       ]
@@ -6242,8 +6242,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$13.50",
-          "price_brl": 78.69,
+          "price_original": "$13.48",
+          "price_brl": 78.58,
           "quantity": 1
         },
         {
@@ -6290,8 +6290,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$25.04",
-          "price_brl": 145.96,
+          "price_original": "$25.05",
+          "price_brl": 146.02,
           "quantity": 1
         },
         {
@@ -6308,8 +6308,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$31.14",
-          "price_brl": 181.52,
+          "price_original": "$31.08",
+          "price_brl": 181.17,
           "quantity": 8
         },
         {
@@ -6326,8 +6326,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$37.95",
-          "price_brl": 221.22,
+          "price_original": "$37.96",
+          "price_brl": 221.28,
           "quantity": 3
         },
         {
@@ -6338,8 +6338,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$23.50",
-          "price_brl": 136.99,
+          "price_original": "$23.47",
+          "price_brl": 136.81,
           "quantity": 1
         },
         {
@@ -6368,14 +6368,14 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$29.62",
-          "price_brl": 172.66,
+          "price_original": "$29.63",
+          "price_brl": 172.72,
           "quantity": 7
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$37.69",
-          "price_brl": 219.7,
+          "price_original": "$37.71",
+          "price_brl": 219.82,
           "quantity": 2
         },
         {
@@ -6392,8 +6392,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$56.57",
-          "price_brl": 329.76,
+          "price_original": "$56.59",
+          "price_brl": 329.87,
           "quantity": 2
         },
         {
@@ -7164,8 +7164,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$37.02",
-          "price_brl": 215.8,
+          "price_original": "$37.04",
+          "price_brl": 215.91,
           "quantity": 1
         },
         {
@@ -7176,14 +7176,14 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$42.16",
-          "price_brl": 245.76,
+          "price_original": "$42.17",
+          "price_brl": 245.82,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$42.24",
-          "price_brl": 246.23,
+          "price_original": "$42.26",
+          "price_brl": 246.34,
           "quantity": 6
         },
         {
@@ -7194,8 +7194,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$46.41",
-          "price_brl": 270.53,
+          "price_original": "$46.43",
+          "price_brl": 270.65,
           "quantity": 1
         },
         {
@@ -7212,14 +7212,20 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$54.47",
-          "price_brl": 317.52,
+          "price_original": "$54.49",
+          "price_brl": 317.63,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$56.23",
           "price_brl": 327.78,
+          "quantity": 1
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$70.79",
+          "price_brl": 412.65,
           "quantity": 1
         },
         {
@@ -8080,8 +8086,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$138.00",
-          "price_brl": 804.43,
+          "price_original": "$138.05",
+          "price_brl": 804.72,
           "quantity": 1
         },
         {
@@ -8098,9 +8104,9 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$186.12",
-          "price_brl": 1084.93,
-          "quantity": 3
+          "price_original": "$186.20",
+          "price_brl": 1085.4,
+          "quantity": 2
         }
       ]
     },
@@ -9446,14 +9452,14 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$17.73",
-          "price_brl": 103.35,
+          "price_original": "$17.74",
+          "price_brl": 103.41,
           "quantity": 6
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$21.18",
-          "price_brl": 123.46,
+          "price_original": "$20.59",
+          "price_brl": 120.02,
           "quantity": 3
         },
         {
@@ -9810,8 +9816,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$92.29",
-          "price_brl": 537.98,
+          "price_original": "$92.32",
+          "price_brl": 538.15,
           "quantity": 4
         },
         {
@@ -9830,12 +9836,6 @@
           "expansion": "Compendium of Rathe",
           "price_original": "$106.63",
           "price_brl": 621.57,
-          "quantity": 1
-        },
-        {
-          "expansion": "Compendium of Rathe",
-          "price_original": "$114.04",
-          "price_brl": 664.76,
           "quantity": 1
         }
       ]
@@ -10206,8 +10206,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$92.29",
-          "price_brl": 537.98,
+          "price_original": "$92.32",
+          "price_brl": 538.15,
           "quantity": 1
         },
         {
@@ -10218,9 +10218,9 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$130.14",
-          "price_brl": 758.61,
-          "quantity": 4
+          "price_original": "$130.19",
+          "price_brl": 758.9,
+          "quantity": 3
         }
       ]
     },
@@ -11376,20 +11376,20 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "$15.14",
-          "price_brl": 88.25,
+          "price_original": "$15.15",
+          "price_brl": 88.31,
           "quantity": 2
         },
         {
           "expansion": "High Seas",
-          "price_original": "$15.15",
-          "price_brl": 88.31,
+          "price_original": "$15.16",
+          "price_brl": 88.37,
           "quantity": 7
         },
         {
           "expansion": "High Seas",
-          "price_original": "$16.31",
-          "price_brl": 95.07,
+          "price_original": "$16.32",
+          "price_brl": 95.13,
           "quantity": 1
         },
         {
@@ -11462,20 +11462,20 @@
       "records": [
         {
           "expansion": "High Seas",
-          "price_original": "$353.28",
-          "price_brl": 2059.34,
+          "price_original": "$346.92",
+          "price_brl": 2022.27,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "$361.91",
-          "price_brl": 2109.65,
+          "price_original": "$353.43",
+          "price_brl": 2060.21,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "$441.40",
-          "price_brl": 2573.01,
+          "price_original": "$441.58",
+          "price_brl": 2574.06,
           "quantity": 2
         },
         {
@@ -11506,14 +11506,8 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$17.64",
-          "price_brl": 102.83,
-          "quantity": 1
-        },
-        {
-          "expansion": "Mastery Pack: Guardian",
-          "price_original": "$17.82",
-          "price_brl": 103.88,
+          "price_original": "$18.25",
+          "price_brl": 106.38,
           "quantity": 1
         },
         {
@@ -11536,8 +11530,8 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$25.29",
-          "price_brl": 147.42,
+          "price_original": "$25.30",
+          "price_brl": 147.48,
           "quantity": 2
         },
         {
@@ -11566,8 +11560,8 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$42.25",
-          "price_brl": 246.28,
+          "price_original": "$42.27",
+          "price_brl": 246.4,
           "quantity": 5
         },
         {
@@ -11578,8 +11572,8 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$46.40",
-          "price_brl": 270.47,
+          "price_original": "$46.42",
+          "price_brl": 270.59,
           "quantity": 2
         },
         {
@@ -11590,8 +11584,8 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$52.20",
-          "price_brl": 304.28,
+          "price_original": "$52.18",
+          "price_brl": 304.17,
           "quantity": 5
         },
         {
@@ -11646,8 +11640,8 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$22.67",
-          "price_brl": 132.15,
+          "price_original": "$22.68",
+          "price_brl": 132.21,
           "quantity": 1
         },
         {
@@ -11658,14 +11652,14 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$25.29",
-          "price_brl": 147.42,
+          "price_original": "$25.30",
+          "price_brl": 147.48,
           "quantity": 9
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$32.43",
-          "price_brl": 189.04,
+          "price_original": "$32.44",
+          "price_brl": 189.1,
           "quantity": 4
         },
         {
@@ -11712,8 +11706,8 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$42.24",
-          "price_brl": 246.23,
+          "price_original": "$42.26",
+          "price_brl": 246.34,
           "quantity": 1
         },
         {
@@ -11762,8 +11756,8 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$97.43",
-          "price_brl": 567.94,
+          "price_original": "$96.68",
+          "price_brl": 563.57,
           "quantity": 6
         },
         {
@@ -11774,8 +11768,8 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$108.92",
-          "price_brl": 634.92,
+          "price_original": "$108.97",
+          "price_brl": 635.21,
           "quantity": 1
         },
         {
@@ -11786,8 +11780,8 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$117.21",
-          "price_brl": 683.24,
+          "price_original": "$117.26",
+          "price_brl": 683.53,
           "quantity": 1
         },
         {
@@ -11810,8 +11804,8 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$185.05",
-          "price_brl": 1078.69,
+          "price_original": "$185.13",
+          "price_brl": 1079.16,
           "quantity": 2
         },
         {
@@ -11834,8 +11828,8 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$233.58",
-          "price_brl": 1361.58,
+          "price_original": "$233.68",
+          "price_brl": 1362.17,
           "quantity": 1
         }
       ]
@@ -11848,15 +11842,21 @@
       "records": [
         {
           "expansion": "Super Slam",
-          "price_original": "$4.99",
-          "price_brl": 29.09,
-          "quantity": 3
+          "price_original": "$4.81",
+          "price_brl": 28.04,
+          "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$5.06",
-          "price_brl": 29.5,
+          "price_original": "$4.90",
+          "price_brl": 28.56,
           "quantity": 1
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$4.92",
+          "price_brl": 28.68,
+          "quantity": 3
         },
         {
           "expansion": "Super Slam",
@@ -11914,8 +11914,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$8.92",
-          "price_brl": 52,
+          "price_original": "$8.93",
+          "price_brl": 52.05,
           "quantity": 1
         },
         {
@@ -11982,14 +11982,14 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$345.80",
-          "price_brl": 2015.74,
+          "price_original": "$345.95",
+          "price_brl": 2016.61,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$346.96",
-          "price_brl": 2022.5,
+          "price_original": "$347.09",
+          "price_brl": 2023.26,
           "quantity": 1
         },
         {
@@ -12000,8 +12000,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$439.49",
-          "price_brl": 2561.88,
+          "price_original": "$439.58",
+          "price_brl": 2562.4,
           "quantity": 1
         },
         {
@@ -12012,8 +12012,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$499.58",
-          "price_brl": 2912.15,
+          "price_original": "$499.79",
+          "price_brl": 2913.38,
           "quantity": 1
         },
         {
@@ -12028,6 +12028,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-05-03T14:26:08",
+  "datetime_utc_minus3": "2026-05-03T15:12:35",
   "euro_rate": 5.8292
 }
