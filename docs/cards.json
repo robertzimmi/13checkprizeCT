@@ -3358,44 +3358,44 @@
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$25.95",
-          "price_brl": 151.85,
-          "quantity": 1
-        },
-        {
-          "expansion": "GEM Pack",
-          "price_original": "$26.36",
-          "price_brl": 154.25,
-          "quantity": 3
-        },
-        {
-          "expansion": "GEM Pack",
-          "price_original": "$27.74",
-          "price_brl": 162.33,
+          "price_original": "R$158.94",
+          "price_brl": 158.94,
           "quantity": 4
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$31.17",
-          "price_brl": 182.4,
+          "price_original": "R$167.99",
+          "price_brl": 167.99,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$33.43",
-          "price_brl": 195.62,
+          "price_original": "R$171.24",
+          "price_brl": 171.24,
+          "quantity": 3
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "R$179.56",
+          "price_brl": 179.56,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$40.24",
-          "price_brl": 235.47,
+          "price_original": "R$191.95",
+          "price_brl": 191.95,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$47.02",
-          "price_brl": 275.15,
+          "price_original": "R$231.09",
+          "price_brl": 231.09,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "R$270.01",
+          "price_brl": 270.01,
           "quantity": 1
         }
       ]
@@ -4242,14 +4242,14 @@
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$25.10",
-          "price_brl": 146.88,
+          "price_original": "R$143.81",
+          "price_brl": 143.81,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$34.28",
-          "price_brl": 200.6,
+          "price_original": "R$196.89",
+          "price_brl": 196.89,
           "quantity": 3
         }
       ]
@@ -4944,8 +4944,14 @@
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$117.15",
-          "price_brl": 685.53,
+          "price_original": "R$664.79",
+          "price_brl": 664.79,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "R$761.02",
+          "price_brl": 761.02,
           "quantity": 1
         }
       ]
@@ -7216,104 +7222,104 @@
       "records": [
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$1.42",
-          "price_brl": 8.31,
+          "price_original": "R$9.23",
+          "price_brl": 9.23,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$2.96",
-          "price_brl": 17.32,
-          "quantity": 1
-        },
-        {
-          "expansion": "Heavy Hitters",
-          "price_original": "$3.16",
-          "price_brl": 18.49,
+          "price_original": "R$18.17",
+          "price_brl": 18.17,
           "quantity": 6
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$3.59",
-          "price_brl": 21.01,
+          "price_original": "R$19.23",
+          "price_brl": 19.23,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$3.60",
-          "price_brl": 21.07,
+          "price_original": "R$20.61",
+          "price_brl": 20.61,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$3.61",
-          "price_brl": 21.12,
+          "price_original": "R$23.39",
+          "price_brl": 23.39,
+          "quantity": 1
+        },
+        {
+          "expansion": "Heavy Hitters",
+          "price_original": "R$23.45",
+          "price_brl": 23.45,
           "quantity": 6
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$4.25",
-          "price_brl": 24.87,
+          "price_original": "R$24.35",
+          "price_brl": 24.35,
           "quantity": 4
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$4.37",
-          "price_brl": 25.57,
+          "price_original": "R$25.05",
+          "price_brl": 25.05,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$4.78",
-          "price_brl": 27.97,
+          "price_original": "R$27.44",
+          "price_brl": 27.44,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$5.41",
-          "price_brl": 31.66,
+          "price_original": "R$31.10",
+          "price_brl": 31.1,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$5.44",
-          "price_brl": 31.83,
+          "price_original": "R$31.24",
+          "price_brl": 31.24,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$9.24",
-          "price_brl": 54.07,
+          "price_original": "R$60.02",
+          "price_brl": 60.02,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$10.52",
-          "price_brl": 61.56,
+          "price_original": "R$60.44",
+          "price_brl": 60.44,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$11.90",
-          "price_brl": 69.64,
+          "price_original": "R$68.34",
+          "price_brl": 68.34,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$13.44",
-          "price_brl": 78.65,
+          "price_original": "R$77.15",
+          "price_brl": 77.15,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$19.74",
-          "price_brl": 115.51,
+          "price_original": "R$113.35",
+          "price_brl": 113.35,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$26.84",
-          "price_brl": 157.06,
+          "price_original": "R$154.09",
+          "price_brl": 154.09,
           "quantity": 1
         }
       ]
@@ -7326,32 +7332,38 @@
       "records": [
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$75.08",
-          "price_brl": 439.35,
+          "price_original": "R$430.16",
+          "price_brl": 430.16,
           "quantity": 4
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$145.64",
-          "price_brl": 852.24,
+          "price_original": "R$929.06",
+          "price_brl": 929.06,
+          "quantity": 2
+        },
+        {
+          "expansion": "Heavy Hitters",
+          "price_original": "R$946.09",
+          "price_brl": 946.09,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$152.91",
-          "price_brl": 894.78,
+          "price_original": "R$993.32",
+          "price_brl": 993.32,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$192.15",
-          "price_brl": 1124.4,
+          "price_original": "R$1,102.65",
+          "price_brl": 1102.65,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$246.15",
-          "price_brl": 1440.4,
+          "price_original": "R$1,413.46",
+          "price_brl": 1413.46,
           "quantity": 1
         }
       ]
@@ -7364,134 +7376,134 @@
       "records": [
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$3.52",
-          "price_brl": 20.6,
+          "price_original": "R$22.87",
+          "price_brl": 22.87,
           "quantity": 4
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$3.82",
-          "price_brl": 22.35,
+          "price_original": "R$24.82",
+          "price_brl": 24.82,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$3.82",
-          "price_brl": 22.35,
+          "price_original": "R$24.82",
+          "price_brl": 24.82,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$3.82",
-          "price_brl": 22.35,
+          "price_original": "R$24.82",
+          "price_brl": 24.82,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$4.15",
-          "price_brl": 24.28,
+          "price_original": "R$26.96",
+          "price_brl": 26.96,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$5.30",
-          "price_brl": 31.01,
+          "price_original": "R$30.41",
+          "price_brl": 30.41,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$5.82",
-          "price_brl": 34.06,
-          "quantity": 5
+          "price_original": "R$35.05",
+          "price_brl": 35.05,
+          "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$5.82",
-          "price_brl": 34.06,
+          "price_original": "R$37.80",
+          "price_brl": 37.8,
           "quantity": 7
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$6.10",
-          "price_brl": 35.7,
-          "quantity": 2
+          "price_original": "R$37.80",
+          "price_brl": 37.8,
+          "quantity": 5
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$6.15",
-          "price_brl": 35.99,
-          "quantity": 1
-        },
-        {
-          "expansion": "Heavy Hitters",
-          "price_original": "$6.70",
-          "price_brl": 39.21,
+          "price_original": "R$38.45",
+          "price_brl": 38.45,
           "quantity": 8
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$6.88",
-          "price_brl": 40.26,
+          "price_original": "R$39.42",
+          "price_brl": 39.42,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$7.15",
-          "price_brl": 41.84,
+          "price_original": "R$39.95",
+          "price_brl": 39.95,
+          "quantity": 1
+        },
+        {
+          "expansion": "Heavy Hitters",
+          "price_original": "R$42.87",
+          "price_brl": 42.87,
+          "quantity": 1
+        },
+        {
+          "expansion": "Heavy Hitters",
+          "price_original": "R$46.45",
+          "price_brl": 46.45,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$7.47",
-          "price_brl": 43.71,
-          "quantity": 1
-        },
-        {
-          "expansion": "Heavy Hitters",
-          "price_original": "$8.97",
-          "price_brl": 52.49,
+          "price_original": "R$51.55",
+          "price_brl": 51.55,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$9.05",
-          "price_brl": 52.96,
+          "price_original": "R$53.21",
+          "price_brl": 53.21,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$9.27",
-          "price_brl": 54.25,
+          "price_original": "R$58.79",
+          "price_brl": 58.79,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$23.44",
-          "price_brl": 137.16,
+          "price_original": "R$134.32",
+          "price_brl": 134.32,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$23.68",
-          "price_brl": 138.57,
+          "price_original": "R$135.99",
+          "price_brl": 135.99,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$26.43",
-          "price_brl": 154.66,
+          "price_original": "R$151.80",
+          "price_brl": 151.8,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$31.64",
-          "price_brl": 185.15,
+          "price_original": "R$181.69",
+          "price_brl": 181.69,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$67.03",
-          "price_brl": 392.24,
+          "price_original": "R$384.96",
+          "price_brl": 384.96,
           "quantity": 3
         }
       ]
@@ -7504,50 +7516,44 @@
       "records": [
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$123.84",
-          "price_brl": 724.67,
+          "price_original": "R$804.48",
+          "price_brl": 804.48,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$150.35",
-          "price_brl": 879.8,
+          "price_original": "R$858.83",
+          "price_brl": 858.83,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$156.31",
-          "price_brl": 914.68,
+          "price_original": "R$895.65",
+          "price_brl": 895.65,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$177.14",
-          "price_brl": 1036.57,
+          "price_original": "R$1,014.97",
+          "price_brl": 1014.97,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$258.98",
-          "price_brl": 1515.47,
-          "quantity": 1
-        },
-        {
-          "expansion": "Heavy Hitters",
-          "price_original": "$276.74",
-          "price_brl": 1619.4,
+          "price_original": "R$1,797.73",
+          "price_brl": 1797.73,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$331.79",
-          "price_brl": 1941.54,
+          "price_original": "R$1,905.31",
+          "price_brl": 1905.31,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$444.71",
-          "price_brl": 2602.31,
+          "price_original": "R$2,553.73",
+          "price_brl": 2553.73,
           "quantity": 1
         },
         {
@@ -7578,56 +7584,62 @@
       "records": [
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$79.15",
-          "price_brl": 463.16,
+          "price_original": "R$514.16",
+          "price_brl": 514.16,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$80.74",
-          "price_brl": 472.47,
+          "price_original": "R$526.28",
+          "price_brl": 526.28,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$93.18",
-          "price_brl": 545.26,
+          "price_original": "R$530.99",
+          "price_brl": 530.99,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$93.51",
-          "price_brl": 547.19,
+          "price_original": "R$535.09",
+          "price_brl": 535.09,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$104.77",
-          "price_brl": 613.08,
+          "price_original": "R$536.99",
+          "price_brl": 536.99,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$108.75",
-          "price_brl": 636.37,
+          "price_original": "R$600.33",
+          "price_brl": 600.33,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$133.23",
-          "price_brl": 779.62,
+          "price_original": "R$706.45",
+          "price_brl": 706.45,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$177.36",
-          "price_brl": 1037.86,
+          "price_original": "R$765.04",
+          "price_brl": 765.04,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$331.79",
-          "price_brl": 1941.54,
+          "price_original": "R$1,018.49",
+          "price_brl": 1018.49,
+          "quantity": 1
+        },
+        {
+          "expansion": "Heavy Hitters",
+          "price_original": "R$1,905.31",
+          "price_brl": 1905.31,
           "quantity": 1
         }
       ]
@@ -7640,62 +7652,62 @@
       "records": [
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$41.02",
-          "price_brl": 240.04,
+          "price_original": "R$264.52",
+          "price_brl": 264.52,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$42.11",
-          "price_brl": 246.42,
+          "price_original": "R$273.55",
+          "price_brl": 273.55,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$45.61",
-          "price_brl": 266.9,
-          "quantity": 1
-        },
-        {
-          "expansion": "Heavy Hitters",
-          "price_original": "$48.34",
-          "price_brl": 282.87,
+          "price_original": "R$277.61",
+          "price_brl": 277.61,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$51.00",
-          "price_brl": 298.44,
+          "price_original": "R$292.83",
+          "price_brl": 292.83,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$66.00",
-          "price_brl": 386.21,
+          "price_original": "R$296.28",
+          "price_brl": 296.28,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$67.02",
-          "price_brl": 392.18,
+          "price_original": "R$379.03",
+          "price_brl": 379.03,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$67.03",
-          "price_brl": 392.24,
+          "price_original": "R$384.88",
+          "price_brl": 384.88,
+          "quantity": 1
+        },
+        {
+          "expansion": "Heavy Hitters",
+          "price_original": "R$384.96",
+          "price_brl": 384.96,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$67.03",
-          "price_brl": 392.24,
+          "price_original": "R$384.96",
+          "price_brl": 384.96,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$67.03",
-          "price_brl": 392.24,
+          "price_original": "R$384.96",
+          "price_brl": 384.96,
           "quantity": 1
         }
       ]
@@ -11380,6 +11392,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-05-15T17:41:35",
+  "datetime_utc_minus3": "2026-05-15T19:02:42",
   "euro_rate": 5.8517
 }
