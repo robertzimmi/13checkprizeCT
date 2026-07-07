@@ -576,20 +576,20 @@
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$693.20",
-          "price_brl": 693.2,
+          "price_original": "$102.62",
+          "price_brl": 603.21,
           "quantity": 2
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$778.27",
-          "price_brl": 778.27,
+          "price_original": "$129.81",
+          "price_brl": 763.04,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$816.93",
-          "price_brl": 816.93,
+          "price_original": "$136.27",
+          "price_brl": 801.01,
           "quantity": 1
         },
         {
@@ -3478,44 +3478,50 @@
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "R$147.63",
-          "price_brl": 147.63,
-          "quantity": 1
-        },
-        {
-          "expansion": "GEM Pack",
-          "price_original": "R$150.71",
-          "price_brl": 150.71,
+          "price_original": "$22.31",
+          "price_brl": 131.14,
           "quantity": 2
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "R$196.27",
-          "price_brl": 196.27,
+          "price_original": "$24.62",
+          "price_brl": 144.72,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "R$196.34",
-          "price_brl": 196.34,
+          "price_original": "$30.28",
+          "price_brl": 177.99,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$31.47",
+          "price_brl": 184.98,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$32.74",
+          "price_brl": 192.45,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$32.75",
+          "price_brl": 192.51,
           "quantity": 2
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "R$196.42",
-          "price_brl": 196.42,
+          "price_original": "$32.76",
+          "price_brl": 192.57,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "R$205.69",
-          "price_brl": 205.69,
-          "quantity": 1
-        },
-        {
-          "expansion": "GEM Pack",
-          "price_original": "R$235.09",
-          "price_brl": 235.09,
+          "price_original": "$39.21",
+          "price_brl": 230.48,
           "quantity": 1
         }
       ]
@@ -3668,194 +3674,194 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$31.01",
-          "price_brl": 31.01,
-          "quantity": 6
-        },
-        {
-          "expansion": "Dusk till dawn",
-          "price_original": "R$31.01",
-          "price_brl": 31.01,
-          "quantity": 6
-        },
-        {
-          "expansion": "Dusk till dawn",
-          "price_original": "R$33.90",
-          "price_brl": 33.9,
+          "price_original": "$5.02",
+          "price_brl": 29.51,
           "quantity": 15
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$39.44",
-          "price_brl": 39.44,
-          "quantity": 1
+          "price_original": "$5.18",
+          "price_brl": 30.45,
+          "quantity": 6
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$43.03",
-          "price_brl": 43.03,
+          "price_original": "$5.18",
+          "price_brl": 30.45,
+          "quantity": 6
+        },
+        {
+          "expansion": "Dusk till dawn",
+          "price_original": "$6.37",
+          "price_brl": 37.44,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$43.61",
-          "price_brl": 43.61,
+          "price_original": "$6.58",
+          "price_brl": 38.68,
+          "quantity": 1
+        },
+        {
+          "expansion": "Dusk till dawn",
+          "price_original": "$7.28",
+          "price_brl": 42.79,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$45.01",
-          "price_brl": 45.01,
+          "price_original": "$7.48",
+          "price_brl": 43.97,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$45.08",
-          "price_brl": 45.08,
+          "price_original": "$7.49",
+          "price_brl": 44.03,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$48.33",
-          "price_brl": 48.33,
+          "price_original": "$8.05",
+          "price_brl": 47.32,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$58.50",
-          "price_brl": 58.5,
+          "price_original": "$8.66",
+          "price_brl": 50.9,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$58.50",
-          "price_brl": 58.5,
+          "price_original": "$8.66",
+          "price_brl": 50.9,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$61.95",
-          "price_brl": 61.95,
+          "price_original": "$9.17",
+          "price_brl": 53.9,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$66.00",
-          "price_brl": 66,
+          "price_original": "$9.77",
+          "price_brl": 57.43,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$67.73",
-          "price_brl": 67.73,
+          "price_original": "$11.32",
+          "price_brl": 66.54,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$72.49",
-          "price_brl": 72.49,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dusk till dawn",
-          "price_original": "R$78.09",
-          "price_brl": 78.09,
+          "price_original": "$11.56",
+          "price_brl": 67.95,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$78.49",
-          "price_brl": 78.49,
+          "price_original": "$12.11",
+          "price_brl": 71.18,
+          "quantity": 1
+        },
+        {
+          "expansion": "Dusk till dawn",
+          "price_original": "$12.59",
+          "price_brl": 74.01,
+          "quantity": 3
+        },
+        {
+          "expansion": "Dusk till dawn",
+          "price_original": "$13.10",
+          "price_brl": 77,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$82.82",
-          "price_brl": 82.82,
+          "price_original": "$13.23",
+          "price_brl": 77.77,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$83.51",
-          "price_brl": 83.51,
+          "price_original": "$13.24",
+          "price_brl": 77.83,
+          "quantity": 3
+        },
+        {
+          "expansion": "Dusk till dawn",
+          "price_original": "$13.82",
+          "price_brl": 81.24,
+          "quantity": 3
+        },
+        {
+          "expansion": "Dusk till dawn",
+          "price_original": "$13.97",
+          "price_brl": 82.12,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$85.72",
-          "price_brl": 85.72,
-          "quantity": 3
-        },
-        {
-          "expansion": "Dusk till dawn",
-          "price_original": "R$89.37",
-          "price_brl": 89.37,
-          "quantity": 3
-        },
-        {
-          "expansion": "Dusk till dawn",
-          "price_original": "R$89.44",
-          "price_brl": 89.44,
-          "quantity": 3
-        },
-        {
-          "expansion": "Dusk till dawn",
-          "price_original": "R$89.56",
-          "price_brl": 89.56,
+          "price_original": "$14.97",
+          "price_brl": 88,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$96.73",
-          "price_brl": 96.73,
+          "price_original": "$16.17",
+          "price_brl": 95.05,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$98.64",
-          "price_brl": 98.64,
+          "price_original": "$16.49",
+          "price_brl": 96.93,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$101.49",
-          "price_brl": 101.49,
+          "price_original": "$16.96",
+          "price_brl": 99.69,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$129.06",
-          "price_brl": 129.06,
+          "price_original": "$21.53",
+          "price_brl": 126.56,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$137.72",
-          "price_brl": 137.72,
+          "price_original": "$22.97",
+          "price_brl": 135.02,
           "quantity": 4
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$138.19",
-          "price_brl": 138.19,
+          "price_original": "$23.05",
+          "price_brl": 135.49,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$156.75",
-          "price_brl": 156.75,
+          "price_original": "$26.15",
+          "price_brl": 153.71,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$223.64",
-          "price_brl": 223.64,
+          "price_original": "$37.30",
+          "price_brl": 219.25,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$391.61",
-          "price_brl": 391.61,
+          "price_original": "$65.33",
+          "price_brl": 384.02,
           "quantity": 2
         },
         {
@@ -4470,32 +4476,32 @@
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "R$78.05",
-          "price_brl": 78.05,
+          "price_original": "$13.02",
+          "price_brl": 76.53,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "R$135.27",
-          "price_brl": 135.27,
+          "price_original": "$22.61",
+          "price_brl": 132.9,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "R$195.65",
-          "price_brl": 195.65,
+          "price_original": "$32.63",
+          "price_brl": 191.8,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "R$200.29",
-          "price_brl": 200.29,
+          "price_original": "$33.40",
+          "price_brl": 196.33,
           "quantity": 3
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "R$207.56",
-          "price_brl": 207.56,
+          "price_original": "$34.70",
+          "price_brl": 203.97,
           "quantity": 1
         }
       ]
@@ -4660,8 +4666,14 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$777.49",
-          "price_brl": 777.49,
+          "price_original": "$116.92",
+          "price_brl": 687.27,
+          "quantity": 1
+        },
+        {
+          "expansion": "Dusk till dawn",
+          "price_original": "$129.69",
+          "price_brl": 762.33,
           "quantity": 1
         },
         {
@@ -5178,26 +5190,26 @@
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "R$442.66",
-          "price_brl": 442.66,
+          "price_original": "$65.53",
+          "price_brl": 385.19,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "R$550.89",
-          "price_brl": 550.89,
+          "price_original": "$92.10",
+          "price_brl": 541.37,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "R$584.93",
-          "price_brl": 584.93,
+          "price_original": "$97.56",
+          "price_brl": 573.47,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "R$623.61",
-          "price_brl": 623.61,
+          "price_original": "$104.02",
+          "price_brl": 611.44,
           "quantity": 1
         }
       ]
@@ -5294,116 +5306,116 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$154.25",
-          "price_brl": 154.25,
+          "price_original": "$25.79",
+          "price_brl": 151.6,
           "quantity": 2
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$192.24",
-          "price_brl": 192.24,
+          "price_original": "$28.46",
+          "price_brl": 167.29,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$199.00",
-          "price_brl": 199,
+          "price_original": "$29.46",
+          "price_brl": 173.17,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$206.36",
-          "price_brl": 206.36,
+          "price_original": "$30.55",
+          "price_brl": 179.58,
           "quantity": 5
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$209.07",
-          "price_brl": 209.07,
+          "price_original": "$30.95",
+          "price_brl": 181.93,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$211.89",
-          "price_brl": 211.89,
+          "price_original": "$34.63",
+          "price_brl": 203.56,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$212.26",
-          "price_brl": 212.26,
+          "price_original": "$35.48",
+          "price_brl": 208.55,
           "quantity": 2
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$218.95",
-          "price_brl": 218.95,
+          "price_original": "$36.53",
+          "price_brl": 214.73,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$222.79",
-          "price_brl": 222.79,
+          "price_original": "$37.17",
+          "price_brl": 218.49,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$226.68",
-          "price_brl": 226.68,
+          "price_original": "$37.76",
+          "price_brl": 221.96,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$289.26",
-          "price_brl": 289.26,
+          "price_original": "$48.35",
+          "price_brl": 284.21,
           "quantity": 3
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$305.54",
-          "price_brl": 305.54,
+          "price_original": "$50.96",
+          "price_brl": 299.55,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$313.35",
-          "price_brl": 313.35,
+          "price_original": "$52.26",
+          "price_brl": 307.19,
+          "quantity": 1
+        },
+        {
+          "expansion": "High Seas",
+          "price_original": "$52.26",
+          "price_brl": 307.19,
           "quantity": 2
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$313.35",
-          "price_brl": 313.35,
+          "price_original": "$62.59",
+          "price_brl": 367.91,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$375.22",
-          "price_brl": 375.22,
+          "price_original": "$64.53",
+          "price_brl": 379.31,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$386.89",
-          "price_brl": 386.89,
+          "price_original": "$76.79",
+          "price_brl": 451.38,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$460.43",
-          "price_brl": 460.43,
-          "quantity": 1
-        },
-        {
-          "expansion": "High Seas",
-          "price_original": "R$596.54",
-          "price_brl": 596.54,
+          "price_original": "$99.51",
+          "price_brl": 584.93,
           "quantity": 3
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$618.35",
-          "price_brl": 618.35,
+          "price_original": "$103.14",
+          "price_brl": 606.27,
           "quantity": 3
         }
       ]
@@ -6770,158 +6782,158 @@
       "records": [
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$31.79",
-          "price_brl": 31.79,
+          "price_original": "$5.30",
+          "price_brl": 31.15,
           "quantity": 6
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$37.96",
-          "price_brl": 37.96,
+          "price_original": "$5.62",
+          "price_brl": 33.03,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$37.96",
-          "price_brl": 37.96,
+          "price_original": "$5.62",
+          "price_brl": 33.03,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$39.52",
-          "price_brl": 39.52,
+          "price_original": "$6.59",
+          "price_brl": 38.74,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$40.21",
-          "price_brl": 40.21,
+          "price_original": "$6.60",
+          "price_brl": 38.8,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$44.58",
-          "price_brl": 44.58,
+          "price_original": "$6.66",
+          "price_brl": 39.15,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$47.62",
-          "price_brl": 47.62,
+          "price_original": "$7.05",
+          "price_brl": 41.44,
+          "quantity": 1
+        },
+        {
+          "expansion": "Dusk till dawn",
+          "price_original": "$7.05",
+          "price_brl": 41.44,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$47.62",
-          "price_brl": 47.62,
+          "price_original": "$8.32",
+          "price_brl": 48.91,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$56.20",
-          "price_brl": 56.2,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dusk till dawn",
-          "price_original": "R$62.62",
-          "price_brl": 62.62,
+          "price_original": "$9.27",
+          "price_brl": 54.49,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$63.95",
-          "price_brl": 63.95,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dusk till dawn",
-          "price_original": "R$64.10",
-          "price_brl": 64.1,
+          "price_original": "$9.46",
+          "price_brl": 55.61,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$68.91",
-          "price_brl": 68.91,
+          "price_original": "$10.69",
+          "price_brl": 62.84,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$71.29",
-          "price_brl": 71.29,
+          "price_original": "$11.53",
+          "price_brl": 67.77,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$73.67",
-          "price_brl": 73.67,
+          "price_original": "$11.92",
+          "price_brl": 70.07,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$86.68",
-          "price_brl": 86.68,
+          "price_original": "$12.32",
+          "price_brl": 72.42,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$102.15",
-          "price_brl": 102.15,
+          "price_original": "$14.46",
+          "price_brl": 85,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$103.15",
-          "price_brl": 103.15,
+          "price_original": "$16.96",
+          "price_brl": 99.69,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$115.71",
-          "price_brl": 115.71,
+          "price_original": "$17.04",
+          "price_brl": 100.16,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$117.47",
-          "price_brl": 117.47,
+          "price_original": "$17.39",
+          "price_brl": 102.22,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$117.62",
-          "price_brl": 117.62,
+          "price_original": "$19.35",
+          "price_brl": 113.74,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$144.73",
-          "price_brl": 144.73,
+          "price_original": "$19.62",
+          "price_brl": 115.33,
+          "quantity": 1
+        },
+        {
+          "expansion": "Dusk till dawn",
+          "price_original": "$24.19",
+          "price_brl": 142.19,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$152.27",
-          "price_brl": 152.27,
+          "price_original": "$25.40",
+          "price_brl": 149.3,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$159.59",
-          "price_brl": 159.59,
+          "price_original": "$26.69",
+          "price_brl": 156.89,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$222.87",
-          "price_brl": 222.87,
+          "price_original": "$37.18",
+          "price_brl": 218.55,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$391.61",
-          "price_brl": 391.61,
+          "price_original": "$65.33",
+          "price_brl": 384.02,
           "quantity": 1
         }
       ]
@@ -6934,104 +6946,104 @@
       "records": [
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$175.69",
-          "price_brl": 175.69,
+          "price_original": "$26.01",
+          "price_brl": 152.89,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$193.28",
-          "price_brl": 193.28,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dusk till dawn",
-          "price_original": "R$212.85",
-          "price_brl": 212.85,
+          "price_original": "$31.51",
+          "price_brl": 185.22,
           "quantity": 4
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$217.06",
-          "price_brl": 217.06,
-          "quantity": 5
+          "price_original": "$32.31",
+          "price_brl": 189.92,
+          "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$218.53",
-          "price_brl": 218.53,
+          "price_original": "$32.35",
+          "price_brl": 190.16,
           "quantity": 8
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$223.42",
-          "price_brl": 223.42,
-          "quantity": 6
-        },
-        {
-          "expansion": "Dusk till dawn",
-          "price_original": "R$243.61",
-          "price_brl": 243.61,
-          "quantity": 4
-        },
-        {
-          "expansion": "Dusk till dawn",
-          "price_original": "R$251.41",
-          "price_brl": 251.41,
-          "quantity": 6
-        },
-        {
-          "expansion": "Dusk till dawn",
-          "price_original": "R$259.84",
-          "price_brl": 259.84,
+          "price_original": "$36.28",
+          "price_brl": 213.26,
           "quantity": 5
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$279.23",
-          "price_brl": 279.23,
+          "price_original": "$37.27",
+          "price_brl": 219.08,
+          "quantity": 6
+        },
+        {
+          "expansion": "Dusk till dawn",
+          "price_original": "$40.73",
+          "price_brl": 239.42,
           "quantity": 4
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$313.35",
-          "price_brl": 313.35,
+          "price_original": "$41.93",
+          "price_brl": 246.47,
+          "quantity": 6
+        },
+        {
+          "expansion": "Dusk till dawn",
+          "price_original": "$43.46",
+          "price_brl": 255.46,
+          "quantity": 5
+        },
+        {
+          "expansion": "Dusk till dawn",
+          "price_original": "$49.10",
+          "price_brl": 288.61,
+          "quantity": 4
+        },
+        {
+          "expansion": "Dusk till dawn",
+          "price_original": "$52.26",
+          "price_brl": 307.19,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$370.73",
-          "price_brl": 370.73,
+          "price_original": "$61.83",
+          "price_brl": 363.44,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$507.61",
-          "price_brl": 507.61,
+          "price_original": "$84.67",
+          "price_brl": 497.7,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$623.61",
-          "price_brl": 623.61,
+          "price_original": "$104.02",
+          "price_brl": 611.44,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$636.51",
-          "price_brl": 636.51,
+          "price_original": "$106.40",
+          "price_brl": 625.43,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$855.59",
-          "price_brl": 855.59,
+          "price_original": "$142.72",
+          "price_brl": 838.92,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$894.27",
-          "price_brl": 894.27,
+          "price_original": "$149.16",
+          "price_brl": 876.78,
           "quantity": 1
         },
         {
@@ -7116,56 +7128,56 @@
       "records": [
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$615.87",
-          "price_brl": 615.87,
+          "price_original": "$97.53",
+          "price_brl": 573.29,
+          "quantity": 3
+        },
+        {
+          "expansion": "Dusk till dawn",
+          "price_original": "$102.73",
+          "price_brl": 603.86,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$623.18",
-          "price_brl": 623.18,
+          "price_original": "$104.17",
+          "price_brl": 612.32,
           "quantity": 5
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$658.83",
-          "price_brl": 658.83,
+          "price_original": "$113.47",
+          "price_brl": 666.99,
+          "quantity": 1
+        },
+        {
+          "expansion": "Dusk till dawn",
+          "price_original": "$133.57",
+          "price_brl": 785.14,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$684.85",
-          "price_brl": 684.85,
+          "price_original": "$155.61",
+          "price_brl": 914.69,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$798.65",
-          "price_brl": 798.65,
-          "quantity": 3
-        },
-        {
-          "expansion": "Dusk till dawn",
-          "price_original": "R$932.93",
-          "price_brl": 932.93,
+          "price_original": "$175.74",
+          "price_brl": 1033.02,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$1,051.23",
-          "price_brl": 1051.23,
+          "price_original": "$200.76",
+          "price_brl": 1180.09,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$1,203.59",
-          "price_brl": 1203.59,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dusk till dawn",
-          "price_original": "R$1,234.52",
-          "price_brl": 1234.52,
+          "price_original": "$205.92",
+          "price_brl": 1210.42,
           "quantity": 1
         }
       ]
@@ -7178,38 +7190,38 @@
       "records": [
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$310.09",
-          "price_brl": 310.09,
+          "price_original": "$51.83",
+          "price_brl": 304.66,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$365.83",
-          "price_brl": 365.83,
+          "price_original": "$61.16",
+          "price_brl": 359.5,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$623.61",
-          "price_brl": 623.61,
+          "price_original": "$104.02",
+          "price_brl": 611.44,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$700.93",
-          "price_brl": 700.93,
+          "price_original": "$116.92",
+          "price_brl": 687.27,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$848.57",
-          "price_brl": 848.57,
+          "price_original": "$125.62",
+          "price_brl": 738.41,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$932.93",
-          "price_brl": 932.93,
+          "price_original": "$155.61",
+          "price_brl": 914.69,
           "quantity": 1
         }
       ]
@@ -7222,140 +7234,152 @@
       "records": [
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$12.38",
-          "price_brl": 12.38,
+          "price_original": "$2.07",
+          "price_brl": 12.17,
           "quantity": 6
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$23.97",
-          "price_brl": 23.97,
+          "price_original": "$3.83",
+          "price_brl": 22.51,
+          "quantity": 3
+        },
+        {
+          "expansion": "Dusk till dawn",
+          "price_original": "$4.00",
+          "price_brl": 23.51,
           "quantity": 5
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$23.97",
-          "price_brl": 23.97,
+          "price_original": "$4.00",
+          "price_brl": 23.51,
           "quantity": 6
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$25.87",
-          "price_brl": 25.87,
-          "quantity": 3
-        },
-        {
-          "expansion": "Dusk till dawn",
-          "price_original": "R$28.91",
-          "price_brl": 28.91,
+          "price_original": "$4.28",
+          "price_brl": 25.16,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$31.63",
-          "price_brl": 31.63,
-          "quantity": 1
-        },
-        {
-          "expansion": "Dusk till dawn",
-          "price_original": "R$34.66",
-          "price_brl": 34.66,
+          "price_original": "$5.13",
+          "price_brl": 30.15,
           "quantity": 7
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$38.91",
-          "price_brl": 38.91,
+          "price_original": "$5.27",
+          "price_brl": 30.98,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$41.18",
-          "price_brl": 41.18,
+          "price_original": "$6.51",
+          "price_brl": 38.27,
+          "quantity": 1
+        },
+        {
+          "expansion": "Dusk till dawn",
+          "price_original": "$6.88",
+          "price_brl": 40.44,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$47.48",
-          "price_brl": 47.48,
+          "price_original": "$7.92",
+          "price_brl": 46.55,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$61.20",
-          "price_brl": 61.2,
+          "price_original": "$9.06",
+          "price_brl": 53.26,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$61.20",
-          "price_brl": 61.2,
+          "price_original": "$9.06",
+          "price_brl": 53.26,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$66.59",
-          "price_brl": 66.59,
+          "price_original": "$11.11",
+          "price_brl": 65.31,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$67.24",
-          "price_brl": 67.24,
+          "price_original": "$11.24",
+          "price_brl": 66.07,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$77.23",
-          "price_brl": 77.23,
+          "price_original": "$12.92",
+          "price_brl": 75.95,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$78.49",
-          "price_brl": 78.49,
+          "price_original": "$13.10",
+          "price_brl": 77,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$79.14",
-          "price_brl": 79.14,
+          "price_original": "$13.23",
+          "price_brl": 77.77,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$94.42",
-          "price_brl": 94.42,
+          "price_original": "$15.75",
+          "price_brl": 92.58,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$133.55",
-          "price_brl": 133.55,
+          "price_original": "$19.62",
+          "price_brl": 115.33,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$153.04",
-          "price_brl": 153.04,
+          "price_original": "$22.27",
+          "price_brl": 130.91,
+          "quantity": 1
+        },
+        {
+          "expansion": "Dusk till dawn",
+          "price_original": "$23.57",
+          "price_brl": 138.55,
+          "quantity": 2
+        },
+        {
+          "expansion": "Dusk till dawn",
+          "price_original": "$25.53",
+          "price_brl": 150.07,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$215.07",
-          "price_brl": 215.07,
+          "price_original": "$35.96",
+          "price_brl": 211.38,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$222.87",
-          "price_brl": 222.87,
+          "price_original": "$37.18",
+          "price_brl": 218.55,
           "quantity": 3
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "R$391.61",
-          "price_brl": 391.61,
+          "price_original": "$65.33",
+          "price_brl": 384.02,
           "quantity": 3
         }
       ]
@@ -7368,92 +7392,92 @@
       "records": [
         {
           "expansion": "Bright Lights",
-          "price_original": "R$7.77",
-          "price_brl": 7.77,
+          "price_original": "$1.15",
+          "price_brl": 6.76,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$7.84",
-          "price_brl": 7.84,
+          "price_original": "$1.16",
+          "price_brl": 6.82,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$7.89",
-          "price_brl": 7.89,
+          "price_original": "$1.32",
+          "price_brl": 7.76,
           "quantity": 3
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$10.27",
-          "price_brl": 10.27,
+          "price_original": "$1.72",
+          "price_brl": 10.11,
           "quantity": 2
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$10.59",
-          "price_brl": 10.59,
+          "price_original": "$1.77",
+          "price_brl": 10.4,
           "quantity": 4
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$10.99",
-          "price_brl": 10.99,
+          "price_original": "$1.85",
+          "price_brl": 10.87,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$11.08",
-          "price_brl": 11.08,
+          "price_original": "$1.85",
+          "price_brl": 10.87,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$16.24",
-          "price_brl": 16.24,
+          "price_original": "$2.71",
+          "price_brl": 15.93,
           "quantity": 2
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$27.07",
-          "price_brl": 27.07,
+          "price_original": "$4.52",
+          "price_brl": 26.57,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$39.52",
-          "price_brl": 39.52,
+          "price_original": "$6.59",
+          "price_brl": 38.74,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$81.74",
-          "price_brl": 81.74,
+          "price_original": "$13.64",
+          "price_brl": 80.18,
           "quantity": 2
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$85.80",
-          "price_brl": 85.8,
+          "price_original": "$14.34",
+          "price_brl": 84.29,
           "quantity": 2
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$112.83",
-          "price_brl": 112.83,
+          "price_original": "$18.81",
+          "price_brl": 110.57,
           "quantity": 3
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$117.62",
-          "price_brl": 117.62,
+          "price_original": "$19.62",
+          "price_brl": 115.33,
           "quantity": 3
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$163.32",
-          "price_brl": 163.32,
+          "price_original": "$27.24",
+          "price_brl": 160.12,
           "quantity": 1
         }
       ]
@@ -7466,92 +7490,92 @@
       "records": [
         {
           "expansion": "Bright Lights",
-          "price_original": "R$345.79",
-          "price_brl": 345.79,
+          "price_original": "$51.19",
+          "price_brl": 300.9,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$349.44",
-          "price_brl": 349.44,
+          "price_original": "$51.73",
+          "price_brl": 304.07,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$372.02",
-          "price_brl": 372.02,
+          "price_original": "$62.20",
+          "price_brl": 365.62,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$390.38",
-          "price_brl": 390.38,
+          "price_original": "$65.26",
+          "price_brl": 383.6,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$418.68",
-          "price_brl": 418.68,
+          "price_original": "$70.01",
+          "price_brl": 411.53,
           "quantity": 2
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$579.68",
-          "price_brl": 579.68,
+          "price_original": "$95.62",
+          "price_brl": 562.06,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$615.87",
-          "price_brl": 615.87,
+          "price_original": "$95.62",
+          "price_brl": 562.06,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$645.92",
-          "price_brl": 645.92,
+          "price_original": "$96.69",
+          "price_brl": 568.35,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$645.92",
-          "price_brl": 645.92,
+          "price_original": "$99.43",
+          "price_brl": 584.46,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$662.27",
-          "price_brl": 662.27,
+          "price_original": "$102.73",
+          "price_brl": 603.86,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$695.68",
-          "price_brl": 695.68,
+          "price_original": "$110.47",
+          "price_brl": 649.35,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$704.29",
-          "price_brl": 704.29,
+          "price_original": "$116.04",
+          "price_brl": 682.09,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$721.92",
-          "price_brl": 721.92,
+          "price_original": "$120.68",
+          "price_brl": 709.37,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$806.16",
-          "price_brl": 806.16,
+          "price_original": "$134.82",
+          "price_brl": 792.49,
           "quantity": 1
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "R$1,855.66",
-          "price_brl": 1855.66,
+          "price_original": "$309.52",
+          "price_brl": 1819.39,
           "quantity": 1
         }
       ]
@@ -7564,122 +7588,116 @@
       "records": [
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$17.71",
-          "price_brl": 17.71,
+          "price_original": "$2.86",
+          "price_brl": 16.81,
+          "quantity": 1
+        },
+        {
+          "expansion": "Heavy Hitters",
+          "price_original": "$2.95",
+          "price_brl": 17.34,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$18.41",
-          "price_brl": 18.41,
+          "price_original": "$3.07",
+          "price_brl": 18.05,
           "quantity": 4
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$19.25",
-          "price_brl": 19.25,
+          "price_original": "$3.30",
+          "price_brl": 19.4,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$19.32",
-          "price_brl": 19.32,
-          "quantity": 1
-        },
-        {
-          "expansion": "Heavy Hitters",
-          "price_original": "R$21.41",
-          "price_brl": 21.41,
+          "price_original": "$3.58",
+          "price_brl": 21.04,
           "quantity": 4
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$22.17",
-          "price_brl": 22.17,
+          "price_original": "$3.71",
+          "price_brl": 21.81,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$22.29",
-          "price_brl": 22.29,
+          "price_original": "$3.79",
+          "price_brl": 22.28,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$22.63",
-          "price_brl": 22.63,
+          "price_original": "$4.38",
+          "price_brl": 25.75,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$27.91",
-          "price_brl": 27.91,
+          "price_original": "$4.66",
+          "price_brl": 27.39,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$30.43",
-          "price_brl": 30.43,
+          "price_original": "$5.08",
+          "price_brl": 29.86,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$31.79",
-          "price_brl": 31.79,
+          "price_original": "$5.30",
+          "price_brl": 31.15,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$34.88",
-          "price_brl": 34.88,
+          "price_original": "$5.82",
+          "price_brl": 34.21,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$40.75",
-          "price_brl": 40.75,
+          "price_original": "$6.81",
+          "price_brl": 40.03,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$48.55",
-          "price_brl": 48.55,
+          "price_original": "$8.11",
+          "price_brl": 47.67,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$61.48",
-          "price_brl": 61.48,
+          "price_original": "$10.25",
+          "price_brl": 60.25,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$62.41",
-          "price_brl": 62.41,
-          "quantity": 1
-        },
-        {
-          "expansion": "Heavy Hitters",
-          "price_original": "R$69.52",
-          "price_brl": 69.52,
+          "price_original": "$11.59",
+          "price_brl": 68.13,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$78.49",
-          "price_brl": 78.49,
+          "price_original": "$13.10",
+          "price_brl": 77,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$115.30",
-          "price_brl": 115.3,
+          "price_original": "$19.23",
+          "price_brl": 113.04,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$156.75",
-          "price_brl": 156.75,
+          "price_original": "$26.15",
+          "price_brl": 153.71,
           "quantity": 1
         }
       ]
@@ -7692,32 +7710,32 @@
       "records": [
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$654.54",
-          "price_brl": 654.54,
+          "price_original": "$109.18",
+          "price_brl": 641.77,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$795.85",
-          "price_brl": 795.85,
+          "price_original": "$133.09",
+          "price_brl": 782.32,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$949.90",
-          "price_brl": 949.9,
+          "price_original": "$140.62",
+          "price_brl": 826.58,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$949.90",
-          "price_brl": 949.9,
+          "price_original": "$140.62",
+          "price_brl": 826.58,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$1,437.90",
-          "price_brl": 1437.9,
+          "price_original": "$239.84",
+          "price_brl": 1409.8,
           "quantity": 1
         }
       ]
@@ -7730,146 +7748,146 @@
       "records": [
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$25.81",
-          "price_brl": 25.81,
+          "price_original": "$3.82",
+          "price_brl": 22.45,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$25.81",
-          "price_brl": 25.81,
+          "price_original": "$3.82",
+          "price_brl": 22.45,
+          "quantity": 1
+        },
+        {
+          "expansion": "Heavy Hitters",
+          "price_original": "$3.82",
+          "price_brl": 22.45,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$25.81",
-          "price_brl": 25.81,
-          "quantity": 1
-        },
-        {
-          "expansion": "Heavy Hitters",
-          "price_original": "R$27.90",
-          "price_brl": 27.9,
-          "quantity": 5
-        },
-        {
-          "expansion": "Heavy Hitters",
-          "price_original": "R$27.90",
-          "price_brl": 27.9,
-          "quantity": 1
-        },
-        {
-          "expansion": "Heavy Hitters",
-          "price_original": "R$30.08",
-          "price_brl": 30.08,
+          "price_original": "$3.98",
+          "price_brl": 23.39,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$30.16",
-          "price_brl": 30.16,
+          "price_original": "$3.99",
+          "price_brl": 23.45,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$32.71",
-          "price_brl": 32.71,
+          "price_original": "$4.13",
+          "price_brl": 24.28,
+          "quantity": 1
+        },
+        {
+          "expansion": "Heavy Hitters",
+          "price_original": "$4.13",
+          "price_brl": 24.28,
+          "quantity": 5
+        },
+        {
+          "expansion": "Heavy Hitters",
+          "price_original": "$5.33",
+          "price_brl": 31.33,
+          "quantity": 1
+        },
+        {
+          "expansion": "Heavy Hitters",
+          "price_original": "$5.47",
+          "price_brl": 32.15,
           "quantity": 8
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$33.58",
-          "price_brl": 33.58,
+          "price_original": "$5.62",
+          "price_brl": 33.03,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$35.65",
-          "price_brl": 35.65,
-          "quantity": 2
-        },
-        {
-          "expansion": "Heavy Hitters",
-          "price_original": "R$37.62",
-          "price_brl": 37.62,
-          "quantity": 1
-        },
-        {
-          "expansion": "Heavy Hitters",
-          "price_original": "R$39.31",
-          "price_brl": 39.31,
+          "price_original": "$5.82",
+          "price_brl": 34.21,
           "quantity": 5
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$39.31",
-          "price_brl": 39.31,
+          "price_original": "$5.82",
+          "price_brl": 34.21,
           "quantity": 7
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$43.61",
-          "price_brl": 43.61,
-          "quantity": 1
-        },
-        {
-          "expansion": "Heavy Hitters",
-          "price_original": "R$44.24",
-          "price_brl": 44.24,
-          "quantity": 1
-        },
-        {
-          "expansion": "Heavy Hitters",
-          "price_original": "R$52.43",
-          "price_brl": 52.43,
+          "price_original": "$5.94",
+          "price_brl": 34.92,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$54.13",
-          "price_brl": 54.13,
+          "price_original": "$7.28",
+          "price_brl": 42.79,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$61.14",
-          "price_brl": 61.14,
+          "price_original": "$7.38",
+          "price_brl": 43.38,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$101.74",
-          "price_brl": 101.74,
-          "quantity": 1
-        },
-        {
-          "expansion": "Heavy Hitters",
-          "price_original": "R$135.16",
-          "price_brl": 135.16,
+          "price_original": "$8.75",
+          "price_brl": 51.43,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$138.35",
-          "price_brl": 138.35,
+          "price_original": "$9.03",
+          "price_brl": 53.08,
+          "quantity": 1
+        },
+        {
+          "expansion": "Heavy Hitters",
+          "price_original": "$9.05",
+          "price_brl": 53.2,
+          "quantity": 1
+        },
+        {
+          "expansion": "Heavy Hitters",
+          "price_original": "$17.01",
+          "price_brl": 99.99,
+          "quantity": 1
+        },
+        {
+          "expansion": "Heavy Hitters",
+          "price_original": "$22.60",
+          "price_brl": 132.85,
+          "quantity": 2
+        },
+        {
+          "expansion": "Heavy Hitters",
+          "price_original": "$23.07",
+          "price_brl": 135.61,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$154.43",
-          "price_brl": 154.43,
+          "price_original": "$25.76",
+          "price_brl": 151.42,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$184.82",
-          "price_brl": 184.82,
+          "price_original": "$30.83",
+          "price_brl": 181.22,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$391.61",
-          "price_brl": 391.61,
+          "price_original": "$65.33",
+          "price_brl": 384.02,
           "quantity": 3
         }
       ]
@@ -7882,50 +7900,50 @@
       "records": [
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$749.55",
-          "price_brl": 749.55,
+          "price_original": "$125.20",
+          "price_brl": 735.94,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$901.37",
-          "price_brl": 901.37,
+          "price_original": "$150.69",
+          "price_brl": 885.77,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$913.93",
-          "price_brl": 913.93,
+          "price_original": "$152.78",
+          "price_brl": 898.06,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$1,010.57",
-          "price_brl": 1010.57,
+          "price_original": "$168.62",
+          "price_brl": 991.17,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$1,396.93",
-          "price_brl": 1396.93,
+          "price_original": "$233.01",
+          "price_brl": 1369.66,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$1,714.10",
-          "price_brl": 1714.1,
+          "price_original": "$253.75",
+          "price_brl": 1491.57,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$2,170.25",
-          "price_brl": 2170.25,
+          "price_original": "$362.00",
+          "price_brl": 2127.87,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$2,597.88",
-          "price_brl": 2597.88,
+          "price_original": "$433.33",
+          "price_brl": 2547.16,
           "quantity": 1
         },
         {
@@ -7968,50 +7986,50 @@
       "records": [
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$558.10",
-          "price_brl": 558.1,
+          "price_original": "$82.62",
+          "price_brl": 485.65,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$604.16",
-          "price_brl": 604.16,
+          "price_original": "$101.00",
+          "price_brl": 593.69,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$734.62",
-          "price_brl": 734.62,
+          "price_original": "$108.75",
+          "price_brl": 639.24,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$927.45",
-          "price_brl": 927.45,
+          "price_original": "$154.70",
+          "price_brl": 909.34,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$927.52",
-          "price_brl": 927.52,
+          "price_original": "$154.71",
+          "price_brl": 909.4,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$932.93",
-          "price_brl": 932.93,
+          "price_original": "$155.61",
+          "price_brl": 914.69,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$971.59",
-          "price_brl": 971.59,
+          "price_original": "$162.06",
+          "price_brl": 952.6,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$1,938.25",
-          "price_brl": 1938.25,
+          "price_original": "$323.30",
+          "price_brl": 1900.39,
           "quantity": 1
         }
       ]
@@ -8024,80 +8042,80 @@
       "records": [
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$212.51",
-          "price_brl": 212.51,
+          "price_original": "$31.46",
+          "price_brl": 184.93,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$240.41",
-          "price_brl": 240.41,
+          "price_original": "$35.59",
+          "price_brl": 209.2,
           "quantity": 6
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$252.24",
-          "price_brl": 252.24,
+          "price_original": "$37.34",
+          "price_brl": 219.49,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$277.56",
-          "price_brl": 277.56,
+          "price_original": "$41.09",
+          "price_brl": 241.53,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$287.83",
-          "price_brl": 287.83,
+          "price_original": "$43.60",
+          "price_brl": 256.29,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$294.51",
-          "price_brl": 294.51,
+          "price_original": "$48.01",
+          "price_brl": 282.21,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$297.80",
-          "price_brl": 297.8,
+          "price_original": "$49.67",
+          "price_brl": 291.97,
           "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$297.88",
-          "price_brl": 297.88,
+          "price_original": "$49.69",
+          "price_brl": 292.08,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$323.95",
-          "price_brl": 323.95,
+          "price_original": "$54.04",
+          "price_brl": 317.65,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$376.14",
-          "price_brl": 376.14,
+          "price_original": "$62.74",
+          "price_brl": 368.79,
           "quantity": 3
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$385.50",
-          "price_brl": 385.5,
+          "price_original": "$64.30",
+          "price_brl": 377.96,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$385.58",
-          "price_brl": 385.58,
+          "price_original": "$64.32",
+          "price_brl": 378.08,
           "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "R$391.61",
-          "price_brl": 391.61,
+          "price_original": "$65.33",
+          "price_brl": 384.02,
           "quantity": 2
         }
       ]
@@ -11124,182 +11142,182 @@
       "records": [
         {
           "expansion": "High Seas",
-          "price_original": "R$29.94",
-          "price_brl": 29.94,
+          "price_original": "$4.99",
+          "price_brl": 29.33,
           "quantity": 7
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$36.82",
-          "price_brl": 36.82,
+          "price_original": "$6.14",
+          "price_brl": 36.09,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$45.93",
-          "price_brl": 45.93,
-          "quantity": 2
-        },
-        {
-          "expansion": "High Seas",
-          "price_original": "R$48.36",
-          "price_brl": 48.36,
+          "price_original": "$7.16",
+          "price_brl": 42.09,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$48.36",
-          "price_brl": 48.36,
+          "price_original": "$7.16",
+          "price_brl": 42.09,
           "quantity": 7
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$51.35",
-          "price_brl": 51.35,
-          "quantity": 1
-        },
-        {
-          "expansion": "High Seas",
-          "price_original": "R$51.96",
-          "price_brl": 51.96,
-          "quantity": 3
-        },
-        {
-          "expansion": "High Seas",
-          "price_original": "R$53.29",
-          "price_brl": 53.29,
-          "quantity": 1
-        },
-        {
-          "expansion": "High Seas",
-          "price_original": "R$55.19",
-          "price_brl": 55.19,
-          "quantity": 1
-        },
-        {
-          "expansion": "High Seas",
-          "price_original": "R$61.01",
-          "price_brl": 61.01,
+          "price_original": "$7.66",
+          "price_brl": 45.03,
           "quantity": 2
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$62.88",
-          "price_brl": 62.88,
+          "price_original": "$8.17",
+          "price_brl": 48.02,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$63.02",
-          "price_brl": 63.02,
+          "price_original": "$8.57",
+          "price_brl": 50.38,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$67.95",
-          "price_brl": 67.95,
+          "price_original": "$8.67",
+          "price_brl": 50.96,
+          "quantity": 3
+        },
+        {
+          "expansion": "High Seas",
+          "price_original": "$8.88",
+          "price_brl": 52.2,
+          "quantity": 1
+        },
+        {
+          "expansion": "High Seas",
+          "price_original": "$10.06",
+          "price_brl": 59.13,
           "quantity": 4
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$72.35",
-          "price_brl": 72.35,
+          "price_original": "$10.18",
+          "price_brl": 59.84,
           "quantity": 2
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$73.15",
-          "price_brl": 73.15,
+          "price_original": "$10.51",
+          "price_brl": 61.78,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$74.37",
-          "price_brl": 74.37,
+          "price_original": "$10.51",
+          "price_brl": 61.78,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$77.26",
-          "price_brl": 77.26,
+          "price_original": "$11.06",
+          "price_brl": 65.01,
+          "quantity": 1
+        },
+        {
+          "expansion": "High Seas",
+          "price_original": "$12.08",
+          "price_brl": 71.01,
+          "quantity": 1
+        },
+        {
+          "expansion": "High Seas",
+          "price_original": "$12.09",
+          "price_brl": 71.07,
+          "quantity": 2
+        },
+        {
+          "expansion": "High Seas",
+          "price_original": "$12.88",
+          "price_brl": 75.71,
           "quantity": 3
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$77.55",
-          "price_brl": 77.55,
+          "price_original": "$12.97",
+          "price_brl": 76.24,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$78.49",
-          "price_brl": 78.49,
+          "price_original": "$13.10",
+          "price_brl": 77,
           "quantity": 3
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$88.70",
-          "price_brl": 88.7,
+          "price_original": "$14.83",
+          "price_brl": 87.17,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$96.28",
-          "price_brl": 96.28,
+          "price_original": "$16.06",
+          "price_brl": 94.4,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$96.36",
-          "price_brl": 96.36,
+          "price_original": "$16.07",
+          "price_brl": 94.46,
           "quantity": 3
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$97.23",
-          "price_brl": 97.23,
+          "price_original": "$16.26",
+          "price_brl": 95.58,
           "quantity": 4
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$100.22",
-          "price_brl": 100.22,
+          "price_original": "$16.71",
+          "price_brl": 98.22,
           "quantity": 3
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$101.76",
-          "price_brl": 101.76,
+          "price_original": "$16.97",
+          "price_brl": 99.75,
           "quantity": 3
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$113.72",
-          "price_brl": 113.72,
-          "quantity": 2
-        },
-        {
-          "expansion": "High Seas",
-          "price_original": "R$113.75",
-          "price_brl": 113.75,
+          "price_original": "$17.76",
+          "price_brl": 104.4,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$149.02",
-          "price_brl": 149.02,
-          "quantity": 1
-        },
-        {
-          "expansion": "High Seas",
-          "price_original": "R$231.37",
-          "price_brl": 231.37,
+          "price_original": "$18.97",
+          "price_brl": 111.51,
           "quantity": 2
         },
         {
           "expansion": "High Seas",
-          "price_original": "R$274.68",
-          "price_brl": 274.68,
+          "price_original": "$24.86",
+          "price_brl": 146.13,
+          "quantity": 1
+        },
+        {
+          "expansion": "High Seas",
+          "price_original": "$38.59",
+          "price_brl": 226.84,
+          "quantity": 2
+        },
+        {
+          "expansion": "High Seas",
+          "price_original": "$45.82",
+          "price_brl": 269.33,
           "quantity": 1
         }
       ]
@@ -11312,152 +11330,152 @@
       "records": [
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$100.49",
-          "price_brl": 100.49,
+          "price_original": "$16.80",
+          "price_brl": 98.75,
           "quantity": 5
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$116.45",
-          "price_brl": 116.45,
+          "price_original": "$18.31",
+          "price_brl": 107.63,
           "quantity": 2
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$120.99",
-          "price_brl": 120.99,
+          "price_original": "$20.23",
+          "price_brl": 118.91,
           "quantity": 2
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$125.70",
-          "price_brl": 125.7,
+          "price_original": "$20.95",
+          "price_brl": 123.15,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$125.75",
-          "price_brl": 125.75,
+          "price_original": "$21.02",
+          "price_brl": 123.56,
           "quantity": 2
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$146.59",
-          "price_brl": 146.59,
+          "price_original": "$21.02",
+          "price_brl": 123.56,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$155.77",
-          "price_brl": 155.77,
-          "quantity": 1
-        },
-        {
-          "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$187.91",
-          "price_brl": 187.91,
-          "quantity": 2
-        },
-        {
-          "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$193.28",
-          "price_brl": 193.28,
+          "price_original": "$24.33",
+          "price_brl": 143.01,
           "quantity": 5
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$198.26",
-          "price_brl": 198.26,
+          "price_original": "$25.14",
+          "price_brl": 147.78,
+          "quantity": 1
+        },
+        {
+          "expansion": "Mastery Pack: Guardian",
+          "price_original": "$29.35",
+          "price_brl": 172.52,
           "quantity": 4
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$198.26",
-          "price_brl": 198.26,
+          "price_original": "$29.35",
+          "price_brl": 172.52,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$204.91",
-          "price_brl": 204.91,
-          "quantity": 1
-        },
-        {
-          "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$227.28",
-          "price_brl": 227.28,
-          "quantity": 1
-        },
-        {
-          "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$235.09",
-          "price_brl": 235.09,
-          "quantity": 3
-        },
-        {
-          "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$235.09",
-          "price_brl": 235.09,
-          "quantity": 7
-        },
-        {
-          "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$242.98",
-          "price_brl": 242.98,
+          "price_original": "$31.35",
+          "price_brl": 184.28,
           "quantity": 2
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$274.68",
-          "price_brl": 274.68,
-          "quantity": 3
-        },
-        {
-          "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$287.77",
-          "price_brl": 287.77,
+          "price_original": "$32.31",
+          "price_brl": 189.92,
           "quantity": 5
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$352.94",
-          "price_brl": 352.94,
-          "quantity": 3
-        },
-        {
-          "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$352.94",
-          "price_brl": 352.94,
-          "quantity": 3
-        },
-        {
-          "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$356.27",
-          "price_brl": 356.27,
+          "price_original": "$34.18",
+          "price_brl": 200.91,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$360.67",
-          "price_brl": 360.67,
+          "price_original": "$37.91",
+          "price_brl": 222.84,
+          "quantity": 1
+        },
+        {
+          "expansion": "Mastery Pack: Guardian",
+          "price_original": "$39.21",
+          "price_brl": 230.48,
+          "quantity": 7
+        },
+        {
+          "expansion": "Mastery Pack: Guardian",
+          "price_original": "$39.21",
+          "price_brl": 230.48,
+          "quantity": 3
+        },
+        {
+          "expansion": "Mastery Pack: Guardian",
+          "price_original": "$40.53",
+          "price_brl": 238.24,
           "quantity": 2
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$393.31",
-          "price_brl": 393.31,
+          "price_original": "$45.82",
+          "price_brl": 269.33,
+          "quantity": 3
+        },
+        {
+          "expansion": "Mastery Pack: Guardian",
+          "price_original": "$52.74",
+          "price_brl": 310.01,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$407.20",
-          "price_brl": 407.2,
+          "price_original": "$58.87",
+          "price_brl": 346.04,
+          "quantity": 3
+        },
+        {
+          "expansion": "Mastery Pack: Guardian",
+          "price_original": "$58.87",
+          "price_brl": 346.04,
+          "quantity": 3
+        },
+        {
+          "expansion": "Mastery Pack: Guardian",
+          "price_original": "$60.16",
+          "price_brl": 353.63,
+          "quantity": 2
+        },
+        {
+          "expansion": "Mastery Pack: Guardian",
+          "price_original": "$65.62",
+          "price_brl": 385.72,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$546.27",
-          "price_brl": 546.27,
+          "price_original": "$67.94",
+          "price_brl": 399.36,
+          "quantity": 1
+        },
+        {
+          "expansion": "Mastery Pack: Guardian",
+          "price_original": "$91.12",
+          "price_brl": 535.61,
           "quantity": 1
         }
       ]
@@ -11470,134 +11488,134 @@
       "records": [
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$67.95",
-          "price_brl": 67.95,
+          "price_original": "$10.06",
+          "price_brl": 59.13,
           "quantity": 3
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$77.86",
-          "price_brl": 77.86,
+          "price_original": "$13.02",
+          "price_brl": 76.53,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$125.81",
-          "price_brl": 125.81,
+          "price_original": "$20.98",
+          "price_brl": 123.32,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$125.92",
-          "price_brl": 125.92,
+          "price_original": "$21.01",
+          "price_brl": 123.5,
           "quantity": 2
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$169.51",
-          "price_brl": 169.51,
+          "price_original": "$26.35",
+          "price_brl": 154.89,
+          "quantity": 1
+        },
+        {
+          "expansion": "Mastery Pack: Guardian",
+          "price_original": "$28.34",
+          "price_brl": 166.59,
           "quantity": 9
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$178.00",
-          "price_brl": 178,
-          "quantity": 1
-        },
-        {
-          "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$192.56",
-          "price_brl": 192.56,
+          "price_original": "$32.11",
+          "price_brl": 188.75,
           "quantity": 3
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$193.28",
-          "price_brl": 193.28,
+          "price_original": "$32.31",
+          "price_brl": 189.92,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$194.49",
-          "price_brl": 194.49,
+          "price_original": "$32.44",
+          "price_brl": 190.69,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$195.65",
-          "price_brl": 195.65,
+          "price_original": "$32.63",
+          "price_brl": 191.8,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$196.42",
-          "price_brl": 196.42,
+          "price_original": "$32.76",
+          "price_brl": 192.57,
           "quantity": 2
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$196.42",
-          "price_brl": 196.42,
+          "price_original": "$32.76",
+          "price_brl": 192.57,
           "quantity": 5
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$208.03",
-          "price_brl": 208.03,
+          "price_original": "$34.70",
+          "price_brl": 203.97,
           "quantity": 6
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$213.98",
-          "price_brl": 213.98,
+          "price_original": "$35.70",
+          "price_brl": 209.85,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$220.03",
-          "price_brl": 220.03,
+          "price_original": "$36.79",
+          "price_brl": 216.26,
           "quantity": 2
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$231.22",
-          "price_brl": 231.22,
+          "price_original": "$38.57",
+          "price_brl": 226.72,
           "quantity": 3
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$235.01",
-          "price_brl": 235.01,
+          "price_original": "$39.21",
+          "price_brl": 230.48,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$235.09",
-          "price_brl": 235.09,
+          "price_original": "$39.21",
+          "price_brl": 230.48,
           "quantity": 2
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$251.41",
-          "price_brl": 251.41,
+          "price_original": "$41.93",
+          "price_brl": 246.47,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$251.49",
-          "price_brl": 251.49,
+          "price_original": "$41.95",
+          "price_brl": 246.59,
           "quantity": 2
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$266.57",
-          "price_brl": 266.57,
+          "price_original": "$42.58",
+          "price_brl": 250.29,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$287.63",
-          "price_brl": 287.63,
+          "price_original": "$44.47",
+          "price_brl": 261.4,
           "quantity": 1
         }
       ]
@@ -11610,86 +11628,74 @@
       "records": [
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$522.89",
-          "price_brl": 522.89,
+          "price_original": "$87.41",
+          "price_brl": 513.8,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$528.11",
-          "price_brl": 528.11,
+          "price_original": "$88.29",
+          "price_brl": 518.98,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$545.47",
-          "price_brl": 545.47,
+          "price_original": "$112.11",
+          "price_brl": 658.99,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$670.66",
-          "price_brl": 670.66,
+          "price_original": "$115.57",
+          "price_brl": 679.33,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$692.82",
-          "price_brl": 692.82,
+          "price_original": "$127.62",
+          "price_brl": 750.16,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$765.11",
-          "price_brl": 765.11,
+          "price_original": "$128.51",
+          "price_brl": 755.39,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$770.46",
-          "price_brl": 770.46,
+          "price_original": "$130.72",
+          "price_brl": 768.39,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$783.52",
-          "price_brl": 783.52,
+          "price_original": "$162.06",
+          "price_brl": 952.6,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$950.30",
-          "price_brl": 950.3,
+          "price_original": "$185.29",
+          "price_brl": 1089.15,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$971.59",
-          "price_brl": 971.59,
+          "price_original": "$223.42",
+          "price_brl": 1313.29,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$1,110.80",
-          "price_brl": 1110.8,
+          "price_original": "$229.11",
+          "price_brl": 1346.73,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$1,336.50",
-          "price_brl": 1336.5,
-          "quantity": 1
-        },
-        {
-          "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$1,373.57",
-          "price_brl": 1373.57,
-          "quantity": 1
-        },
-        {
-          "expansion": "Mastery Pack: Guardian",
-          "price_original": "R$1,551.59",
-          "price_brl": 1551.59,
+          "price_original": "$258.80",
+          "price_brl": 1521.25,
           "quantity": 1
         }
       ]
@@ -11919,6 +11925,6 @@
     "riches of tropal-dhani",
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-07-07T13:34:35",
+  "datetime_utc_minus3": "2026-07-07T16:04:59",
   "euro_rate": 5.8781
 }
