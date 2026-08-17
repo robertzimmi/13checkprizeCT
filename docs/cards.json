@@ -20,14 +20,14 @@
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$41.13",
-          "price_brl": 246.26,
+          "price_original": "$41.43",
+          "price_brl": 248.05,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$42.35",
-          "price_brl": 253.56,
+          "price_original": "$42.60",
+          "price_brl": 255.06,
           "quantity": 3
         },
         {
@@ -46,6 +46,12 @@
           "expansion": "Welcome to Rathe - Unlimited",
           "price_original": "$63.38",
           "price_brl": 379.48,
+          "quantity": 1
+        },
+        {
+          "expansion": "Welcome to Rathe - Unlimited",
+          "price_original": "$66.20",
+          "price_brl": 396.36,
           "quantity": 1
         },
         {
@@ -384,12 +390,6 @@
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$366.82",
-          "price_brl": 2196.26,
-          "quantity": 1
-        },
-        {
-          "expansion": "Welcome to Rathe - Unlimited",
           "price_original": "$392.95",
           "price_brl": 2352.71,
           "quantity": 1
@@ -402,8 +402,8 @@
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$159.36",
-          "price_brl": 954.14,
+          "price_original": "$159.06",
+          "price_brl": 952.34,
           "quantity": 1
         },
         {
@@ -568,8 +568,8 @@
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$25.80",
-          "price_brl": 154.47,
+          "price_original": "$25.72",
+          "price_brl": 153.99,
           "quantity": 1
         },
         {
@@ -672,8 +672,8 @@
       "records": [
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$54.54",
-          "price_brl": 326.55,
+          "price_original": "$54.86",
+          "price_brl": 328.46,
           "quantity": 1
         },
         {
@@ -702,8 +702,8 @@
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$82.33",
-          "price_brl": 492.93,
+          "price_original": "$82.06",
+          "price_brl": 491.32,
           "quantity": 3
         },
         {
@@ -714,8 +714,8 @@
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$86.65",
-          "price_brl": 518.8,
+          "price_original": "$86.41",
+          "price_brl": 517.36,
           "quantity": 1
         },
         {
@@ -732,8 +732,8 @@
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$126.38",
-          "price_brl": 756.67,
+          "price_original": "$121.77",
+          "price_brl": 729.07,
           "quantity": 2
         },
         {
@@ -1022,8 +1022,8 @@
       "records": [
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$770.71",
-          "price_brl": 4614.47,
+          "price_original": "$731.49",
+          "price_brl": 4379.65,
           "quantity": 1
         },
         {
@@ -1066,14 +1066,14 @@
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$56.04",
-          "price_brl": 335.53,
+          "price_original": "$56.43",
+          "price_brl": 337.86,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$57.69",
-          "price_brl": 345.41,
+          "price_original": "$58.06",
+          "price_brl": 347.62,
           "quantity": 1
         },
         {
@@ -1110,12 +1110,6 @@
           "expansion": "Arcane Rising - Unlimited",
           "price_original": "$77.96",
           "price_brl": 466.77,
-          "quantity": 1
-        },
-        {
-          "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$89.72",
-          "price_brl": 537.18,
           "quantity": 1
         },
         {
@@ -10960,6 +10954,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-08-16T22:22:37",
+  "datetime_utc_minus3": "2026-08-16T23:43:43",
   "euro_rate": 5.9873
 }
