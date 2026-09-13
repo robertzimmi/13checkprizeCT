@@ -2088,8 +2088,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$11.51",
-          "price_brl": 68.19,
+          "price_original": "$11.53",
+          "price_brl": 68.31,
           "quantity": 1
         },
         {
@@ -2814,8 +2814,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$31.34",
-          "price_brl": 185.67,
+          "price_original": "$31.21",
+          "price_brl": 184.9,
           "quantity": 1
         },
         {
@@ -2874,14 +2874,14 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$38.08",
-          "price_brl": 225.6,
+          "price_original": "$38.07",
+          "price_brl": 225.54,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$38.86",
-          "price_brl": 230.22,
+          "price_original": "$38.88",
+          "price_brl": 230.34,
           "quantity": 5
         },
         {
@@ -6342,14 +6342,14 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$12.60",
-          "price_brl": 74.65,
+          "price_original": "$12.61",
+          "price_brl": 74.71,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$13.98",
-          "price_brl": 82.82,
+          "price_original": "$13.99",
+          "price_brl": 82.88,
           "quantity": 1
         },
         {
@@ -6408,8 +6408,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$45.61",
-          "price_brl": 270.21,
+          "price_original": "$45.62",
+          "price_brl": 270.27,
           "quantity": 1
         },
         {
@@ -6420,8 +6420,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$48.18",
-          "price_brl": 285.44,
+          "price_original": "$48.19",
+          "price_brl": 285.5,
           "quantity": 3
         },
         {
@@ -7348,14 +7348,14 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$113.17",
-          "price_brl": 670.46,
+          "price_original": "$115.75",
+          "price_brl": 685.75,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$116.37",
-          "price_brl": 689.42,
+          "price_original": "$116.38",
+          "price_brl": 689.48,
           "quantity": 2
         },
         {
@@ -12648,13 +12648,13 @@
           "expansion": "Super Slam",
           "price_original": "$6.55",
           "price_brl": 38.8,
-          "quantity": 2
+          "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$6.55",
           "price_brl": 38.8,
-          "quantity": 1
+          "quantity": 2
         },
         {
           "expansion": "Super Slam",
@@ -12780,8 +12780,8 @@
       "records": [
         {
           "expansion": "Super Slam",
-          "price_original": "$349.75",
-          "price_brl": 2072.06,
+          "price_original": "$349.63",
+          "price_brl": 2071.35,
           "quantity": 1
         },
         {
@@ -12802,6 +12802,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-09-13T09:37:21",
+  "datetime_utc_minus3": "2026-09-13T13:54:06",
   "euro_rate": 5.9244
 }
