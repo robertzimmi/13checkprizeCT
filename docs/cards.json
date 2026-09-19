@@ -2052,6 +2052,12 @@
         },
         {
           "expansion": "Super Slam",
+          "price_original": "$5.25",
+          "price_brl": 30.9,
+          "quantity": 1
+        },
+        {
+          "expansion": "Super Slam",
           "price_original": "$5.47",
           "price_brl": 32.19,
           "quantity": 2
@@ -2064,20 +2070,20 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$6.57",
-          "price_brl": 38.67,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
           "price_original": "$6.98",
           "price_brl": 41.08,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$8.28",
-          "price_brl": 48.73,
+          "price_original": "$8.27",
+          "price_brl": 48.67,
+          "quantity": 1
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$8.59",
+          "price_brl": 50.56,
           "quantity": 1
         },
         {
@@ -2088,44 +2094,38 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$8.61",
-          "price_brl": 50.68,
+          "price_original": "$11.41",
+          "price_brl": 67.16,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$11.42",
-          "price_brl": 67.21,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$12.88",
-          "price_brl": 75.81,
+          "price_original": "$12.90",
+          "price_brl": 75.93,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$13.15",
-          "price_brl": 77.4,
+          "price_original": "$13.13",
+          "price_brl": 77.28,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$13.16",
-          "price_brl": 77.46,
+          "price_original": "$13.14",
+          "price_brl": 77.34,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$15.84",
-          "price_brl": 93.23,
+          "price_original": "$15.81",
+          "price_brl": 93.05,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$15.84",
-          "price_brl": 93.23,
+          "price_original": "$15.81",
+          "price_brl": 93.05,
           "quantity": 1
         }
       ]
@@ -2814,50 +2814,50 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$31.53",
-          "price_brl": 185.58,
+          "price_original": "$31.47",
+          "price_brl": 185.22,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$31.75",
-          "price_brl": 186.87,
+          "price_original": "$31.69",
+          "price_brl": 186.52,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$32.83",
-          "price_brl": 193.23,
+          "price_original": "$32.76",
+          "price_brl": 192.82,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$32.95",
-          "price_brl": 193.93,
+          "price_original": "$32.89",
+          "price_brl": 193.58,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$32.95",
-          "price_brl": 193.93,
+          "price_original": "$32.89",
+          "price_brl": 193.58,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$33.35",
-          "price_brl": 196.29,
+          "price_original": "$33.28",
+          "price_brl": 195.88,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$33.46",
-          "price_brl": 196.94,
+          "price_original": "$33.40",
+          "price_brl": 196.58,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$34.25",
-          "price_brl": 201.59,
+          "price_original": "$34.18",
+          "price_brl": 201.17,
           "quantity": 1
         },
         {
@@ -2868,62 +2868,62 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$37.66",
-          "price_brl": 221.66,
-          "quantity": 3
-        },
-        {
-          "expansion": "Super Slam",
           "price_original": "$37.68",
           "price_brl": 221.77,
           "quantity": 7
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$38.25",
-          "price_brl": 225.13,
+          "price_original": "$37.74",
+          "price_brl": 222.13,
+          "quantity": 3
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$38.22",
+          "price_brl": 224.95,
           "quantity": 5
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$38.77",
-          "price_brl": 228.19,
+          "price_original": "$38.75",
+          "price_brl": 228.07,
           "quantity": 18
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$39.43",
-          "price_brl": 232.07,
+          "price_original": "$39.36",
+          "price_brl": 231.66,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$39.44",
-          "price_brl": 232.13,
+          "price_original": "$39.37",
+          "price_brl": 231.72,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$49.20",
-          "price_brl": 289.58,
+          "price_original": "$49.11",
+          "price_brl": 289.05,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$51.92",
-          "price_brl": 305.59,
+          "price_original": "$51.82",
+          "price_brl": 305,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$65.70",
-          "price_brl": 386.69,
+          "price_original": "$65.57",
+          "price_brl": 385.93,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$72.18",
-          "price_brl": 424.83,
+          "price_original": "$72.05",
+          "price_brl": 424.06,
           "quantity": 2
         }
       ]
@@ -2960,44 +2960,44 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$123.93",
-          "price_brl": 729.41,
+          "price_original": "$123.70",
+          "price_brl": 728.06,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$153.92",
-          "price_brl": 905.93,
+          "price_original": "$153.63",
+          "price_brl": 904.22,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$156.61",
-          "price_brl": 921.76,
+          "price_original": "$156.31",
+          "price_brl": 919.99,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$163.00",
-          "price_brl": 959.37,
+          "price_original": "$162.70",
+          "price_brl": 957.6,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$168.57",
-          "price_brl": 992.15,
+          "price_original": "$168.27",
+          "price_brl": 990.39,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$168.62",
-          "price_brl": 992.45,
+          "price_original": "$168.31",
+          "price_brl": 990.62,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$260.30",
-          "price_brl": 1532.05,
+          "price_original": "$259.82",
+          "price_brl": 1529.22,
           "quantity": 1
         },
         {
@@ -3082,74 +3082,74 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$15.94",
-          "price_brl": 93.82,
+          "price_original": "$15.91",
+          "price_brl": 93.64,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$16.88",
-          "price_brl": 99.35,
+          "price_original": "$16.52",
+          "price_brl": 97.23,
           "quantity": 3
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$21.64",
-          "price_brl": 127.37,
+          "price_original": "$21.63",
+          "price_brl": 127.31,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$22.41",
-          "price_brl": 131.9,
+          "price_original": "$22.36",
+          "price_brl": 131.6,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$59.21",
-          "price_brl": 348.49,
+          "price_original": "$59.10",
+          "price_brl": 347.84,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$71.29",
-          "price_brl": 419.59,
+          "price_original": "$71.25",
+          "price_brl": 419.36,
           "quantity": 2
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$72.44",
-          "price_brl": 426.36,
+          "price_original": "$72.31",
+          "price_brl": 425.59,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$91.64",
-          "price_brl": 539.37,
+          "price_original": "$91.47",
+          "price_brl": 538.36,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$98.13",
-          "price_brl": 577.56,
+          "price_original": "$97.95",
+          "price_brl": 576.5,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$128.39",
-          "price_brl": 755.67,
+          "price_original": "$128.15",
+          "price_brl": 754.25,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$130.56",
-          "price_brl": 768.44,
+          "price_original": "$130.32",
+          "price_brl": 767.02,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$130.56",
-          "price_brl": 768.44,
+          "price_original": "$130.32",
+          "price_brl": 767.02,
           "quantity": 2
         },
         {
@@ -3264,8 +3264,8 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$37.34",
-          "price_brl": 219.77,
+          "price_original": "$37.31",
+          "price_brl": 219.6,
           "quantity": 1
         },
         {
@@ -3276,50 +3276,50 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$46.54",
-          "price_brl": 273.92,
+          "price_original": "$46.51",
+          "price_brl": 273.74,
           "quantity": 9
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$86.43",
-          "price_brl": 508.7,
+          "price_original": "$86.28",
+          "price_brl": 507.82,
           "quantity": 3
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$187.52",
-          "price_brl": 1103.69,
+          "price_original": "$187.17",
+          "price_brl": 1101.63,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$315.96",
-          "price_brl": 1859.65,
+          "price_original": "$315.38",
+          "price_brl": 1856.23,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$344.50",
-          "price_brl": 2027.62,
+          "price_original": "$343.87",
+          "price_brl": 2023.92,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$583.95",
-          "price_brl": 3436.95,
+          "price_original": "$582.89",
+          "price_brl": 3430.72,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$1,037.42",
-          "price_brl": 6105.94,
+          "price_original": "$1,035.52",
+          "price_brl": 6094.76,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$1,296.89",
-          "price_brl": 7633.11,
+          "price_original": "$1,294.52",
+          "price_brl": 7619.16,
           "quantity": 1
         },
         {
@@ -3374,26 +3374,26 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$83.28",
-          "price_brl": 490.16,
+          "price_original": "$83.12",
+          "price_brl": 489.22,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$91.64",
-          "price_brl": 539.37,
+          "price_original": "$91.47",
+          "price_brl": 538.36,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$166.77",
-          "price_brl": 981.56,
+          "price_original": "$166.46",
+          "price_brl": 979.73,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$166.89",
-          "price_brl": 982.26,
+          "price_original": "$166.58",
+          "price_brl": 980.44,
           "quantity": 1
         },
         {
@@ -3478,50 +3478,50 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$41.87",
-          "price_brl": 246.43,
+          "price_original": "$41.83",
+          "price_brl": 246.2,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$58.59",
-          "price_brl": 344.84,
+          "price_original": "$58.56",
+          "price_brl": 344.67,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$66.91",
-          "price_brl": 393.81,
+          "price_original": "$66.78",
+          "price_brl": 393.05,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$66.92",
-          "price_brl": 393.87,
+          "price_original": "$66.79",
+          "price_brl": 393.11,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$156.52",
-          "price_brl": 921.23,
+          "price_original": "$156.22",
+          "price_brl": 919.46,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$286.25",
-          "price_brl": 1684.78,
+          "price_original": "$285.72",
+          "price_brl": 1681.66,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$390.03",
-          "price_brl": 2295.6,
+          "price_original": "$389.32",
+          "price_brl": 2291.42,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$12,974.35",
-          "price_brl": 76363.13,
+          "price_original": "$12,950.62",
+          "price_brl": 76223.46,
           "quantity": 1
         },
         {
@@ -6588,26 +6588,26 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$12.32",
-          "price_brl": 72.51,
+          "price_original": "$12.31",
+          "price_brl": 72.45,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$13.66",
-          "price_brl": 80.4,
+          "price_original": "$13.65",
+          "price_brl": 80.34,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$17.15",
-          "price_brl": 100.94,
+          "price_original": "$15.93",
+          "price_brl": 93.76,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$17.65",
-          "price_brl": 103.88,
+          "price_original": "$17.64",
+          "price_brl": 103.82,
           "quantity": 1
         },
         {
@@ -6618,104 +6618,104 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$19.73",
-          "price_brl": 116.12,
+          "price_original": "$19.70",
+          "price_brl": 115.95,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$25.64",
-          "price_brl": 150.91,
+          "price_original": "$25.58",
+          "price_brl": 150.56,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$26.28",
-          "price_brl": 154.68,
+          "price_original": "$26.24",
+          "price_brl": 154.44,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$31.65",
-          "price_brl": 186.28,
+          "price_original": "$31.59",
+          "price_brl": 185.93,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$32.94",
-          "price_brl": 193.87,
+          "price_original": "$32.88",
+          "price_brl": 193.52,
           "quantity": 5
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$41.32",
-          "price_brl": 243.2,
+          "price_original": "$41.30",
+          "price_brl": 243.08,
           "quantity": 8
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$45.22",
-          "price_brl": 266.15,
+          "price_original": "$45.55",
+          "price_brl": 268.09,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$46.08",
-          "price_brl": 271.21,
+          "price_original": "$46.00",
+          "price_brl": 270.74,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$48.90",
-          "price_brl": 287.81,
+          "price_original": "$48.86",
+          "price_brl": 287.58,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$10.81",
-          "price_brl": 63.62,
+          "price_original": "$10.48",
+          "price_brl": 61.68,
           "quantity": 7
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$19.67",
-          "price_brl": 115.77,
+          "price_original": "$19.63",
+          "price_brl": 115.54,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$23.71",
-          "price_brl": 139.55,
+          "price_original": "$23.66",
+          "price_brl": 139.26,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$24.39",
-          "price_brl": 143.55,
+          "price_original": "$24.40",
+          "price_brl": 143.61,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$24.67",
-          "price_brl": 145.2,
+          "price_original": "$24.71",
+          "price_brl": 145.44,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$25.64",
-          "price_brl": 150.91,
+          "price_original": "$25.58",
+          "price_brl": 150.56,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$26.30",
-          "price_brl": 154.79,
+          "price_original": "$26.25",
+          "price_brl": 154.5,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$28.17",
-          "price_brl": 165.8,
+          "price_original": "$28.11",
+          "price_brl": 165.45,
           "quantity": 1
         },
         {
@@ -6732,20 +6732,20 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$44.78",
-          "price_brl": 263.56,
+          "price_original": "$44.70",
+          "price_brl": 263.09,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$46.07",
-          "price_brl": 271.15,
+          "price_original": "$45.98",
+          "price_brl": 270.62,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$69.53",
-          "price_brl": 409.23,
+          "price_original": "$69.39",
+          "price_brl": 408.41,
           "quantity": 1
         }
       ]
@@ -7654,20 +7654,20 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$56.49",
-          "price_brl": 332.48,
+          "price_original": "$56.39",
+          "price_brl": 331.89,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$59.14",
-          "price_brl": 348.08,
+          "price_original": "$59.04",
+          "price_brl": 347.49,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$65.05",
-          "price_brl": 382.86,
+          "price_original": "$64.93",
+          "price_brl": 382.16,
           "quantity": 1
         },
         {
@@ -7684,8 +7684,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$72.01",
-          "price_brl": 423.83,
+          "price_original": "$72.08",
+          "price_brl": 424.24,
           "quantity": 1
         },
         {
@@ -7696,8 +7696,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$115.38",
-          "price_brl": 679.09,
+          "price_original": "$115.31",
+          "price_brl": 678.68,
           "quantity": 2
         },
         {
@@ -7708,8 +7708,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$156.52",
-          "price_brl": 921.23,
+          "price_original": "$156.22",
+          "price_brl": 919.46,
           "quantity": 3
         }
       ]
@@ -13212,84 +13212,90 @@
           "expansion": "Super Slam",
           "price_original": "$5.06",
           "price_brl": 29.78,
+          "quantity": 6
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$5.06",
+          "price_brl": 29.78,
+          "quantity": 5
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$5.31",
+          "price_brl": 31.25,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$5.32",
-          "price_brl": 31.31,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$5.77",
-          "price_brl": 33.96,
+          "price_original": "$5.76",
+          "price_brl": 33.9,
           "quantity": 10
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$6.29",
-          "price_brl": 37.02,
+          "price_original": "$6.28",
+          "price_brl": 36.96,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$6.45",
-          "price_brl": 37.96,
+          "price_original": "$6.47",
+          "price_brl": 38.08,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$6.49",
-          "price_brl": 38.2,
+          "price_original": "$6.47",
+          "price_brl": 38.08,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$6.49",
-          "price_brl": 38.2,
+          "price_original": "$6.50",
+          "price_brl": 38.26,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$6.60",
-          "price_brl": 38.85,
+          "price_original": "$6.59",
+          "price_brl": 38.79,
           "quantity": 4
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$6.63",
-          "price_brl": 39.02,
+          "price_original": "$6.62",
+          "price_brl": 38.96,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$7.18",
-          "price_brl": 42.26,
+          "price_original": "$7.16",
+          "price_brl": 42.14,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$7.90",
-          "price_brl": 46.5,
+          "price_original": "$7.89",
+          "price_brl": 46.44,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$7.97",
-          "price_brl": 46.91,
+          "price_original": "$7.96",
+          "price_brl": 46.85,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$8.01",
-          "price_brl": 47.14,
+          "price_original": "$8.03",
+          "price_brl": 47.26,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$8.81",
-          "price_brl": 51.85,
+          "price_original": "$8.79",
+          "price_brl": 51.74,
           "quantity": 4
         },
         {
@@ -13300,74 +13306,74 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$9.18",
-          "price_brl": 54.03,
+          "price_original": "$9.16",
+          "price_brl": 53.91,
           "quantity": 4
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$10.53",
+          "price_brl": 61.98,
+          "quantity": 1
         },
         {
           "expansion": "Super Slam",
           "price_original": "$10.54",
           "price_brl": 62.04,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$10.57",
-          "price_brl": 62.21,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$10.58",
-          "price_brl": 62.27,
+          "price_original": "$10.55",
+          "price_brl": 62.09,
           "quantity": 6
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$12.52",
-          "price_brl": 73.69,
+          "price_original": "$12.50",
+          "price_brl": 73.57,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$13.15",
-          "price_brl": 77.4,
+          "price_original": "$13.13",
+          "price_brl": 77.28,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$13.30",
-          "price_brl": 78.28,
+          "price_original": "$13.33",
+          "price_brl": 78.46,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$13.88",
-          "price_brl": 81.69,
+          "price_original": "$13.85",
+          "price_brl": 81.52,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$15.84",
-          "price_brl": 93.23,
+          "price_original": "$15.81",
+          "price_brl": 93.05,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$16.49",
-          "price_brl": 97.06,
+          "price_original": "$16.46",
+          "price_brl": 96.88,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$19.73",
-          "price_brl": 116.12,
+          "price_original": "$19.70",
+          "price_brl": 115.95,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$19.73",
-          "price_brl": 116.12,
+          "price_original": "$19.70",
+          "price_brl": 115.95,
           "quantity": 1
         }
       ]
@@ -13380,20 +13386,20 @@
       "records": [
         {
           "expansion": "Super Slam",
-          "price_original": "$345.98",
-          "price_brl": 2036.33,
+          "price_original": "$346.64",
+          "price_brl": 2040.22,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$537.94",
-          "price_brl": 3166.15,
+          "price_original": "$536.95",
+          "price_brl": 3160.33,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$759.78",
-          "price_brl": 4471.84,
+          "price_original": "$758.39",
+          "price_brl": 4463.66,
           "quantity": 1
         }
       ]
@@ -13402,6 +13408,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-09-19T11:41:54",
+  "datetime_utc_minus3": "2026-09-19T14:51:11",
   "euro_rate": 5.8857
 }
