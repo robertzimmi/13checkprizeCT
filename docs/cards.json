@@ -1782,8 +1782,14 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$7.59",
-          "price_brl": 43.02,
+          "price_original": "$7.58",
+          "price_brl": 42.96,
+          "quantity": 1
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$7.66",
+          "price_brl": 43.42,
           "quantity": 1
         },
         {
@@ -1794,14 +1800,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$9.02",
-          "price_brl": 51.12,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$11.74",
-          "price_brl": 66.54,
+          "price_original": "$11.73",
+          "price_brl": 66.48,
           "quantity": 3
         },
         {
@@ -1818,20 +1818,20 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$15.44",
-          "price_brl": 87.51,
+          "price_original": "$15.45",
+          "price_brl": 87.57,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$15.44",
-          "price_brl": 87.51,
+          "price_original": "$15.45",
+          "price_brl": 87.57,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$17.96",
-          "price_brl": 101.8,
+          "price_original": "$17.97",
+          "price_brl": 101.85,
           "quantity": 1
         }
       ]
@@ -2460,104 +2460,104 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$23.24",
-          "price_brl": 131.72,
+          "price_original": "$23.77",
+          "price_brl": 134.73,
           "quantity": 1
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$27.09",
+          "price_brl": 153.54,
+          "quantity": 17
         },
         {
           "expansion": "Super Slam",
           "price_original": "$27.13",
           "price_brl": 153.77,
-          "quantity": 3
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$27.13",
-          "price_brl": 153.77,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$29.10",
-          "price_brl": 164.94,
-          "quantity": 14
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$29.70",
-          "price_brl": 168.34,
+          "price_original": "$27.56",
+          "price_brl": 156.21,
           "quantity": 7
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$31.99",
-          "price_brl": 181.32,
+          "price_original": "$32.00",
+          "price_brl": 181.37,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$32.11",
-          "price_brl": 182,
+          "price_original": "$32.14",
+          "price_brl": 182.17,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$32.11",
-          "price_brl": 182,
+          "price_original": "$32.14",
+          "price_brl": 182.17,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$32.49",
-          "price_brl": 184.15,
+          "price_original": "$32.17",
+          "price_brl": 182.34,
+          "quantity": 1
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$32.51",
+          "price_brl": 184.26,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$33.05",
-          "price_brl": 187.32,
+          "price_original": "$37.52",
+          "price_brl": 212.66,
           "quantity": 5
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$37.56",
-          "price_brl": 212.89,
-          "quantity": 5
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$38.42",
-          "price_brl": 217.76,
+          "price_original": "$38.44",
+          "price_brl": 217.87,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$38.43",
-          "price_brl": 217.82,
+          "price_original": "$38.45",
+          "price_brl": 217.93,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$47.93",
-          "price_brl": 271.66,
+          "price_original": "$46.45",
+          "price_brl": 263.27,
+          "quantity": 5
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$47.97",
+          "price_brl": 271.89,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$50.59",
-          "price_brl": 286.74,
+          "price_original": "$50.62",
+          "price_brl": 286.91,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$64.03",
-          "price_brl": 362.92,
+          "price_original": "$64.06",
+          "price_brl": 363.09,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$70.34",
-          "price_brl": 398.68,
+          "price_original": "$70.39",
+          "price_brl": 398.96,
           "quantity": 2
         }
       ]
@@ -3250,15 +3250,15 @@
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$19.47",
-          "price_brl": 110.35,
-          "quantity": 3
+          "price_original": "$19.48",
+          "price_brl": 110.41,
+          "quantity": 4
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$19.47",
-          "price_brl": 110.35,
-          "quantity": 4
+          "price_original": "$19.48",
+          "price_brl": 110.41,
+          "quantity": 3
         },
         {
           "expansion": "GEM Pack",
@@ -3274,50 +3274,50 @@
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$23.02",
-          "price_brl": 130.48,
+          "price_original": "$23.04",
+          "price_brl": 130.59,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$23.10",
-          "price_brl": 130.93,
+          "price_original": "$23.11",
+          "price_brl": 130.99,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$23.10",
-          "price_brl": 130.93,
+          "price_original": "$23.11",
+          "price_brl": 130.99,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$23.37",
-          "price_brl": 132.46,
+          "price_original": "$23.38",
+          "price_brl": 132.52,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$25.46",
-          "price_brl": 144.3,
+          "price_original": "$25.48",
+          "price_brl": 144.42,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$32.09",
-          "price_brl": 181.88,
+          "price_original": "$32.10",
+          "price_brl": 181.94,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$32.11",
-          "price_brl": 182,
+          "price_original": "$32.14",
+          "price_brl": 182.17,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$38.43",
-          "price_brl": 217.82,
+          "price_original": "$38.45",
+          "price_brl": 217.93,
           "quantity": 1
         }
       ]
@@ -4356,8 +4356,8 @@
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$5.67",
-          "price_brl": 32.14,
+          "price_original": "$5.68",
+          "price_brl": 32.19,
           "quantity": 1
         },
         {
@@ -4386,14 +4386,14 @@
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$10.05",
-          "price_brl": 56.96,
+          "price_original": "$10.06",
+          "price_brl": 57.02,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$31.99",
-          "price_brl": 181.32,
+          "price_original": "$32.00",
+          "price_brl": 181.37,
           "quantity": 1
         }
       ]
@@ -5162,7 +5162,7 @@
           "expansion": "GEM Pack",
           "price_original": "$47.26",
           "price_brl": 267.86,
-          "quantity": 4
+          "quantity": 3
         },
         {
           "expansion": "GEM Pack",
@@ -5178,38 +5178,38 @@
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$61.49",
-          "price_brl": 348.52,
+          "price_original": "$61.53",
+          "price_brl": 348.75,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$61.49",
-          "price_brl": 348.52,
+          "price_original": "$61.53",
+          "price_brl": 348.75,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$70.22",
-          "price_brl": 398,
+          "price_original": "$70.26",
+          "price_brl": 398.23,
           "quantity": 2
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$76.66",
-          "price_brl": 434.5,
+          "price_original": "$76.72",
+          "price_brl": 434.84,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$82.33",
-          "price_brl": 466.64,
+          "price_original": "$82.38",
+          "price_brl": 466.92,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$101.95",
-          "price_brl": 577.84,
+          "price_original": "$102.02",
+          "price_brl": 578.24,
           "quantity": 1
         }
       ]
@@ -5324,68 +5324,62 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "$32.11",
-          "price_brl": 182,
+          "price_original": "$49.42",
+          "price_brl": 280.11,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "$45.76",
-          "price_brl": 259.36,
+          "price_original": "$49.98",
+          "price_brl": 283.28,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "$49.95",
-          "price_brl": 283.11,
-          "quantity": 1
-        },
-        {
-          "expansion": "High Seas",
-          "price_original": "$51.22",
-          "price_brl": 290.31,
+          "price_original": "$51.26",
+          "price_brl": 290.54,
           "quantity": 2
         },
         {
           "expansion": "High Seas",
-          "price_original": "$51.22",
-          "price_brl": 290.31,
+          "price_original": "$51.26",
+          "price_brl": 290.54,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "$59.28",
-          "price_brl": 335.99,
+          "price_original": "$58.24",
+          "price_brl": 330.1,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "$60.21",
-          "price_brl": 341.26,
+          "price_original": "$61.38",
+          "price_brl": 347.9,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "$60.39",
-          "price_brl": 342.28,
+          "price_original": "$61.82",
+          "price_brl": 350.39,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "$61.34",
-          "price_brl": 347.67,
+          "price_original": "$63.74",
+          "price_brl": 361.27,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "$61.85",
-          "price_brl": 350.56,
+          "price_original": "$66.13",
+          "price_brl": 374.82,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "$75.27",
-          "price_brl": 426.62,
+          "price_original": "$75.33",
+          "price_brl": 426.96,
           "quantity": 1
         },
         {
@@ -5393,12 +5387,6 @@
           "price_original": "$82.83",
           "price_brl": 469.47,
           "quantity": 2
-        },
-        {
-          "expansion": "High Seas",
-          "price_original": "$82.83",
-          "price_brl": 469.47,
-          "quantity": 3
         },
         {
           "expansion": "High Seas",
@@ -5408,14 +5396,8 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "$96.03",
-          "price_brl": 544.29,
-          "quantity": 3
-        },
-        {
-          "expansion": "High Seas",
-          "price_original": "$97.52",
-          "price_brl": 552.73,
+          "price_original": "$97.59",
+          "price_brl": 553.13,
           "quantity": 3
         }
       ]
@@ -6096,146 +6078,62 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$10.37",
-          "price_brl": 58.78,
-          "quantity": 2
+          "price_original": "$10.34",
+          "price_brl": 58.61,
+          "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$11.38",
-          "price_brl": 64.5,
-          "quantity": 1
+          "price_original": "$10.86",
+          "price_brl": 61.55,
+          "quantity": 2
         },
         {
           "expansion": "Super Slam",
           "price_original": "$11.81",
           "price_brl": 66.94,
-          "quantity": 8
+          "quantity": 7
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$11.88",
-          "price_brl": 67.33,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$12.36",
-          "price_brl": 70.06,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$13.27",
-          "price_brl": 75.21,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$13.87",
-          "price_brl": 78.61,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$14.86",
-          "price_brl": 84.22,
-          "quantity": 6
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$17.35",
-          "price_brl": 98.34,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$19.23",
-          "price_brl": 108.99,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$22.65",
-          "price_brl": 128.38,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$25.62",
-          "price_brl": 145.21,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$30.85",
-          "price_brl": 174.85,
-          "quantity": 2
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$41.79",
-          "price_brl": 236.86,
-          "quantity": 8
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$44.91",
-          "price_brl": 254.55,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$45.71",
-          "price_brl": 259.08,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$48.07",
-          "price_brl": 272.46,
+          "price_original": "$11.90",
+          "price_brl": 67.45,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$9.16",
-          "price_brl": 51.92,
-          "quantity": 6
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$15.85",
-          "price_brl": 89.84,
+          "price_original": "$12.05",
+          "price_brl": 68.3,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$17.87",
-          "price_brl": 101.29,
+          "price_original": "$12.47",
+          "price_brl": 70.68,
+          "quantity": 5
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$13.85",
+          "price_brl": 78.5,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$19.16",
-          "price_brl": 108.6,
-          "quantity": 3
+          "price_original": "$17.33",
+          "price_brl": 98.22,
+          "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$23.10",
-          "price_brl": 130.93,
-          "quantity": 2
+          "price_original": "$19.24",
+          "price_brl": 109.05,
+          "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$24.42",
-          "price_brl": 138.41,
-          "quantity": 3
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$24.98",
-          "price_brl": 141.58,
+          "price_original": "$22.62",
+          "price_brl": 128.21,
           "quantity": 1
         },
         {
@@ -6246,8 +6144,86 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$27.45",
-          "price_brl": 155.58,
+          "price_original": "$30.87",
+          "price_brl": 174.97,
+          "quantity": 2
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$41.66",
+          "price_brl": 236.12,
+          "quantity": 8
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$43.50",
+          "price_brl": 246.55,
+          "quantity": 4
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$44.93",
+          "price_brl": 254.66,
+          "quantity": 1
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$45.58",
+          "price_brl": 258.34,
+          "quantity": 1
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$9.47",
+          "price_brl": 53.68,
+          "quantity": 6
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$13.47",
+          "price_brl": 76.35,
+          "quantity": 1
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$15.87",
+          "price_brl": 89.95,
+          "quantity": 1
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$19.18",
+          "price_brl": 108.71,
+          "quantity": 3
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$23.11",
+          "price_brl": 130.99,
+          "quantity": 2
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$24.40",
+          "price_brl": 138.3,
+          "quantity": 3
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$25.00",
+          "price_brl": 141.7,
+          "quantity": 1
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$25.64",
+          "price_brl": 145.32,
+          "quantity": 1
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$27.46",
+          "price_brl": 155.64,
           "quantity": 1
         },
         {
@@ -6258,14 +6234,14 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$43.64",
-          "price_brl": 247.35,
+          "price_original": "$43.67",
+          "price_brl": 247.52,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$67.75",
-          "price_brl": 384,
+          "price_original": "$67.79",
+          "price_brl": 384.23,
           "quantity": 1
         }
       ]
@@ -6910,26 +6886,26 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$55.04",
-          "price_brl": 311.96,
+          "price_original": "$55.08",
+          "price_brl": 312.19,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$57.64",
-          "price_brl": 326.7,
+          "price_original": "$57.68",
+          "price_brl": 326.92,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$63.39",
-          "price_brl": 359.29,
+          "price_original": "$63.43",
+          "price_brl": 359.51,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$74.65",
-          "price_brl": 423.11,
+          "price_original": "$74.99",
+          "price_brl": 425.04,
           "quantity": 1
         },
         {
@@ -6952,26 +6928,26 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$113.41",
-          "price_brl": 642.8,
+          "price_original": "$113.34",
+          "price_brl": 642.4,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$125.97",
-          "price_brl": 713.99,
+          "price_original": "$126.05",
+          "price_brl": 714.44,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$133.55",
-          "price_brl": 756.95,
+          "price_original": "$133.63",
+          "price_brl": 757.4,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$152.52",
-          "price_brl": 864.47,
+          "price_original": "$152.62",
+          "price_brl": 865.03,
           "quantity": 3
         }
       ]
@@ -7202,20 +7178,20 @@
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$75.40",
-          "price_brl": 427.36,
+          "price_original": "$75.45",
+          "price_brl": 427.64,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$88.04",
-          "price_brl": 499,
+          "price_original": "$88.09",
+          "price_brl": 499.29,
           "quantity": 1
         },
         {
           "expansion": "GEM Pack",
-          "price_original": "$89.30",
-          "price_brl": 506.14,
+          "price_original": "$89.36",
+          "price_brl": 506.48,
           "quantity": 1
         },
         {
@@ -11670,6 +11646,12 @@
         },
         {
           "expansion": "High Seas",
+          "price_original": "$2.73",
+          "price_brl": 15.47,
+          "quantity": 2
+        },
+        {
+          "expansion": "High Seas",
           "price_original": "$2.76",
           "price_brl": 15.64,
           "quantity": 1
@@ -11685,12 +11667,6 @@
           "price_original": "$2.80",
           "price_brl": 15.87,
           "quantity": 4
-        },
-        {
-          "expansion": "High Seas",
-          "price_original": "$2.87",
-          "price_brl": 16.27,
-          "quantity": 2
         },
         {
           "expansion": "High Seas",
@@ -11766,8 +11742,8 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "$9.39",
-          "price_brl": 53.22,
+          "price_original": "$9.40",
+          "price_brl": 53.28,
           "quantity": 1
         },
         {
@@ -11814,12 +11790,6 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "$12.63",
-          "price_brl": 71.59,
-          "quantity": 3
-        },
-        {
-          "expansion": "High Seas",
           "price_original": "$12.64",
           "price_brl": 71.64,
           "quantity": 1
@@ -11832,14 +11802,14 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "$12.70",
-          "price_brl": 71.98,
+          "price_original": "$12.71",
+          "price_brl": 72.04,
           "quantity": 3
         },
         {
           "expansion": "High Seas",
-          "price_original": "$12.81",
-          "price_brl": 72.61,
+          "price_original": "$12.83",
+          "price_brl": 72.72,
           "quantity": 1
         },
         {
@@ -11850,62 +11820,56 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "$13.85",
-          "price_brl": 78.5,
+          "price_original": "$13.87",
+          "price_brl": 78.61,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "$15.38",
-          "price_brl": 87.17,
+          "price_original": "$15.45",
+          "price_brl": 87.57,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "$16.89",
-          "price_brl": 95.73,
+          "price_original": "$16.88",
+          "price_brl": 95.67,
           "quantity": 5
         },
         {
           "expansion": "High Seas",
-          "price_original": "$17.45",
-          "price_brl": 98.9,
+          "price_original": "$17.44",
+          "price_brl": 98.85,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "$19.23",
-          "price_brl": 108.99,
+          "price_original": "$19.32",
+          "price_brl": 109.5,
           "quantity": 4
         },
         {
           "expansion": "High Seas",
-          "price_original": "$19.88",
-          "price_brl": 112.68,
+          "price_original": "$19.85",
+          "price_brl": 112.51,
           "quantity": 2
         },
         {
           "expansion": "High Seas",
-          "price_original": "$24.36",
-          "price_brl": 138.07,
+          "price_original": "$24.37",
+          "price_brl": 138.13,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "$25.63",
-          "price_brl": 145.27,
+          "price_original": "$25.64",
+          "price_brl": 145.32,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "$37.82",
-          "price_brl": 214.36,
-          "quantity": 2
-        },
-        {
-          "expansion": "High Seas",
-          "price_original": "$44.91",
-          "price_brl": 254.55,
+          "price_original": "$44.93",
+          "price_brl": 254.66,
           "quantity": 1
         }
       ]
@@ -11918,14 +11882,14 @@
       "records": [
         {
           "expansion": "High Seas",
-          "price_original": "$559.61",
-          "price_brl": 3171.81,
+          "price_original": "$559.96",
+          "price_brl": 3173.8,
           "quantity": 1
         },
         {
           "expansion": "High Seas",
-          "price_original": "$569.72",
-          "price_brl": 3229.12,
+          "price_original": "$570.07",
+          "price_brl": 3231.1,
           "quantity": 1
         }
       ]
@@ -12148,12 +12112,6 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$3.23",
-          "price_brl": 18.31,
-          "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
           "price_original": "$3.46",
           "price_brl": 19.61,
           "quantity": 2
@@ -12166,9 +12124,27 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$3.92",
-          "price_brl": 22.22,
+          "price_original": "$3.90",
+          "price_brl": 22.1,
           "quantity": 1
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$3.91",
+          "price_brl": 22.16,
+          "quantity": 1
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$4.10",
+          "price_brl": 23.24,
+          "quantity": 18
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$4.55",
+          "price_brl": 25.79,
+          "quantity": 4
         },
         {
           "expansion": "Super Slam",
@@ -12178,15 +12154,9 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$4.81",
-          "price_brl": 27.26,
+          "price_original": "$4.83",
+          "price_brl": 27.38,
           "quantity": 1
-        },
-        {
-          "expansion": "Super Slam",
-          "price_original": "$5.67",
-          "price_brl": 32.14,
-          "quantity": 10
         },
         {
           "expansion": "Super Slam",
@@ -12196,8 +12166,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$6.32",
-          "price_brl": 35.82,
+          "price_original": "$6.33",
+          "price_brl": 35.88,
           "quantity": 2
         },
         {
@@ -12220,14 +12190,20 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$7.59",
-          "price_brl": 43.02,
+          "price_original": "$7.22",
+          "price_brl": 40.92,
+          "quantity": 5
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$7.58",
+          "price_brl": 42.96,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$7.70",
-          "price_brl": 43.64,
+          "price_original": "$7.71",
+          "price_brl": 43.7,
           "quantity": 2
         },
         {
@@ -12262,12 +12238,6 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$9.02",
-          "price_brl": 51.12,
-          "quantity": 4
-        },
-        {
-          "expansion": "Super Slam",
           "price_original": "$10.28",
           "price_brl": 58.27,
           "quantity": 1
@@ -12286,38 +12256,44 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$12.81",
-          "price_brl": 72.61,
+          "price_original": "$12.83",
+          "price_brl": 72.72,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$13.18",
-          "price_brl": 74.7,
+          "price_original": "$13.16",
+          "price_brl": 74.59,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$13.53",
-          "price_brl": 76.69,
+          "price_original": "$13.54",
+          "price_brl": 76.74,
           "quantity": 1
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$15.44",
-          "price_brl": 87.51,
+          "price_original": "$15.45",
+          "price_brl": 87.57,
           "quantity": 2
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$16.07",
-          "price_brl": 91.08,
+          "price_original": "$16.08",
+          "price_brl": 91.14,
           "quantity": 3
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$19.23",
-          "price_brl": 108.99,
+          "price_original": "$16.56",
+          "price_brl": 93.86,
+          "quantity": 3
+        },
+        {
+          "expansion": "Super Slam",
+          "price_original": "$19.24",
+          "price_brl": 109.05,
           "quantity": 1
         }
       ]
@@ -12330,8 +12306,8 @@
       "records": [
         {
           "expansion": "Super Slam",
-          "price_original": "$342.59",
-          "price_brl": 1941.77,
+          "price_original": "$342.24",
+          "price_brl": 1939.78,
           "quantity": 1
         },
         {
@@ -12342,8 +12318,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$740.39",
-          "price_brl": 4196.46,
+          "price_original": "$740.85",
+          "price_brl": 4199.06,
           "quantity": 1
         }
       ]
@@ -12352,6 +12328,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-10-15T22:03:18",
+  "datetime_utc_minus3": "2026-10-16T03:12:47",
   "euro_rate": 5.6679
 }
