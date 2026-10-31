@@ -3043,6 +3043,84 @@
           "price_original": "$70.38",
           "price_brl": 427.15,
           "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$19.08",
+          "price_brl": 115.8,
+          "quantity": 10
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$19.08",
+          "price_brl": 115.8,
+          "quantity": 3
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$19.73",
+          "price_brl": 119.75,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$19.85",
+          "price_brl": 120.47,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$20.41",
+          "price_brl": 123.87,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$21.64",
+          "price_brl": 131.34,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$24.36",
+          "price_brl": 147.85,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$24.97",
+          "price_brl": 151.55,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$25.33",
+          "price_brl": 153.73,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$28.17",
+          "price_brl": 170.97,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$31.93",
+          "price_brl": 193.79,
+          "quantity": 2
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$31.95",
+          "price_brl": 193.91,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$38.24",
+          "price_brl": 232.09,
+          "quantity": 1
         }
       ]
     },
@@ -4041,6 +4119,60 @@
           "price_original": "$24.99",
           "price_brl": 151.67,
           "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$2.57",
+          "price_brl": 15.6,
+          "quantity": 2
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$5.23",
+          "price_brl": 31.74,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$5.72",
+          "price_brl": 34.72,
+          "quantity": 2
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$7.16",
+          "price_brl": 43.46,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$7.47",
+          "price_brl": 45.34,
+          "quantity": 3
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$7.48",
+          "price_brl": 45.4,
+          "quantity": 7
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$10.00",
+          "price_brl": 60.69,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$10.11",
+          "price_brl": 61.36,
+          "quantity": 3
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$31.82",
+          "price_brl": 193.12,
+          "quantity": 1
         }
       ]
     },
@@ -4682,6 +4814,66 @@
           "expansion": "Dynasty",
           "price_original": "$420.60",
           "price_brl": 2552.71,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$49.78",
+          "price_brl": 302.12,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$58.36",
+          "price_brl": 354.2,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$61.18",
+          "price_brl": 371.31,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$61.18",
+          "price_brl": 371.31,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$63.09",
+          "price_brl": 382.91,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$76.20",
+          "price_brl": 462.47,
+          "quantity": 2
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$76.24",
+          "price_brl": 462.72,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$76.25",
+          "price_brl": 462.78,
+          "quantity": 2
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$76.26",
+          "price_brl": 462.84,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$101.42",
+          "price_brl": 615.54,
           "quantity": 1
         }
       ]
@@ -6731,6 +6923,48 @@
           "price_original": "$151.73",
           "price_brl": 920.88,
           "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$29.81",
+          "price_brl": 180.92,
+          "quantity": 6
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$29.81",
+          "price_brl": 180.92,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$45.99",
+          "price_brl": 279.12,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$75.01",
+          "price_brl": 455.25,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$87.59",
+          "price_brl": 531.6,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$88.84",
+          "price_brl": 539.19,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$12,650.89",
+          "price_brl": 76780.78,
+          "quantity": 3
         }
       ]
     },
@@ -11548,6 +11782,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-10-30T19:51:18",
+  "datetime_utc_minus3": "2026-10-30T23:06:39",
   "euro_rate": 6.0692
 }
