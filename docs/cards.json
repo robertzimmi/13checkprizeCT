@@ -3264,8 +3264,8 @@
         },
         {
           "expansion": "Judge Promos",
-          "price_original": "$164.63",
-          "price_brl": 1004.08,
+          "price_original": "$164.56",
+          "price_brl": 1003.65,
           "quantity": 3
         },
         {
@@ -3362,8 +3362,8 @@
       "records": [
         {
           "expansion": "Judge Promos",
-          "price_original": "$55.94",
-          "price_brl": 341.18,
+          "price_original": "$55.91",
+          "price_brl": 341,
           "quantity": 1
         },
         {
@@ -12118,6 +12118,6 @@
   "missing": [
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)"
   ],
-  "datetime_utc_minus3": "2026-11-02T13:54:12",
+  "datetime_utc_minus3": "2026-11-02T20:49:39",
   "euro_rate": 6.099
 }
