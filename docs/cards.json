@@ -8,6 +8,12 @@
       "records": [
         {
           "expansion": "Welcome to Rathe - Unlimited",
+          "price_original": "$30.17",
+          "price_brl": 185.39,
+          "quantity": 1
+        },
+        {
+          "expansion": "Welcome to Rathe - Unlimited",
           "price_original": "$32.10",
           "price_brl": 197.25,
           "quantity": 3
@@ -26,26 +32,32 @@
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$38.84",
-          "price_brl": 238.67,
+          "price_original": "$38.54",
+          "price_brl": 236.82,
           "quantity": 5
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$53.20",
-          "price_brl": 326.91,
+          "price_original": "$52.93",
+          "price_brl": 325.25,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$55.79",
-          "price_brl": 342.82,
+          "price_original": "$55.49",
+          "price_brl": 340.98,
           "quantity": 2
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$63.28",
-          "price_brl": 388.85,
+          "price_original": "$62.79",
+          "price_brl": 385.84,
+          "quantity": 1
+        },
+        {
+          "expansion": "Welcome to Rathe - Unlimited",
+          "price_original": "$63.89",
+          "price_brl": 392.6,
           "quantity": 1
         },
         {
@@ -56,44 +68,38 @@
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$64.23",
-          "price_brl": 394.69,
-          "quantity": 1
-        },
-        {
-          "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$73.76",
-          "price_brl": 453.25,
+          "price_original": "$73.36",
+          "price_brl": 450.79,
           "quantity": 3
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$83.70",
-          "price_brl": 514.33,
+          "price_original": "$83.04",
+          "price_brl": 510.27,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$89.60",
-          "price_brl": 550.58,
+          "price_original": "$89.12",
+          "price_brl": 547.63,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$136.14",
-          "price_brl": 836.57,
+          "price_original": "$135.51",
+          "price_brl": 832.7,
           "quantity": 3
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$164.43",
-          "price_brl": 1010.41,
+          "price_original": "$163.56",
+          "price_brl": 1005.06,
           "quantity": 3
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$263.18",
-          "price_brl": 1617.21,
+          "price_original": "$261.11",
+          "price_brl": 1604.49,
           "quantity": 4
         },
         {
@@ -170,9 +176,15 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$28.72",
-          "price_brl": 176.48,
+          "price_original": "$28.74",
+          "price_brl": 176.6,
           "quantity": 2
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "$38.21",
+          "price_brl": 234.8,
+          "quantity": 1
         },
         {
           "expansion": "Compendium of Rathe",
@@ -182,12 +194,6 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$41.91",
-          "price_brl": 257.53,
-          "quantity": 1
-        },
-        {
-          "expansion": "Compendium of Rathe",
           "price_original": "$51.12",
           "price_brl": 314.13,
           "quantity": 1
@@ -200,8 +206,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$61.44",
-          "price_brl": 377.54,
+          "price_original": "$61.43",
+          "price_brl": 377.48,
           "quantity": 2
         },
         {
@@ -226,56 +232,56 @@
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$76.42",
-          "price_brl": 469.59,
+          "price_original": "$75.82",
+          "price_brl": 465.91,
           "quantity": 2
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$82.55",
-          "price_brl": 507.26,
+          "price_original": "$81.91",
+          "price_brl": 503.33,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$102.28",
-          "price_brl": 628.5,
+          "price_original": "$101.73",
+          "price_brl": 625.12,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$114.83",
-          "price_brl": 705.62,
+          "price_original": "$114.23",
+          "price_brl": 701.93,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$118.98",
-          "price_brl": 731.12,
+          "price_original": "$118.42",
+          "price_brl": 727.68,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$146.66",
-          "price_brl": 901.21,
+          "price_original": "$145.89",
+          "price_brl": 896.48,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$165.68",
-          "price_brl": 1018.09,
+          "price_original": "$164.81",
+          "price_brl": 1012.74,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$165.69",
-          "price_brl": 1018.15,
+          "price_original": "$164.82",
+          "price_brl": 1012.8,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$166.49",
-          "price_brl": 1023.06,
+          "price_original": "$165.61",
+          "price_brl": 1017.66,
           "quantity": 1
         },
         {
@@ -348,50 +354,50 @@
       "records": [
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$190.94",
-          "price_brl": 1173.31,
+          "price_original": "$189.93",
+          "price_brl": 1167.1,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$317.89",
-          "price_brl": 1953.4,
+          "price_original": "$316.22",
+          "price_brl": 1943.14,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$381.30",
-          "price_brl": 2343.05,
+          "price_original": "$379.28",
+          "price_brl": 2330.64,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$761.79",
-          "price_brl": 4681.12,
+          "price_original": "$757.78",
+          "price_brl": 4656.48,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$165.06",
-          "price_brl": 1014.28,
+          "price_original": "$165.17",
+          "price_brl": 1014.95,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$180.28",
-          "price_brl": 1107.8,
+          "price_original": "$179.33",
+          "price_brl": 1101.96,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$202.15",
-          "price_brl": 1242.19,
+          "price_original": "$201.08",
+          "price_brl": 1235.62,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$381.30",
-          "price_brl": 2343.05,
+          "price_original": "$379.28",
+          "price_brl": 2330.64,
           "quantity": 1
         },
         {
@@ -486,8 +492,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$242.57",
-          "price_brl": 1490.57,
+          "price_original": "$242.62",
+          "price_brl": 1490.88,
           "quantity": 3
         },
         {
@@ -498,8 +504,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$626.30",
-          "price_brl": 3848.55,
+          "price_original": "$625.88",
+          "price_brl": 3845.97,
           "quantity": 1
         }
       ]
@@ -512,32 +518,32 @@
       "records": [
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$338.06",
-          "price_brl": 2077.34,
+          "price_original": "$335.42",
+          "price_brl": 2061.12,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$343.25",
-          "price_brl": 2109.24,
+          "price_original": "$341.44",
+          "price_brl": 2098.11,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$411.75",
-          "price_brl": 2530.16,
+          "price_original": "$409.58",
+          "price_brl": 2516.83,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$413.02",
-          "price_brl": 2537.97,
+          "price_original": "$410.85",
+          "price_brl": 2524.63,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$472.53",
-          "price_brl": 2903.65,
+          "price_original": "$470.05",
+          "price_brl": 2888.41,
           "quantity": 1
         },
         {
@@ -556,50 +562,50 @@
       "records": [
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$17.23",
-          "price_brl": 105.88,
+          "price_original": "$17.10",
+          "price_brl": 105.08,
           "quantity": 3
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$28.41",
-          "price_brl": 174.58,
+          "price_original": "$28.26",
+          "price_brl": 173.65,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$38.48",
-          "price_brl": 236.46,
+          "price_original": "$38.27",
+          "price_brl": 235.17,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$38.56",
-          "price_brl": 236.95,
+          "price_original": "$38.35",
+          "price_brl": 235.66,
           "quantity": 2
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$48.18",
-          "price_brl": 296.06,
+          "price_original": "$47.93",
+          "price_brl": 294.53,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$51.39",
-          "price_brl": 315.79,
+          "price_original": "$51.12",
+          "price_brl": 314.13,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$58.87",
-          "price_brl": 361.75,
+          "price_original": "$58.57",
+          "price_brl": 359.91,
           "quantity": 1
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$76.91",
-          "price_brl": 472.6,
+          "price_original": "$76.50",
+          "price_brl": 470.08,
           "quantity": 1
         },
         {
@@ -696,74 +702,74 @@
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$65.89",
-          "price_brl": 404.89,
+          "price_original": "$65.88",
+          "price_brl": 404.83,
           "quantity": 2
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$69.94",
-          "price_brl": 429.77,
+          "price_original": "$69.56",
+          "price_brl": 427.44,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$72.14",
-          "price_brl": 443.29,
+          "price_original": "$71.61",
+          "price_brl": 440.04,
           "quantity": 3
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$76.62",
-          "price_brl": 470.82,
+          "price_original": "$76.53",
+          "price_brl": 470.27,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$76.61",
+          "price_brl": 470.76,
           "quantity": 3
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$77.13",
-          "price_brl": 473.96,
+          "price_original": "$85.01",
+          "price_brl": 522.38,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$85.69",
-          "price_brl": 526.56,
+          "price_original": "$85.47",
+          "price_brl": 525.2,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$86.15",
-          "price_brl": 529.38,
-          "quantity": 1
-        },
-        {
-          "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$119.70",
-          "price_brl": 735.54,
+          "price_original": "$118.76",
+          "price_brl": 729.77,
           "quantity": 2
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$127.64",
-          "price_brl": 784.34,
+          "price_original": "$126.97",
+          "price_brl": 780.22,
           "quantity": 3
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$147.32",
-          "price_brl": 905.27,
+          "price_original": "$146.63",
+          "price_brl": 901.03,
           "quantity": 4
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$171.34",
-          "price_brl": 1052.87,
+          "price_original": "$170.44",
+          "price_brl": 1047.34,
           "quantity": 3
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$184.78",
-          "price_brl": 1135.45,
+          "price_original": "$183.33",
+          "price_brl": 1126.54,
           "quantity": 4
         },
         {
@@ -930,8 +936,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$58.07",
-          "price_brl": 356.83,
+          "price_original": "$58.09",
+          "price_brl": 356.96,
           "quantity": 1
         },
         {
@@ -954,8 +960,14 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$85.36",
-          "price_brl": 524.53,
+          "price_original": "$82.82",
+          "price_brl": 508.92,
+          "quantity": 3
+        },
+        {
+          "expansion": "Compendium of Rathe",
+          "price_original": "$85.39",
+          "price_brl": 524.71,
           "quantity": 3
         },
         {
@@ -972,14 +984,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$95.60",
-          "price_brl": 587.45,
-          "quantity": 3
-        },
-        {
-          "expansion": "Compendium of Rathe",
-          "price_original": "$99.50",
-          "price_brl": 611.42,
+          "price_original": "$99.52",
+          "price_brl": 611.54,
           "quantity": 3
         }
       ]
@@ -992,20 +998,20 @@
       "records": [
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$491.30",
-          "price_brl": 3018.99,
+          "price_original": "$487.47",
+          "price_brl": 2995.45,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$888.63",
-          "price_brl": 5460.54,
+          "price_original": "$883.95",
+          "price_brl": 5431.78,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$1,015.45",
-          "price_brl": 6239.84,
+          "price_original": "$1,010.11",
+          "price_brl": 6207.02,
           "quantity": 1
         },
         {
@@ -1024,20 +1030,20 @@
       "records": [
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$46.35",
-          "price_brl": 284.82,
+          "price_original": "$45.99",
+          "price_brl": 282.6,
           "quantity": 4
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$48.10",
-          "price_brl": 295.57,
+          "price_original": "$47.75",
+          "price_brl": 293.42,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$48.87",
-          "price_brl": 300.3,
+          "price_original": "$48.49",
+          "price_brl": 297.97,
           "quantity": 2
         },
         {
@@ -1048,56 +1054,56 @@
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$51.58",
-          "price_brl": 316.95,
+          "price_original": "$51.18",
+          "price_brl": 314.5,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$57.64",
-          "price_brl": 354.19,
+          "price_original": "$57.19",
+          "price_brl": 351.43,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$62.82",
-          "price_brl": 386.02,
+          "price_original": "$62.49",
+          "price_brl": 383.99,
           "quantity": 4
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$64.23",
-          "price_brl": 394.69,
+          "price_original": "$63.89",
+          "price_brl": 392.6,
           "quantity": 4
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$70.30",
-          "price_brl": 431.99,
+          "price_original": "$70.29",
+          "price_brl": 431.93,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$72.23",
-          "price_brl": 443.85,
+          "price_original": "$71.85",
+          "price_brl": 441.51,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$75.64",
-          "price_brl": 464.8,
+          "price_original": "$75.25",
+          "price_brl": 462.4,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$121.29",
-          "price_brl": 745.31,
+          "price_original": "$120.65",
+          "price_brl": 741.38,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$121.71",
-          "price_brl": 747.9,
+          "price_original": "$121.70",
+          "price_brl": 747.83,
           "quantity": 2
         },
         {
@@ -1134,14 +1140,14 @@
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$64.82",
-          "price_brl": 398.31,
+          "price_original": "$62.85",
+          "price_brl": 386.21,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$70.23",
-          "price_brl": 431.56,
+          "price_original": "$68.11",
+          "price_brl": 418.53,
           "quantity": 1
         },
         {
@@ -1152,38 +1158,38 @@
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$88.47",
-          "price_brl": 543.64,
+          "price_original": "$88.00",
+          "price_brl": 540.75,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$127.58",
-          "price_brl": 783.97,
+          "price_original": "$126.91",
+          "price_brl": 779.85,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$140.07",
-          "price_brl": 860.72,
+          "price_original": "$138.98",
+          "price_brl": 854.02,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$181.01",
-          "price_brl": 1112.29,
+          "price_original": "$180.07",
+          "price_brl": 1106.51,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$317.88",
-          "price_brl": 1953.34,
+          "price_original": "$316.21",
+          "price_brl": 1943.08,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$1,738.06",
-          "price_brl": 10680.2,
+          "price_original": "$1,724.45",
+          "price_brl": 10596.57,
           "quantity": 1
         },
         {
@@ -1250,8 +1256,14 @@
       "records": [
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$109.38",
-          "price_brl": 672.13,
+          "price_original": "$100.47",
+          "price_brl": 617.38,
+          "quantity": 1
+        },
+        {
+          "expansion": "Arcane Rising - Unlimited",
+          "price_original": "$108.81",
+          "price_brl": 668.63,
           "quantity": 1
         },
         {
@@ -1262,14 +1274,14 @@
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$127.64",
-          "price_brl": 784.34,
+          "price_original": "$126.97",
+          "price_brl": 780.22,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$151.82",
-          "price_brl": 932.92,
+          "price_original": "$151.02",
+          "price_brl": 928,
           "quantity": 1
         },
         {
@@ -1312,26 +1324,26 @@
       "records": [
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$74.67",
-          "price_brl": 458.84,
+          "price_original": "$74.27",
+          "price_brl": 456.38,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$76.50",
-          "price_brl": 470.08,
+          "price_original": "$76.49",
+          "price_brl": 470.02,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$153.01",
-          "price_brl": 940.23,
+          "price_original": "$152.20",
+          "price_brl": 935.25,
           "quantity": 1
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$1,278.20",
-          "price_brl": 7854.41,
+          "price_original": "$1,268.19",
+          "price_brl": 7792.9,
           "quantity": 1
         },
         {
@@ -1404,14 +1416,14 @@
       "records": [
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$7.06",
-          "price_brl": 43.38,
+          "price_original": "$7.02",
+          "price_brl": 43.14,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$7.29",
-          "price_brl": 44.8,
+          "price_original": "$7.23",
+          "price_brl": 44.43,
           "quantity": 8
         },
         {
@@ -1422,20 +1434,20 @@
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$8.52",
-          "price_brl": 52.35,
+          "price_original": "$8.48",
+          "price_brl": 52.11,
           "quantity": 2
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$9.05",
-          "price_brl": 55.61,
+          "price_original": "$9.01",
+          "price_brl": 55.37,
           "quantity": 2
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$9.89",
-          "price_brl": 60.77,
+          "price_original": "$9.84",
+          "price_brl": 60.47,
           "quantity": 1
         },
         {
@@ -1446,32 +1458,32 @@
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$10.72",
-          "price_brl": 65.87,
+          "price_original": "$10.63",
+          "price_brl": 65.32,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$10.88",
-          "price_brl": 66.86,
+          "price_original": "$10.79",
+          "price_brl": 66.3,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$12.86",
-          "price_brl": 79.02,
+          "price_original": "$12.76",
+          "price_brl": 78.41,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$13.24",
-          "price_brl": 81.36,
+          "price_original": "$13.13",
+          "price_brl": 80.68,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$13.48",
-          "price_brl": 82.83,
+          "price_original": "$13.38",
+          "price_brl": 82.22,
           "quantity": 1
         },
         {
@@ -1482,26 +1494,26 @@
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$18.02",
-          "price_brl": 110.73,
+          "price_original": "$17.93",
+          "price_brl": 110.18,
           "quantity": 2
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$36.16",
-          "price_brl": 222.2,
+          "price_original": "$35.97",
+          "price_brl": 221.03,
           "quantity": 2
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$38.56",
-          "price_brl": 236.95,
+          "price_original": "$38.35",
+          "price_brl": 235.66,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$95.94",
-          "price_brl": 589.54,
+          "price_original": "$95.43",
+          "price_brl": 586.41,
           "quantity": 3
         },
         {
@@ -1586,26 +1598,26 @@
       "records": [
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$463.74",
-          "price_brl": 2849.64,
+          "price_original": "$461.31",
+          "price_brl": 2834.7,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$634.97",
-          "price_brl": 3901.83,
+          "price_original": "$631.62",
+          "price_brl": 3881.24,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$1,141.03",
-          "price_brl": 7011.52,
+          "price_original": "$1,135.03",
+          "price_brl": 6974.65,
           "quantity": 2
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$1,205.71",
-          "price_brl": 7408.97,
+          "price_original": "$1,199.37",
+          "price_brl": 7370.01,
           "quantity": 1
         },
         {
@@ -1630,80 +1642,80 @@
       "records": [
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$3.20",
-          "price_brl": 19.66,
+          "price_original": "$3.18",
+          "price_brl": 19.54,
           "quantity": 3
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$3.58",
-          "price_brl": 22,
+          "price_original": "$3.55",
+          "price_brl": 21.81,
           "quantity": 4
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$3.84",
-          "price_brl": 23.6,
+          "price_original": "$3.81",
+          "price_brl": 23.41,
           "quantity": 2
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$6.49",
-          "price_brl": 39.88,
+          "price_original": "$6.45",
+          "price_brl": 39.63,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$6.49",
-          "price_brl": 39.88,
+          "price_original": "$6.45",
+          "price_brl": 39.63,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$10.38",
-          "price_brl": 63.78,
+          "price_original": "$10.31",
+          "price_brl": 63.35,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$11.31",
-          "price_brl": 69.5,
+          "price_original": "$11.22",
+          "price_brl": 68.95,
           "quantity": 6
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$11.36",
-          "price_brl": 69.81,
+          "price_original": "$11.30",
+          "price_brl": 69.44,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$13.14",
-          "price_brl": 80.74,
+          "price_original": "$13.07",
+          "price_brl": 80.31,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$16.62",
-          "price_brl": 102.13,
+          "price_original": "$16.54",
+          "price_brl": 101.64,
           "quantity": 6
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$17.20",
-          "price_brl": 105.69,
+          "price_original": "$17.06",
+          "price_brl": 104.83,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$37.92",
-          "price_brl": 233.01,
+          "price_original": "$37.72",
+          "price_brl": 231.79,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$43.79",
-          "price_brl": 269.09,
+          "price_original": "$43.55",
+          "price_brl": 267.61,
           "quantity": 1
         },
         {
@@ -1860,21 +1872,21 @@
       "records": [
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$91.38",
-          "price_brl": 561.52,
-          "quantity": 1
-        },
-        {
-          "expansion": "Monarch - Unlimited",
-          "price_original": "$93.46",
-          "price_brl": 574.3,
+          "price_original": "$87.88",
+          "price_brl": 540.01,
           "quantity": 2
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$93.46",
-          "price_brl": 574.3,
+          "price_original": "$87.88",
+          "price_brl": 540.01,
           "quantity": 4
+        },
+        {
+          "expansion": "Monarch - Unlimited",
+          "price_original": "$91.38",
+          "price_brl": 561.52,
+          "quantity": 1
         },
         {
           "expansion": "Monarch - Unlimited",
@@ -1884,14 +1896,14 @@
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$102.99",
-          "price_brl": 632.86,
+          "price_original": "$102.20",
+          "price_brl": 628.01,
           "quantity": 1
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$125.80",
-          "price_brl": 773.03,
+          "price_original": "$124.82",
+          "price_brl": 767.01,
           "quantity": 2
         },
         {
@@ -1902,56 +1914,56 @@
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$152.95",
-          "price_brl": 939.86,
+          "price_original": "$144.57",
+          "price_brl": 888.37,
           "quantity": 1
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$152.95",
-          "price_brl": 939.86,
+          "price_original": "$152.14",
+          "price_brl": 934.89,
           "quantity": 1
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$156.14",
-          "price_brl": 959.46,
+          "price_original": "$154.92",
+          "price_brl": 951.97,
           "quantity": 1
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$186.25",
-          "price_brl": 1144.49,
+          "price_original": "$185.38",
+          "price_brl": 1139.14,
           "quantity": 3
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$221.12",
-          "price_brl": 1358.76,
+          "price_original": "$219.39",
+          "price_brl": 1348.13,
           "quantity": 1
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$254.45",
-          "price_brl": 1563.57,
+          "price_original": "$253.11",
+          "price_brl": 1555.34,
           "quantity": 3
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$368.62",
-          "price_brl": 2265.13,
+          "price_original": "$366.68",
+          "price_brl": 2253.21,
           "quantity": 1
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$381.30",
-          "price_brl": 2343.05,
+          "price_original": "$379.28",
+          "price_brl": 2330.64,
           "quantity": 1
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$444.72",
-          "price_brl": 2732.76,
+          "price_original": "$442.38",
+          "price_brl": 2718.38,
           "quantity": 1
         },
         {
@@ -1976,14 +1988,14 @@
       "records": [
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$94.61",
-          "price_brl": 581.37,
+          "price_original": "$93.93",
+          "price_brl": 577.19,
           "quantity": 1
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$95.84",
-          "price_brl": 588.93,
+          "price_original": "$95.09",
+          "price_brl": 584.32,
           "quantity": 2
         },
         {
@@ -1994,14 +2006,14 @@
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$141.77",
-          "price_brl": 871.16,
+          "price_original": "$141.02",
+          "price_brl": 866.55,
           "quantity": 1
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$158.29",
-          "price_brl": 972.68,
+          "price_original": "$157.54",
+          "price_brl": 968.07,
           "quantity": 1
         },
         {
@@ -2056,56 +2068,56 @@
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$111.18",
-          "price_brl": 683.19,
+          "price_original": "$110.30",
+          "price_brl": 677.78,
           "quantity": 1
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$111.78",
-          "price_brl": 686.88,
+          "price_original": "$111.19",
+          "price_brl": 683.25,
           "quantity": 1
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$113.68",
-          "price_brl": 698.55,
+          "price_original": "$113.08",
+          "price_brl": 694.87,
           "quantity": 1
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$113.69",
-          "price_brl": 698.61,
+          "price_original": "$113.09",
+          "price_brl": 694.93,
           "quantity": 1
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$127.64",
-          "price_brl": 784.34,
+          "price_original": "$126.97",
+          "price_brl": 780.22,
           "quantity": 1
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$133.85",
-          "price_brl": 822.49,
+          "price_original": "$133.14",
+          "price_brl": 818.13,
           "quantity": 1
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$133.98",
-          "price_brl": 823.29,
+          "price_original": "$133.28",
+          "price_brl": 818.99,
           "quantity": 1
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$146.53",
-          "price_brl": 900.41,
+          "price_original": "$145.76",
+          "price_brl": 895.68,
           "quantity": 1
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$149.53",
-          "price_brl": 918.85,
+          "price_original": "$148.84",
+          "price_brl": 914.61,
           "quantity": 2
         },
         {
@@ -2142,8 +2154,8 @@
       "records": [
         {
           "expansion": "Armory Events",
-          "price_original": "$153.01",
-          "price_brl": 940.23,
+          "price_original": "$126.97",
+          "price_brl": 780.22,
           "quantity": 1
         },
         {
@@ -2264,20 +2276,20 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$127.58",
-          "price_brl": 783.97,
+          "price_original": "$127.63",
+          "price_brl": 784.27,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$161.35",
-          "price_brl": 991.48,
+          "price_original": "$161.40",
+          "price_brl": 991.79,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$161.92",
-          "price_brl": 994.98,
+          "price_original": "$161.96",
+          "price_brl": 995.23,
           "quantity": 1
         },
         {
@@ -2332,8 +2344,8 @@
       "records": [
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$9.99",
-          "price_brl": 61.39,
+          "price_original": "$10.05",
+          "price_brl": 61.76,
           "quantity": 1
         },
         {
@@ -2496,20 +2508,20 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$29.53",
-          "price_brl": 181.46,
+          "price_original": "$29.55",
+          "price_brl": 181.58,
           "quantity": 3
+        },
+        {
+          "expansion": "Tales of Aria - Unlimited",
+          "price_original": "$31.03",
+          "price_brl": 190.68,
+          "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
           "price_original": "$32.04",
           "price_brl": 196.88,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$33.22",
-          "price_brl": 204.13,
           "quantity": 1
         },
         {
@@ -2526,8 +2538,8 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$40.04",
-          "price_brl": 246.04,
+          "price_original": "$40.06",
+          "price_brl": 246.16,
           "quantity": 1
         },
         {
@@ -2544,8 +2556,8 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$56.58",
-          "price_brl": 347.68,
+          "price_original": "$56.59",
+          "price_brl": 347.74,
           "quantity": 3
         },
         {
@@ -2666,20 +2678,20 @@
       "records": [
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$61.48",
-          "price_brl": 377.79,
+          "price_original": "$61.51",
+          "price_brl": 377.97,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$79.18",
-          "price_brl": 486.55,
+          "price_original": "$79.25",
+          "price_brl": 486.98,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$89.91",
-          "price_brl": 552.49,
+          "price_original": "$89.96",
+          "price_brl": 552.8,
           "quantity": 1
         },
         {
@@ -2696,8 +2708,8 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$122.15",
-          "price_brl": 750.6,
+          "price_original": "$122.19",
+          "price_brl": 750.85,
           "quantity": 2
         },
         {
@@ -2782,20 +2794,20 @@
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$28.09",
-          "price_brl": 172.61,
+          "price_original": "$28.11",
+          "price_brl": 172.73,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$29.10",
-          "price_brl": 178.82,
+          "price_original": "$29.12",
+          "price_brl": 178.94,
           "quantity": 1
         },
         {
           "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$66.67",
-          "price_brl": 409.68,
+          "price_original": "$66.68",
+          "price_brl": 409.74,
           "quantity": 3
         },
         {
@@ -4132,26 +4144,26 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$165.06",
-          "price_brl": 1014.28,
+          "price_original": "$165.05",
+          "price_brl": 1014.22,
           "quantity": 1
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$176.74",
-          "price_brl": 1086.05,
+          "price_original": "$176.79",
+          "price_brl": 1086.36,
           "quantity": 1
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$187.35",
-          "price_brl": 1151.25,
+          "price_original": "$187.43",
+          "price_brl": 1151.74,
           "quantity": 1
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$205.48",
-          "price_brl": 1262.65,
+          "price_original": "$205.57",
+          "price_brl": 1263.21,
           "quantity": 1
         }
       ]
@@ -7216,8 +7228,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$180.89",
-          "price_brl": 1111.55,
+          "price_original": "$180.97",
+          "price_brl": 1112.04,
           "quantity": 1
         },
         {
@@ -8390,8 +8402,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$82.83",
-          "price_brl": 508.98,
+          "price_original": "$82.82",
+          "price_brl": 508.92,
           "quantity": 4
         }
       ]
@@ -8838,26 +8850,26 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$146.46",
-          "price_brl": 899.98,
+          "price_original": "$146.53",
+          "price_brl": 900.41,
           "quantity": 1
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$150.00",
-          "price_brl": 921.74,
+          "price_original": "$149.99",
+          "price_brl": 921.67,
           "quantity": 3
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$151.88",
-          "price_brl": 933.29,
+          "price_original": "$151.94",
+          "price_brl": 933.66,
           "quantity": 1
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$173.39",
-          "price_brl": 1065.46,
+          "price_original": "$173.43",
+          "price_brl": 1065.71,
           "quantity": 3
         },
         {
@@ -9186,8 +9198,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$123.99",
-          "price_brl": 761.91,
+          "price_original": "$124.04",
+          "price_brl": 762.21,
           "quantity": 1
         },
         {
@@ -9204,8 +9216,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$130.85",
-          "price_brl": 804.06,
+          "price_original": "$130.91",
+          "price_brl": 804.43,
           "quantity": 1
         }
       ]
@@ -9978,7 +9990,7 @@
           "expansion": "Armory Deck: Arakni",
           "price_original": "$0.82",
           "price_brl": 5.04,
-          "quantity": 5
+          "quantity": 1
         },
         {
           "expansion": "Armory Deck: Arakni",
@@ -10024,8 +10036,8 @@
         },
         {
           "expansion": "Armory Deck: Arakni",
-          "price_original": "$1.53",
-          "price_brl": 9.4,
+          "price_original": "$1.54",
+          "price_brl": 9.46,
           "quantity": 4
         },
         {
@@ -10036,8 +10048,8 @@
         },
         {
           "expansion": "Armory Deck: Arakni",
-          "price_original": "$1.79",
-          "price_brl": 11,
+          "price_original": "$1.76",
+          "price_brl": 10.82,
           "quantity": 1
         },
         {
@@ -10612,20 +10624,14 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$57.89",
-          "price_brl": 355.73,
-          "quantity": 2
-        },
-        {
-          "expansion": "Mastery Pack: Guardian",
-          "price_original": "$62.22",
-          "price_brl": 382.34,
+          "price_original": "$62.25",
+          "price_brl": 382.52,
           "quantity": 5
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$65.12",
-          "price_brl": 400.16,
+          "price_original": "$65.11",
+          "price_brl": 400.09,
           "quantity": 1
         },
         {
@@ -10642,14 +10648,14 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$77.85",
-          "price_brl": 478.38,
+          "price_original": "$77.87",
+          "price_brl": 478.5,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$112.62",
-          "price_brl": 692.04,
+          "price_original": "$112.65",
+          "price_brl": 692.22,
           "quantity": 1
         }
       ]
@@ -10662,26 +10668,26 @@
       "records": [
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$28.92",
-          "price_brl": 177.71,
+          "price_original": "$25.47",
+          "price_brl": 156.51,
           "quantity": 10
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$28.92",
-          "price_brl": 177.71,
+          "price_original": "$25.47",
+          "price_brl": 156.51,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$30.91",
-          "price_brl": 189.94,
+          "price_original": "$30.92",
+          "price_brl": 190,
           "quantity": 9
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$34.60",
-          "price_brl": 212.61,
+          "price_original": "$34.61",
+          "price_brl": 212.67,
           "quantity": 1
         },
         {
@@ -10704,20 +10710,20 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$46.57",
-          "price_brl": 286.17,
+          "price_original": "$46.59",
+          "price_brl": 286.29,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$49.29",
-          "price_brl": 302.88,
+          "price_original": "$49.14",
+          "price_brl": 301.96,
           "quantity": 2
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$52.25",
-          "price_brl": 321.07,
+          "price_original": "$52.27",
+          "price_brl": 321.19,
           "quantity": 1
         }
       ]
@@ -10827,6 +10833,6 @@
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)",
     "Base of the Mountain"
   ],
-  "datetime_utc_minus3": "2026-11-07T22:11:42",
+  "datetime_utc_minus3": "2026-11-08T04:48:21",
   "euro_rate": 6.1449
 }
