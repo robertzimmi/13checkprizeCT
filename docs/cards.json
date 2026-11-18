@@ -88,7 +88,7 @@
           "expansion": "History Pack 1",
           "price_original": "$44.08",
           "price_brl": 280.08,
-          "quantity": 4
+          "quantity": 1
         },
         {
           "expansion": "History Pack 1",
@@ -143,12 +143,6 @@
           "price_original": "$37.83",
           "price_brl": 240.37,
           "quantity": 3
-        },
-        {
-          "expansion": "Compendium of Rathe",
-          "price_original": "$28.33",
-          "price_brl": 180.01,
-          "quantity": 2
         },
         {
           "expansion": "Compendium of Rathe",
@@ -268,8 +262,8 @@
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$56.76",
-          "price_brl": 360.65,
+          "price_original": "$56.07",
+          "price_brl": 356.26,
           "quantity": 1
         },
         {
@@ -292,8 +286,8 @@
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$69.75",
-          "price_brl": 443.18,
+          "price_original": "$69.74",
+          "price_brl": 443.12,
           "quantity": 3
         },
         {
@@ -548,8 +542,8 @@
         },
         {
           "expansion": "Welcome to Rathe - Unlimited",
-          "price_original": "$277.42",
-          "price_brl": 1762.7,
+          "price_original": "$277.32",
+          "price_brl": 1762.06,
           "quantity": 1
         },
         {
@@ -664,8 +658,8 @@
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$30.17",
-          "price_brl": 191.7,
+          "price_original": "$29.82",
+          "price_brl": 189.47,
           "quantity": 1
         },
         {
@@ -744,8 +738,8 @@
       "records": [
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$57.91",
-          "price_brl": 367.95,
+          "price_original": "$57.33",
+          "price_brl": 364.27,
           "quantity": 1
         },
         {
@@ -756,9 +750,9 @@
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$65.87",
-          "price_brl": 418.53,
-          "quantity": 2
+          "price_original": "$66.49",
+          "price_brl": 422.47,
+          "quantity": 3
         },
         {
           "expansion": "Arcane Rising - Unlimited",
@@ -774,8 +768,8 @@
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$72.15",
-          "price_brl": 458.43,
+          "price_original": "$72.12",
+          "price_brl": 458.24,
           "quantity": 1
         },
         {
@@ -852,8 +846,14 @@
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$66.90",
-          "price_brl": 425.08,
+          "price_original": "$66.11",
+          "price_brl": 420.06,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 1",
+          "price_original": "$66.41",
+          "price_brl": 421.96,
           "quantity": 1
         },
         {
@@ -984,8 +984,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$92.99",
-          "price_brl": 590.85,
+          "price_original": "$92.94",
+          "price_brl": 590.53,
           "quantity": 1
         },
         {
@@ -1046,7 +1046,7 @@
           "expansion": "Compendium of Rathe",
           "price_original": "$82.81",
           "price_brl": 526.17,
-          "quantity": 3
+          "quantity": 4
         },
         {
           "expansion": "Compendium of Rathe",
@@ -1126,8 +1126,8 @@
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$47.92",
-          "price_brl": 304.48,
+          "price_original": "$47.90",
+          "price_brl": 304.35,
           "quantity": 1
         },
         {
@@ -1230,8 +1230,8 @@
         },
         {
           "expansion": "Arcane Rising - Unlimited",
-          "price_original": "$66.64",
-          "price_brl": 423.42,
+          "price_original": "$66.62",
+          "price_brl": 423.3,
           "quantity": 1
         },
         {
@@ -1524,8 +1524,8 @@
       "records": [
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$6.92",
-          "price_brl": 43.97,
+          "price_original": "$7.04",
+          "price_brl": 44.73,
           "quantity": 1
         },
         {
@@ -1548,8 +1548,8 @@
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$9.29",
-          "price_brl": 59.03,
+          "price_original": "$9.20",
+          "price_brl": 58.46,
           "quantity": 1
         },
         {
@@ -1560,14 +1560,14 @@
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$10.64",
-          "price_brl": 67.61,
+          "price_original": "$10.63",
+          "price_brl": 67.54,
           "quantity": 1
         },
         {
           "expansion": "Crucible of War - Unlimited",
-          "price_original": "$10.64",
-          "price_brl": 67.61,
+          "price_original": "$10.81",
+          "price_brl": 68.69,
           "quantity": 1
         },
         {
@@ -1694,6 +1694,12 @@
         },
         {
           "expansion": "Crucible of War - Unlimited",
+          "price_original": "$600.89",
+          "price_brl": 3817.99,
+          "quantity": 1
+        },
+        {
+          "expansion": "Crucible of War - Unlimited",
           "price_original": "$1,119.67",
           "price_brl": 7114.27,
           "quantity": 2
@@ -1810,20 +1816,14 @@
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$2.16",
-          "price_brl": 13.72,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 1",
           "price_original": "$2.38",
           "price_brl": 15.12,
           "quantity": 1
         },
         {
           "expansion": "History Pack 1",
-          "price_original": "$2.44",
-          "price_brl": 15.5,
+          "price_original": "$2.69",
+          "price_brl": 17.09,
           "quantity": 1
         },
         {
@@ -1894,8 +1894,8 @@
         },
         {
           "expansion": "History Pack 1 - Black Label",
-          "price_original": "$1.99",
-          "price_brl": 12.64,
+          "price_original": "$1.94",
+          "price_brl": 12.33,
           "quantity": 1
         },
         {
@@ -1942,14 +1942,14 @@
         },
         {
           "expansion": "Rosetta - Archive Pack",
-          "price_original": "$8.62",
-          "price_brl": 54.77,
+          "price_original": "$8.59",
+          "price_brl": 54.58,
           "quantity": 1
         },
         {
           "expansion": "Rosetta - Archive Pack",
-          "price_original": "$8.62",
-          "price_brl": 54.77,
+          "price_original": "$8.59",
+          "price_brl": 54.58,
           "quantity": 2
         },
         {
@@ -1998,8 +1998,8 @@
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$127.25",
-          "price_brl": 808.53,
+          "price_original": "$127.20",
+          "price_brl": 808.22,
           "quantity": 1
         },
         {
@@ -2108,8 +2108,8 @@
         },
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$87.36",
-          "price_brl": 555.08,
+          "price_original": "$87.33",
+          "price_brl": 554.89,
           "quantity": 1
         },
         {
@@ -2188,8 +2188,8 @@
       "records": [
         {
           "expansion": "Monarch - Unlimited",
-          "price_original": "$66.48",
-          "price_brl": 422.41,
+          "price_original": "$65.82",
+          "price_brl": 418.21,
           "quantity": 1
         },
         {
@@ -2419,42 +2419,6 @@
           "quantity": 1
         },
         {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$106.58",
-          "price_brl": 677.2,
-          "quantity": 2
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$106.58",
-          "price_brl": 677.2,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$112.80",
-          "price_brl": 716.72,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$119.33",
-          "price_brl": 758.21,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$129.89",
-          "price_brl": 825.31,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$145.50",
-          "price_brl": 924.49,
-          "quantity": 1
-        },
-        {
           "expansion": "Tales of Aria - First",
           "price_original": "$93.06",
           "price_brl": 591.29,
@@ -2468,8 +2432,8 @@
         },
         {
           "expansion": "Tales of Aria - First",
-          "price_original": "$104.65",
-          "price_brl": 664.94,
+          "price_original": "$105.99",
+          "price_brl": 673.45,
           "quantity": 1
         },
         {
@@ -2517,620 +2481,6 @@
       ]
     },
     {
-      "name": "Crown of Seeds",
-      "price_target": 16.23,
-      "price_target_brl": 103.12,
-      "tag": "ll",
-      "records": [
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$10.01",
-          "price_brl": 63.6,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$12.19",
-          "price_brl": 77.45,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$12.45",
-          "price_brl": 79.11,
-          "quantity": 2
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$12.45",
-          "price_brl": 79.11,
-          "quantity": 2
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$20.24",
-          "price_brl": 128.6,
-          "quantity": 2
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$30.53",
-          "price_brl": 193.98,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$50.43",
-          "price_brl": 320.43,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$56.81",
-          "price_brl": 360.97,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$62.96",
-          "price_brl": 400.04,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$87.90",
-          "price_brl": 558.51,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$125.25",
-          "price_brl": 795.83,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$13.80",
-          "price_brl": 87.68,
-          "quantity": 3
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$17.15",
-          "price_brl": 108.97,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$21.49",
-          "price_brl": 136.55,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$69.50",
-          "price_brl": 441.6,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$69.72",
-          "price_brl": 442.99,
-          "quantity": 2
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$87.91",
-          "price_brl": 558.57,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$94.14",
-          "price_brl": 598.16,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$123.16",
-          "price_brl": 782.55,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$125.25",
-          "price_brl": 795.83,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$125.25",
-          "price_brl": 795.83,
-          "quantity": 2
-        },
-        {
-          "expansion": "History Pack 2 - Black Label",
-          "price_original": "$35.62",
-          "price_brl": 226.33,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 2 - Black Label",
-          "price_original": "$35.62",
-          "price_brl": 226.33,
-          "quantity": 1
-        }
-      ]
-    },
-    {
-      "name": "Korshem, Crossroad of Elements",
-      "price_target": 23,
-      "price_target_brl": 146.14,
-      "tag": "landmark",
-      "records": [
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$22.31",
-          "price_brl": 141.76,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$24.56",
-          "price_brl": 156.05,
-          "quantity": 4
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$29.14",
-          "price_brl": 185.15,
-          "quantity": 3
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$30.61",
-          "price_brl": 194.49,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$31.59",
-          "price_brl": 200.72,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$34.44",
-          "price_brl": 218.83,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$37.78",
-          "price_brl": 240.05,
-          "quantity": 2
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$39.49",
-          "price_brl": 250.92,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$45.28",
-          "price_brl": 287.7,
-          "quantity": 2
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$45.58",
-          "price_brl": 289.61,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$55.23",
-          "price_brl": 350.93,
-          "quantity": 3
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$56.81",
-          "price_brl": 360.97,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$63.01",
-          "price_brl": 400.36,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$125.19",
-          "price_brl": 795.44,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$29.49",
-          "price_brl": 187.38,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$32.07",
-          "price_brl": 203.77,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$32.34",
-          "price_brl": 205.49,
-          "quantity": 2
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$36.51",
-          "price_brl": 231.98,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$45.51",
-          "price_brl": 289.17,
-          "quantity": 9
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$82.92",
-          "price_brl": 526.87,
-          "quantity": 3
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$179.90",
-          "price_brl": 1143.07,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$303.10",
-          "price_brl": 1925.87,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$330.49",
-          "price_brl": 2099.9,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$560.20",
-          "price_brl": 3559.45,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$995.21",
-          "price_brl": 6323.46,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$1,244.13",
-          "price_brl": 7905.08,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 2 - Black Label",
-          "price_original": "$82.94",
-          "price_brl": 526.99,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 2 - Black Label",
-          "price_original": "$319.64",
-          "price_brl": 2030.96,
-          "quantity": 1
-        }
-      ]
-    },
-    {
-      "name": "Shock Charmers",
-      "price_target": 48,
-      "price_target_brl": 304.99,
-      "tag": "ll",
-      "records": [
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$60.65",
-          "price_brl": 385.36,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$78.89",
-          "price_brl": 501.26,
-          "quantity": 2
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$88.33",
-          "price_brl": 561.24,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$107.77",
-          "price_brl": 684.76,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$112.80",
-          "price_brl": 716.72,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$119.25",
-          "price_brl": 757.7,
-          "quantity": 2
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$80.63",
-          "price_brl": 512.31,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$81.35",
-          "price_brl": 516.89,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$82.81",
-          "price_brl": 526.17,
-          "quantity": 3
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$87.90",
-          "price_brl": 558.51,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$89.12",
-          "price_brl": 566.26,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$160.10",
-          "price_brl": 1017.26,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 2 - Black Label",
-          "price_original": "$75.47",
-          "price_brl": 479.53,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 2 - Black Label",
-          "price_original": "$83.33",
-          "price_brl": 529.47,
-          "quantity": 2
-        },
-        {
-          "expansion": "History Pack 2 - Black Label",
-          "price_original": "$85.43",
-          "price_brl": 542.81,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 2 - Black Label",
-          "price_original": "$88.89",
-          "price_brl": 564.8,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 2 - Black Label",
-          "price_original": "$88.89",
-          "price_brl": 564.8,
-          "quantity": 1
-        }
-      ]
-    },
-    {
-      "name": "Rampart of the Ram's Head",
-      "price_target": 1,
-      "price_target_brl": 6.35,
-      "tag": "guardian",
-      "records": [
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$26.23",
-          "price_brl": 166.66,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$26.96",
-          "price_brl": 171.3,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$28.24",
-          "price_brl": 179.43,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$29.12",
-          "price_brl": 185.03,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$65.08",
-          "price_brl": 413.51,
-          "quantity": 3
-        },
-        {
-          "expansion": "Tales of Aria - Unlimited",
-          "price_original": "$81.63",
-          "price_brl": 518.67,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$57.28",
-          "price_brl": 363.95,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$58.35",
-          "price_brl": 370.75,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$150.14",
-          "price_brl": 953.97,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$274.60",
-          "price_brl": 1744.78,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$374.17",
-          "price_brl": 2377.44,
-          "quantity": 1
-        },
-        {
-          "expansion": "Tales of Aria - First",
-          "price_original": "$12,446.61",
-          "price_brl": 79084.52,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 2 - Black Label",
-          "price_original": "$18.90",
-          "price_brl": 120.09,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 2 - Black Label",
-          "price_original": "$45.38",
-          "price_brl": 288.34,
-          "quantity": 3
-        },
-        {
-          "expansion": "History Pack 2 - Black Label",
-          "price_original": "$45.38",
-          "price_brl": 288.34,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 2 - Black Label",
-          "price_original": "$45.38",
-          "price_brl": 288.34,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 2 - Black Label",
-          "price_original": "$69.24",
-          "price_brl": 439.94,
-          "quantity": 1
-        },
-        {
-          "expansion": "History Pack 2 - Black Label",
-          "price_original": "$69.64",
-          "price_brl": 442.49,
-          "quantity": 1
-        },
-        {
-          "expansion": "GEM Pack",
-          "price_original": "$18.52",
-          "price_brl": 117.67,
-          "quantity": 2
-        },
-        {
-          "expansion": "GEM Pack",
-          "price_original": "$19.08",
-          "price_brl": 121.23,
-          "quantity": 5
-        },
-        {
-          "expansion": "GEM Pack",
-          "price_original": "$19.17",
-          "price_brl": 121.8,
-          "quantity": 1
-        },
-        {
-          "expansion": "GEM Pack",
-          "price_original": "$19.72",
-          "price_brl": 125.3,
-          "quantity": 1
-        },
-        {
-          "expansion": "GEM Pack",
-          "price_original": "$22.74",
-          "price_brl": 144.49,
-          "quantity": 1
-        },
-        {
-          "expansion": "GEM Pack",
-          "price_original": "$22.74",
-          "price_brl": 144.49,
-          "quantity": 1
-        },
-        {
-          "expansion": "GEM Pack",
-          "price_original": "$25.06",
-          "price_brl": 159.23,
-          "quantity": 1
-        },
-        {
-          "expansion": "GEM Pack",
-          "price_original": "$27.88",
-          "price_brl": 177.15,
-          "quantity": 1
-        },
-        {
-          "expansion": "GEM Pack",
-          "price_original": "$27.88",
-          "price_brl": 177.15,
-          "quantity": 1
-        },
-        {
-          "expansion": "GEM Pack",
-          "price_original": "$31.59",
-          "price_brl": 200.72,
-          "quantity": 2
-        },
-        {
-          "expansion": "GEM Pack",
-          "price_original": "$31.62",
-          "price_brl": 200.91,
-          "quantity": 1
-        }
-      ]
-    },
-    {
       "name": "Erase Face",
       "price_target": 16,
       "price_target_brl": 101.66,
@@ -3170,7 +2520,7 @@
           "expansion": "Uprising",
           "price_original": "$31.02",
           "price_brl": 197.1,
-          "quantity": 3
+          "quantity": 2
         },
         {
           "expansion": "Uprising",
@@ -3278,14 +2628,14 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$5.82",
-          "price_brl": 36.98,
+          "price_original": "$5.73",
+          "price_brl": 36.41,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$5.93",
-          "price_brl": 37.68,
+          "price_original": "$5.82",
+          "price_brl": 36.98,
           "quantity": 2
         },
         {
@@ -3514,8 +2864,8 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$4.58",
-          "price_brl": 29.1,
+          "price_original": "$4.70",
+          "price_brl": 29.86,
           "quantity": 1
         },
         {
@@ -3850,8 +3200,8 @@
         },
         {
           "expansion": "Everfest - First",
-          "price_original": "$11.39",
-          "price_brl": 72.37,
+          "price_original": "$11.53",
+          "price_brl": 73.26,
           "quantity": 3
         },
         {
@@ -3883,6 +3233,12 @@
           "price_original": "$13.61",
           "price_brl": 86.48,
           "quantity": 2
+        },
+        {
+          "expansion": "Everfest - First",
+          "price_original": "$14.98",
+          "price_brl": 95.18,
+          "quantity": 1
         },
         {
           "expansion": "Everfest - First",
@@ -4104,8 +3460,8 @@
         },
         {
           "expansion": "Classic Battles: Rhinar vs Dorinthea",
-          "price_original": "$11.63",
-          "price_brl": 73.9,
+          "price_original": "$11.30",
+          "price_brl": 71.8,
           "quantity": 1
         },
         {
@@ -4196,14 +3552,14 @@
       "records": [
         {
           "expansion": "Uprising",
-          "price_original": "$2.49",
-          "price_brl": 15.82,
+          "price_original": "$2.70",
+          "price_brl": 17.16,
           "quantity": 1
         },
         {
           "expansion": "Uprising",
-          "price_original": "$2.96",
-          "price_brl": 18.81,
+          "price_original": "$3.16",
+          "price_brl": 20.08,
           "quantity": 2
         },
         {
@@ -4238,8 +3594,8 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "$6.79",
-          "price_brl": 43.14,
+          "price_original": "$6.78",
+          "price_brl": 43.08,
           "quantity": 1
         },
         {
@@ -4570,14 +3926,14 @@
         },
         {
           "expansion": "Uprising",
-          "price_original": "$7.81",
-          "price_brl": 49.62,
+          "price_original": "$7.89",
+          "price_brl": 50.13,
           "quantity": 1
         },
         {
           "expansion": "Uprising",
-          "price_original": "$8.31",
-          "price_brl": 52.8,
+          "price_original": "$8.41",
+          "price_brl": 53.44,
           "quantity": 6
         },
         {
@@ -4666,8 +4022,8 @@
         },
         {
           "expansion": "Rosetta - Archive Pack",
-          "price_original": "$8.27",
-          "price_brl": 52.55,
+          "price_original": "$8.26",
+          "price_brl": 52.48,
           "quantity": 1
         },
         {
@@ -4680,6 +4036,398 @@
           "expansion": "Rosetta - Archive Pack",
           "price_original": "$51.22",
           "price_brl": 325.45,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Crown of Seeds",
+      "price_target": 16.23,
+      "price_target_brl": 103.12,
+      "tag": "ll",
+      "records": [
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$13.80",
+          "price_brl": 87.68,
+          "quantity": 3
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$17.15",
+          "price_brl": 108.97,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$21.49",
+          "price_brl": 136.55,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$69.50",
+          "price_brl": 441.6,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$69.72",
+          "price_brl": 442.99,
+          "quantity": 2
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$87.91",
+          "price_brl": 558.57,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$94.14",
+          "price_brl": 598.16,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$123.16",
+          "price_brl": 782.55,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$125.25",
+          "price_brl": 795.83,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$125.25",
+          "price_brl": 795.83,
+          "quantity": 2
+        },
+        {
+          "expansion": "History Pack 2 - Black Label",
+          "price_original": "$35.62",
+          "price_brl": 226.33,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 2 - Black Label",
+          "price_original": "$35.62",
+          "price_brl": 226.33,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Korshem, Crossroad of Elements",
+      "price_target": 23,
+      "price_target_brl": 146.14,
+      "tag": "landmark",
+      "records": [
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$29.49",
+          "price_brl": 187.38,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$32.07",
+          "price_brl": 203.77,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$32.34",
+          "price_brl": 205.49,
+          "quantity": 2
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$36.51",
+          "price_brl": 231.98,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$45.51",
+          "price_brl": 289.17,
+          "quantity": 9
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$82.92",
+          "price_brl": 526.87,
+          "quantity": 3
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$179.90",
+          "price_brl": 1143.07,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$303.10",
+          "price_brl": 1925.87,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$330.49",
+          "price_brl": 2099.9,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$560.20",
+          "price_brl": 3559.45,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$995.21",
+          "price_brl": 6323.46,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$1,244.13",
+          "price_brl": 7905.08,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 2 - Black Label",
+          "price_original": "$82.94",
+          "price_brl": 526.99,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 2 - Black Label",
+          "price_original": "$319.64",
+          "price_brl": 2030.96,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Shock Charmers",
+      "price_target": 48,
+      "price_target_brl": 304.99,
+      "tag": "ll",
+      "records": [
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$80.63",
+          "price_brl": 512.31,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$81.35",
+          "price_brl": 516.89,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$82.81",
+          "price_brl": 526.17,
+          "quantity": 3
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$87.90",
+          "price_brl": 558.51,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$89.12",
+          "price_brl": 566.26,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$160.10",
+          "price_brl": 1017.26,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 2 - Black Label",
+          "price_original": "$75.47",
+          "price_brl": 479.53,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 2 - Black Label",
+          "price_original": "$83.33",
+          "price_brl": 529.47,
+          "quantity": 2
+        },
+        {
+          "expansion": "History Pack 2 - Black Label",
+          "price_original": "$85.43",
+          "price_brl": 542.81,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 2 - Black Label",
+          "price_original": "$88.89",
+          "price_brl": 564.8,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 2 - Black Label",
+          "price_original": "$88.89",
+          "price_brl": 564.8,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Rampart of the Ram's Head",
+      "price_target": 1,
+      "price_target_brl": 6.35,
+      "tag": "guardian",
+      "records": [
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$56.83",
+          "price_brl": 361.09,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$57.28",
+          "price_brl": 363.95,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$150.14",
+          "price_brl": 953.97,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$274.60",
+          "price_brl": 1744.78,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$374.17",
+          "price_brl": 2377.44,
+          "quantity": 1
+        },
+        {
+          "expansion": "Tales of Aria - First",
+          "price_original": "$12,446.61",
+          "price_brl": 79084.52,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 2 - Black Label",
+          "price_original": "$18.90",
+          "price_brl": 120.09,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 2 - Black Label",
+          "price_original": "$45.38",
+          "price_brl": 288.34,
+          "quantity": 3
+        },
+        {
+          "expansion": "History Pack 2 - Black Label",
+          "price_original": "$45.38",
+          "price_brl": 288.34,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 2 - Black Label",
+          "price_original": "$45.38",
+          "price_brl": 288.34,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 2 - Black Label",
+          "price_original": "$69.24",
+          "price_brl": 439.94,
+          "quantity": 1
+        },
+        {
+          "expansion": "History Pack 2 - Black Label",
+          "price_original": "$69.64",
+          "price_brl": 442.49,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$18.52",
+          "price_brl": 117.67,
+          "quantity": 2
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$19.08",
+          "price_brl": 121.23,
+          "quantity": 5
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$19.17",
+          "price_brl": 121.8,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$19.72",
+          "price_brl": 125.3,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$22.74",
+          "price_brl": 144.49,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$22.74",
+          "price_brl": 144.49,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$25.06",
+          "price_brl": 159.23,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$27.88",
+          "price_brl": 177.15,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$27.88",
+          "price_brl": 177.15,
+          "quantity": 1
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$31.59",
+          "price_brl": 200.72,
+          "quantity": 2
+        },
+        {
+          "expansion": "GEM Pack",
+          "price_original": "$31.62",
+          "price_brl": 200.91,
           "quantity": 1
         }
       ]
@@ -4734,8 +4482,8 @@
         },
         {
           "expansion": "Dynasty",
-          "price_original": "$419.63",
-          "price_brl": 2666.29,
+          "price_original": "$419.47",
+          "price_brl": 2665.27,
           "quantity": 1
         },
         {
@@ -4934,8 +4682,8 @@
         },
         {
           "expansion": "High Seas",
-          "price_original": "$54.17",
-          "price_brl": 344.19,
+          "price_original": "$48.28",
+          "price_brl": 306.77,
           "quantity": 1
         },
         {
@@ -5026,8 +4774,8 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$7.85",
-          "price_brl": 49.88,
+          "price_original": "$7.84",
+          "price_brl": 49.81,
           "quantity": 1
         },
         {
@@ -5390,8 +5138,8 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$3.99",
-          "price_brl": 25.35,
+          "price_original": "$4.03",
+          "price_brl": 25.61,
           "quantity": 1
         },
         {
@@ -5402,8 +5150,8 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$4.67",
-          "price_brl": 29.67,
+          "price_original": "$4.72",
+          "price_brl": 29.99,
           "quantity": 2
         },
         {
@@ -5452,13 +5200,13 @@
           "expansion": "Outsiders",
           "price_original": "$9.94",
           "price_brl": 63.16,
-          "quantity": 1
+          "quantity": 3
         },
         {
           "expansion": "Outsiders",
           "price_original": "$9.94",
           "price_brl": 63.16,
-          "quantity": 3
+          "quantity": 1
         },
         {
           "expansion": "Outsiders",
@@ -5622,8 +5370,8 @@
         },
         {
           "expansion": "Super Slam",
-          "price_original": "$12.94",
-          "price_brl": 82.22,
+          "price_original": "$13.71",
+          "price_brl": 87.11,
           "quantity": 2
         },
         {
@@ -5980,8 +5728,8 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$24.39",
-          "price_brl": 154.97,
+          "price_original": "$25.22",
+          "price_brl": 160.25,
           "quantity": 1
         },
         {
@@ -5992,14 +5740,14 @@
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$26.19",
-          "price_brl": 166.41,
+          "price_original": "$26.35",
+          "price_brl": 167.43,
           "quantity": 1
         },
         {
           "expansion": "Outsiders",
-          "price_original": "$26.35",
-          "price_brl": 167.43,
+          "price_original": "$26.53",
+          "price_brl": 168.57,
           "quantity": 1
         },
         {
@@ -6200,8 +5948,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$8.98",
-          "price_brl": 57.06,
+          "price_original": "$8.97",
+          "price_brl": 56.99,
           "quantity": 1
         },
         {
@@ -6218,14 +5966,20 @@
         },
         {
           "expansion": "Dusk till dawn",
+          "price_original": "$9.51",
+          "price_brl": 60.43,
+          "quantity": 1
+        },
+        {
+          "expansion": "Dusk till dawn",
           "price_original": "$9.64",
           "price_brl": 61.25,
           "quantity": 2
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$10.01",
-          "price_brl": 63.6,
+          "price_original": "$10.11",
+          "price_brl": 64.24,
           "quantity": 1
         },
         {
@@ -6316,14 +6070,14 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$63.89",
-          "price_brl": 405.95,
+          "price_original": "$64.86",
+          "price_brl": 412.11,
           "quantity": 1
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$67.45",
-          "price_brl": 428.57,
+          "price_original": "$67.43",
+          "price_brl": 428.44,
           "quantity": 3
         },
         {
@@ -6504,8 +6258,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$248.91",
-          "price_brl": 1581.55,
+          "price_original": "$248.79",
+          "price_brl": 1580.79,
           "quantity": 1
         },
         {
@@ -6542,8 +6296,8 @@
       "records": [
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$21.34",
-          "price_brl": 135.59,
+          "price_original": "$21.07",
+          "price_brl": 133.88,
           "quantity": 1
         },
         {
@@ -6596,8 +6350,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$33.45",
-          "price_brl": 212.54,
+          "price_original": "$33.44",
+          "price_brl": 212.47,
           "quantity": 1
         },
         {
@@ -6748,8 +6502,8 @@
         },
         {
           "expansion": "Dusk till dawn",
-          "price_original": "$6.31",
-          "price_brl": 40.09,
+          "price_original": "$6.22",
+          "price_brl": 39.52,
           "quantity": 2
         },
         {
@@ -6984,8 +6738,8 @@
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "$5.59",
-          "price_brl": 35.52,
+          "price_original": "$5.60",
+          "price_brl": 35.58,
           "quantity": 1
         },
         {
@@ -7088,8 +6842,8 @@
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "$68.51",
-          "price_brl": 435.31,
+          "price_original": "$69.40",
+          "price_brl": 440.96,
           "quantity": 2
         },
         {
@@ -7154,8 +6908,8 @@
         },
         {
           "expansion": "Bright Lights",
-          "price_original": "$120.75",
-          "price_brl": 767.23,
+          "price_original": "$124.72",
+          "price_brl": 792.46,
           "quantity": 1
         },
         {
@@ -7182,12 +6936,6 @@
           "expansion": "Heavy Hitters",
           "price_original": "$3.04",
           "price_brl": 19.32,
-          "quantity": 1
-        },
-        {
-          "expansion": "Heavy Hitters",
-          "price_original": "$3.25",
-          "price_brl": 20.65,
           "quantity": 1
         },
         {
@@ -7242,13 +6990,13 @@
           "expansion": "Heavy Hitters",
           "price_original": "$5.12",
           "price_brl": 32.53,
-          "quantity": 2
+          "quantity": 1
         },
         {
           "expansion": "Heavy Hitters",
           "price_original": "$5.12",
           "price_brl": 32.53,
-          "quantity": 1
+          "quantity": 2
         },
         {
           "expansion": "Heavy Hitters",
@@ -7692,8 +7440,8 @@
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$155.93",
-          "price_brl": 990.76,
+          "price_original": "$155.87",
+          "price_brl": 990.38,
           "quantity": 1
         }
       ]
@@ -7742,8 +7490,8 @@
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$17.77",
-          "price_brl": 112.91,
+          "price_original": "$17.76",
+          "price_brl": 112.85,
           "quantity": 3
         },
         {
@@ -7754,8 +7502,8 @@
         },
         {
           "expansion": "Heavy Hitters",
-          "price_original": "$20.89",
-          "price_brl": 132.73,
+          "price_original": "$19.66",
+          "price_brl": 124.92,
           "quantity": 1
         },
         {
@@ -8022,8 +7770,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$75.99",
-          "price_brl": 482.83,
+          "price_original": "$76.98",
+          "price_brl": 489.12,
           "quantity": 3
         },
         {
@@ -8120,12 +7868,6 @@
       "price_target_brl": 101.66,
       "tag": "ll",
       "records": [
-        {
-          "expansion": "Part the Mistveil",
-          "price_original": "$14.79",
-          "price_brl": 93.97,
-          "quantity": 1
-        },
         {
           "expansion": "Part the Mistveil",
           "price_original": "$14.79",
@@ -8366,8 +8108,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$44.64",
-          "price_brl": 283.64,
+          "price_original": "$44.84",
+          "price_brl": 284.91,
           "quantity": 1
         },
         {
@@ -8524,8 +8266,8 @@
         },
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$46.42",
-          "price_brl": 294.95,
+          "price_original": "$47.93",
+          "price_brl": 304.54,
           "quantity": 2
         },
         {
@@ -8562,9 +8304,9 @@
       "records": [
         {
           "expansion": "Part the Mistveil",
-          "price_original": "$2.92",
-          "price_brl": 18.55,
-          "quantity": 2
+          "price_original": "$2.99",
+          "price_brl": 19,
+          "quantity": 1
         },
         {
           "expansion": "Part the Mistveil",
@@ -8916,8 +8658,8 @@
         },
         {
           "expansion": "Rosetta",
-          "price_original": "$33.30",
-          "price_brl": 211.58,
+          "price_original": "$33.29",
+          "price_brl": 211.52,
           "quantity": 1
         },
         {
@@ -9100,8 +8842,8 @@
         },
         {
           "expansion": "Rosetta",
-          "price_original": "$90.13",
-          "price_brl": 572.68,
+          "price_original": "$90.09",
+          "price_brl": 572.42,
           "quantity": 1
         },
         {
@@ -9194,6 +8936,12 @@
           "expansion": "The Hunted",
           "price_original": "$133.25",
           "price_brl": 846.66,
+          "quantity": 1
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "$134.67",
+          "price_brl": 855.68,
           "quantity": 1
         },
         {
@@ -9386,8 +9134,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$50.25",
-          "price_brl": 319.28,
+          "price_original": "$50.17",
+          "price_brl": 318.78,
           "quantity": 1
         },
         {
@@ -9398,8 +9146,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$56.04",
-          "price_brl": 356.07,
+          "price_original": "$56.75",
+          "price_brl": 360.58,
           "quantity": 1
         },
         {
@@ -9448,14 +9196,14 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$59.07",
-          "price_brl": 375.32,
+          "price_original": "$59.83",
+          "price_brl": 380.15,
           "quantity": 11
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$61.87",
-          "price_brl": 393.12,
+          "price_original": "$62.66",
+          "price_brl": 398.14,
           "quantity": 1
         },
         {
@@ -9472,8 +9220,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$88.25",
-          "price_brl": 560.73,
+          "price_original": "$89.38",
+          "price_brl": 567.91,
           "quantity": 5
         },
         {
@@ -9484,8 +9232,8 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$97.94",
-          "price_brl": 622.3,
+          "price_original": "$99.20",
+          "price_brl": 630.31,
           "quantity": 1
         },
         {
@@ -9588,8 +9336,8 @@
         },
         {
           "expansion": "Compendium of Rathe",
-          "price_original": "$123.12",
-          "price_brl": 782.29,
+          "price_original": "$125.15",
+          "price_brl": 795.19,
           "quantity": 1
         },
         {
@@ -10106,8 +9854,8 @@
       "records": [
         {
           "expansion": "The Hunted",
-          "price_original": "$191.34",
-          "price_brl": 1215.76,
+          "price_original": "$189.45",
+          "price_brl": 1203.75,
           "quantity": 1
         },
         {
@@ -10420,8 +10168,8 @@
         },
         {
           "expansion": "Armory Deck: Arakni",
-          "price_original": "$1.77",
-          "price_brl": 11.25,
+          "price_original": "$1.76",
+          "price_brl": 11.18,
           "quantity": 1
         },
         {
@@ -10672,12 +10420,6 @@
         },
         {
           "expansion": "The Hunted",
-          "price_original": "$25.36",
-          "price_brl": 161.13,
-          "quantity": 3
-        },
-        {
-          "expansion": "The Hunted",
           "price_original": "$25.47",
           "price_brl": 161.83,
           "quantity": 4
@@ -10687,6 +10429,12 @@
           "price_original": "$25.47",
           "price_brl": 161.83,
           "quantity": 1
+        },
+        {
+          "expansion": "The Hunted",
+          "price_original": "$25.65",
+          "price_brl": 162.98,
+          "quantity": 3
         },
         {
           "expansion": "The Hunted",
@@ -10744,12 +10492,6 @@
       "price_target_brl": 41.3,
       "tag": "staples",
       "records": [
-        {
-          "expansion": "High Seas",
-          "price_original": "$2.16",
-          "price_brl": 13.72,
-          "quantity": 1
-        },
         {
           "expansion": "High Seas",
           "price_original": "$2.31",
@@ -11050,14 +10792,14 @@
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$109.94",
-          "price_brl": 698.55,
+          "price_original": "$101.78",
+          "price_brl": 646.7,
           "quantity": 1
         },
         {
           "expansion": "Mastery Pack: Guardian",
-          "price_original": "$114.43",
-          "price_brl": 727.08,
+          "price_original": "$109.94",
+          "price_brl": 698.55,
           "quantity": 1
         }
       ]
@@ -11130,6 +10872,12 @@
       "price_target_brl": 10.8,
       "tag": "other",
       "records": [
+        {
+          "expansion": "Super Slam",
+          "price_original": "$10.57",
+          "price_brl": 67.16,
+          "quantity": 3
+        },
         {
           "expansion": "Super Slam",
           "price_original": "$11.38",
@@ -11241,6 +10989,6 @@
     "Katsu, the Wanderer - Rainbow Foil | Buy-A-Box Promo (#HER023)",
     "Base of the Mountain"
   ],
-  "datetime_utc_minus3": "2026-11-17T15:43:57",
+  "datetime_utc_minus3": "2026-11-17T22:34:25",
   "euro_rate": 6.3539
 }
